@@ -1,0 +1,74 @@
+    {
+        "id": "6974c6f564add5576c1b82f2",
+        "thumbnail": {
+            "title": {
+                "hi": "बाल कांड",
+                "en": "Baal Kand"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DTheatre/BaalKand/main.jpg",
+            "description": {
+                "hi": "रामायण का दिव्य आरंभ, जिसमें भगवान राम के जन्म और उनके प्रारंभिक जीवन की पवित्र घटनाओं का वर्णन है।",
+                "en": "The divine beginning of the Ramayana, narrating the birth of Lord Ram and the sacred events of his early life."
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "series": true,
+        "episodes": [
+            {
+                "id": "6974cba564add5576c1b82f3",
+                "thumbnail": {
+                    "title": {
+                        "hi": "1 पुत्र प्राप्ति का महान यज्ञ",
+                        "en": "1 Putra Prapti ka Mahan Yagya"
+                    },
+                    "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DTheatre/BaalKand/01.jpg",
+                    "description": {
+                        "hi": "राजा दशरथ द्वारा पुत्र प्राप्ति के लिए महान यज्ञ का आयोजन",
+                        "en": "King Dasharatha performs the Yagya for the birth of his sons"
+                    },
+                    "displayOrientation": "PORTRAIT"
+                },
+                "streamingOptions": [
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/Flat3DVideos/BaalKand/01/master.m3u8",
+                        "streamingQuality": "ADAPTIVE",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/Flat3DVideos/BaalKand_Keys/01.key",
+                        "sizeInKb": null
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/Flat3DVideos/BaalKand/01/240p/playlist.m3u8",
+                        "streamingQuality": "P_240",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/Flat3DVideos/BaalKand_Keys/01.key",
+                        "sizeInKb": 4877
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/Flat3DVideos/BaalKand/01/360p/playlist.m3u8",
+                        "streamingQuality": "P_360",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/Flat3DVideos/BaalKand_Keys/01.key",
+                        "sizeInKb": 7487
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/Flat3DVideos/BaalKand/01/540p/playlist.m3u8",
+                        "streamingQuality": "P_540",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/Flat3DVideos/BaalKand_Keys/01.key",
+                        "sizeInKb": 13227
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/Flat3DVideos/BaalKand/01/720p/playlist.m3u8",
+                        "streamingQuality": "P_720",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/Flat3DVideos/BaalKand_Keys/01.key",
+                        "sizeInKb": 21577
+                    }
+                ],
+                "episodeNumber": "1",
+                "nextEpisodeId": null,
+                "locked": false,
+                "status": "PUBLISHED",
+                "goLiveDate": "2026-01-24T13:39:49.902Z",
+                "contentType": "FLAT_3D",
+                "sequenceNo": 0
+            }
+        ],
+        "contentType": "FLAT_3D",
+        "isLocked": false
+    }

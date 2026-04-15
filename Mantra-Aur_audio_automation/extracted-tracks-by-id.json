@@ -1,0 +1,490 @@
+{
+    "content": [
+        {
+            "id": "69663b4a64add5fa0bd14a54",
+            "thumbnail": {
+                "title": {
+                    "hi": "शिव तंदव स्तोत्रम",
+                    "en": "Shiv Tandav Stotram"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivTandavStotram/main.jpg",
+                "iconUrl": null,
+                "description": {
+                    "hi": "शिव तंदव स्तोत्रम",
+                    "en": "Shiv Tandav Stotram"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivTandavSanskrit_E/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6996e18164add5240484c6ca",
+            "thumbnail": {
+                "title": {
+                    "hi": "शिव ध्यान मंत्र",
+                    "en": "Shiva Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/omkareshwar_/omkareshwar__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "कावेरिकानर्मदयोः पवित्रे समागमे सज्जनतारणाय। सदैव मांधातृपुरे वसंतं ॐकारमीशं शिवमेकमीडे ॥",
+                    "en": "Kaaverikaa Narmadayoḥ Pavitree Samaagame Sajjana Taaranaaya, Sadaiva Maandhaatripure Vasantam Omkaarameesham Shivamekameede ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Omkareshwar/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6996fd7164add59a2644f890",
+            "thumbnail": {
+                "title": {
+                    "hi": "सिद्धिविनायक ध्यान मंत्र",
+                    "en": "Siddhivinayak Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/siddhivinayak_/siddhivinayak__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "एकदन्तं शूर्पकर्ण गजवक्त्रं चतुर्भुजम्। पाशान्कुशधरं देवं ध्यायेत् सिद्धिविनायकम्।।",
+                    "en": "Ekadantam Shurpakarna Gajavaktram Chaturbhujam. Pashankushdharam Devam Dhyayet Siddhivinayakam."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/GanpatiMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6996fe3364add59a2644f892",
+            "thumbnail": {
+                "title": {
+                    "hi": "शिव ध्यान मंत्र",
+                    "en": "Shiva Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/somnath_/somnath__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम। भक्तिप्रदानाय कृपावतीर्णं तं सोमनाथं शरणं प्रपद्ये ।।",
+                    "en": "Saurashtra Deshe Vishade’tiramyye Jyotirmayam Chandra-Kalaavatamsam | Bhakti-Pradaanaaya Kripaavatirnam Tam Somanaatham Sharanam Prapadye ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Somnath/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6997066164add59a2644f896",
+            "thumbnail": {
+                "title": {
+                    "hi": "हनुमान ध्यान मंत्र",
+                    "en": "Hanuman Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/salasar_balaji_/salasar_balaji__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "अतुलितबलधामं हेमशैलाभदेहं दनुजवनकृशानुं ज्ञानिनामग्रगण्यम्। सकलगुणनिधानं वानराणामधीशं रघुपतिप्रियभक्तं वातजातं नमामि॥",
+                    "en": "Atulitabaladhaamam Hemashailaabhadeham Danujavanakrishaanung Gyaaninaamagraganyam | Sakalagunanidhanam Vanaranamadhisham Raghupatiprivabhaktam Vaatjaatam Namaami ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/SalasarBalajiMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6997074964add59a2644f898",
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री राम ध्यान मंत्र",
+                    "en": "Shri Ram Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/ram_lala_/ram_lala__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "लोकाभिरामं रणरंगधीरं राजीवनेत्रं रघुवंशनाथम्। कारुण्यरूपं करुणाकरन्तं श्रीरामचन्द्रं शरणं प्रपद्ये।।",
+                    "en": "Lokaabhi-Raamam Ranna-Rangga-Dhiiram Raajiiva-Netram Raghu-Vamsha-Naatham | Kaarunnya-Rupam Karunnaa-Karantam Shriiraamacamdram Sharannam Prapadye ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Ramlallamantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6997093464add59a2644f89a",
+            "thumbnail": {
+                "title": {
+                    "hi": "दुर्गा शक्ति मंत्र",
+                    "en": "Durga Shakti Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vaishno_devi_/vaishno_devi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+                    "en": "Om Aim Hreem Kleem Chamundayai Viche"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "69970a3764add59a2644f89c",
+            "thumbnail": {
+                "title": {
+                    "hi": "काशी विश्वनाथ स्तुति",
+                    "en": "Kashi Vishwanath Stuti"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/kashi_vishwanath_v3.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सानन्दमानन्दवने वसन्तम आनन्दकन्दं हतपापवृन्दम्। वाराणसीनाथमनाथनाथं श्रीविश्वनाथं शरणं प्रपद्ये॥",
+                    "en": "Saanandam Aanandavane Vasantam Aanandakandam Hatapapavrindam| Varanashinatham Anathanatham Shri Vishwanatham Sharanam Prapadye||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Kashimantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "699711d764add59a2644f8a5",
+            "thumbnail": {
+                "title": {
+                    "hi": "महालक्ष्मी मंत्र",
+                    "en": "Mahalakshmi Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/mahalakshmi_/mahalakshmi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ महालक्ष्यै नमो नमः विष्णुप्रिये नमो नमः धनप्रदाये नमो नमः विश्वजनन्यै नमो नमः",
+                    "en": "Om Mahaalakshmyai Namo Namah Vishnupriye Namo Namah Dhanapradaaye Namo Namah Vishva-Jananyai Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Mahalakshmi/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "699712c164add59a2644f8a7",
+            "thumbnail": {
+                "title": {
+                    "hi": "विठ्ठल स्तुति",
+                    "en": "Vitthal Stuti"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vitthalrukmini_/vitthalrukmini__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "श्री विट्ठल रुक्मिणी नमो नमः",
+                    "en": "Shri Vitthal rukmini namo namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/VitthalRukmini/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "699715dd64add59a2644f8a9",
+            "thumbnail": {
+                "title": {
+                    "hi": "महामृत्युंजय ध्यानमंथन मंत्र",
+                    "en": "Mahamrityunjaya Meditashan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+                    "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,\nUrvarukamiva Bandhanan Mrityormukshiya Maamritat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/MahamrityunjayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6997185764add59a2644f8ab",
+            "thumbnail": {
+                "title": {
+                    "hi": "वक्रतुंड महाकाय ध्यान मंत्र",
+                    "en": "Vakratunda Mahakaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/siddhivinayak_/siddhivinayak__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+                    "en": "Vakratunda Mahakaya Suryakoti Samaprabha,\nNirvighnam Kuru Me Deva Sarvakaryeshu Sarvada."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/VakratundaMahakayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "699719c864add59a2644f8ad",
+            "thumbnail": {
+                "title": {
+                    "hi": "निशुंभ शुंभ मर्दिनिन ध्यान मंत्र",
+                    "en": "Nishumbh Shumbh Mardinin Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vindhyawasini_/vindhyawasini__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "निशुम्भ-शुम्भ-गर्जनीं, प्रचण्ड-मुण्ड-खण्डिनीम् ।\nबने रणे प्रकाशिनीं, भजामि विन्ध्यवासिनीम् ॥ ",
+                    "en": "Nishumbha-Shumbha-Garjanim, Prachanda-Munda-Khandinim,\nBane Rane Prakashinim, Bhajami Vindhyavasinim."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/NishumbhShumbhMardininMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "69971bea64add59a2644f8b3",
+            "thumbnail": {
+                "title": {
+                    "hi": "ॐ श्री महालक्ष्म्यै ध्यान मंत्र",
+                    "en": "Om Shri Mahalakshmyai Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/mahalakshmi_/mahalakshmi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ महालक्ष्म्यै च विद्महे विष्णुपत्नी च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥",
+                    "en": "Om Mahalakshmyai Cha ,\nVidmahe Vishnupatni Cha Dhimahi,\nTanno Lakshmih Prachodayat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/OmShriMahalakshmyaiMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "69971e5064add59a2644f8b7",
+            "thumbnail": {
+                "title": {
+                    "hi": "खाटूश्याम मंत्र",
+                    "en": "Khatushyam Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/khatushyam_/khatushyam__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ श्री श्याम देवाय नमः जय श्री श्याम ! 🚩",
+                    "en": "Om Shri Shyam Devaya Namah. Jai Shri Shyam! 🚩"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KhatuShyam/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        },
+        {
+            "id": "6997202764add59a2644f8b9",
+            "thumbnail": {
+                "title": {
+                    "hi": "हरे कृष्ण महामंत्र",
+                    "en": "Hare Krishna Mahamantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/govind_devji_/govind_devji__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+                    "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare. Hare Rama Hare Rama Rama Rama Hare Hare."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/HareKrishna/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "status": "PUBLISHED",
+            "locked": false,
+            "sequenceNo": 0
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+    {
+        "show_id": "120",
+        "title_Eng": "Aranya Kand",
+        "title_Hin": "अरण्य कांड",
+        "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/main.jpg",
+        "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/main.jpg",
+        "show_description_Eng": "Lord Rama’s journey in Dandakaranya forest, battle with demons, and Sita's abduction.",
+        "show_description_Hin": "दंडकारण्य वन में श्री राम की यात्रा, राक्षसों से युद्ध और माता सीता का हरण।",
+        "videoType": 0,
+        "primaryPriceType": 0,
+        "showsData": [
+            {
+                "episode_id": "0",
+                "episode_title_Eng": "16 Dandakaranya Van mein Pravesh aur Viradh Vadh",
+                "episode_title_Hin": "16 दंडकारण्य वन में प्रवेश और विराध वध",
+                "episode_description_Eng": "Lord Rama enters Dandakaranya forest and slays the demon Viradh.",
+                "episode_description_Hin": "दंडकारण्य वन में प्रवेश और राक्षस विराध का वध।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/16.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/16.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/master.m3u8",
+                "secondaryPriceType": 0,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            },
+            {
+                "episode_id": "1",
+                "episode_title_Eng": "17 Panchvati mein Nivaas aur Jatayu se Milan",
+                "episode_title_Hin": "17 पंचवटी में निवास और जटायु से मिलन",
+                "episode_description_Eng": "Residing in Panchvati and the meeting with the noble King Jatayu.",
+                "episode_description_Hin": "पंचवटी में निवास और पक्षीराज जटायु से भेंट।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/17.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/17.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/17/master.m3u8",
+                "secondaryPriceType": 1,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/17_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            },
+            {
+                "episode_id": "2",
+                "episode_title_Eng": "18 Shurpanakha ki Dhrishtata",
+                "episode_title_Hin": "18 शूर्पणखा की धृष्टता",
+                "episode_description_Eng": "Shurpanakha's encounter with Lord Rama and Lakshmana in the forest.",
+                "episode_description_Hin": "वन में भगवान राम और लक्ष्मण से शूर्पणखा की भेंट।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/18.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/18.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/18/master.m3u8",
+                "secondaryPriceType": 1,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/18_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            },
+            {
+                "episode_id": "3",
+                "episode_title_Eng": "19 Khar–Dushan ke Saath Mahayuddh",
+                "episode_title_Hin": "19 खर-दूषण के साथ महायुद्ध",
+                "episode_description_Eng": "Lord Rama single-handedly defeats the demon brothers Khar and Dushan.",
+                "episode_description_Hin": "भगवान राम द्वारा राक्षस खर और दूषण का संहार।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/19.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/19.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/19/master.m3u8",
+                "secondaryPriceType": 1,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/19_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            },
+            {
+                "episode_id": "4",
+                "episode_title_Eng": "20 Ravan ka Shadyantra – Sita Haran",
+                "episode_title_Hin": "20 रावण का शयंत्र - सीता हरण",
+                "episode_description_Eng": "Ravana's deceitful plot and the abduction of Mother Sita from Panchvati.",
+                "episode_description_Hin": "रावण का षड्यंत्र और पंचवटी से माता सीता का हरण।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/20.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/20.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/20/master.m3u8",
+                "secondaryPriceType": 1,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/20_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            },
+            {
+                "episode_id": "5",
+                "episode_title_Eng": "21 Jatayu Balidaan aur Shabari ki Bhakti",
+                "episode_title_Hin": "21 जटायु बलिदान और शबरी की भक्ति",
+                "episode_description_Eng": "Jatayu's sacrifice for Sita and the selfless devotion of Shabari.",
+                "episode_description_Hin": "माता सीता के लिए जटायु का बलिदान और शबरी की भक्ति।",
+                "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/21.jpg",
+                "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/21.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/21/master.m3u8",
+                "secondaryPriceType": 1,
+                "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/21_binary.key",
+                "videoSizes": [
+                    {
+                        "quality": "720p",
+                        "size": "450MB"
+                    },
+                    {
+                        "quality": "1080p",
+                        "size": "1GB"
+                    }
+                ]
+            }
+        ]
+    }

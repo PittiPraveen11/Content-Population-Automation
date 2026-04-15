@@ -1,0 +1,74 @@
+    {
+        "id": "6978a4e364add5576c1b8379",
+        "thumbnail": {
+            "title": {
+                "hi": "अरण्य कांड",
+                "en": "Aranya Kand"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/main.jpg",
+            "description": {
+                "hi": "दंडकारण्य वन में श्री राम की यात्रा, राक्षसों से युद्ध और माता सीता का हरण।",
+                "en": "Lord Rama’s journey in Dandakaranya forest, battle with demons, and Sita's abduction."
+            },
+            "displayOrientation": "PORTRAIT"
+        },
+        "series": true,
+        "episodes": [
+            {
+                "id": "6978a5bc64add5576c1b837a",
+                "thumbnail": {
+                    "title": {
+                        "hi": "16 दंडकारण्य वन में प्रवेश और विराध वध",
+                        "en": "16 Dandakaranya Van mein Pravesh aur Viradh Vadh"
+                    },
+                    "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/16.jpg",
+                    "description": {
+                        "hi": "दंडकारण्य वन में प्रवेश और राक्षस विराध का वध।",
+                        "en": "Lord Rama enters Dandakaranya forest and slays the demon Viradh."
+                    },
+                    "displayOrientation": "LANDSCAPE"
+                },
+                "streamingOptions": [
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/master.m3u8",
+                        "streamingQuality": "ADAPTIVE",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                        "sizeInKb": null
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/240p/playlist.m3u8",
+                        "streamingQuality": "P_240",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                        "sizeInKb": 7515
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/360p/playlist.m3u8",
+                        "streamingQuality": "P_360",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                        "sizeInKb": 11535
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/540p/playlist.m3u8",
+                        "streamingQuality": "P_540",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                        "sizeInKb": 20380
+                    },
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/720p/playlist.m3u8",
+                        "streamingQuality": "P_720",
+                        "awsKey": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+                        "sizeInKb": 33244
+                    }
+                ],
+                "episodeNumber": "1",
+                "nextEpisodeId": null,
+                "locked": false,
+                "status": "PUBLISHED",
+                "goLiveDate": "2026-01-27T11:47:08.343Z",
+                "contentType": "FLAT_2D",
+                "sequenceNo": 0
+            }
+        ],
+        "contentType": "FLAT_2D",
+        "isLocked": false
+    }

@@ -1,0 +1,50 @@
+    {
+        "id": "697893ce64add5576c1b8344",
+        "thumbnail": {
+            "title": {
+                "hi": "शिव पुराण-सती खंड",
+                "en": "Shiv Puran-Sati Khand"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+            "description": {
+                "hi": "शिव पुराण-सती खंड",
+                "en": "Shiv Puran-Sati Khand"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "series": true,
+        "episodes": [
+            {
+                "id": "6978949c64add5576c1b8345",
+                "thumbnail": {
+                    "title": {
+                        "hi": "सती खंड अध्याय 1",
+                        "en": "Sati Khand Part 1"
+                    },
+                    "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+                    "description": {
+                        "hi": "सती खंड अध्याय 1",
+                        "en": "Sati Khand Part 1"
+                    },
+                    "displayOrientation": "SQUARE"
+                },
+                "streamingOptions": [
+                    {
+                        "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/01/index.m3u8",
+                        "streamingQuality": "ADAPTIVE",
+                        "awsKey": "",
+                        "sizeInKb": null
+                    }
+                ],
+                "episodeNumber": "1",
+                "nextEpisodeId": null,
+                "locked": true,
+                "status": "PUBLISHED",
+                "goLiveDate": "2026-01-27T10:34:04.120Z",
+                "contentType": "AUDIO",
+                "sequenceNo": 0
+            }
+        ],
+        "contentType": "AUDIO",
+        "isLocked": true
+    }

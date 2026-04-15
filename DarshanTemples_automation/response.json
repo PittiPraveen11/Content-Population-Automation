@@ -1,0 +1,1193 @@
+[
+    {
+        "id": "656100000000000000000006",
+        "name": {
+            "hi": "काशी विश्वनाथ",
+            "en": "Shri Kashi Vishwanath"
+        },
+        "city": {
+            "hi": "वाराणसी",
+            "en": "Varanasi (Kashi)"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "काशी विश्वनाथ मंदिर",
+                "en": "Kashi Vishwanath Temple"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/kashi_vishwanath_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/KashiVishwanath.jpg",
+            "description": {
+                "hi": "विश्वनाथ मंदिर का विवरण",
+                "en": "Description of Vishwanath Temple"
+            },
+            "displayOrientation": "PORTRAIT"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_ios_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "MACOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_mac_universal_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/iOS_v1"
+            }
+        ],
+        "liveLink": {
+            "on": true,
+            "lastUpdatedAt": "2026-03-12T06:00:37.827Z",
+            "streamingOption": {
+                "contentUrl": "https://www.youtube.com/watch?v=J4z7CIrvsuw",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": null,
+                "sizeInKb": null
+            }
+        },
+        "youtubeChannelConfig": {
+            "channelId": "UCXhail7h5FDRbHprlR56nIw",
+            "titlePrefix": "🔴Live Darshan -"
+        }
+    },
+    {
+        "id": "695bba4964add594b638d83c",
+        "name": {
+            "hi": "द्वारकाधीश मंदिर",
+            "en": "Shri Dwarkadhish Temple"
+        },
+        "city": {
+            "hi": "द्वारका",
+            "en": "Dwarka"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "द्वारकाधीश मंदिर",
+                "en": "Dwarkadhish Temple"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/dwarkadhish_v3.webp",
+            "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/DwarkashishTemple.jpg",
+            "description": {
+                "hi": "द्वारकाधीश मंदिर",
+                "en": "Dwarkadhish Temple"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "श्री द्वारकाधीश को पुष्प एवं तुलसी अर्पण करने से धर्म, अर्थ, काम और मोक्ष की प्राप्ति होती है। वहीं, भगवान को तुलसी अर्पण करने से पूजा पूर्ण होती है, कृष्ण भक्ति की प्राप्ति होती है , कर्म शुद्ध होते हैं , पापकर्म से मुक्ति प्राप्त होती है , ईश्वर से सीधा जुड़ाव और मानसिक ऊर्जा प्राप्त करने का एक पावन साधन है ।",
+                    "en": "Offering flowers and Tulsi leaves to Shri Dwarkadhish is believed to bring the four aims of life — Dharma (righteousness), Artha (prosperity), Kama (desires), and Moksha (liberation). Offering Tulsi to Lord Krishna completes the worship, strengthens devotion, purifies actions, and helps devotees attain freedom from sinful deeds. It is considered a sacred way to connect directly with the divine and gain mental strength and spiritual energy."
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान श्री द्वारकाधीश को तुलसी चढ़ाने से घर मे सुख-समृद्धि आती है, श्रीकृष्ण को तुलसी चढ़ाने से मनोकामनाए पूर्ण होती हैं। धार्मिक मान्यता है कि भगवान श्रीकृष्ण को तुलसी चढ़ाने से मोक्ष की प्राप्ति होती है।",
+                    "en": "Devotees believe that offering Tulsi to Shri Dwarkadhish brings happiness and prosperity to the home. It is also said that offering Tulsi to Lord Krishna fulfills wishes, and according to religious beliefs, it ultimately leads to the attainment of liberation (Moksha)."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695bbb2964add594b638d83d",
+        "name": {
+            "hi": "सिद्धिविनायक",
+            "en": "Shri Siddhivinayak"
+        },
+        "city": {
+            "hi": "मुंबई",
+            "en": "Mumbai"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "सिद्धिविनायक",
+                "en": "Siddhivinayak"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/siddhi_vinayak_v3.webp",
+            "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/SiddhiVinayak.jpg",
+            "description": {
+                "hi": "मुंबई का सिद्धिविनायक",
+                "en": "Siddhivinayak's  temple in munbai "
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_AndroidV1"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_iOSV1"
+            }
+        ],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "श्री सिद्धिविनायक, भगवान गणेश का एक अत्यंत जागृत और मंगलकारी स्वरूप हैं, जिन्हें 'विघ्नहर्ता' कहा जाता है। दाईं ओर मुड़ी हुई सूंड (दक्षिणावर्ती) वाले, यह भगवान भक्तों की मन्नतें शीघ्र पूरी करने वाले (नवसाचा गणपति) माने जाते हैं। यह सफलता, सुख-समृद्धि, संतान प्राप्ति और विघ्नों , रुकावटों को दूर करने के लिए विशेष रूप से पूजनीय हैं। यह तेज बुद्धि और पराक्रम के प्रतीक हैं, जिससे घर में सुख-संपन्नता आती है। किसी भी शुभ या नए कार्य की शुरुआत में इनका आशीर्वाद लेना अत्यंत शुभ माना जाता है।",
+                    "en": "Shri Siddhivinayak is a highly awakened and auspicious form of Lord Ganesha, who is known as the “Vighnaharta” (remover of obstacles). With his trunk turned to the right (Dakshinavarti), Lord Ganesha is believed to fulfill devotees’ wishes quickly and is regarded as the “Navsacha Ganpati.” He is especially worshipped for success, happiness, prosperity, blessings of children, and for removing obstacles and difficulties from life. He symbolizes sharp intellect and courage, bringing harmony and abundance to the home."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695bbc4b64add594b638d83e",
+        "name": {
+            "hi": "सोमनाथ  ",
+            "en": "Shri Somnath"
+        },
+        "city": {
+            "hi": "सोमनाथ ",
+            "en": "Somnath"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "सोमनाथ",
+                "en": "Somnath"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/somnath_mandir_v3.webp",
+            "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Somnath.jpg",
+            "description": {
+                "hi": "सोमनाथ मंदिर ",
+                "en": "Somnath Temple "
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_ios_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "MACOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_mac_universal_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/iOS_v1"
+            }
+        ],
+        "youtubeChannelConfig": {
+            "channelId": "UCXhail7h5FDRbHprlR56nIw",
+            "titlePrefix": "Shree Somnath Temple"
+        },
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "सोमनाथ, जिन्हें चंद्रमा के स्वामी (सोमनाथ)बारह ज्योतिर्लिंगों में सर्वप्रथम होने के कारण इसका विशेष महत्व है। मान्यता है कि यहां पूजा करने से मनोकामनाएं पूरी होती हैं, मानसिक शांति , समृद्धि की प्राप्ति होती है। चंद्र द्वारा स्थापित श्री सोमनाथ के नित्य अभिषेक करने से जन्मकुंडली में चन्द्रदोष , विषदोष का शमन होता है , इनकी आराधना से जिस प्रकार चंद्र देव को पुनः रूप सौंदर्य और कांति की प्राप्ति हुई थी वैसे फल की प्राप्ति इनकी अभिषेक एवं पूजन करने से होती है",
+                    "en": "Somnath, known as the Lord of the Moon (Somnath), holds special significance as it is considered the first among the twelve Jyotirlingas. It is believed that worship performed here fulfills wishes, brings mental peace, and grants prosperity. The sacred Somnath Jyotirlinga, established by Chandra Dev (the Moon God), is worshipped through daily abhishek, which is believed to help reduce Chandra dosh and Vish dosh in one’s birth chart. Devotees believe that just as Chandra Dev regained his beauty, radiance, and brilliance through worship, similar blessings can be attained by performing abhishek and offering prayers to Lord Somnath."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695ca4b064add50d10069f18",
+        "name": {
+            "hi": "ओंकारेश्वर ज्योतिर्लिंग ",
+            "en": "Shri Omkareshwar Jyotirlinga"
+        },
+        "city": {
+            "hi": "ओंकारेश्वर",
+            "en": "Omkareshwar"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "ओंकारेश्वर",
+                "en": "Omkareshwar"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/omkareshnwar_v3.webp",
+            "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Omkareshwar.jpg",
+            "description": {
+                "hi": "ओंकारेश्वर ज्योतिर्लिंग ",
+                "en": "Omkareshwar  Jyotirlinga"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/iOS_v1"
+            }
+        ],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "ओंकारेश्वर ज्योतिर्लिंग ओंकार पर्वत पर स्थित भगवान का ज्योतिर्मय स्वरूप है एकमात्र ऐसा स्थान है जहाँ भगवान शिव ओंकार स्वरूप में प्रकट हुए थे। इनका अभिषेक करने से जीवन में सकारात्मक ऊर्जा आती है, जीवन में स्थिरता एवं शांति की प्राप्ति होती है , मानसिक कष्ट दूर होते है एवं मनोकामनाएं पूरी होती हैं एवं भक्तों के सभी पाप नष्ट होते हैं और उन्हें सायुज्य मुक्ति की प्राप्ति होती है।",
+                    "en": "The Omkareshwar Jyotirlinga is the radiant divine form of Lord Shiva, located on Omkar Mountain. It is believed to be the only place where Lord Shiva manifested in the sacred Omkar form. Performing abhishek here is said to bring positive energy into life, along with stability and peace. It is believed to relieve mental distress, fulfill wishes, and destroy devotees’ sins, ultimately leading them toward Sayujya Mukti (spiritual union with the divine)."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695cd37d64add5e2447ad7a9",
+        "name": {
+            "hi": "बांके बिहारी",
+            "en": "Shri Banke Bihari"
+        },
+        "city": {
+            "hi": "वृंदावन",
+            "en": "Vrindavan"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "बांके बिहारी",
+                "en": "Banke Bihari"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/banke_bihari_v3.webp",
+            "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/BankeBihari.jpg",
+            "description": {
+                "hi": "बांके बिहारी",
+                "en": "Banke Bihari"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "बांके बिहारी जी भगवान श्रीकृष्ण का अत्यंत प्रिय रूप हैं। उनकी पूजा और सेवा से भक्तों को अपार आनंद, कृपा और आध्यात्मिक शांति प्राप्त होती है।",
+                    "en": "Banke Bihari Ji is a beloved form of Lord Krishna. Worshipping and serving Banke Bihari Ji is believed to bring divine grace, joy, and spiritual peace."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "भक्ति और आनंद",
+                    "en": "Devotion and Bliss"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "बांके बिहारी जी की भक्ति से जीवन में आनंद, प्रेम और भगवान के प्रति समर्पण की भावना बढ़ती है।",
+                    "en": "Devotion to Banke Bihari Ji fills life with joy, love, and deep devotion toward God."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "कष्टों से मुक्ति",
+                    "en": "Relief from Difficulties"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान की कृपा से जीवन के कष्ट, चिंता और बाधाएं कम होती हैं और मन में शांति आती है।",
+                    "en": "With the blessings of Lord Krishna, devotees believe their troubles, worries, and obstacles are reduced and peace fills their hearts."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695cd3da64add5e2447ad7aa",
+        "name": {
+            "hi": "सालासर बालाजी",
+            "en": "Shri Salasar Balaji"
+        },
+        "city": {
+            "hi": "सालासर",
+            "en": "Salasar"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "सालासर बालाजी",
+                "en": "Salasar Balaji"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/salasar_balaji_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/SalasarBalaji.jpg",
+            "description": {
+                "hi": "सालासर बालाजी",
+                "en": "Salasar Balaji"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "सालासर बाला जी की पूजा करने से उन्हें प्रसाद , नारियल अर्पित करने से भय और बाधाओं से मुक्ति: हनुमान जी को संकटमोचन कहा जाता है, वे भक्त के जीवन के सभी प्रकार के कष्ट, डर और बाधाओं को नष्ट कर देते हैं।",
+                    "en": "Worshipping Salasar Balaji and offering prasad and coconut is believed to bring freedom from fear and obstacles. Lord Hanuman is known as “Sankatmochan,” the remover of troubles, who destroys all kinds of difficulties, fears, and barriers in a devotee’s life."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "साहस और आत्मविश्वास",
+                    "en": "Courage and Confidence"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "उनकी पूजा से व्यक्ति में आत्मबल, साहस और आत्मविश्वास में वृद्धि होती है।",
+                    "en": "Worship of Lord Hanuman is believed to increase inner strength, courage, and self-confidence."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "स्वास्थ्य और दीर्घायु",
+                    "en": "Health and Longevity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "हनुमान जी आरोग्य के प्रदाता हैं, हनुमान चालीसा का पाठ करने से बीमारियां दूर रहती हैं और मानसिक शांति मिलती है।",
+                    "en": "Lord Hanuman is considered the giver of good health. Reciting the Hanuman Chalisa is believed to keep illnesses away and bring mental peace."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "ग्रह दोषों से रक्षा",
+                    "en": "Protection from Planetary Doshas"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "मंगलवार और शनिवार को हनुमान जी की पूजा से शनि की साढ़ेसाती, ढैया और मंगल ग्रह के दोषों का नकारात्मक प्रभाव कम होता है।",
+                    "en": "Worshipping Lord Hanuman on Tuesdays and Saturdays is believed to reduce the negative effects of Shani Sade Sati, Dhaiya, and Mangal dosh."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "नकारात्मकता का नाश",
+                    "en": "Removal of Negativity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "हनुमान जी की पूजा से भूत-प्रेत, बुरी आत्माओं और नकारात्मक ऊर्जा से रक्षा होती है।",
+                    "en": "Devotion to Lord Hanuman is believed to provide protection from negative energies, evil spirits, and harmful influences."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695cd44164add5e2447ad7ab",
+        "name": {
+            "hi": "राम जन्मभूमि",
+            "en": "Shri Ram Janmbhoomi"
+        },
+        "city": {
+            "hi": "अयोध्या",
+            "en": "Ayodhya"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "राम जन्मभूमि",
+                "en": "Ram Janmbhoomi"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/ram_janmbhoomi_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/RamJanmbhoomi.jpg",
+            "description": {
+                "hi": "राम जन्मभूमि",
+                "en": "Ram Janmbhoomi"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान् श्री राम के बाल स्वरूप का अभिषेक करने से सकारात्मकता और शांति: नित्य राम नाम का जप करने से मन को शांति और घर में सकारात्मक ऊर्जा आती है।",
+                    "en": "Performing abhishek of Lord Shri Ram in his child form is believed to bring positivity and peace. Regular chanting of the name of Lord Ram brings calmness to the mind and fills the home with positive energy."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "मर्यादा और सद्गुण",
+                    "en": "Righteousness and Virtues"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "राम जी मर्यादा पुरुषोत्तम हैं। उनकी पूजा से व्यक्ति में नैतिकता, ईमानदारी, और धैर्य जैसे गुण विकसित होते हैं।",
+                    "en": "Lord Ram is known as Maryada Purushottam. Worshipping him helps develop qualities such as morality, honesty, patience, and discipline."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "मनोकामना पूर्ति",
+                    "en": "Fulfillment of Wishes"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "सच्चे मन से पूजा करने से सभी मनोकामनाएं पूर्ण होती हैं।",
+                    "en": "Prayers offered with a sincere heart are believed to fulfill devotees’ desires."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "संतान प्राप्ति",
+                    "en": "Blessings of Children"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान राम के बाल रूप की आराधना करने से सुयोग्य व तेजस्वी संतान की प्राप्ति मानी जाती है।",
+                    "en": "Worship of Lord Ram in his child form is believed to bless devotees with virtuous and radiant children."
+                }
+            }
+        ]
+    },
+    {
+        "id": "695cd4b464add5e2447ad7ac",
+        "name": {
+            "hi": "केदारनाथ",
+            "en": "Shri Kedarnath"
+        },
+        "city": {
+            "hi": "रुद्रप्रयाग",
+            "en": "Rudraprayag"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "केदारनाथ",
+                "en": "Kedarnath"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Kedarnath.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "केदारनाथ",
+                "en": "Kedarnath"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kedarnath/kedarnath_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kedarnath/kedarnath_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kedarnath/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kedarnath/iOS_v1"
+            }
+        ]
+    },
+    {
+        "id": "695cd6ae64add5e2447ad7ad",
+        "name": {
+            "hi": "नागेश्वर",
+            "en": "Shri Nageshwar"
+        },
+        "city": {
+            "hi": "द्वारका ",
+            "en": "Dwarka"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "नागेश्वर",
+                "en": "Nageshwar"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Nageshwar.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "नागेश्वर",
+                "en": "Nageshwar"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Nageshwar/nageshwar_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Nageshwar/nageshwar_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Nageshwar/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Nageshwar/iOS_v1"
+            }
+        ]
+    },
+    {
+        "id": "695cdd8c64add5e2447ad7ae",
+        "name": {
+            "hi": "भीमाशंकर",
+            "en": "Shri Bhimashankar"
+        },
+        "city": {
+            "hi": "भीमाशंकर",
+            "en": "Bhimashankar"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "भीमाशंकर",
+                "en": "Bhimashankar"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Bhimashankar.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "भीमाशंकर",
+                "en": "Bhimashankar"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Bhimashankar/bhimashankar_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Bhimashankar/bhimashankar_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Bhimashankar/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Bhimashankar/iOS_v1"
+            }
+        ]
+    },
+    {
+        "id": "695cde4764add5e2447ad7af",
+        "name": {
+            "hi": "घृष्णेश्वर",
+            "en": "Shri Grishneshwar"
+        },
+        "city": {
+            "hi": "औरंगाबाद ",
+            "en": "Aurangabad"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "घृष्णेश्वर",
+                "en": "Grishneshwar"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/GrishneshwarTemple.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "घृष्णेश्वर",
+                "en": "Grishneshwar"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Grishneshwar/grishneshwar_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Grishneshwar/grishneshwar_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Grishneshwar/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Grishneshwar/iOS_v1"
+            }
+        ]
+    },
+    {
+        "id": "695cdf5664add5e2447ad7b0",
+        "name": {
+            "hi": "वैद्यनाथ",
+            "en": "Shri Baidyanath"
+        },
+        "city": {
+            "hi": "देवघर ",
+            "en": "Deoghar"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "वैद्यनाथ",
+                "en": "Baidyanath"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Baidhnath.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "वैद्यनाथ",
+                "en": "Baidyanath"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Baidyanath/baidyanath_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Baidyanath/baidyanath_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Baidyanath/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Baidyanath/iOS_v1"
+            }
+        ]
+    },
+    {
+        "id": "6965ef8964add5fa0bd149ea",
+        "name": {
+            "hi": "वैष्णोदेवी",
+            "en": "Mata Vaishnodevi"
+        },
+        "city": {
+            "hi": "कटरा",
+            "en": "Katra"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "वैष्णोदेवी",
+                "en": "Vaishnodevi"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vaishnodevi_temple_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/VaishnodeviTemple_v1.jpg",
+            "description": {
+                "hi": "वैष्णोदेवी, Katra",
+                "en": "Vaishnodevi, Katra"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "मां वैष्णोदेवी अपने भक्तों द्वारा सच्चे मन से की गई पूजा से प्रसन्न होकर सभी इच्छाएं पूरी करती हैं ।माता को चुनरी अर्पित करने से देवी प्रसन्न होकर सुखी जीवन का आशीर्वाद देती है ।",
+                    "en": "Maa Vaishno Devi becomes pleased with the sincere prayers of her devotees and fulfills their wishes. Offering a chunri (sacred cloth) to the Goddess is believed to bring her blessings for a happy and prosperous life."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "शक्ति और ऊर्जा",
+                    "en": "Strength and Energy"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "शारीरिक, मानसिक और भावनात्मक शक्ति प्राप्त होती है।",
+                    "en": "Devotees receive physical, mental, and emotional strength."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "समृद्धि और सुख",
+                    "en": "Prosperity and Happiness"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "घर में सुख-समृद्धि और शांति का वास होता है।",
+                    "en": "Peace, prosperity, and harmony are believed to enter the home."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "भय से मुक्ति",
+                    "en": "Freedom from Fear"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता की कृपा से हर तरह के डर, रोग और शत्रुओं का नाश होता है।",
+                    "en": "With the Goddess’s grace, fear, illness, and enemies are believed to be overcome."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "यश और वैभव",
+                    "en": "Fame and Prosperity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "जीवन में यश, कीर्ति और सफलता (राजयोग) की प्राप्ति होती है।",
+                    "en": "Devotees are believed to attain recognition, success, and royal fortune (Rajyog) in life."
+                }
+            }
+        ]
+    },
+    {
+        "id": "6965f03364add5fa0bd149eb",
+        "name": {
+            "hi": "महालक्ष्मी",
+            "en": "Mata Mahalakshmi"
+        },
+        "city": {
+            "hi": "कोल्हापुर",
+            "en": "Kolhapur"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "महालक्ष्मी",
+                "en": "Mahalakshmi"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/mahalaxmi_temple_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/MahaLaxmiKolhapur.jpg",
+            "description": {
+                "hi": "महालक्ष्मी, कोल्हापुर",
+                "en": "Mahalakshmi, Kolhapur"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता महालक्ष्मी धन, वैभव और समृद्धि की देवी मानी जाती हैं। उनकी पूजा और अभिषेक करने से जीवन में सुख, समृद्धि और धन की वृद्धि होती है।",
+                    "en": "Goddess Mahalakshmi is considered the goddess of wealth and prosperity. Worshipping and performing Abhishek of Mahalakshmi is believed to bring prosperity, abundance, and happiness."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "धन और समृद्धि",
+                    "en": "Wealth and Prosperity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता लक्ष्मी की कृपा से आर्थिक समस्याएं दूर होती हैं और घर में धन-धान्य की वृद्धि होती है।",
+                    "en": "With the blessings of Goddess Lakshmi, financial difficulties are believed to reduce and prosperity increases in the household."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "सौभाग्य और शांति",
+                    "en": "Good Fortune and Peace"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता महालक्ष्मी की पूजा से परिवार में सौभाग्य, सुख और शांति बनी रहती है।",
+                    "en": "Worshipping Goddess Mahalakshmi is believed to bring good fortune, happiness, and peace to the family."
+                }
+            }
+        ]
+    },
+    {
+        "id": "6965f1cb64add5fa0bd149ec",
+        "name": {
+            "hi": "विट्ठल रुक्मिणी",
+            "en": "Shri VitthalRukmini"
+        },
+        "city": {
+            "hi": "पंढरपुर",
+            "en": "Pandharpur"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "विट्ठल रुक्मिणी",
+                "en": "VitthalRukmini"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vittalrukmini_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/VitthalRukmini.jpg",
+            "description": {
+                "hi": "विट्ठल रुक्मिणी, पंढरपुर",
+                "en": "VitthalRukmini, Pandharpur"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान विष्णु और लक्ष्मी का रूप माना जाता है। यह स्थान स्वार्थहीन प्रेम, भक्ति और आध्यात्मिक मुक्ति का प्रतीक है, जहाँ भक्त ईंट पर खड़े विट्ठल के दर्शन से अहंकार त्याग और आत्म-साक्षात्कार (अहं ब्रह्मास्मि) की सीख पाते हैं।",
+                    "en": "This form is considered to represent Lord Vishnu and Goddess Lakshmi. The place symbolizes selfless love, devotion, and spiritual liberation, where devotees learn the essence of surrendering ego and attaining self-realization (“Aham Brahmasmi”) through the darshan of Vitthal, who stands upon a brick."
+                }
+            }
+        ]
+    },
+    {
+        "id": "6965f23664add5fa0bd149ed",
+        "name": {
+            "hi": "खाटूश्याम",
+            "en": "Shri Khatushyam"
+        },
+        "city": {
+            "hi": "सीकर",
+            "en": "Sikar"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "खाटूश्याम",
+                "en": "Khatushyam"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/khatushyam_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Khatushyam.jpg",
+            "description": {
+                "hi": "खाटूश्याम, सीकर",
+                "en": "Khatushyam, Sikar"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "खाटू श्याम जी को कलयुग के देवता माना जाता है। उनकी पूजा और अभिषेक करने से भक्तों की मनोकामनाएं पूर्ण होती हैं और जीवन में आने वाली बाधाएं दूर होती हैं।",
+                    "en": "Khatu Shyam Ji is considered the deity of the present age (Kaliyuga). Worshipping and performing Abhishek of Khatu Shyam Ji is believed to fulfill devotees’ wishes and remove obstacles from life."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "मनोकामना पूर्ति",
+                    "en": "Fulfillment of Wishes"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "सच्चे मन से खाटू श्याम जी की भक्ति करने से भक्तों की इच्छाएं पूर्ण होती हैं।",
+                    "en": "Devotion to Khatu Shyam Ji with a pure heart is believed to fulfill devotees’ wishes."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "संकटों से रक्षा",
+                    "en": "Protection from Difficulties"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "श्याम बाबा की कृपा से जीवन के संकट और परेशानियां दूर होती हैं और साहस प्राप्त होता है।",
+                    "en": "With the blessings of Shyam Baba, devotees believe their troubles and challenges are reduced and they gain courage."
+                }
+            }
+        ]
+    },
+    {
+        "id": "6965f2dd64add5fa0bd149ee",
+        "name": {
+            "hi": "गोविंद देवजी",
+            "en": "Shri GovindDevji"
+        },
+        "city": {
+            "hi": "जयपुर",
+            "en": "Jaipur"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "गोविंद देवजी",
+                "en": "GovindDevji"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/govind_devji_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/GovindDevji.jpg",
+            "description": {
+                "hi": "गोविंद देवजी, जयपुर",
+                "en": "GovindDevji, Jaipur"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "गोविंद देव जी भगवान श्रीकृष्ण का स्वरूप माने जाते हैं। उनकी पूजा और अभिषेक करने से भक्तों को भगवान की कृपा प्राप्त होती है और जीवन में सुख, समृद्धि और शांति आती है।",
+                    "en": "Govind Dev Ji is considered a divine form of Lord Krishna. Worshipping and performing Abhishek of Govind Dev Ji is believed to bring divine blessings, happiness, prosperity, and peace in the devotee’s life."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "प्रेम और भक्ति",
+                    "en": "Love and Devotion"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "भगवान श्रीकृष्ण की भक्ति से भक्त के हृदय में प्रेम, करुणा और भक्ति की भावना बढ़ती है।",
+                    "en": "Devotion to Lord Krishna increases love, compassion, and devotion in the heart of a devotee."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "सुख और समृद्धि",
+                    "en": "Happiness and Prosperity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "गोविंद देव जी की पूजा से परिवार में सुख, समृद्धि और सौभाग्य की प्राप्ति होती है।",
+                    "en": "Worship of Govind Dev Ji is believed to bring happiness, prosperity, and good fortune to the family."
+                }
+            }
+        ]
+    },
+    {
+        "id": "699473fc64add5dbc12627db",
+        "name": {
+            "hi": "श्री विंध्यवासिनी देवी",
+            "en": "Shri Vindhyawasini Devi"
+        },
+        "city": {
+            "hi": "मिर्जापुर",
+            "en": " Mirzapur"
+        },
+        "thumbnail": {
+            "title": {
+                "hi": "विंध्यवासिनी देवी मंदिर",
+                "en": "Vindhyawasini Devi Temple"
+            },
+            "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vindhyawasini_devi_v3.webp",
+            "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Vindhyavasini.jpg",
+            "description": {
+                "hi": "विंध्यवासिनी देवी मंदिर दर्शन",
+                "en": "Vindhyawasini Devi Temple Darshan"
+            },
+            "displayOrientation": "LANDSCAPE"
+        },
+        "unityExperiences": [],
+        "abhishekContent": [
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "अभिषेक का महत्व",
+                    "en": "Importance of Abhishek"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता विंध्यवासिनी देवी शक्ति का स्वरूप हैं और भक्तों की रक्षा करने वाली मानी जाती हैं। उनकी पूजा और अभिषेक से जीवन में शक्ति, साहस और आशीर्वाद प्राप्त होता है।",
+                    "en": "Maa Vindhyawasini is considered a powerful form of Goddess Durga who protects her devotees. Worshipping and performing Abhishek of the goddess is believed to bring strength, courage, and divine blessings."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "रक्षा और शक्ति",
+                    "en": "Protection and Strength"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता की कृपा से भक्तों को संकटों से रक्षा और जीवन में शक्ति प्राप्त होती है।",
+                    "en": "With the blessings of the goddess, devotees are believed to gain protection from difficulties and strength in life."
+                }
+            },
+            {
+                "type": "SUB_HEADING",
+                "text": {
+                    "hi": "सुख और समृद्धि",
+                    "en": "Happiness and Prosperity"
+                }
+            },
+            {
+                "type": "PARAGRAPH",
+                "text": {
+                    "hi": "माता विंध्यवासिनी की पूजा से परिवार में सुख, शांति और समृद्धि आती है।",
+                    "en": "Worshipping Maa Vindhyawasini is believed to bring happiness, peace, and prosperity to the family."
+                }
+            }
+        ]
+    }
+]

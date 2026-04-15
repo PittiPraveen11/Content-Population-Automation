@@ -1,0 +1,1452 @@
+[
+    {
+        "id": "69d3b8ba8fee055e7027c6f3",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 11",
+                "en": "Yudh Khand Part 11"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/11.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 11",
+                "en": "Yudh Khand Part 11"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/11/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 10
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f4",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 12",
+                "en": "Yudh Khand Part 12"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/12.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 12",
+                "en": "Yudh Khand Part 12"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/12/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 11
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f5",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 13",
+                "en": "Yudh Khand Part 13"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/13.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 13",
+                "en": "Yudh Khand Part 13"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/13/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 12
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f6",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 14",
+                "en": "Yudh Khand Part 14"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/14.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 14",
+                "en": "Yudh Khand Part 14"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/14/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 13
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f7",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 15",
+                "en": "Yudh Khand Part 15"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/15.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 15",
+                "en": "Yudh Khand Part 15"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/15/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 14
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f8",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 16",
+                "en": "Yudh Khand Part 16"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/16.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 16",
+                "en": "Yudh Khand Part 16"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/16/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 15
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6f9",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 17",
+                "en": "Yudh Khand Part 17"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/17.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 17",
+                "en": "Yudh Khand Part 17"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/17/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 16
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6fa",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 18",
+                "en": "Yudh Khand Part 18"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/18.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 18",
+                "en": "Yudh Khand Part 18"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/18/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 17
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6fb",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 19",
+                "en": "Yudh Khand Part 19"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/19.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 19",
+                "en": "Yudh Khand Part 19"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/19/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 18
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6fc",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 20",
+                "en": "Yudh Khand Part 20"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/20.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 20",
+                "en": "Yudh Khand Part 20"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/20/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 19
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6fd",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 21",
+                "en": "Yudh Khand Part 21"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/21.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 21",
+                "en": "Yudh Khand Part 21"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/21/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 20
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6fe",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 22",
+                "en": "Yudh Khand Part 22"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/22.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 22",
+                "en": "Yudh Khand Part 22"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/22/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 21
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c6ff",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 23",
+                "en": "Yudh Khand Part 23"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/23.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 23",
+                "en": "Yudh Khand Part 23"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/23/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 22
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c700",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 24",
+                "en": "Yudh Khand Part 24"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/24.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 24",
+                "en": "Yudh Khand Part 24"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/24/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 23
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c701",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 25",
+                "en": "Yudh Khand Part 25"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/25.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 25",
+                "en": "Yudh Khand Part 25"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/25/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 24
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c702",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 26",
+                "en": "Yudh Khand Part 26"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/26.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 26",
+                "en": "Yudh Khand Part 26"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/26/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 25
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c703",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 27",
+                "en": "Yudh Khand Part 27"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/27.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 27",
+                "en": "Yudh Khand Part 27"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/27/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 26
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c704",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 28",
+                "en": "Yudh Khand Part 28"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/28.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 28",
+                "en": "Yudh Khand Part 28"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/28/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 27
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c705",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 29",
+                "en": "Yudh Khand Part 29"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/29.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 29",
+                "en": "Yudh Khand Part 29"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/29/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 28
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c706",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 30",
+                "en": "Yudh Khand Part 30"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/30.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 30",
+                "en": "Yudh Khand Part 30"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/30/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 29
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c707",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 31",
+                "en": "Yudh Khand Part 31"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/31.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 31",
+                "en": "Yudh Khand Part 31"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/31/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 30
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c708",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 32",
+                "en": "Yudh Khand Part 32"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/32.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 32",
+                "en": "Yudh Khand Part 32"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/32/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 31
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c709",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 33",
+                "en": "Yudh Khand Part 33"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/33.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 33",
+                "en": "Yudh Khand Part 33"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/33/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 32
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70a",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 34",
+                "en": "Yudh Khand Part 34"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/34.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 34",
+                "en": "Yudh Khand Part 34"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/34/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 33
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70b",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 35",
+                "en": "Yudh Khand Part 35"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/35.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 35",
+                "en": "Yudh Khand Part 35"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/35/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 34
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70c",
+        "thumbnail": {
+            "title": {
+                "hi": "युद्ध खंड अध्याय 36",
+                "en": "Yudh Khand Part 36"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/36.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "युद्ध खंड अध्याय 36",
+                "en": "Yudh Khand Part 36"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/36/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 35
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70d",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 1",
+                "en": "Kumar Khand Part 1"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/01.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 1",
+                "en": "Kumar Khand Part 1"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/01/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70e",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 2",
+                "en": "Kumar Khand Part 2"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/02.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 2",
+                "en": "Kumar Khand Part 2"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/02/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 1
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c70f",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 3",
+                "en": "Kumar Khand Part 3"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/03.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 3",
+                "en": "Kumar Khand Part 3"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/03/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 2
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c710",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 4",
+                "en": "Kumar Khand Part 4"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/04.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 4",
+                "en": "Kumar Khand Part 4"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/04/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 3
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c711",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 5",
+                "en": "Kumar Khand Part 5"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/05.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 5",
+                "en": "Kumar Khand Part 5"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/05/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 4
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c712",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 6",
+                "en": "Kumar Khand Part 6"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/06.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 6",
+                "en": "Kumar Khand Part 6"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/06/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 5
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c713",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 7",
+                "en": "Kumar Khand Part 7"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/07.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 7",
+                "en": "Kumar Khand Part 7"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/07/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 6
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c714",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 8",
+                "en": "Kumar Khand Part 8"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/08.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 8",
+                "en": "Kumar Khand Part 8"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/08/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 7
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c715",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 9",
+                "en": "Kumar Khand Part 9"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/09.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 9",
+                "en": "Kumar Khand Part 9"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/09/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 8
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c716",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 10",
+                "en": "Kumar Khand Part 10"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/10.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 10",
+                "en": "Kumar Khand Part 10"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/10/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 9
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c717",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 11",
+                "en": "Kumar Khand Part 11"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/11.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 11",
+                "en": "Kumar Khand Part 11"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/11/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 10
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c718",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 12",
+                "en": "Kumar Khand Part 12"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/12.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 12",
+                "en": "Kumar Khand Part 12"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/12/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 11
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c719",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 13",
+                "en": "Kumar Khand Part 13"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/13.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 13",
+                "en": "Kumar Khand Part 13"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/13/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 12
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71a",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 14",
+                "en": "Kumar Khand Part 14"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/14.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 14",
+                "en": "Kumar Khand Part 14"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/14/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 13
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71b",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 15",
+                "en": "Kumar Khand Part 15"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/15.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 15",
+                "en": "Kumar Khand Part 15"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/15/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 14
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71c",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 16",
+                "en": "Kumar Khand Part 16"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/16.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 16",
+                "en": "Kumar Khand Part 16"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/16/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 15
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71d",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 17",
+                "en": "Kumar Khand Part 17"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/17.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 17",
+                "en": "Kumar Khand Part 17"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/17/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 16
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71e",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 18",
+                "en": "Kumar Khand Part 18"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/18.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 18",
+                "en": "Kumar Khand Part 18"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/18/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 17
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c71f",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 19",
+                "en": "Kumar Khand Part 19"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/19.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 19",
+                "en": "Kumar Khand Part 19"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/19/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 18
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c720",
+        "thumbnail": {
+            "title": {
+                "hi": "कुमार खंड अध्याय 20",
+                "en": "Kumar Khand Part 20"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/20.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कुमार खंड अध्याय 20",
+                "en": "Kumar Khand Part 20"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/20/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 19
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c721",
+        "thumbnail": {
+            "title": {
+                "hi": "पार्वती खंड अध्याय 1",
+                "en": "Parvati Khand Part 1"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "पार्वती खंड अध्याय 1",
+                "en": "Parvati Khand Part 1"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/01/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c722",
+        "thumbnail": {
+            "title": {
+                "hi": "पार्वती खंड अध्याय 2",
+                "en": "Parvati Khand Part 2"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/02.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "पार्वती खंड अध्याय 2",
+                "en": "Parvati Khand Part 2"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/02/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 1
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c723",
+        "thumbnail": {
+            "title": {
+                "hi": "पार्वती खंड अध्याय 3",
+                "en": "Parvati Khand Part 3"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/03.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "पार्वती खंड अध्याय 3",
+                "en": "Parvati Khand Part 3"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/03/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 2
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c724",
+        "thumbnail": {
+            "title": {
+                "hi": "पार्वती खंड अध्याय 4",
+                "en": "Parvati Khand Part 4"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/04.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "पार्वती खंड अध्याय 4",
+                "en": "Parvati Khand Part 4"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/04/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "PUBLISHED",
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 3
+    }
+]

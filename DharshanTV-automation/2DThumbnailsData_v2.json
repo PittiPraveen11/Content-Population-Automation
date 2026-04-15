@@ -1,0 +1,3135 @@
+{
+  "shows": [
+    {
+      "show_id": "124",
+      "title_Eng": "Kishkindha Kand",
+      "title_Hin": "किष्किंधा कांड",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_new_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/main.jpg",
+      "show_description_Eng": "Kishkindha Kand chronicles the divine meeting of Rama and Hanuman, the alliance with Sugriva, and the search for Sita.",
+      "show_description_Hin": "किष्किंधा कांड में श्री राम और हनुमान जी की भेंट, सुग्रीव से मित्रता और माता सीता का खोज का वर्णन है।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "22 Hanuman ji se Pehli Bhet",
+          "episode_title_Hin": "22 हनुमान जी से पहली भेंट",
+          "episode_description_Eng": "Shri Rama and Lakshmana meet Hanuman for the first time during their search for Mother Sita.",
+          "episode_description_Hin": "माता सीता की खोज के दौरान श्री राम और लक्ष्मण की हनुमान जी से पहली भेंट।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/22.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/KishkindhaKand_E/22/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/KishkindhaKand_Keys/22_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "23 Bali ki Katha",
+          "episode_title_Hin": "23 बाली की कथा",
+          "episode_description_Eng": "The story of the rift between the monkey brothers Bali and Sugriva and their long rivalry.",
+          "episode_description_Hin": "वानर राज बाली और सुग्रीव के बीच मतभेद और उनकी पुरानी शत्रुता की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/23.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/KishkindhaKand_E/23/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/KishkindhaKand_Keys/23_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "24 Bali ka Ant",
+          "episode_title_Hin": "24 बाली का अंत",
+          "episode_description_Eng": "Lord Rama assists Sugriva by defeating the mighty King Bali to restore justice and alliance.",
+          "episode_description_Hin": "न्याय और मित्रता की स्थापना के लिए भगवान राम द्वारा शक्तिशाली बाली का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/24.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/KishkindhaKand_E/24/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/KishkindhaKand_Keys/24_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "25 Varsha, Bhool Aur Sulah",
+          "episode_title_Hin": "25 वर्षा, भूल और सुलह",
+          "episode_description_Eng": "Lord Rama waits through the monsoon, reminding Sugriva of his forgotten promise of help.",
+          "episode_description_Hin": "वर्षा ऋतु बीतने पर लक्ष्मण द्वारा सुग्रीव को उनकी सहायता की प्रतिज्ञा का स्मरण कराना।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/25.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/KishkindhaKand_E/25/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/KishkindhaKand_Keys/25_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "26 Hanuman Ka Lanka Prasthaan",
+          "episode_title_Hin": "26 हनुमान का लंका प्रस्थान",
+          "episode_description_Eng": "With divine strength and the blessings of Rama, Hanuman departs for his journey to Lanka.",
+          "episode_description_Hin": "प्रभु श्री राम के आशीर्वाद और दिव्य शक्ति के साथ हनुमान जी का लंका के लिए प्रस्थान।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand_v2/124_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KishkindhaKand/26.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/KishkindhaKand_E/26/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/KishkindhaKand_Keys/26_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "120",
+      "title_Eng": "Aranya Kand",
+      "title_Hin": "अरण्य कांड",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_new_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/main.jpg",
+      "show_description_Eng": "Lord Rama’s journey in Dandakaranya forest, battle with demons, and Sita's abduction.",
+      "show_description_Hin": "दंडकारण्य वन में श्री राम की यात्रा, राक्षसों से युद्ध और माता सीता का हरण।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "16 Dandakaranya Van mein Pravesh aur Viradh Vadh",
+          "episode_title_Hin": "16 दंडकारण्य वन में प्रवेश और विराध वध",
+          "episode_description_Eng": "Lord Rama enters Dandakaranya forest and slays the demon Viradh.",
+          "episode_description_Hin": "दंडकारण्य वन में प्रवेश और राक्षस विराध का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/16.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/16/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/16_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "17 Panchvati mein Nivaas aur Jatayu se Milan",
+          "episode_title_Hin": "17 पंचवटी में निवास और जटायु से मिलन",
+          "episode_description_Eng": "Residing in Panchvati and the meeting with the noble King Jatayu.",
+          "episode_description_Hin": "पंचवटी में निवास और पक्षीराज जटायु से भेंट।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/17.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/17/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/17_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "18 Shurpanakha ki Dhrishtata",
+          "episode_title_Hin": "18 शूर्पणखा की धृष्टता",
+          "episode_description_Eng": "Shurpanakha's encounter with Lord Rama and Lakshmana in the forest.",
+          "episode_description_Hin": "वन में भगवान राम और लक्ष्मण से शूर्पणखा की भेंट।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/18.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/18/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/18_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "19 Khar–Dushan ke Saath Mahayuddh",
+          "episode_title_Hin": "19 खर-दूषण के साथ महायुद्ध",
+          "episode_description_Eng": "Lord Rama single-handedly defeats the demon brothers Khar and Dushan.",
+          "episode_description_Hin": "भगवान राम द्वारा राक्षस खर और दूषण का संहार।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/19.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/19/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/19_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "20 Ravan ka Shadyantra – Sita Haran",
+          "episode_title_Hin": "20 रावण का शयंत्र - सीता हरण",
+          "episode_description_Eng": "Ravana's deceitful plot and the abduction of Mother Sita from Panchvati.",
+          "episode_description_Hin": "रावण का षड्यंत्र और पंचवटी से माता सीता का हरण।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/20.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/20/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/20_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "21 Jatayu Balidaan aur Shabari ki Bhakti",
+          "episode_title_Hin": "21 जटायु बलिदान और शबरी की भक्ति",
+          "episode_description_Eng": "Jatayu's sacrifice for Sita and the selfless devotion of Shabari.",
+          "episode_description_Hin": "माता सीता के लिए जटायु का बलिदान और शबरी की भक्ति।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand_v2/120_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AranyaKand/21.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AranyaKand_E/21/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AranyaKand_Keys/21_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "117",
+      "title_Eng": "Ayodhya Kand",
+      "title_Hin": "अयोध्या कांड",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/main.jpg",
+      "show_description_Eng": "Ayodhya Kand narrates Lord Shri Rama’s coronation, His acceptance of exile, and the eternal values of dharma, sacrifice, and devotion.",
+      "show_description_Hin": "अयोध्या कांड में भगवान श्री राम के राज्याभिषेक, उनके वनवास स्वीकार करने और धर्म, त्याग और भक्ति के शाश्वत मूल्यों का वर्णन किया गया है।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "9 Rajyabhishek ki Taiyari aur Shadyantra",
+          "episode_title_Hin": "9 राज्याभिषेक की तैयारी और षड्यंत्र",
+          "episode_description_Eng": "As preparations begin for Lord Shri Rama’s coronation, unseen schemes quietly unfold within the palace.",
+          "episode_description_Hin": "भगवान श्री राम के राज्याभिषेक की तैयारियां शुरू होने के साथ ही, महल के भीतर गुप्त रूप से अनदेखे षड्यंत्र रचे जा रहे हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/09_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/09/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/09_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "10 Kekayi ke do Vardaan",
+          "episode_title_Hin": "10 केकयी के दो वरदान",
+          "episode_description_Eng": "Queen Kaikeyi invokes her two boons, setting in motion a divine test of dharma and sacrifice.",
+          "episode_description_Hin": "रानी कैकेयी ने अपने दो वरदानों का आह्वान किया, जिससे धर्म और त्याग की एक दिव्य परीक्षा शुरू हुई।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/10_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/10/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/10_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "11 Vanvaas ka Nirnay",
+          "episode_title_Hin": "11 वनवास का निर्णय",
+          "episode_description_Eng": "Upholding truth and honor, Lord Shri Rama accepts the command of exile with serene devotion.",
+          "episode_description_Hin": "सत्य और सम्मान को कायम रखते हुए, भगवान श्री राम ने शांत भाव से वनवास का आदेश स्वीकार किया।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/11_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/11/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/11_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "12 Pehla Padaav aur Sumantra ki Wapsi",
+          "episode_title_Hin": "12 पहला पड़ाव और सुमंत्र की वापसी",
+          "episode_description_Eng": "Lord Shri Rama reaches His first resting place, while Sumantra returns to Ayodhya with a heavy heart.",
+          "episode_description_Hin": "भगवान श्री राम अपने पहले विश्राम स्थल पर पहुँच जाते हैं, जबकि सुमंत्र भारी मन से अयोध्या लौट जाते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/12_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/12/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/12_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "13 Dashrath ka Nidhan aur Bharat ka Shok",
+          "episode_title_Hin": "13 दशरथ का निधन और भरत का शोक",
+          "episode_description_Eng": "Overcome by grief, King Dasharatha departs from the world, leaving Bharat immersed in sorrow.",
+          "episode_description_Hin": "दुःख से व्याकुल होकर राजा दशरथ संसार छोड़कर देह त्याग देते हैं, और भरत को शोक में डूबा हुआ छोड़ जाते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/13_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/13/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/13_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "14 Bharat ka Van-Gaman",
+          "episode_title_Hin": "14 भारत का वन-गमन",
+          "episode_description_Eng": "With deep remorse and devotion, Bharat journeys to the forest to seek Lord Shri Rama.",
+          "episode_description_Hin": "गहरे पश्चाताप और भक्ति से विलीन होकर भरत भगवान श्री राम की खोज में वन की यात्रा पर निकलते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/14_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/14/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/14_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "15 Ram–Bharat Milaap",
+          "episode_title_Hin": "15 राम-भरत मिलाप",
+          "episode_description_Eng": "In a sacred and emotional reunion, Lord Shri Rama and Bharat meet, embodying love, duty, and humility.",
+          "episode_description_Hin": "एक पवित्र और भावपूर्ण पुनर्मिलन में, भगवान श्री राम और भरत मिलते हैं, जो प्रेम, सौंदर्य और विनम्रता का प्रतीक हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand_v2/117_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaKand/15_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/AyodhyaKand_E/15/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/AyodhyaKand_Keys/15_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "116",
+      "title_Eng": "Baal Kand",
+      "title_Hin": "बाल कांड",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/main.jpg",
+      "show_description_Eng": "The divine beginning of the Ramayana, narrating the birth of Lord Ram and the sacred events of his early life.",
+      "show_description_Hin": "रामायण का दिव्य आरंभ, जिसमें भगवान राम के जन्म और उनके प्रारंभिक जीवन की पवित्र घटनाओं का वर्णन है।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Putra Prapti ka Mahan Yagya",
+          "episode_title_Hin": "1 पुत्र प्राप्ति का महान यज्ञ",
+          "episode_description_Eng": "King Dasharatha performs the holy Putrakameshti Yagya to receive divine blessings of noble sons.",
+          "episode_description_Hin": "राजा दशरथ ने श्रेष्ठ पुत्रों का दिव्य आशीर्वाद प्राप्त करने के लिए पवित्र पुत्रकामेष्टि यज्ञ किया।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/01_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/01/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/01_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Aahutiyon ka Phal, Chaar Avataar",
+          "episode_title_Hin": "2 आहुतियों का फल, चार अवतार",
+          "episode_description_Eng": "By divine grace, the sacred offerings bless Ayodhya with the birth of four celestial princes.",
+          "episode_description_Hin": "भगवान की कृपा से, पवित्र भेंटों के फलस्वरूप अयोध्या में चार दिव्य राजकुमारों का जन्म हुआ।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/02_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/02/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/02_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Tadaka Vadh - Pehla Mahayuddh",
+          "episode_title_Hin": "3 तड़का वध - पहला महायुद्ध",
+          "episode_description_Eng": "Lord Shri Rama protects the sages by vanquishing the demoness Tadaka and upholding dharma.",
+          "episode_description_Hin": "भगवान श्री राम ने राक्षसी ताड़का का वध करके और धर्म की रक्षा करके ऋषियों का उद्धार किया।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/03_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/03/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/03_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Ahilya ka uddhar",
+          "episode_title_Hin": "4 अहिल्या का उद्धार",
+          "episode_description_Eng": "With compassion and divine touch, Lord Shri Rama liberates Ahilya from her long-standing curse.",
+          "episode_description_Hin": "करुणा और दिव्य स्पर्श से भगवान श्री राम अहिल्या को उसके लंबे समय से चले आ रहे श्राप से मुक्त करते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/04_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/04/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/04_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Janak ka Pran - Shiv Dhanush ki Pratigya",
+          "episode_title_Hin": "5 जनक का प्राण - शिव धनुष की प्रतिज्ञा",
+          "episode_description_Eng": "King Janak proclaims the sacred vow that only a worthy soul may lift Lord Shiva’s divine bow.",
+          "episode_description_Hin": "राजा जनक ने पवित्र प्रतिज्ञा की घोषणा की कि केवल एक योग्य आत्मा ही भगवान शिव के दिव्य धनुष को उठा सकती है।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/05_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/05/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/05_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Shiv Dhanush Bhang - Sita ka Varan",
+          "episode_title_Hin": "6 शिव धनुष भंग - सीता का वरण",
+          "episode_description_Eng": "Lord Shri Rama humbly breaks the mighty Shiva Dhanush and accepts Mother Sita as his consort.",
+          "episode_description_Hin": "भगवान श्री राम विनम्रतापूर्वक शक्तिशाली शिव धनुष को तोड़ते हैं और माता सीता को अपनी पत्नी के रूप में स्वीकार करते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/06_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/06/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/06_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Parshuram ka Aagman - Vishnu Dhanush ki Chunauti",
+          "episode_title_Hin": "7 परशुराम का आगमन - विष्णु धनुष की चुनौति",
+          "episode_description_Eng": "Sage Parshuram arrives to test Lord Shri Rama, unaware of His supreme divine essence.",
+          "episode_description_Hin": "भगवान श्री राम की सर्वोच्च दिव्यता से अनभिज्ञ होकर, ऋषि परशुराम उनकी परीक्षा लेने के लिए आते हैं।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/07_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/07/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/07_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Vishnu Dhanush ka Dwandv - Ram ka Param Swaroop",
+          "episode_title_Hin": "8 विष्णु धनुष का द्वन्द्व - राम का परम स्वरूप",
+          "episode_description_Eng": "Lord Shri Rama reveals His eternal Vishnu form, filling Parshuram with divine realization.",
+          "episode_description_Hin": "भगवान श्री राम ने अपना शाश्वत विष्णु स्वरूप प्रकट किया और परशुराम को दिव्य अनुभूति से भर दिया।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand_v2/116_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BaalKand/08_H_V1.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/BaalKand_E/08/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/BaalKand_Keys/08_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "106",
+      "title_Eng": "Shri Krishna Leelayein 2",
+      "title_Hin": "श्री कृष्ण लीलाएं 2",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/01_H.jpg",
+      "show_description_Eng": "Shri Krishna Leelayein 2, the divine play of Lord Krishna.",
+      "show_description_Hin": "श्री कृष्ण लीलाएं 2, भगवान कृष्ण के दिव्य दर्शन।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Vidhyadhar Moksh",
+          "episode_title_Hin": "1 विद्याधर मोक्ष",
+          "episode_description_Eng": "The story of Vidhyadhar Moksh.",
+          "episode_description_Hin": "विद्याधर मोक्ष की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/12_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/12/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/12_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Sankhchood Vadh",
+          "episode_title_Hin": "2 संखचूड़ वध",
+          "episode_description_Eng": "The slaying of demon Sankhchood.",
+          "episode_description_Hin": "संखचूड़ राक्षस का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/13_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/13/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/13_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Kuvalyapeedh ka Uddhaar",
+          "episode_title_Hin": "3 कुवल्यापीढ़ का उद्धार",
+          "episode_description_Eng": "The deliverance of Kuvalyapeedh Elephant.",
+          "episode_description_Hin": "कुवल्यापीढ़ हाथी का उद्धार।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/14_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/14/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/14_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Kans ka Uddhar",
+          "episode_title_Hin": "4 कंस का उद्धार",
+          "episode_description_Eng": "The deliverance of Kanska.",
+          "episode_description_Hin": "कंसक का उद्धार।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/15_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/15/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/15_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Guruputra Ki Punha Prapti",
+          "episode_title_Hin": "5 गुरुपुत्र की पुनः प्राप्ति",
+          "episode_description_Eng": "The story of Guruputra's recovery.",
+          "episode_description_Hin": "गुरुपुत्र की पुनः प्राप्ति की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/16_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/16/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/16_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Muchukund Ki Mukti",
+          "episode_title_Hin": "6 मुचुकुंद की मुक्ति",
+          "episode_description_Eng": "The liberation of Muchukund.",
+          "episode_description_Hin": "मुचुकुंद की मुक्ति।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/17_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/17/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/17_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Ranchhod Shri Krishna",
+          "episode_title_Hin": "7 रणछोड़ श्री कृष्ण",
+          "episode_description_Eng": "The story of Ranchhod Shri Krishna.",
+          "episode_description_Hin": "रणछोड़ श्री कृष्ण की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/18_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/18/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/18_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Rukmani Haran",
+          "episode_title_Hin": "8 रुक्मणी हरण",
+          "episode_description_Eng": "The Haran of Rukmini.",
+          "episode_description_Hin": "रुक्मणी हरण की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/19_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/19/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/19_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "8",
+          "episode_title_Eng": "9 Krishna ka Rajaon ko Harana",
+          "episode_title_Hin": "9 कृष्ण का राजाओं को हराना",
+          "episode_description_Eng": "The story of Krishna's Haran of Rukmini.",
+          "episode_description_Hin": "कृष्ण द्वारा राजाओं को हराकार रुक्मिणीजी का हरण",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e8_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/20_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/20/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/20_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "9",
+          "episode_title_Eng": "10 Syamantak Mani Ki Kahani",
+          "episode_title_Hin": "10 स्यामंतक मढ़ी की कहानी",
+          "episode_description_Eng": "The story of Syamantak Mani.",
+          "episode_description_Hin": "स्यामंतक मढ़ी की कहानी।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e9_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/21_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/21/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/21_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "10",
+          "episode_title_Eng": "11 Bhaumasur Ka Uddhaar",
+          "episode_title_Hin": "11 भौमासुर का उद्धार",
+          "episode_description_Eng": "The story of Bhaumasur's Uddhaar.",
+          "episode_description_Hin": "भौमासुर का उद्धार की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e10_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/22_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/22/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/22_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "11",
+          "episode_title_Eng": "12 Banasur se sangram",
+          "episode_title_Hin": "12 बाणासुर से संग्राम",
+          "episode_description_Eng": "The story of Banasur's Sangram.",
+          "episode_description_Hin": "बाणासुर से संग्राम की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e11_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/23_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/23/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/23_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "12",
+          "episode_title_Eng": "13 Vanar dvivid  Ka Uddhaar",
+          "episode_title_Hin": "13 वानर द्विविद का उद्धार",
+          "episode_description_Eng": "The story of Vanar dvivid's Uddhaar.",
+          "episode_description_Hin": "वानर द्विविद का उद्धार की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e12_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/24_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/24/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/24_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "13",
+          "episode_title_Eng": "14 Jarasand ki Mukti",
+          "episode_title_Hin": "14 जरासंद की मुक्ति",
+          "episode_description_Eng": "The story of Jarasand's Mukti.",
+          "episode_description_Hin": "जरासंद की मुक्ति की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e13_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/25_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/25/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/25_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "14",
+          "episode_title_Eng": "15 Shishupal Vadh",
+          "episode_title_Hin": "15 शिशुपाल का वध",
+          "episode_description_Eng": "The story of Shishupal's Vadh.",
+          "episode_description_Hin": "शिशुपाल का वध की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e14_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/26_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/26/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/26_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "15",
+          "episode_title_Eng": "16 Shalva Ka Uddhaar",
+          "episode_title_Hin": "16 शाल्व का उद्धार",
+          "episode_description_Eng": "The story of Shalva's Uddhaar.",
+          "episode_description_Hin": "शाल्व का उद्धार की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e15_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/27_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/27/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/27_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "16",
+          "episode_title_Eng": "17 Sudama Milan",
+          "episode_title_Hin": "17 सुदमा मिलन",
+          "episode_description_Eng": "The story of Sudama's Milan.",
+          "episode_description_Hin": "सुदमा का मिलन की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2_v2/106_e16_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela2/28_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela2_E/28/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela2_Keys/28_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "105",
+      "title_Eng": "Shri Hanuman Charit",
+      "title_Hin": "श्री हनुमान चरित्र",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/01_H.jpg",
+      "show_description_Eng": "The amazing saga of the birth, valor, and devotion of Hanuman, Lord Shiva's incarnation and Shri Ram's supreme devotee.",
+      "show_description_Hin": "भगवान शिव के अवतार और श्रीराम के परम भक्त हनुमान के जन्म, पराक्रम और भक्ति की अद्भुत गाथा।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Hanuman Janam Katha, Part 1",
+          "episode_title_Hin": "1 हनुमान जन्म कथा, खंड 1",
+          "episode_description_Eng": "Divine incarnation of mighty Hanuman to Mother Anjana through Vayu's energy",
+          "episode_description_Hin": "वायु के तेज से माता अंजना के घर महाबली हनुमान का दिव्य अवतरण।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/01_1_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/01/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/01_1_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Hanuman Janam Katha, Part 2",
+          "episode_title_Hin": "2 हनुमान जन्म कथा, खंड 2",
+          "episode_description_Eng": "Divine incarnation of mighty Hanuman to Mother Anjana according to Shiv Puran.",
+          "episode_description_Hin": "शिव पुराण के अनुसार माता अंजना के घर महाबली हनुमान का दिव्य अवतरण।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/01_2_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/02/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/01_2_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Surya ko Nigalna",
+          "episode_title_Hin": "3 सूर्य को निगलना",
+          "episode_description_Eng": "Child Hanuman swallowed the Sun thinking it fruit, then fainted by Indra's thunderbolt.",
+          "episode_description_Hin": "बाल हनुमान ने सूर्य को फल समझकर निगला, इंद्र के वज्र से हुए मूर्छित।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/02_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/03/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/02_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Devtaon ke Vardaan",
+          "episode_title_Hin": "4 देवताओं के वरदान",
+          "episode_description_Eng": "Gods bestowed divine boons upon the child, giving him the immortal name 'Hanuman'.",
+          "episode_description_Hin": "देवताओं ने बालक को दिए अखंड दिव्य वरदान और मिला अमर नाम ‘हनुमान’।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/03_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/04/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/03_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Shaap Aur Smaran",
+          "episode_title_Hin": "5 शाप और स्मरण",
+          "episode_description_Eng": "Cursed to forget powers, Jambavan reminded the mighty warrior of his latent strength.",
+          "episode_description_Hin": "ऋषियों के शाप से शक्तियाँ भूले, जाम्बवंत ने दिलाया महाबली को बल का स्मरण।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/04_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/05/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/04_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Samudra Langhan",
+          "episode_title_Hin": "6 समुद्र लंघन",
+          "episode_description_Eng": "Defeating obstacles like Surasa and Simhika, Hanuman successfully crossed the vast ocean waters.",
+          "episode_description_Hin": "सुरसा और सिंहिका जैसी बाधाओं को हराकर हनुमान जी ने किया विशाल समुद्र पार।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/05_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/06/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/05_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Lanka Pravesh",
+          "episode_title_Hin": "7 लंका प्रवेश",
+          "episode_description_Eng": "Hanuman entered the city after defeating the demoness Lankini guarding the gates of Lanka.",
+          "episode_description_Hin": "लंका के द्वार पर राक्षसी लंकिनी को परास्त कर हनुमान जी ने किया प्रवेश।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/06_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/07/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/06_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Swarn Lanka Dahan",
+          "episode_title_Hin": "8 स्वर्ण लंका दहन",
+          "episode_description_Eng": "After finding Mother Sita, Hanuman burned down Ravana's golden city of Lanka completely.",
+          "episode_description_Hin": "माता सीता का पता लगाकर हनुमान जी ने किया रावण की स्वर्ण लंका दहन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/07_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/08/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/07_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "8",
+          "episode_title_Eng": "9 Sanjeevani Aur Vijay",
+          "episode_title_Hin": "9 संजीवनी और विजय",
+          "episode_description_Eng": "Brought Sanjeevani mountain to save Lakshman's life, ensuring Lord Shri Ram's ultimate victory.",
+          "episode_description_Hin": "संजीवनी पर्वत लाकर लक्ष्मण जी के प्राण बचाए और श्रीराम की विजय सुनिश्चित की।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit_v2/105_e8_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriHanumanCharit/08_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriHanumanCharit_E/09/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriHanumanCharit_Keys/08_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "102",
+      "title_Eng": "Shri Krishna Leelayein",
+      "title_Hin": "श्री कृष्ण लीलाएं",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/01_H.jpg",
+      "show_description_Eng": "Shri Krishna Leelayein, the divine play of Lord Krishna.",
+      "show_description_Hin": "श्री कृष्ण लीलाएं, भगवान कृष्ण के दिव्य दर्शन।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Putna Vadh",
+          "episode_title_Hin": "1 पूतना वध",
+          "episode_description_Eng": "The slaying of demon Putna.",
+          "episode_description_Hin": "पूतना राक्षसी का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/01/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/01_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Viraat Roop Darshan",
+          "episode_title_Hin": "2 विराट रूप दर्शन",
+          "episode_description_Eng": "The divine form of Lord Krishna.",
+          "episode_description_Hin": "कृष्ण भगवान का दिव्य रूप।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/02_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/02/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/02_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Shri Krishna ka Ukhal Bandhan",
+          "episode_title_Hin": "3 श्री कृष्ण का ऊखल बन्धन",
+          "episode_description_Eng": "The tying of Lord Krishna by Mata Yashoda.",
+          "episode_description_Hin": "माता यशोदा द्वारा श्री कृष्ण का बंध जाना।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/03_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/03/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/03_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Nalkuwar & Manigriv Uddhar",
+          "episode_title_Hin": "4 नलकुवर और मणिग्रीव उद्धार",
+          "episode_description_Eng": "The deliverance of Nalkuwar and Manigriv by Lord Krishna.",
+          "episode_description_Hin": "नलकुवर और मणिग्रीव द्वारा श्री कृष्ण का उद्धार की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/04_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/04/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/04_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Vatsasur & Bakasur Vadh",
+          "episode_title_Hin": "5 वत्सासुर और बकासुर वध",
+          "episode_description_Eng": "The slaying of Vatsasur and Bakasur.",
+          "episode_description_Hin": "वत्सासुर और बकासुर का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/05_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/05/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/05_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Aghasur Vadh",
+          "episode_title_Hin": "6 अघासुर वध",
+          "episode_description_Eng": "The slaying of Aghasur.",
+          "episode_description_Hin": "अघासुर का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/06_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/06/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/06_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Dhenukasur Vadh",
+          "episode_title_Hin": "7 धेनुकासुर वध",
+          "episode_description_Eng": "The slaying of Dhenukasur.",
+          "episode_description_Hin": "धेनुकासुर का वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/07_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/07/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/07_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Kaliya Daman",
+          "episode_title_Hin": "8 कालिया दमन",
+          "episode_description_Eng": "The slaying of Kaliya Naag.",
+          "episode_description_Hin": "कालिया नाग का दमन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/08_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/08/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/08_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "8",
+          "episode_title_Eng": "9 Pralambhasur Vadh",
+          "episode_title_Hin": "9 प्रलंभासुर वध",
+          "episode_description_Eng": "The slaying of Pralambhasur.",
+          "episode_description_Hin": "प्रलंभासुर वध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e8_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/09_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/09/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/09_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "9",
+          "episode_title_Eng": "10 Indra Yagya Bhang",
+          "episode_title_Hin": "10 इंद्र यज्ञ भंग",
+          "episode_description_Eng": "The story of Indra Yagya Bhang.",
+          "episode_description_Hin": "इंद्र यज्ञ भंग की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e9_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/10_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/10/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/10_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "10",
+          "episode_title_Eng": "11 Govardhan Dhaaran",
+          "episode_title_Hin": "11 गोवर्धन धारण",
+          "episode_description_Eng": "The story of Govardhan Dhaaran.",
+          "episode_description_Hin": "गोवर्धन धारण की कथा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela_v2/102_e10_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKrishnaLeela/11_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriKrishnaLeela_E/11/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriKrishnaLeela_Keys/11_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "59",
+      "title_Eng": "Durga Saptshati",
+      "title_Hin": "दुर्गा सप्तशती",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/01_H.jpg",
+      "show_description_Eng": "Sacred text narrating the glory and divine powers of Goddess Durga",
+      "show_description_Hin": "देवी दुर्गा की महिमा और दिव्य शक्तियों का पवित्र वर्णन",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Devi's Glory",
+          "episode_title_Hin": "1 देवी की महिमा",
+          "episode_description_Eng": "Sage Medha narrates the glory of Goddess Durga to King Suratha and Samadhi",
+          "episode_description_Hin": "ऋषि मेधा राजा सुरथ और समाधि को देवी दुर्गा की महिमा सुनाते हैं",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/01/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/01.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Madhu Kaitabha Vadh",
+          "episode_title_Hin": "2 मधु कैटभ वध",
+          "episode_description_Eng": "The story of slaying of demons Madhu and Kaitabha by the Goddess",
+          "episode_description_Hin": "देवी द्वारा मधु और कैटभ राक्षसों के वध की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/02_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/02/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/02.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "420MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "980MB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Devi's Birth",
+          "episode_title_Hin": "3 देवी की उत्पत्ति",
+          "episode_description_Eng": "The divine origin and manifestation of Goddess Durga",
+          "episode_description_Hin": "देवी दुर्गा की दिव्य उत्पत्ति और प्रकट होना",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/03_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/03/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/03.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "410MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "950MB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Mahishasura Mardini",
+          "episode_title_Hin": "4 महिषासुर मर्दिनी",
+          "episode_description_Eng": "The slaying of demon Mahishasura by Goddess Durga",
+          "episode_description_Hin": "देवी दुर्गा द्वारा महिषासुर राक्षस का वध",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/04_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/04/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/04.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "415MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "970MB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Gods' Hymn",
+          "episode_title_Hin": "5 देवताओं की स्तुति",
+          "episode_description_Eng": "The hymn and praise of Goddess by the Gods",
+          "episode_description_Hin": "देवताओं द्वारा देवी की स्तुति और वंदना",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/05_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/05/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/05.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "370MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "850MB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Ambika's Manifestation",
+          "episode_title_Hin": "6 माँ अंबिका का प्राकट्य",
+          "episode_description_Eng": "The manifestation of Goddess Ambika and encounter with Shumbha-Nishumbha",
+          "episode_description_Hin": "माँ अंबिका का प्रकट होना और शुम्भ-निशुम्भ से सामना",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/06_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/06/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/06.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "460MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.05GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Dhoomralochan & Chand-Mund Vadh",
+          "episode_title_Hin": "7 धूम्रलोचन और चण्ड-मुण्ड वध",
+          "episode_description_Eng": "The slaying of demons Dhoomralochan, Chand and Mund",
+          "episode_description_Hin": "धूम्रलोचन, चण्ड और मुण्ड राक्षसों का वध",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/07_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/07/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/07.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "480MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Raktabeej Vadh",
+          "episode_title_Hin": "8 रक्तबीज वध",
+          "episode_description_Eng": "The slaying of the invincible demon Raktabeej",
+          "episode_description_Hin": "अजेय राक्षस रक्तबीज का वध",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/08_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/08/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/08.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "465MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.08GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "8",
+          "episode_title_Eng": "9 Nishumbh Vadh",
+          "episode_title_Hin": "9 निशुम्भ वध",
+          "episode_description_Eng": "The slaying of demon Nishumbh by Goddess Durga",
+          "episode_description_Hin": "देवी दुर्गा द्वारा निशुम्भ राक्षस का वध",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e8_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/09_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/09/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/09.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "390MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "900MB"
+            }
+          ]
+        },
+        {
+          "episode_id": "9",
+          "episode_title_Eng": "10 Shumbh Vadh",
+          "episode_title_Hin": "10 शुम्भ वध",
+          "episode_description_Eng": "The final battle and slaying of demon Shumbh",
+          "episode_description_Hin": "अंतिम युद्ध और शुम्भ राक्षस का वध",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e9_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/10_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/10/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/10.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "460MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.05GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "10",
+          "episode_title_Eng": "11 Durga Saptshati Mahatmya",
+          "episode_title_Hin": "11 दुर्गा सप्तशती महात्म्य",
+          "episode_description_Eng": "The glory and significance of the complete Durga Saptshati scripture",
+          "episode_description_Hin": "पूर्ण दुर्गा सप्तशती शास्त्र की महिमा और महत्व",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati_v2/59_e10_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DurgaSaptshati/11_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DurgaSaptshati_E/11/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DurgaSaptshati_Keys/11.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "460MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.05GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "99",
+      "title_Eng": "Dashavatar",
+      "title_Hin": "दशवतार",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/main_H.jpg",
+      "show_description_Eng": "Dashavatar chronicles the ten principal incarnations of Lord Vishnu, manifesting across the yugas to uphold dharma and restore cosmic order—Matsya, Kurma, Varaha, Narasimha, Vamana, Parashurama, Rama, Krishna, Buddha, and the prophesied Kalki.",
+      "show_description_Hin": "दशावतार भगवान विष्णु के दस प्रमुख अवतारों की श्रृंखला है, जिसमें वे विभिन्न युगों में धर्म की स्थापना और सृष्टि के संतुलन हेतु अवतीर्ण होते हैं—मत्स्य, कूर्म, वराह, नरसिंह, वामन, परशुराम, राम, कृष्ण, बुद्ध और भविष्यवाणी किए गए कल्कि।",
+      "videoType": 0,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "1 Matsya Avatar",
+          "episode_title_Hin": "1 मत्स्य अवतार",
+          "episode_description_Eng": "The divine fish incarnation of Lord Vishnu rescuing the Vedas and saving the world from the deluge",
+          "episode_description_Hin": "भगवान विष्णु का मत्स्य अवतार, वेदों की रक्षा और प्रलय से संसार की रक्षा की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/01/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/01_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "480MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "1",
+          "episode_title_Eng": "2 Kurma Avatar",
+          "episode_title_Hin": "2 कूर्म अवतार",
+          "episode_description_Eng": "The tortoise incarnation supporting Mount Mandara during the churning of the ocean",
+          "episode_description_Hin": "समुद्र मंथन के समय कूर्म अवतार द्वारा मेरु पर्वत को सहारा देने की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e1_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/02_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/02/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/02_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "470MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.05GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "2",
+          "episode_title_Eng": "3 Varaha Avatar",
+          "episode_title_Hin": "3 वराह अवतार",
+          "episode_description_Eng": "The boar incarnation rescuing Mother Earth (Bhudevi) from the demon Hiranyaksha",
+          "episode_description_Hin": "भगवान विष्णु का वराह अवतार, हिरण्याक्ष से पृथ्वी देवी को बचाने की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e2_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/03_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/03/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/03_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "500MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.15GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "3",
+          "episode_title_Eng": "4 Narasimha Avatar",
+          "episode_title_Hin": "4 नरसिंह अवतार",
+          "episode_description_Eng": "The man-lion incarnation protecting Prahlad and destroying the tyrant Hiranyakashipu",
+          "episode_description_Hin": "भगवान विष्णु का नरसिंह अवतार, प्रह्लाद की रक्षा और हिरण्यकशिपु के वध की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e3_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/04_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/04/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/04_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "490MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.1GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "4",
+          "episode_title_Eng": "5 Vamana Avatar",
+          "episode_title_Hin": "5 वामन अवतार",
+          "episode_description_Eng": "The dwarf Brahmachari incarnation who humbled King Bali with three divine strides",
+          "episode_description_Hin": "वामन ब्रह्मचारी अवतार की कथा, जिन्होंने राजा बलि को तीन पग से विनीत किया",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e4_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/05_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/05/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/05_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "480MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.08GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "5",
+          "episode_title_Eng": "6 Parashurama Avatar",
+          "episode_title_Hin": "6 परशुराम अवतार",
+          "episode_description_Eng": "The warrior-sage incarnation who punished arrogant Kshatriyas and upheld dharma",
+          "episode_description_Hin": "योद्धा-ऋषि परशुराम अवतार, जिन्होंने अहंकारी क्षत्रियों को दंडित कर धर्म की रक्षा की",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e5_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/06_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/06/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/06_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "520MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.2GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "6",
+          "episode_title_Eng": "7 Shri Rama Avatar",
+          "episode_title_Hin": "7 श्री राम अवतार",
+          "episode_description_Eng": "The noble prince of Ayodhya, embodiment of dharma, and the slayer of Ravana",
+          "episode_description_Hin": "अयोध्या के मर्यादा पुरुषोत्तम श्री राम, धर्म के प्रतीक और रावण वध की कथा",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e6_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/07_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/07/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/07_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "540MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.25GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "7",
+          "episode_title_Eng": "8 Shri Krishna Avatar",
+          "episode_title_Hin": "8 श्री कृष्ण अवतार",
+          "episode_description_Eng": "The divine cowherd of Vrindavan and supreme guide of the Bhagavad Gita",
+          "episode_description_Hin": "वृन्दावन के लीलामय भगवान श्री कृष्ण और भगवद्गीता के सनातन उपदेश",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e7_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/08_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/08/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/08_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "560MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.3GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "8",
+          "episode_title_Eng": "9 Buddha Avatar",
+          "episode_title_Hin": "9 श्री बुद्ध अवतार",
+          "episode_description_Eng": "The compassionate teacher who spread the path of peace and non-violence",
+          "episode_description_Hin": "करुणामयी शिक्षक बुद्ध, जिन्होंने शांति और अहिंसा का मार्ग बताया",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e8_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/09_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/09/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/09_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.0GB"
+            }
+          ]
+        },
+        {
+          "episode_id": "9",
+          "episode_title_Eng": "10 Kalki Avatar",
+          "episode_title_Hin": "10 कल्कि अवतार",
+          "episode_description_Eng": "The prophesied warrior incarnation who ends adharma and restores righteousness",
+          "episode_description_Hin": "अधर्म का अंत कर धर्म की पुनर्स्थापना करने वाले भविष्यमान कल्कि अवतार",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar_v2/99_e9_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/Dashavatar/10_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/Dashavatar_E/10/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/Dashavatar_Keys/10_binary.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "500MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.15GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "107",
+      "title_Eng": "Ambabai Mahalaxmi Temple Darshan",
+      "title_Hin": "अम्बाबाई महालक्ष्मी मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AmbabaiMahalaxmiTempleDarshan_v2/107_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/mahalaxmi_kolhapur_thumbnail.png",
+      "show_description_Eng": "Ambabai Mahalaxmi temple located in Kolhapur.",
+      "show_description_Hin": "कोलहपुर में अम्बाबाई महालक्ष्मी मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ambabai Mahalaxmi Temple Darshan",
+          "episode_title_Hin": "अम्बाबाई महालक्ष्मी मंदिर दर्शन",
+          "episode_description_Eng": "Ambabai Mahalaxmi temple located in Kolhapur.",
+          "episode_description_Hin": "कोलहपुर में अम्बाबाई महालक्ष्मी मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AmbabaiMahalaxmiTempleDarshan_v2/107_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/mahalaxmi_kolhapur_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ambabaimahalaxmitemple/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/AmbabaiMahalaxmiTemple_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "108",
+      "title_Eng": "Ayodhya Deepotsav Darshan",
+      "title_Hin": "अयोध्या दीपोत्सव दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaDeepotsavDarshan_v2/108_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ayodhya_deepostav_thumbnail.png",
+      "show_description_Eng": "Ayodhya's ancient Deepotsav darshan.",
+      "show_description_Hin": "अयोध्या की प्राचीन दीपोत्सव दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ayodhya Deepotsav Darshan",
+          "episode_title_Hin": "अयोध्या दीपोत्सव दर्शन",
+          "episode_description_Eng": "Ayodhya's ancient Deepotsav darshan.",
+          "episode_description_Hin": "अयोध्या की प्राचीन दीपोत्सव दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AyodhyaDeepotsavDarshan_v2/108_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ayodhya_deepostav_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ayodhyadeepotsav/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/AyodhyaDeepostav_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "109",
+      "title_Eng": "Ganpati Pule Darshan",
+      "title_Hin": "गणपति पुले दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GanpatiPuleDarshan_v2/109_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ganpati_pule_thumbnail.png",
+      "show_description_Eng": "Ganpati Pule darshan located in Ratnagiri.",
+      "show_description_Hin": "रत्नागिरी में गणपति पुले दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ganpati Pule Darshan",
+          "episode_title_Hin": "गणपति पुले दर्शन",
+          "episode_description_Eng": "Ganpati Pule darshan located in Ratnagiri.",
+          "episode_description_Hin": "रत्नागिरी में गणपति पुले दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GanpatiPuleDarshan_v2/109_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ganpati_pule_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ganpatipule/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/GanpatiPule_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "110",
+      "title_Eng": "Maa Ambaji Temple Darshan",
+      "title_Hin": "माँ अंबजी मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaAmbajiTempleDarshan_v2/110_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ambaji_temple_thumbnail.png",
+      "show_description_Eng": "Maa Ambaji temple darshan located in Gujarat.",
+      "show_description_Hin": "गुजरात में माँ अंबजी मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Maa Ambaji Temple Darshan",
+          "episode_title_Hin": "माँ अंबजी मंदिर दर्शन",
+          "episode_description_Eng": "Maa Ambaji temple darshan located in Gujarat.",
+          "episode_description_Hin": "गुजरात में माँ अंबजी मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaAmbajiTempleDarshan_v2/110_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ambaji_temple_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/maaambajitemple/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MaaAmbajiTemple_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "111",
+      "title_Eng": "Maa Ashapura Temple Darshan",
+      "title_Hin": "माँ अशवुरा मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaAshapuraTempleDarshan_v2/111_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ashapura_temple_thumbnail.png",
+      "show_description_Eng": "Maa Ashapura temple darshan located in Kutch, Gujarat.",
+      "show_description_Hin": "कच्छ, गुजरात में माँ अशवुरा मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Maa Ashapura Temple Darshan",
+          "episode_title_Hin": "माँ अशवुरा मंदिर दर्शन",
+          "episode_description_Eng": "Maa Ashapura temple darshan located in Kutch, Gujarat.",
+          "episode_description_Hin": "कच्छ, गुजरात में माँ अशवुरा मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaAshapuraTempleDarshan_v2/111_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/ashapura_temple_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/maaashapuratemple/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MaaAshapuraTemple_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "112",
+      "title_Eng": "Maa Baglamukhi  Temple Darshan",
+      "title_Hin": "माँ बगलमुखी मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaBaglamukhiTempleDarshan_v2/112_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/MaaBaglamukhi.jpg",
+      "show_description_Eng": "Maa Baglamukhi temple darshan located in Madhya Pradesh.",
+      "show_description_Hin": "मध्य प्रदेश  में माँ बगलमुखी मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Maa Baglamukhi Temple Darshan",
+          "episode_title_Hin": "माँ बगलमुखी मंदिर दर्शन",
+          "episode_description_Eng": "Maa Baglamukhi temple darshan located in Madhya Pradesh.",
+          "episode_description_Hin": "मध्य प्रदेश  में माँ बगलमुखी मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MaaBaglamukhiTempleDarshan_v2/112_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/MaaBaglamukhi.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/maabaglamukhitemple/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MaaBaglamukhiTemple_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "113",
+      "title_Eng": "Nageshwar Jyotirling Darshan",
+      "title_Hin": "नागेश्वर ज्योतिर्लिंग दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/NageshwarJyotirlingDarshan_v2/113_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/Nageshwar.jpg",
+      "show_description_Eng": "Nageshwar Jyotirlinga darshan located in Dwarka.",
+      "show_description_Hin": "द्वारका में नागेश्वर ज्योतिर्लिंग दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Nageshwar Jyotirling Darshan",
+          "episode_title_Hin": "नागेश्वर ज्योतिर्लिंग दर्शन",
+          "episode_description_Eng": "Nageshwar Jyotirlinga darshan located in Dwarka.",
+          "episode_description_Hin": "द्वारका में नागेश्वर ज्योतिर्लिंग दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/NageshwarJyotirlingDarshan_v2/113_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/Nageshwar.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/NageshwarJyotirlinga/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/NageshwarJyotirlinga_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "48",
+      "title_Eng": "Neelkanth Dham Darshan",
+      "title_Hin": "नीलकंठ धाम दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/NeelkanthDhamDarshan_v2/48_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/NeelkanthDham_Thumbnail.png",
+      "show_description_Eng": "Neelkanth Dham darshan located in Rishikesh.",
+      "show_description_Hin": "रिशीकेश में नीलकंठ धाम दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Neelkanth Dham Darshan",
+          "episode_title_Hin": "नीलकंठ धाम दर्शन",
+          "episode_description_Eng": "Neelkanth Dham darshan located in Rishikesh.",
+          "episode_description_Hin": "रिशीकेश में नीलकंठ धाम दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/NeelkanthDhamDarshan_v2/48_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/NeelkanthDham_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/neelkanthdham/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/NeelkanthDham_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "115",
+      "title_Eng": "Ram Janaki Vivah Darshan",
+      "title_Hin": "राम जानकी  विवाह दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamJanakiVivahDarshan_v2/115_v2.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/orchha_ram_vivah_thumbnail.png",
+      "show_description_Eng": "Ram Janaki Vivah darshan.",
+      "show_description_Hin": "राम जानकी  विवाह दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ram Janaki Vivah Darshan",
+          "episode_title_Hin": "राम जानकी  विवाह दर्शन",
+          "episode_description_Eng": "Ram Janaki Vivah darshan.",
+          "episode_description_Hin": "राम जनकी विवाह दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamJanakiVivahDarshan_v2/115_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshan/ThumbnailsPng/orchha_ram_vivah_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ramjanakivivah/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/RamJanakiVivah_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "98",
+      "title_Eng": "Char Dham Part-1 Yamunotri Darshan",
+      "title_Hin": "चार धाम भाग-1 यमुनोत्री दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart1YamunotriDarshan_v2/98_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Yamnotri_Thumbnail.png",
+      "show_description_Eng": "One of Char Dham, Yamunotri Dham darshan located in Uttarakhand.",
+      "show_description_Hin": "उत्तराखंड स्थित चार धाम में एक यमुनोत्री धाम दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Char Dham Part-1 Yamunotri Darshan",
+          "episode_title_Hin": "चार धाम भाग-1 यमुनोत्री दर्शन",
+          "episode_description_Eng": "One of Char Dham, Yamunotri Dham darshan located in Uttarakhand.",
+          "episode_description_Hin": "उत्तराखंड स्थित चार धाम में एक यमुनोत्री धाम दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart1YamunotriDarshan_v2/98_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Yamnotri_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/yamnotridham/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/YamnotriDham.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "103",
+      "title_Eng": "Shaktipeethon Ka Rahasya",
+      "title_Hin": "शक्तिपीठों का रहस्य",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShaktipeethonKaRahasya_v2/103_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShaktipeethonKaRahasya/01_H.jpg",
+      "show_description_Eng": "Shaktipeethon Ka Rahasya, the secrets of the Shaktipeeths.",
+      "show_description_Hin": "शक्तिपीठों का रहस्य, शक्तिपीठों के रहस्य।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shaktipeethon Ka Rahasya",
+          "episode_title_Hin": "शक्तिपीठों का रहस्य",
+          "episode_description_Eng": "The secrets of the Shaktipeeths.",
+          "episode_description_Hin": "शक्तिपीठों का रहस्य, शक्तिपीठों के रहस्य।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShaktipeethonKaRahasya_v2/103_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShaktipeethonKaRahasya/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShaktipeethonKaRahasya_E/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShaktipeethonKaRahasya_Keys/01.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "450MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "60",
+      "title_Eng": "Valmiki: Dacoit to Maharishi",
+      "title_Hin": "वाल्मीकि: डाकू से महर्षि",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ValmikiDacoitToMaharishi_v2/60_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DakuSeMaharishiValmiki/01_H.jpg",
+      "show_description_Eng": "The inspiring story of Ratnakar's divine transformation from a feared dacoit to the revered sage Maharishi Valmiki, author of the epic Ramayana",
+      "show_description_Hin": "एक भयानक डाकू रत्नाकर से महान ऋषि महर्षि वाल्मीकि बनने की प्रेरणादायक कहानी, जो रामायण के रचयिता बने",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "From Dacoit to Maharishi Valmiki",
+          "episode_title_Hin": "डाकू से महर्षि वाल्मीकि",
+          "episode_description_Eng": "The complete tale of how the notorious robber Ratnakar met Sage Narada and through divine grace and penance transformed into Maharishi Valmiki, the author of the sacred Ramayana",
+          "episode_description_Hin": "कैसे कुख्यात डाकू रत्नाकर की भेंट देवर्षि नारद से हुई और दिव्य कृपा तथा तपस्या द्वारा वे महर्षि वाल्मीकि बने, जिन्होंने पवित्र रामायण की रचना की",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ValmikiDacoitToMaharishi_v2/60_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/DakuSeMaharishiValmiki/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/DakuSeMaharishiValmiki_E/01/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/DakuSeMaharishiValmiki_Keys/01.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "520MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.2GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "61",
+      "title_Eng": "Krishna Ki Deewani",
+      "title_Hin": "कृष्ण की दीवानी",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KrishnaKiDeewani_v2/61_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MeeraBaiBhaktiKiMoorat/01_H.jpg",
+      "show_description_Eng": "The divine story of Meera Bai, the Rajput princess who renounced worldly pleasures to become the supreme devotee of Lord Krishna",
+      "show_description_Hin": "मीरा बाई की दिव्य कहानी, जो राजपूत राजकुमारी से भगवान कृष्ण की परम भक्त बनीं और सांसारिक सुखों का त्याग कर दिया",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Meera Bai - Krishna's Devotee",
+          "episode_title_Hin": "मीरा बाई - कृष्ण भक्ति",
+          "episode_description_Eng": "The inspiring life journey of Meera Bai, from a royal princess to a wandering saint, whose unwavering devotion and divine love for Lord Krishna transcended all worldly bonds and challenges",
+          "episode_description_Hin": "मीरा बाई की प्रेरणादायक जीवन यात्रा, एक राजकुमारी से संत बनने तक, जिनकी भगवान कृष्ण के प्रति अटूट भक्ति और दिव्य प्रेम ने सभी सांसारिक बंधनों और चुनौतियों को पार किया",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/KrishnaKiDeewani_v2/61_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MeeraBaiBhaktiKiMoorat/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/MeeraBaiBhaktiKiMoorat_E/01/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/MeeraBaiBhaktiKiMoorat_Keys/01.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "540MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.25GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "62",
+      "title_Eng": "Ganesh: The Divine Birth",
+      "title_Hin": "श्री गणेश जन्म कथा",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GaneshTheDivineBirth_v2/62_v3.jpg",
+      "ThumnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriGaneshJanmKatha/01_H.jpg",
+      "show_description_Eng": "The sacred story of Lord Ganesha's divine birth and how he became the remover of obstacles and the deity of new beginnings",
+      "show_description_Hin": "भगवान गणेश के दिव्य जन्म की पवित्र कहानी और कैसे वे विघ्नहर्ता और नई शुरुआत के देवता बने",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ganesh's Divine Birth",
+          "episode_title_Hin": "श्री गणेश का जन्म",
+          "episode_description_Eng": "The miraculous story of how Goddess Parvati created Ganesha, Lord Shiva's encounter, and the divine transformation that made Ganesha the beloved elephant-headed god worshipped before all endeavors",
+          "episode_description_Hin": "कैसे माता पार्वती ने गणेश की रचना की, भगवान शिव से उनका सामना हुआ, और दिव्य परिवर्तन से वे हाथी के सिर वाले प्रिय देवता बने जिनकी पूजा सभी कार्यों से पहले की जाती है",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GaneshTheDivineBirth_v2/62_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriGaneshJanmKatha/01_H.jpg",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/2DVideos_Encrypted/ShriGaneshJanmKatha_E/01/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/ShriGaneshJanmKatha_Keys/01.key",
+          "videoSizes": [
+            {
+              "quality": "720p",
+              "size": "480MB"
+            },
+            {
+              "quality": "1080p",
+              "size": "1.1GB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "show_id": "63",
+      "title_Eng": "Annapurna Mata Mandir Darshan",
+      "title_Hin": "अन्नपूर्णा माता मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AnnapurnaMataMandirDarshan_v2/63_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/AnnapurnaMataMandirDarshan.png",
+      "show_description_Eng": "Indore's ancient Maa Annapurna temple darshan.",
+      "show_description_Hin": "इंदौर प्राचीन माँ अन्नपूर्णा मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Annapurna Mata Mandir Darshan",
+          "episode_title_Hin": "अन्नपूर्णा माता मंदिर दर्शन",
+          "episode_description_Eng": "Indore's ancient Maa Annapurna temple darshan.",
+          "episode_description_Hin": "इंदौर प्राचीन माँ अन्नपूर्णा मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/AnnapurnaMataMandirDarshan_v2/63_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/AnnapurnaMataMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/annapoornamatamandir/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/AnnapoornaMataMandir.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "65",
+      "title_Eng": "Bade Hanuman ji Darshan",
+      "title_Hin": "बड़े हनुमान जी दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BadeHanumanJiDarshan_v2/65_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/BadeHanumanJi_Thumbnail.png",
+      "show_description_Eng": "Ancient Shri Bade Hanuman ji darshan located at Sangam bank in Prayagraj.",
+      "show_description_Hin": "प्रयागराज के संगम तट पर स्थित अति प्राचीन श्री लेटे हुए हनुमान जी दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Bade Hanuman ji Darshan",
+          "episode_title_Hin": "बड़े हनुमान जी दर्शन",
+          "episode_description_Eng": "Ancient Shri Bade Hanuman ji darshan located at Sangam bank in Prayagraj.",
+          "episode_description_Hin": "प्रयागराज के संगम तट पर स्थित अति प्राचीन श्री लेटे हुए हनुमान जी दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BadeHanumanJiDarshan_v2/65_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/BadeHanumanJi_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/badehanuman/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/BadeHanuman.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "66",
+      "title_Eng": "Bhadrakali Shaktipeeth Darshan",
+      "title_Hin": "भद्रकाली शक्तिपीठ दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BhadrakaliShaktipeethDarshan_v2/66_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/bhadrakali_shaktipeeth_thumbnail.png",
+      "show_description_Eng": "Ancient Maa Bhadrakali Shaktipeeth darshan, one of the powerful Shakti temples.",
+      "show_description_Hin": "प्राचीन माँ भद्रकाली शक्तिपीठ दर्शन, शक्तिशाली शक्ति मंदिरों में से एक।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Bhadrakali Shaktipeeth Darshan",
+          "episode_title_Hin": "भद्रकाली शक्तिपीठ दर्शन",
+          "episode_description_Eng": "Ancient Maa Bhadrakali Shaktipeeth darshan, one of the powerful Shakti temples.",
+          "episode_description_Hin": "प्राचीन माँ भद्रकाली शक्तिपीठ दर्शन, शक्तिशाली शक्ति मंदिरों में से एक।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BhadrakaliShaktipeethDarshan_v2/66_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/bhadrakali_shaktipeeth_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/badrakalisaktipeeth/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/BadrakaliSaktipeeth_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "67",
+      "title_Eng": "Char Dham Part-4 Badrinath Darshan",
+      "title_Hin": "चार धाम भाग-4 बद्रीनाथ दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart4BadrinathDarshan_v2/67_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Badrinath_Thumbnail.png",
+      "show_description_Eng": "One of Bharat's Char Dham, Badrinath Dham darshan located in Uttarakhand.",
+      "show_description_Hin": "भारत के चार धामों में एक उत्तराखंड स्थित एक बद्रीनाथ धाम दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Char Dham Part-4 Badrinath Darshan",
+          "episode_title_Hin": "चार धाम भाग-4 बद्रीनाथ दर्शन",
+          "episode_description_Eng": "One of Bharat's Char Dham, Badrinath Dham darshan located in Uttarakhand.",
+          "episode_description_Hin": "भारत के चार धामों में एक उत्तराखंड स्थित एक बद्रीनाथ धाम दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart4BadrinathDarshan_v2/67_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Badrinath_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/badrinath_dham/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/Badrinath_Dham.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "68",
+      "title_Eng": "Banke Bihari Darshan",
+      "title_Hin": "बाँके बिहारी दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BankeBihariDarshan_v2/68_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShriBankeBihari.png",
+      "show_description_Eng": "Shri Banke Bihari ji darshan located in Vrindavan.",
+      "show_description_Hin": "वृन्दावन स्थित श्री बांके बिहारी जी दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 0,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Banke Bihari Darshan",
+          "episode_title_Hin": "बाँके बिहारी दर्शन",
+          "episode_description_Eng": "Shri Banke Bihari ji darshan located in Vrindavan.",
+          "episode_description_Hin": "वृन्दावन स्थित श्री बांके बिहारी जी दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/BankeBihariDarshan_v2/68_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShriBankeBihari.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/bankebihariji/master.m3u8",
+          "secondaryPriceType": 0,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/BankeBihariJi.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "70",
+      "title_Eng": "Shri Bhimashankar Marathi Aarti",
+      "title_Hin": "श्री भीमाशंकर मराठी आरती",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DVRDarshan/VerticalThumbnails/6.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhimashankarMarathiAarti.png",
+      "show_description_Eng": "Shri Bhimashankar Jyotirlinga's evening aarti darshan.",
+      "show_description_Hin": "श्री भीमाशंकर ज्योतिर्लिंग के संध्या आरती दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Bhimashankar Marathi Aarti",
+          "episode_title_Hin": "श्री भीमाशंकर मराठी आरती",
+          "episode_description_Eng": "Shri Bhimashankar Jyotirlinga's evening aarti darshan.",
+          "episode_description_Hin": "श्री भीमाशंकर ज्योतिर्लिंग के संध्या आरती दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DVRDarshan/VerticalThumbnails/6.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhimashankarMarathiAarti.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/bhimashankarmandirvideo/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/BhimashankarMandirVideo.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "71",
+      "title_Eng": "Shri Bhojeshwar Mandir Darshan",
+      "title_Hin": "श्री भोजेश्वर मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriBhojeshwarMandirDarshan_v2/71_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhojeshwarMandirDarshan.png",
+      "show_description_Eng": "Shri Bhojeshwar Mahadev darshan located in Bhojpur.",
+      "show_description_Hin": "भोजपुर स्थित श्री भोजेश्वर महादेव दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Bhojeshwar Mandir Darshan",
+          "episode_title_Hin": "श्री भोजेश्वर मंदिर दर्शन",
+          "episode_description_Eng": "Shri Bhojeshwar Mahadev darshan located in Bhojpur.",
+          "episode_description_Hin": "भोजपुर स्थित श्री भोजेश्वर महादेव दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriBhojeshwarMandirDarshan_v2/71_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhojeshwarMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/bhojpurmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/BhojpurMandirDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "72",
+      "title_Eng": "Chamunda Devi Darshan",
+      "title_Hin": "चामुंडा देवी दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ChamundaDeviDarshan_v2/72_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ChamudaDevi_Thumbnail.png",
+      "show_description_Eng": "Ancient Maa Chamunda Devi darshan located in Dewas.",
+      "show_description_Hin": "देवास स्थित अति प्राचीन माँ चामुंडा देवी दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Chamunda Devi Darshan",
+          "episode_title_Hin": "चामुंडा देवी दर्शन",
+          "episode_description_Eng": "Ancient Maa Chamunda Devi darshan located in Dewas.",
+          "episode_description_Hin": "देवास स्थित अति प्राचीन माँ चामुंडा देवी दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ChamundaDeviDarshan_v2/72_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ChamudaDevi_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/chamundadevi/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ChamundaDevi.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "73",
+      "title_Eng": "Chind Dham Darshan",
+      "title_Hin": "छिंद धाम दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ChindDhamDarshan_v2/73_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeChhindDhamMandirDarshan.png",
+      "show_description_Eng": "Famous Shri Chind Dham Hanuman Mandir darshan located in Raisen.",
+      "show_description_Hin": "रायसेन स्थित अति प्रसिद्ध श्री छिंद धाम हनुमान मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Chind Dham Darshan",
+          "episode_title_Hin": "छिंद धाम दर्शन",
+          "episode_description_Eng": "Famous Shri Chind Dham Hanuman Mandir darshan located in Raisen.",
+          "episode_description_Hin": "रायसेन स्थित अति प्रसिद्ध श्री छिंद धाम हनुमान मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ChindDhamDarshan_v2/73_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeChhindDhamMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/chindhamdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ChindhamDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "77",
+      "title_Eng": "Gopal Mandir Darshan",
+      "title_Hin": "गोपाल मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GopalMandirDarshan_v2/77_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/GopalMandirDarshan.png",
+      "show_description_Eng": "Shri Dwarkadhish Mandir darshan located in Ujjayini.",
+      "show_description_Hin": "उज्जयनी स्थित श्री द्वारकाधीश मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Gopal Mandir Darshan",
+          "episode_title_Hin": "गोपाल मंदिर दर्शन",
+          "episode_description_Eng": "Shri Dwarkadhish Mandir darshan located in Ujjayini.",
+          "episode_description_Hin": "उज्जयनी स्थित श्री द्वारकाधीश मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/GopalMandirDarshan_v2/77_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/GopalMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/gopalmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/GopalMandirDarshan_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "78",
+      "title_Eng": "Shri Jagannath Rath Yatra",
+      "title_Hin": "श्री जगन्नाथ रथ यात्रा",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriJagannathRathYatra_v2/78_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/JagannathRathYatra.png",
+      "show_description_Eng": "Annual Rath Yatra of Mahaprabhu Jagannath ji darshan.",
+      "show_description_Hin": "वर्ष में एक बार निकलने वाली महाप्रभु जगन्नाथ जी की रथ यात्रा दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Jagannath Rath Yatra",
+          "episode_title_Hin": "श्री जगन्नाथ रथ यात्रा",
+          "episode_description_Eng": "Annual Rath Yatra of Mahaprabhu Jagannath ji darshan.",
+          "episode_description_Hin": "वर्ष में एक बार निकलने वाली महाप्रभु जगन्नाथ जी की रथ यात्रा दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriJagannathRathYatra_v2/78_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/JagannathRathYatra.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/jagannathji/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/JagannathJi.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "79",
+      "title_Eng": "Char Dham Part-3 Kedarnath Darshan",
+      "title_Hin": "चार धाम भाग-3 केदारनाथ दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart3KedarnathDarshan_v2/79_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Kedarnath_Thumbnail.png",
+      "show_description_Eng": "One of the 12 Jyotirlingas, Kedarnath Dham darshan located in Uttarakhand.",
+      "show_description_Hin": "उत्तराखंड स्थित 12 ज्योतिर्लिंग में एक केदारनाथ धाम दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Char Dham Part-3 Kedarnath Darshan",
+          "episode_title_Hin": "चार धाम भाग-3 केदारनाथ दर्शन",
+          "episode_description_Eng": "One of the 12 Jyotirlingas, Kedarnath Dham darshan located in Uttarakhand.",
+          "episode_description_Hin": "उत्तराखंड स्थित 12 ज्योतिर्लिंग में एक केदारनाथ धाम दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/CharDhamPart3KedarnathDarshan_v2/79_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Kedarnath_Thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/kedarnathdhamupdatedvideo/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/KedarnathDhamUpdatedVideo.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "80",
+      "title_Eng": "Shri Khajarana Ganesh Mandir Darshan",
+      "title_Hin": "श्री खजराना गणेश मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKhajaranaGaneshMandirDarshan_v2/80_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeKhajaranaGaneshMandirDarshan.png",
+      "show_description_Eng": "Ancient Shri Khajarana Ganesh Mandir darshan located in Indore.",
+      "show_description_Hin": "इंदौर स्थित अति प्राचीन श्री खजराना गणेश मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Khajarana Ganesh Mandir Darshan",
+          "episode_title_Hin": "श्री खजराना गणेश मंदिर दर्शन",
+          "episode_description_Eng": "Ancient Shri Khajarana Ganesh Mandir darshan located in Indore.",
+          "episode_description_Hin": "इंदौर स्थित अति प्राचीन श्री खजराना गणेश मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKhajaranaGaneshMandirDarshan_v2/80_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeKhajaranaGaneshMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/khajranaganesh/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/KhajranaGanesh.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "81",
+      "title_Eng": "Maa Harsiddhi Devi Shaktipeeth Aarti",
+      "title_Hin": "माँ हरिसिद्धी देवी शक्तिपीठ आरती",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DVRDarshan/VerticalThumbnails/7.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/MaaHarsiddhiDeviShaktipeethAarti.png",
+      "show_description_Eng": "Evening aarti darshan of Maa Harsiddhi, one of 51 Shaktipeeths, located in religious city Ujjain.",
+      "show_description_Hin": "51 शक्तिपीठों में से एक धार्मिक नगरी उज्जैन में स्थित मां हरसिद्धि की संध्याकालीन आरती दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Maa Harsiddhi Devi Shaktipeeth Aarti",
+          "episode_title_Hin": "माँ हरिसिद्धी देवी शक्तिपीठ आरती",
+          "episode_description_Eng": "Evening aarti darshan of Maa Harsiddhi, one of 51 Shaktipeeths, located in religious city Ujjain.",
+          "episode_description_Hin": "51 शक्तिपीठों में से एक धार्मिक नगरी उज्जैन में स्थित मां हरसिद्धि की संध्याकालीन आरती दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/3DVRDarshan/VerticalThumbnails/7.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/MaaHarsiddhiDeviShaktipeethAarti.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/maaharsiddhimandir/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MaaHarsiddhiMandir.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "82",
+      "title_Eng": "Spiritual Journey of Maa Narmada",
+      "title_Hin": "माँ नर्मदा की आध्यात्मिक यात्रा",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/SpiritualJourneyOfMaaNarmada_v2/82_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/NarmadaParikramaThumbnail.png",
+      "show_description_Eng": "Spiritual journey of Maa Narmada from origin at Amarkantak to Jabalpur.",
+      "show_description_Hin": "माँ नर्मदा के उद्गम स्थल अमरकंटक से लेकर जबलपुर तक की यात्रा।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Spiritual Journey of Maa Narmada",
+          "episode_title_Hin": "माँ नर्मदा की आध्यात्मिक यात्रा",
+          "episode_description_Eng": "Spiritual journey of Maa Narmada from origin at Amarkantak to Jabalpur.",
+          "episode_description_Hin": "माँ नर्मदा के उद्गम स्थल अमरकंटक से लेकर जबलपुर तक की यात्रा।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/SpiritualJourneyOfMaaNarmada_v2/82_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/NarmadaParikramaThumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/maanarmadaparikma/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MaaNarmadaParikma_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "83",
+      "title_Eng": "Maha Kumbh Mela 2025",
+      "title_Hin": "महाकुंभ मेला 2025",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MahaKumbhMela2025_v2/83_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Mahakumbh2025.png",
+      "show_description_Eng": "Maha Kumbh darshan held in Prayagraj once in 12 years.",
+      "show_description_Hin": "12 वर्ष में प्रयागराज में लगने वाले महाकुंभ दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Maha Kumbh Mela 2025",
+          "episode_title_Hin": "महाकुंभ मेला 2025",
+          "episode_description_Eng": "Maha Kumbh darshan held in Prayagraj once in 12 years.",
+          "episode_description_Hin": "12 वर्ष में प्रयागराज में लगने वाले महाकुंभ दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/MahaKumbhMela2025_v2/83_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/Mahakumbh2025.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/mahakumbh2d/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/MahaKumbh2D.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "85",
+      "title_Eng": "Radha Raman Ji Temple Darshan",
+      "title_Hin": "राधा रामन जी मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RadhaRamanJiTempleDarshan_v2/85_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/radha_raman_ji_thumbnail.png",
+      "show_description_Eng": "Sacred Shri Radha Raman Ji mandir darshan in Vrindavan, famous for self-manifested Krishna deity.",
+      "show_description_Hin": "वृन्दावन स्थित पवित्र श्री राधा रामन जी मंदिर दर्शन, स्वयं प्रकट हुई श्री कृष्ण मूर्ति के लिए प्रसिद्ध।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Radha Raman Ji Temple Darshan",
+          "episode_title_Hin": "राधा रामन जी मंदिर दर्शन",
+          "episode_description_Eng": "Sacred Shri Radha Raman Ji mandir darshan in Vrindavan, famous for self-manifested Krishna deity.",
+          "episode_description_Hin": "वृन्दावन स्थित पवित्र श्री राधा रामन जी मंदिर दर्शन, स्वयं प्रकट हुई श्री कृष्ण मूर्ति के लिए प्रसिद्ध।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RadhaRamanJiTempleDarshan_v2/85_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/radha_raman_ji_thumbnail.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/radharaman/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/RadhaRaman.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "86",
+      "title_Eng": "Ramghat Darshan",
+      "title_Hin": "रामघाट दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamghatDarshan_v2/86_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/RamghatMandirDarshan.png",
+      "show_description_Eng": "Ramghat darshan located on Shipra river bank in Ujjayini.",
+      "show_description_Hin": "उज्जयनी के शिप्रा नदी के तट पर स्थित रामघाट दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ramghat Darshan",
+          "episode_title_Hin": "रामघाट दर्शन",
+          "episode_description_Eng": "Ramghat darshan located on Shipra river bank in Ujjayini.",
+          "episode_description_Hin": "उज्जयनी के शिप्रा नदी के तट पर स्थित रामघाट दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamghatDarshan_v2/86_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/RamghatMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ramghatmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/RamghatMandirDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "87",
+      "title_Eng": "Ram Van Gaman Path & Ram Mandir Darshan",
+      "title_Hin": "राम वन गमन पथ एवं राम मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamVanGamanPathRamMandirDarshan_v2/87_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/RamVanGamanPathEvamRamMandirDarshan.png",
+      "show_description_Eng": "Sacred Ram Van Gaman Path darshan, the route taken by Bhagwan Ram during vanvaas, and Ram Mandir darshan.",
+      "show_description_Hin": "पवित्र राम वन गमन पथ दर्शन, जिस मार्ग से भगवान राम वनवास के दौरान गए थे, और राम मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ram Van Gaman Path & Ram Mandir Darshan",
+          "episode_title_Hin": "राम वन गमन पथ एवं राम मंदिर दर्शन",
+          "episode_description_Eng": "Sacred Ram Van Gaman Path darshan, the route taken by Bhagwan Ram during vanvaas, and Ram Mandir darshan.",
+          "episode_description_Hin": "पवित्र राम वन गमन पथ दर्शन, जिस मार्ग से भगवान राम वनवास के दौरान गए थे, और राम मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/RamVanGamanPathRamMandirDarshan_v2/87_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/RamVanGamanPathEvamRamMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ramvangamanpath/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/RamVanGamanPath.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "88",
+      "title_Eng": "Sharda Mata Mandir Darshan",
+      "title_Hin": "शारदा माता मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShardaMataMandirDarshan_v2/88_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShardaMataMandirDarshan.png",
+      "show_description_Eng": "Maa Sharda Mandir darshan, one of 51 Shaktipeeths, located in Maihar.",
+      "show_description_Hin": "51 शक्तिपीठों में से एक मैहर स्थित मां शारदा मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Sharda Mata Mandir Darshan",
+          "episode_title_Hin": "शारदा माता मंदिर दर्शन",
+          "episode_description_Eng": "Maa Sharda Mandir darshan, one of 51 Shaktipeeths, located in Maihar.",
+          "episode_description_Hin": "51 शक्तिपीठों में से एक मैहर स्थित मां शारदा मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShardaMataMandirDarshan_v2/88_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShardaMataMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shardamatamandir/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShardaMataMandir.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "89",
+      "title_Eng": "Shri Bhartrihari Gufa Darshan",
+      "title_Hin": "श्री भर्तृहरि गुफा दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriBhartrihariGufaDarshan_v2/89_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhartrihariGufaMandirDarshan.png",
+      "show_description_Eng": "Tapasya place darshan of famous Raja Bhartrihari in religious city Ujjain.",
+      "show_description_Hin": "धार्मिक नगरी उज्जैन के प्रसिद्ध राजा भर्तृहरि की तपस्या स्थान के दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Bhartrihari Gufa Darshan",
+          "episode_title_Hin": "श्री भर्तृहरि गुफा दर्शन",
+          "episode_description_Eng": "Tapasya place darshan of famous Raja Bhartrihari in religious city Ujjain.",
+          "episode_description_Hin": "धार्मिक नगरी उज्जैन के प्रसिद्ध राजा भर्तृहरि की तपस्या स्थान के दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriBhartrihariGufaDarshan_v2/89_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeBhartrihariGufaMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreebhartriharigufadarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeBhartrihariGufaDarshan_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "90",
+      "title_Eng": "Shri Chintaman Ganesh Mandir Darshan",
+      "title_Hin": "श्री चिंतामण गणेश मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriChintamanGaneshMandirDarshan_v2/90_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeChintamanGaneshMandirDarshan.png",
+      "show_description_Eng": "Ancient Shri Chintaman Ganesh Mandir darshan located in religious city Ujjain.",
+      "show_description_Hin": "धार्मिक नगरी उज्जैन में स्थित अति प्राचीन श्री चिंतामन गणेश मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Chintaman Ganesh Mandir Darshan",
+          "episode_title_Hin": "श्री चिंतामण गणेश मंदिर दर्शन",
+          "episode_description_Eng": "Ancient Shri Chintaman Ganesh Mandir darshan located in religious city Ujjain.",
+          "episode_description_Hin": "धार्मिक नगरी उज्जैन में स्थित अति प्राचीन श्री चिंतामन गणेश मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriChintamanGaneshMandirDarshan_v2/90_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeChintamanGaneshMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreechintamanmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeChintamanMandirDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "91",
+      "title_Eng": "Shri Gadhkalika Mata Mandir Darshan",
+      "title_Hin": "श्री गढ़कालिका माता मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriGadhkalikaMataMandirDarshan_v2/91_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeGadhkalikaMataMandirDarshan.png",
+      "show_description_Eng": "Maa Gadhkalika Mandir darshan in Ujjain, aradhya devi of Mahakavi Kalidas.",
+      "show_description_Hin": "महाकवि कालिदास की आराध्य देवी उज्जैन स्थित मां गढ़कालिका मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Gadhkalika Mata Mandir Darshan",
+          "episode_title_Hin": "श्री गढ़कालिका माता मंदिर दर्शन",
+          "episode_description_Eng": "Maa Gadhkalika Mandir darshan in Ujjain, aradhya devi of Mahakavi Kalidas.",
+          "episode_description_Hin": "महाकवि कालिदास की आराध्य देवी उज्जैन स्थित मां गढ़कालिका मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriGadhkalikaMataMandirDarshan_v2/91_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeGadhkalikaMataMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreegadkalikamatadarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeGadkalikaMataDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "92",
+      "title_Eng": "Shri Kaal Bhairav Mandir Darshan",
+      "title_Hin": "श्री काल भैरव मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKaalBhairavMandirDarshan_v2/92_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeKaalBhairavMandirDarshan.png",
+      "show_description_Eng": "Shri Kaal Bhairav Mandir darshan, protector deity of Ujjain city.",
+      "show_description_Hin": "उज्जैन नगरी के संरक्षक देवता श्री काल भैरव मंदिर दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Kaal Bhairav Mandir Darshan",
+          "episode_title_Hin": "श्री काल भैरव मंदिर दर्शन",
+          "episode_description_Eng": "Shri Kaal Bhairav Mandir darshan, protector deity of Ujjain city.",
+          "episode_description_Hin": "उज्जैन नगरी के संरक्षक देवता श्री काल भैरव मंदिर दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriKaalBhairavMandirDarshan_v2/92_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeKaalBhairavMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreekaalbhairavmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeKaalBhairavMandirDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "94",
+      "title_Eng": "Shri Mangalnath Mandir Darshan",
+      "title_Hin": "श्री मंगलनाथ मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriMangalnathMandirDarshan_v2/94_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeMangalnathMandirDarshan.png",
+      "show_description_Eng": "Shri Mangalnath Bhagwan darshan, lord of planet Mangal, located in Ujjayini.",
+      "show_description_Hin": "उज्जयनी स्थित मंगल ग्रह के स्वामी श्री मंगलनाथ भगवान के दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Mangalnath Mandir Darshan",
+          "episode_title_Hin": "श्री मंगलनाथ मंदिर दर्शन",
+          "episode_description_Eng": "Shri Mangalnath Bhagwan darshan, lord of planet Mangal, located in Ujjayini.",
+          "episode_description_Hin": "उज्जयनी स्थित मंगल ग्रह के स्वामी श्री मंगलनाथ भगवान के दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriMangalnathMandirDarshan_v2/94_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeMangalnathMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreemangalnathmandirdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeMangalnathMandirDarshan.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "95",
+      "title_Eng": "Shri Sandipani Ashram Darshan",
+      "title_Hin": "श्री संदीपनी आश्रम दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriSandipaniAshramDarshan_v2/95_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeSandipaniAshramDarshan.png",
+      "show_description_Eng": "Sandipani Ashram darshan in Ujjayini, Shri Krishna's vidyasthali.",
+      "show_description_Hin": "उज्जयनी स्थित श्री कृष्ण विद्यास्थली सांदीपनि आश्रम दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Shri Sandipani Ashram Darshan",
+          "episode_title_Hin": "श्री संदीपनी आश्रम दर्शन",
+          "episode_description_Eng": "Sandipani Ashram darshan in Ujjayini, Shri Krishna's vidyasthali.",
+          "episode_description_Hin": "उज्जयनी स्थित श्री कृष्ण विद्यास्थली सांदीपनि आश्रम दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/ShriSandipaniAshramDarshan_v2/95_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/ShreeSandipaniAshramDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/shreesandipaniashramdarshan/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/ShreeSandipaniAshramDarshan_binary.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "96",
+      "title_Eng": "Trimbakeshwar Mandir Darshan",
+      "title_Hin": "त्र्यंबकेश्वर मंदिर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/TrimbakeshwarMandirDarshan_v2/96_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/TrimbakeshwarMandirDarshan.png",
+      "show_description_Eng": "Shri Trimbakeshwar Jyotirlinga darshan, tenth among the 12 Jyotirlingas, located in Nashik region of Maharashtra.",
+      "show_description_Hin": " द्वादश ज्योतिर्लिंगों में दसवें स्थान रखने वाली महाराष्ट्र के नासिक क्षेत्र में स्थापित श्री त्रंबकेश्वर ज्योतिर्लिंग दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Trimbakeshwar Mandir Darshan",
+          "episode_title_Hin": "त्र्यंबकेश्वर मंदिर दर्शन",
+          "episode_description_Eng": "Shri Trimbakeshwar Jyotirlinga darshan, tenth among the 12 Jyotirlingas, located in Nashik region of Maharashtra.",
+          "episode_description_Hin": " द्वादश ज्योतिर्लिंगों में दसवें स्थान रखने वाली महाराष्ट्र के नासिक क्षेत्र में स्थापित श्री त्रंबकेश्वर ज्योतिर्लिंग दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/TrimbakeshwarMandirDarshan_v2/96_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/TrimbakeshwarMandirDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/trimbakeshwardocumentry/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/TrimbakeshwarDocumentry.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    },
+    {
+      "show_id": "97",
+      "title_Eng": "Ujjain Nagar Darshan",
+      "title_Hin": "उज्जैन नगर दर्शन",
+      "ThumnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/UjjainNagarDarshan_v2/97_v2.jpg",
+      "ThumnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/UjjainNagarDarshan.png",
+      "show_description_Eng": "Darshan of all main mandirs of religious city Ujjain like Kaal Bhairav, Gadhkalika, Harsiddhi etc.",
+      "show_description_Hin": "धार्मिक नगरी उज्जैन के सभी मुख्य मंदिरों जैसे काल भैरव, गढ़कालिका, हरसिद्धि आदि मंदिरों के दर्शन।",
+      "videoType": 1,
+      "primaryPriceType": 1,
+      "showsData": [
+        {
+          "episode_id": "0",
+          "episode_title_Eng": "Ujjain Nagar Darshan",
+          "episode_title_Hin": "उज्जैन नगर दर्शन",
+          "episode_description_Eng": "Darshan of all main mandirs of religious city Ujjain like Kaal Bhairav, Gadhkalika, Harsiddhi etc.",
+          "episode_description_Hin": "धार्मिक नगरी उज्जैन के सभी मुख्य मंदिरों जैसे काल भैरव, गढ़कालिका, हरसिद्धि आदि मंदिरों के दर्शन।",
+          "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanTV/UjjainNagarDarshan_v2/97_e0_v2.jpg",
+          "thumbnailUrl_Landscape": "https://d2ak1mtdwv7inq.cloudfront.net/DurlabhDarshan/ThumbnailsPng/UjjainNagarDarshan.png",
+          "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanApp/3d-2dVideos/ujjaindarshanhindi/master.m3u8",
+          "secondaryPriceType": 1,
+          "keyAWSObjectId": "DurlabhDarshanMobileApp/Streaming/Keys/2DVideos/3d-2dVideosKeys/UjjainDarshanHindi.key",
+          "videoSizes": [],
+          "videoType": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+[
+    {
+        "id": "1",
+        "templeName": {
+            "hi": "ओंकारेश्वर ज्योतिर्लिंग",
+            "en": "Omkareshwar Jyotirlinga"
+        },
+        "cityName": {
+            "hi": "ओंकारेश्वर",
+            "en": "Omkareshwar"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Omkareshwar.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_ios_v4",
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Omkareshwar Jyotirlinga ki jai! Bholenath ki kripa se sabhi sankat dur ho jaate hain. Har Har Mahadev! 🔱",
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriOmkareshwarJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/iOS_v2",
+            "osx": null
+        },
+        "day": "Monday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Omkareshwar/index.m3u8",
+            "hi": "कावेरिकानर्मदयोः पवित्रे समागमे सज्जनतारणाय। सदैव मांधातृपुरे वसंतं ॐकारमीशं शिवमेकमीडे ॥",
+            "en": "Kaaverikaa Narmadayoḥ Pavitree Samaagame Sajjana Taaranaaya, Sadaiva Maandhaatripure Vasantam Omkaarameesham Shivamekameede ||",
+            "title": {
+                "hi": "शिव ध्यान मंत्र",
+                "en": "Shiva Dhyan Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/Omkareshwar/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "2",
+        "templeName": {
+            "hi": "द्वारकाधीश मंदिर",
+            "en": "Dwarkadhish Temple"
+        },
+        "cityName": {
+            "hi": "द्वारका",
+            "en": "Dwarka"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/DwarkadhishTemple_v1.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_android_v3",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_ios_v3",
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-12/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-12/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-11/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-11/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-10/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-03-10/morning/playlist.m3u8",
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Dwarkadhish ji ki jai! Krishna ji sabki manokamnaen puri karte hain. Jai Shri Krishna! 🕉️",
+        "day": "Thursday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+            "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+            "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah",
+            "title": {
+                "hi": "कृष्ण मूल मंत्र",
+                "en": "Krishna Mool Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/DwarkadhishTemple/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "3",
+        "templeName": {
+            "hi": "सिद्धिविनायक",
+            "en": "Siddhivinayak"
+        },
+        "cityName": {
+            "hi": "मुंबई",
+            "en": "Mumbai"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/SiddhiVinayak.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_AndroidV3",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_iOSV3",
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-11/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-11/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Siddhivinayak ji ki jai! Ganpati Bappa sabhi vighn dur karte hain. Ganpati Bappa Morya! 🙏",
+        "day": "Wednesday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/GanpatiMantra/index.m3u8",
+            "hi": "एकदन्तं शूर्पकर्ण गजवक्त्रं चतुर्भुजम्। पाशान्कुशधरं देवं ध्यायेत् सिद्धिविनायकम्।।",
+            "en": "Ekadantam Shurpakarna Gajavaktram Chaturbhujam. Pashankushdharam Devam Dhyayet Siddhivinayakam.",
+            "title": {
+                "hi": "सिद्धिविनायक ध्यान मंत्र",
+                "en": "Siddhivinayak Dhyan Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/SiddhiVinayak/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "4",
+        "templeName": {
+            "hi": "सोमनाथ",
+            "en": "Somnath"
+        },
+        "cityName": {
+            "hi": "सोमनाथ",
+            "en": "Somnath"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Somnath.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_ios_v4",
+            "osx": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_mac_universal_v1"
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-03-09/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Somnath Jyotirlinga ki jai! Pehla Jyotirlinga hai ye. Somnath ji ki kripa se sabhi paap dur ho jaate hain. Har Har Mahadev! 🔱",
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriSomnathJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/android_v2",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/iOS_v3",
+            "osx": null
+        },
+        "day": "Monday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Somnath/index.m3u8",
+            "hi": "सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम। भक्तिप्रदानाय कृपावतीर्णं तं सोमनाथं शरणं प्रपद्ये ।।",
+            "en": "Saurashtra Deshe Vishade’tiramyye Jyotirmayam Chandra-Kalaavatamsam | Bhakti-Pradaanaaya Kripaavatirnam Tam Somanaatham Sharanam Prapadye ||",
+            "title": {
+                "hi": "शिव ध्यान मंत्र",
+                "en": "Shiva Dhyan Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/SomnathJyotirling/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "5",
+        "templeName": {
+            "hi": "बांके बिहारी",
+            "en": "Banke Bihari"
+        },
+        "cityName": {
+            "hi": "वृंदावन",
+            "en": "Vrindavan"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/BankeBihari.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-09/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 3,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-09/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-03-09/morning/playlist.m3u8",
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Banke Bihari ji ki jai! Radha-Krishna dono ek hi roop mein hain. Radhe Radhe! 💙",
+        "day": "Thursday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+            "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+            "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah",
+            "title": {
+                "hi": "कृष्ण मूल मंत्र",
+                "en": "Krishna Mool Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/BankeBihari/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "7",
+        "templeName": {
+            "hi": "सालासर बालाजी",
+            "en": "Salasar Balaji"
+        },
+        "cityName": {
+            "hi": "सालासर",
+            "en": "Salasar"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/SalasarBalaji.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-12/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-12/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-11/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-11/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-10/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-10/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-09/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-08/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-03-08/morning/playlist.m3u8",
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Salasar Balaji ki jai! Balaji ji sabhi sankat dur karte hain. Jai Shri Balaji! 🚩",
+        "day": "Tuesday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/SalasarBalajiMantra/index.m3u8",
+            "hi": "अतुलितबलधामं हेमशैलाभदेहं दनुजवनकृशानुं ज्ञानिनामग्रगण्यम्। सकलगुणनिधानं वानराणामधीशं रघुपतिप्रियभक्तं वातजातं नमामि॥",
+            "en": "Atulitabaladhaamam Hemashailaabhadeham Danujavanakrishaanung Gyaaninaamagraganyam | Sakalagunanidhanam Vanaranamadhisham Raghupatiprivabhaktam Vaatjaatam Namaami ||",
+            "title": {
+                "hi": "हनुमान ध्यान मंत्र",
+                "en": "Hanuman Dhyan Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/SalasarBalaji/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "8",
+        "templeName": {
+            "hi": "राम जन्मभूमि",
+            "en": "Ram Janmbhoomi"
+        },
+        "cityName": {
+            "hi": "अयोध्या",
+            "en": "Ayodhya"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/RamJanmbhoomi.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_android_v5",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_ios_v5",
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-12/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-12/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-11/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-11/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-10/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-10/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-09/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-09/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-08/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-03-08/morning/playlist.m3u8",
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Ram Janmbhoomi ki jai! Ram ji ki kripa se ghar mein sukh-shanti aati hai. Jai Shri Ram! 🏹",
+        "day": "Thursday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Ramlallamantra/index.m3u8",
+            "hi": "लोकाभिरामं रणरंगधीरं राजीवनेत्रं रघुवंशनाथम्। कारुण्यरूपं करुणाकरन्तं श्रीरामचन्द्रं शरणं प्रपद्ये।।",
+            "en": "Lokaabhi-Raamam Ranna-Rangga-Dhiiram Raajiiva-Netram Raghu-Vamsha-Naatham | Kaarunnya-Rupam Karunnaa-Karantam Shriiraamacamdram Sharannam Prapadye ||",
+            "title": {
+                "hi": "श्री राम ध्यान मंत्र",
+                "en": "Shri Ram Dhyan Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/RamJanmbhoomi/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "9",
+        "templeName": {
+            "hi": "केदारनाथ",
+            "en": "Kedarnath"
+        },
+        "cityName": {
+            "hi": "रुद्रप्रयाग",
+            "en": "Rudraprayag"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Kedarnath.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kedarnath/kedarnath_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kedarnath/kedarnath_ios_v4",
+            "osx": null
+        },
+        "darshans": null,
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriKedarnathJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kedarnath/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kedarnath/iOS_v2",
+            "osx": null
+        }
+    },
+    {
+        "id": "10",
+        "templeName": {
+            "hi": "नागेश्वर",
+            "en": "Nageshwar"
+        },
+        "cityName": {
+            "hi": "द्वारका",
+            "en": "Dwarka"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Nageshwar.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Nageshwar/nageshwar_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Nageshwar/nageshwar_ios_v4",
+            "osx": null
+        },
+        "darshans": null,
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriNageshwarJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Nageshwar/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Nageshwar/iOS_v2",
+            "osx": null
+        }
+    },
+    {
+        "id": "11",
+        "templeName": {
+            "hi": "भीमाशंकर",
+            "en": "Bhimashankar"
+        },
+        "cityName": {
+            "hi": "पुणे",
+            "en": "Pune"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Bhimashankar.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Bhimashankar/bhimashankar_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Bhimashankar/bhimashankar_ios_v4",
+            "osx": null
+        },
+        "darshans": null,
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriBhimashankarJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Bhimashankar/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Bhimashankar/iOS_v2",
+            "osx": null
+        }
+    },
+    {
+        "id": "12",
+        "templeName": {
+            "hi": "घृष्णेश्वर",
+            "en": "Grishneshwar"
+        },
+        "cityName": {
+            "hi": "औरंगाबाद",
+            "en": "Aurangabad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/GrishneshwarTemple.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Grishneshwar/grishneshwar_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Grishneshwar/grishneshwar_ios_v4",
+            "osx": null
+        },
+        "darshans": null,
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriGrishneshwarJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Grishneshwar/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Grishneshwar/iOS_v2",
+            "osx": null
+        }
+    },
+    {
+        "id": "13",
+        "templeName": {
+            "hi": "वैद्यनाथ",
+            "en": "Baidyanath"
+        },
+        "cityName": {
+            "hi": "बैद्यनाथ",
+            "en": "Baidyanath"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Baidhnath.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Baidyanath/baidyanath_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Baidyanath/baidyanath_ios_v4",
+            "osx": null
+        },
+        "darshans": null,
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriBaidyanathJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Badiyanath/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Badiyanath/iOS_v2",
+            "osx": null
+        }
+    },
+    {
+        "id": "14",
+        "templeName": {
+            "hi": "वैष्णोदेवी",
+            "en": "Vaishnodevi"
+        },
+        "cityName": {
+            "hi": "कटरा",
+            "en": "Katra"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/VaishnodeviTemple_v1.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Vaishnodevi/vaishnodevi_android_v3",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Vaishnodevi/vaishnodevi_ios_v3",
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Vaishnodevi Mata ki jai! Mata Rani sabki manokamnaen puri karti hain. Jai Mata Di! 🙏",
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/shrimatavaishnodevi.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Vaishnodevi/android_v1",
+            "ios": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Vaishnodevi/iOS_v1",
+            "osx": null
+        },
+        "day": "Friday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+            "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+            "en": "Om Aim Hreem Kleem Chamundayai Viche",
+            "title": {
+                "hi": "दुर्गा शक्ति मंत्र",
+                "en": "Durga Shakti Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/Vaishnodevi/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "6",
+        "templeName": {
+            "hi": "काशी विश्वनाथ",
+            "en": "Kashi Vishwanath"
+        },
+        "cityName": {
+            "hi": "वाराणसी",
+            "en": "Varanasi"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/KashiVishwanath.jpg",
+        "planType": 0,
+        "abhishekUrl": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_android_v4",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_ios_v4",
+            "osx": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_mac_universal_v1"
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "night",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-03-11/night.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "night",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-03-10/night.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 3,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Kashi Vishwanath ki jai! Moksh ki nagri hai Kashi. Har Har Mahadev! 🔱",
+        "abhishek3DThumbnailUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/3DVRAbhishekThumbnails/ShriKashiVishwanathJyotrilinga.jpg",
+        "abhishekUrl_3D": {
+            "android": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/android_v1",
+            "ios": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/iOS_v2",
+            "osx": null
+        },
+        "day": "Monday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Kashimantra/index.m3u8",
+            "hi": "सानन्दमानन्दवने वसन्तम आनन्दकन्दं हतपापवृन्दम्। वाराणसीनाथमनाथनाथं श्रीविश्वनाथं शरणं प्रपद्ये॥",
+            "en": "Saanandam Aanandavane Vasantam Aanandakandam Hatapapavrindam| Varanashinatham Anathanatham Shri Vishwanatham Sharanam Prapadye||",
+            "title": {
+                "hi": "काशी विश्वनाथ स्तुति",
+                "en": "Kashi Vishwanath Stuti"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/KashiVishwanath/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "15",
+        "templeName": {
+            "hi": "महालक्ष्मी",
+            "en": "Mahalakshmi"
+        },
+        "cityName": {
+            "hi": "कोल्हापुर",
+            "en": "Kolhapur"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/MahaLaxmiKolhapur.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-03-09/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-03-08/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Mahalakshmi Mata ki jai! Mata ki kripa se dhan-daulat aur sukh-shanti milti hai. Jai Mahalakshmi! 💰",
+        "day": "Friday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Mahalakshmi/index.m3u8",
+            "hi": "ॐ महालक्ष्यै नमो नमः विष्णुप्रिये नमो नमः धनप्रदाये नमो नमः विश्वजनन्यै नमो नमः",
+            "en": "Om Mahaalakshmyai Namo Namah Vishnupriye Namo Namah Dhanapradaaye Namo Namah Vishva-Jananyai Namo Namah",
+            "title": {
+                "hi": "महालक्ष्मी मंत्र",
+                "en": "Mahalakshmi Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/Mahalakshmi/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "16",
+        "templeName": {
+            "hi": "विट्ठल रुक्मिणी",
+            "en": "VitthalRukmini"
+        },
+        "cityName": {
+            "hi": "पंढरपुर",
+            "en": "Pandharpur"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/VitthalRukmini.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-09/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-09/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-03-08/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Vitthal-Rukmini ji ki jai! Pandharpur mein dono saath mein virajman hain. Jai Vitthal! 🕉️",
+        "day": "Thursday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/VitthalRukmini/index.m3u8",
+            "hi": "श्री विट्ठल रुक्मिणी नमो नमः",
+            "en": "Shri Vitthal rukmini namo namah",
+            "title": {
+                "hi": "विठ्ठल स्तुति",
+                "en": "Vitthal Stuti"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/VitthalRukmini/2026-03-11/morning.jpg"
+        }
+    },
+    {
+        "id": "17",
+        "templeName": {
+            "hi": "खाटूश्याम",
+            "en": "Khatushyam"
+        },
+        "cityName": {
+            "hi": "सीकर",
+            "en": "Sikar"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Khatushyam.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-03-11/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "evening",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-03-10/evening.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Khatushyam Baba ki jai! Jai Shri Shyam! 🚩",
+        "day": "Sunday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KhatuShyam/index.m3u8",
+            "hi": "ॐ श्री श्याम देवाय नमः जय श्री श्याम ! 🚩",
+            "en": "Om Shri Shyam Devaya Namah. Jai Shri Shyam! 🚩",
+            "title": {
+                "hi": "खाटूश्याम मंत्र",
+                "en": "Khatushyam Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/KhatuShyam/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "18",
+        "templeName": {
+            "hi": "गोविंद देवजी",
+            "en": "GovindDevji"
+        },
+        "cityName": {
+            "hi": "जयपुर",
+            "en": "Jaipur"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/GovindDevji.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-10/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-10/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-09/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-03-08/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Govind Devji ki jai! Vrindavan se aaye Krishna ji yahan virajman hain. Radhe Govind! 💙",
+        "day": "Thursday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/HareKrishna/index.m3u8",
+            "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+            "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare. Hare Rama Hare Rama Rama Rama Hare Hare.",
+            "title": {
+                "hi": "हरे कृष्ण महामंत्र",
+                "en": "Hare Krishna Mahamantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/GovindDevji/2026-03-12/morning.jpg"
+        }
+    },
+    {
+        "id": "19",
+        "templeName": {
+            "hi": "विंध्यवासिनी देवी",
+            "en": "Vindhyavasini Devi"
+        },
+        "cityName": {
+            "hi": "मिर्जापुर",
+            "en": "Mirzapur"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Vindhyavasini.jpg",
+        "planType": 1,
+        "abhishekUrl": {
+            "android": null,
+            "ios": null,
+            "osx": null
+        },
+        "darshans": [
+            {
+                "date": "2026-03-12",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-12/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-11",
+                "slot": "morning",
+                "version": 2,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-11/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-10",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-10/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-09",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-09/morning.jpg",
+                "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-09/morning/playlist.m3u8",
+                "jsonUrl": null
+            },
+            {
+                "date": "2026-03-08",
+                "slot": "morning",
+                "version": 1,
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-03-08/morning.jpg",
+                "videoUrl": null,
+                "jsonUrl": null
+            }
+        ],
+        "shareMsg": "Vindhyawasini devi ki jai! Jai Mata Di! 🙏",
+        "day": "Friday0",
+        "mantra": {
+            "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+            "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+            "en": "Om Aim Hreem Kleem Chamundayai Viche",
+            "title": {
+                "hi": "दुर्गा शक्ति मंत्र",
+                "en": "Durga Shakti Mantra"
+            },
+            "stutiImage": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/aaj-ke-darshan-Image3D/VindhyavasiniDevi/2026-03-12/morning.jpg"
+        }
+    }
+]

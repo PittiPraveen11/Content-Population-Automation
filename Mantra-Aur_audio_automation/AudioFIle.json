@@ -1,0 +1,2850 @@
+{
+    "topAlbumIds": [
+      "39",
+      "02",
+      "29",
+      "21",
+      "06",
+      "08",
+      "10",
+      "24",
+      "42",
+      "38",
+      "03"
+    ],
+    "categories": [
+      {
+        "Category_Id": "Cat_01",
+        "Category_Title_Eng": "Bhajan",
+        "Category_Title_Hin": "भजन",
+        "Category_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Bhajan.jpg",
+        "SubCategories": [
+          {
+            "SubCategory_Id": "Cat_01_01",
+            "SubCategory_Title_Eng": "Shiv Ji",
+            "SubCategory_Title_Hin": "शिव जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+            "Album_Ids": [
+              "18",
+              "25",
+              "32"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_01_02",
+            "SubCategory_Title_Eng": "Ram Ji",
+            "SubCategory_Title_Hin": "राम जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Ram.jpg",
+            "Album_Ids": [
+              "02",
+              "06",
+              "20",
+              "23",
+              "08",
+              "09",
+              "24",
+              "39",
+              "12",
+              "13",
+              "21",
+              "27",
+              "29"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_01_03",
+            "SubCategory_Title_Eng": "Devi Mata",
+            "SubCategory_Title_Hin": "देवी मता",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+            "Album_Ids": [
+              "16",
+              "38"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_01_04",
+            "SubCategory_Title_Eng": "Krishna Ji",
+            "SubCategory_Title_Hin": "कृष्ण जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Krishna.jpg",
+            "Album_Ids": [
+              "62",
+              "19",
+              "36",
+              "40",
+              "41",
+              "22",
+              "05",
+              "31",
+              "37",
+              "33",
+              "45",
+              "14",
+              "17"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_01_05",
+            "SubCategory_Title_Eng": "Hanuman Ji",
+            "SubCategory_Title_Hin": "हनुमान जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Hanuman.jpg",
+            "Album_Ids": [
+              "34",
+              "03",
+              "42",
+              "26",
+              "28"
+            ]
+          }
+        ]
+      },
+      {
+        "Category_Id": "Cat_03",
+        "Category_Title_Eng": "Strotam",
+        "Category_Title_Hin": "स्तोत्रम",
+        "Category_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strotam.jpg",
+        "SubCategories": [
+          {
+            "SubCategory_Id": "Cat_03_01",
+            "SubCategory_Title_Eng": "Shiv Ji",
+            "SubCategory_Title_Hin": "शिव जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+            "Album_Ids": [
+              "04",
+              "10"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_03_03",
+            "SubCategory_Title_Eng": "Krishna Ji",
+            "SubCategory_Title_Hin": "कृष्ण जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Krishna.jpg",
+            "Album_Ids": [
+              "05"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_03_02",
+            "SubCategory_Title_Eng": "Devi Mata",
+            "SubCategory_Title_Hin": "देवी मता",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+            "Album_Ids": [
+              "30"
+            ]
+          }
+        ]
+      },
+      {
+        "Category_Id": "Cat_04",
+        "Category_Title_Eng": "Mantra",
+        "Category_Title_Hin": "मन्त्र",
+        "Category_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Mantra.jpg",
+        "SubCategories": [
+          {
+            "SubCategory_Id": "Cat_04_1",
+            "SubCategory_Title_Eng": "Shiv Ji",
+            "SubCategory_Title_Hin": "शिव जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+            "Album_Ids": [
+              "50",
+              "57",
+              "58"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_04_2",
+            "SubCategory_Title_Eng": "Vishnu Ji",
+            "SubCategory_Title_Hin": "विष्णु जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Vishnu.jpg",
+            "Album_Ids": [
+              "49",
+              "53",
+              "54",
+              "55",
+              "56"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_04_3",
+            "SubCategory_Title_Eng": "Devi Mata",
+            "SubCategory_Title_Hin": "देवी मता",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+            "Album_Ids": [
+              "43",
+              "44",
+              "48",
+              "59"
+            ]
+          },
+          {
+            "SubCategory_Id": "Cat_04_4",
+            "SubCategory_Title_Eng": "Other",
+            "SubCategory_Title_Hin": "अन्य",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+            "Album_Ids": [
+              "07",
+              "15",
+              "51",
+              "52"
+            ]
+          }
+        ]
+      },
+      {
+        "Category_Id": "Cat_05",
+        "Category_Title_Eng": "Audio Series",
+        "Category_Title_Hin": "ऑडियो श्रृंखला",
+        "Category_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/AudioSeries.jpg",
+        "SubCategories": [
+          {
+            "SubCategory_Id": "Cat_05_01",
+            "SubCategory_Title_Eng": "Shiv Ji",
+            "SubCategory_Title_Hin": "शिव जी",
+            "SubCategory_Thumbnail": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+            "Album_Ids": [
+              "61",
+              "60",
+              "47",
+              "46",
+              "01",
+              "35"
+            ]
+          }
+        ]
+      }
+    ],
+    "albums": [
+      {
+        "Album_id": "61",
+        "Album_Title_Eng": "Shiv Puran Yudh Khand",
+        "Album_Title_Hin": "शिव पुराण युद्ध खंड",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/01.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/01.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 1,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Yudh Khand Part 1",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/01.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/01.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/01/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Yudh Khand Part 2",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/02.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/02.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/02/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Yudh Khand Part 3",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/03.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/03.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/03/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Yudh Khand Part 4",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/04.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/04.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/04/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Yudh Khand Part 5",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/05.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/05.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/05/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Yudh Khand Part 6",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/06.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/06.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/06/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Yudh Khand Part 7",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/07.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/07.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/07/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Yudh Khand Part 8",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/08.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/08.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/08/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "8",
+            "TrackTitle_Eng": "Yudh Khand Part 9",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 9",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/09.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/09.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/09/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "9",
+            "TrackTitle_Eng": "Yudh Khand Part 10",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 10",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/10.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/10.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/10/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "10",
+            "TrackTitle_Eng": "Yudh Khand Part 11",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 11",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/11.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/11.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/11/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "11",
+            "TrackTitle_Eng": "Yudh Khand Part 12",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 12",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/12.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/12.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/12/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "12",
+            "TrackTitle_Eng": "Yudh Khand Part 13",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 13",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/13.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/13.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/13/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "13",
+            "TrackTitle_Eng": "Yudh Khand Part 14",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 14",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/14.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/14.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/14/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "14",
+            "TrackTitle_Eng": "Yudh Khand Part 15",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 15",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/15.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/15.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/15/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "15",
+            "TrackTitle_Eng": "Yudh Khand Part 16",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 16",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/16.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/16.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/16/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "16",
+            "TrackTitle_Eng": "Yudh Khand Part 17",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 17",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/17.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/17.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/17/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "17",
+            "TrackTitle_Eng": "Yudh Khand Part 18",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 18",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/18.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/18.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/18/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "18",
+            "TrackTitle_Eng": "Yudh Khand Part 19",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 19",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/19.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/19.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/19/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "19",
+            "TrackTitle_Eng": "Yudh Khand Part 20",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 20",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/20.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/20.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/20/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "20",
+            "TrackTitle_Eng": "Yudh Khand Part 21",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 21",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/21.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/21.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/21/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "21",
+            "TrackTitle_Eng": "Yudh Khand Part 22",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 22",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/22.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/22.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/22/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "22",
+            "TrackTitle_Eng": "Yudh Khand Part 23",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 23",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/23.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/23.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/23/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "23",
+            "TrackTitle_Eng": "Yudh Khand Part 24",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 24",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/24.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/24.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/24/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "24",
+            "TrackTitle_Eng": "Yudh Khand Part 25",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 25",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/25.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/25.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/25/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "25",
+            "TrackTitle_Eng": "Yudh Khand Part 26",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 26",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/26.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/26.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/26/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "26",
+            "TrackTitle_Eng": "Yudh Khand Part 27",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 27",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/27.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/27.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/27/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "27",
+            "TrackTitle_Eng": "Yudh Khand Part 28",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 28",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/28.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/28.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/28/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "28",
+            "TrackTitle_Eng": "Yudh Khand Part 29",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 29",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/29.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/29.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/29/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "29",
+            "TrackTitle_Eng": "Yudh Khand Part 30",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 30",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/30.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/30.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/30/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "30",
+            "TrackTitle_Eng": "Yudh Khand Part 31",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 31",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/31.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/31.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/31/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "31",
+            "TrackTitle_Eng": "Yudh Khand Part 32",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 32",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/32.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/32.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/32/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "32",
+            "TrackTitle_Eng": "Yudh Khand Part 33",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 33",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/33.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/33.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/33/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "33",
+            "TrackTitle_Eng": "Yudh Khand Part 34",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 34",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/34.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/34.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/34/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "34",
+            "TrackTitle_Eng": "Yudh Khand Part 35",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 35",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/35.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/35.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/35/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "35",
+            "TrackTitle_Eng": "Yudh Khand Part 36",
+            "Track_Title_Hin": "युद्ध खंड अध्याय 36",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/36.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranYudhKhand/36.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranYudhKhand_E/36/index.m3u8",
+            "secondaryPriceType": 1
+          }
+        ]
+      },
+      {
+        "Album_id": "60",
+        "Album_Title_Eng": "Shiv Puran Kumar Khand",
+        "Album_Title_Hin": "शिव पुराण कुमार खंड",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/01.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/01.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 1,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Kumar Khand Part 1",
+            "Track_Title_Hin": "कुमार खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/01.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/01/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Kumar Khand Part 2",
+            "Track_Title_Hin": "कुमार खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/02.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/02.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/02/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Kumar Khand Part 3",
+            "Track_Title_Hin": "कुमार खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/03.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/03.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/03/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Kumar Khand Part 4",
+            "Track_Title_Hin": "कुमार खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/04.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/04.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/04/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Kumar Khand Part 5",
+            "Track_Title_Hin": "कुमार खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/05.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/05.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/05/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Kumar Khand Part 6",
+            "Track_Title_Hin": "कुमार खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/06.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/06.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/06/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Kumar Khand Part 7",
+            "Track_Title_Hin": "कुमार खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/07.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/07.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/07/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Kumar Khand Part 8",
+            "Track_Title_Hin": "कुमार खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/08.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/08.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/08/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "8",
+            "TrackTitle_Eng": "Kumar Khand Part 9",
+            "Track_Title_Hin": "कुमार खंड अध्याय 9",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/09.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/09.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/09/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "9",
+            "TrackTitle_Eng": "Kumar Khand Part 10",
+            "Track_Title_Hin": "कुमार खंड अध्याय 10",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/10.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/10.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/10/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "10",
+            "TrackTitle_Eng": "Kumar Khand Part 11",
+            "Track_Title_Hin": "कुमार खंड अध्याय 11",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/11.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/11.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/11/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "11",
+            "TrackTitle_Eng": "Kumar Khand Part 12",
+            "Track_Title_Hin": "कुमार खंड अध्याय 12",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/12.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/12.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/12/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "12",
+            "TrackTitle_Eng": "Kumar Khand Part 13",
+            "Track_Title_Hin": "कुमार खंड अध्याय 13",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/13.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/13.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/13/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "13",
+            "TrackTitle_Eng": "Kumar Khand Part 14",
+            "Track_Title_Hin": "कुमार खंड अध्याय 14",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/14.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/14.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/14/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "14",
+            "TrackTitle_Eng": "Kumar Khand Part 15",
+            "Track_Title_Hin": "कुमार खंड अध्याय 15",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/15.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/15.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/15/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "15",
+            "TrackTitle_Eng": "Kumar Khand Part 16",
+            "Track_Title_Hin": "कुमार खंड अध्याय 16",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/16.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/16.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/16/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "16",
+            "TrackTitle_Eng": "Kumar Khand Part 17",
+            "Track_Title_Hin": "कुमार खंड अध्याय 17",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/17.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/17.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/17/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "17",
+            "TrackTitle_Eng": "Kumar Khand Part 18",
+            "Track_Title_Hin": "कुमार खंड अध्याय 18",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/18.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/18.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/18/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "18",
+            "TrackTitle_Eng": "Kumar Khand Part 19",
+            "Track_Title_Hin": "कुमार खंड अध्याय 19",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/19.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/19.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/19/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "19",
+            "TrackTitle_Eng": "Kumar Khand Part 20",
+            "Track_Title_Hin": "कुमार खंड अध्याय 20",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/20.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranKumarKhand/20.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranKumarKhand_E/20/index.m3u8",
+            "secondaryPriceType": 1
+          }
+        ]
+      },
+      {
+        "Album_id": "47",
+        "Album_Title_Eng": "Shiv Puran Parvati Khand",
+        "Album_Title_Hin": "शिव पुराण पार्वती खंड",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 1,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Parvati Khand Part 1",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/01.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/01/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Parvati Khand Part 2",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/02.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/02.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/02/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Parvati Khand Part 3",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/03.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/03.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/03/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Parvati Khand Part 4",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/04.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/04.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/04/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Parvati Khand Part 5",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/05.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/05.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/05/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Parvati Khand Part 6",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/06.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/06.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/06/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Parvati Khand Part 7",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/07.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/07.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/07/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Parvati Khand Part 8",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/08.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/08.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/08/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "8",
+            "TrackTitle_Eng": "Parvati Khand Part 9",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 9",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/09.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/09.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/09/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "9",
+            "TrackTitle_Eng": "Parvati Khand Part 10",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 10",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/10.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/10.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/10/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "10",
+            "TrackTitle_Eng": "Parvati Khand Part 11",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 11",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/11.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/11.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/11/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "11",
+            "TrackTitle_Eng": "Parvati Khand Part 12",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 12",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/12.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/12.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/12/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "12",
+            "TrackTitle_Eng": "Parvati Khand Part 13",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 13",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/13.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/13.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/13/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "13",
+            "TrackTitle_Eng": "Parvati Khand Part 14",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 14",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/14.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/14.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/14/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "14",
+            "TrackTitle_Eng": "Parvati Khand Part 15",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 15",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/15.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/15.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/15/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "15",
+            "TrackTitle_Eng": "Parvati Khand Part 16",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 16",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/16.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/16.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/16/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "16",
+            "TrackTitle_Eng": "Parvati Khand Part 17",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 17",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/17.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/17.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/17/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "17",
+            "TrackTitle_Eng": "Parvati Khand Part 18",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 18",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/18.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/18.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/18/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "18",
+            "TrackTitle_Eng": "Parvati Khand Part 19",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 19",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/19.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/19.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/19/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "19",
+            "TrackTitle_Eng": "Parvati Khand Part 20",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 20",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/20.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/20.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/20/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "20",
+            "TrackTitle_Eng": "Parvati Khand Part 21",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 21",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/21.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/21.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/21/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "21",
+            "TrackTitle_Eng": "Parvati Khand Part 22",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 22",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/22.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/22.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/22/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "22",
+            "TrackTitle_Eng": "Parvati Khand Part 23",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 23",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/23.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/23.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/23/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "23",
+            "TrackTitle_Eng": "Parvati Khand Part 24",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 24",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/24.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/24.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/24/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "24",
+            "TrackTitle_Eng": "Parvati Khand Part 25",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 25",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/25.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/25.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/25/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "25",
+            "TrackTitle_Eng": "Parvati Khand Part 26",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 26",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/26.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/26.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/26/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "26",
+            "TrackTitle_Eng": "Parvati Khand Part 27",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 27",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/27.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/27.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/27/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "27",
+            "TrackTitle_Eng": "Parvati Khand Part 28",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 28",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/28.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/28.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/28/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "28",
+            "TrackTitle_Eng": "Parvati Khand Part 29",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 29",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/29.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/29.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/29/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "29",
+            "TrackTitle_Eng": "Parvati Khand Part 30",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 30",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/30.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/30.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/30/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "30",
+            "TrackTitle_Eng": "Parvati Khand Part 31",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 31",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/31.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/31.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/31/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "31",
+            "TrackTitle_Eng": "Parvati Khand Part 32",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 32",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/32.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/32.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/32/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "32",
+            "TrackTitle_Eng": "Parvati Khand Part 33",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 33",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/33.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/33.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/33/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "33",
+            "TrackTitle_Eng": "Parvati Khand Part 34",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 34",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/34.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/34.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/34/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "34",
+            "TrackTitle_Eng": "Parvati Khand Part 35",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 35",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/35.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/35.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/35/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "35",
+            "TrackTitle_Eng": "Parvati Khand Part 36",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 36",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/36.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/36.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/36/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "36",
+            "TrackTitle_Eng": "Parvati Khand Part 37",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 37",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/37.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/37.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/37/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "37",
+            "TrackTitle_Eng": "Parvati Khand Part 38",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 38",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/38.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/38.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/38/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "38",
+            "TrackTitle_Eng": "Parvati Khand Part 39",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 39",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/39.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/39.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/39/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "39",
+            "TrackTitle_Eng": "Parvati Khand Part 40",
+            "Track_Title_Hin": "पार्वती खंड अध्याय 40",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/40.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranParvatiKhand/40.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranParvatiKhand_E/40/index.m3u8",
+            "secondaryPriceType": 1
+          }
+        ]
+      },
+      {
+        "Album_id": "46",
+        "Album_Title_Eng": "Shiv Puran Sati Khand",
+        "Album_Title_Hin": "शिव पुराण सती खंड",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 1,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Sati Khand Part 1",
+            "Track_Title_Hin": "सती खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/01/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Sati Khand Part 2",
+            "Track_Title_Hin": "सती खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/02.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/02.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/02/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Sati Khand Part 3",
+            "Track_Title_Hin": "सती खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/03.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/03.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/03/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Sati Khand Part 4",
+            "Track_Title_Hin": "सती खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/04.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/04.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/04/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Sati Khand Part 5",
+            "Track_Title_Hin": "सती खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/05.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/05.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/05/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Sati Khand Part 6",
+            "Track_Title_Hin": "सती खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/06.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/06.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/06/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Sati Khand Part 7",
+            "Track_Title_Hin": "सती खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/07.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/07.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/07/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Sati Khand Part 8",
+            "Track_Title_Hin": "सती खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/08.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/08.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/08/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "8",
+            "TrackTitle_Eng": "Sati Khand Part 9",
+            "Track_Title_Hin": "सती खंड अध्याय 9",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/09.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/09.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/09/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "9",
+            "TrackTitle_Eng": "Sati Khand Part 10",
+            "Track_Title_Hin": "सती खंड अध्याय 10",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/10.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/10.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/10/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "10",
+            "TrackTitle_Eng": "Sati Khand Part 11",
+            "Track_Title_Hin": "सती खंड अध्याय 11",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/11.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/11.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/11/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "11",
+            "TrackTitle_Eng": "Sati Khand Part 12",
+            "Track_Title_Hin": "सती खंड अध्याय 12",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/12.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/12.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/12/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "12",
+            "TrackTitle_Eng": "Sati Khand Part 13",
+            "Track_Title_Hin": "सती खंड अध्याय 13",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/13.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/13.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/13/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "13",
+            "TrackTitle_Eng": "Sati Khand Part 14",
+            "Track_Title_Hin": "सती खंड अध्याय 14",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/14.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/14.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/14/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "14",
+            "TrackTitle_Eng": "Sati Khand Part 15",
+            "Track_Title_Hin": "सती खंड अध्याय 15",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/15.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/15.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/15/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "15",
+            "TrackTitle_Eng": "Sati Khand Part 16",
+            "Track_Title_Hin": "सती खंड अध्याय 16",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/16.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/16.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/16/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "16",
+            "TrackTitle_Eng": "Sati Khand Part 17",
+            "Track_Title_Hin": "सती खंड अध्याय 17",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/17.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/17.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/17/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "17",
+            "TrackTitle_Eng": "Sati Khand Part 18",
+            "Track_Title_Hin": "सती खंड अध्याय 18",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/18.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/18.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/18/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "18",
+            "TrackTitle_Eng": "Sati Khand Part 19",
+            "Track_Title_Hin": "सती खंड अध्याय 19",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/19.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/19.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/19/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "19",
+            "TrackTitle_Eng": "Sati Khand Part 20",
+            "Track_Title_Hin": "सती खंड अध्याय 20",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/20.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/20.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/20/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "20",
+            "TrackTitle_Eng": "Sati Khand Part 21",
+            "Track_Title_Hin": "सती खंड अध्याय 21",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/21.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/21.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/21/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "21",
+            "TrackTitle_Eng": "Sati Khand Part 22",
+            "Track_Title_Hin": "सती खंड अध्याय 22",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/22.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/22.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/22/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "22",
+            "TrackTitle_Eng": "Sati Khand Part 23",
+            "Track_Title_Hin": "सती खंड अध्याय 23",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/23.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/23.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/23/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "23",
+            "TrackTitle_Eng": "Sati Khand Part 24",
+            "Track_Title_Hin": "सती खंड अध्याय 24",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/24.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/24.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/24/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "24",
+            "TrackTitle_Eng": "Sati Khand Part 25",
+            "Track_Title_Hin": "सती खंड अध्याय 25",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/25.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/25.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/25/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "25",
+            "TrackTitle_Eng": "Sati Khand Part 26",
+            "Track_Title_Hin": "सती खंड अध्याय 26",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/26.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/26.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/26/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "26",
+            "TrackTitle_Eng": "Sati Khand Part 27",
+            "Track_Title_Hin": "सती खंड अध्याय 27",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/27.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/27.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/27/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "27",
+            "TrackTitle_Eng": "Sati Khand Part 28",
+            "Track_Title_Hin": "सती खंड अध्याय 28",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/28.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/28.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/28/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "28",
+            "TrackTitle_Eng": "Sati Khand Part 29",
+            "Track_Title_Hin": "सती खंड अध्याय 29",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/29.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/29.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/29/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "29",
+            "TrackTitle_Eng": "Sati Khand Part 30",
+            "Track_Title_Hin": "सती खंड अध्याय 30",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/30.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/30.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/30/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "30",
+            "TrackTitle_Eng": "Sati Khand Part 31",
+            "Track_Title_Hin": "सती खंड अध्याय 31",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/31.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/31.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/31/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "31",
+            "TrackTitle_Eng": "Sati Khand Part 32",
+            "Track_Title_Hin": "सती खंड अध्याय 32",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/32.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/32.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/32/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "32",
+            "TrackTitle_Eng": "Sati Khand Part 33",
+            "Track_Title_Hin": "सती खंड अध्याय 33",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/33.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/33.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/33/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "33",
+            "TrackTitle_Eng": "Sati Khand Part 34",
+            "Track_Title_Hin": "सती खंड अध्याय 34",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/34.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/34.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/34/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "34",
+            "TrackTitle_Eng": "Sati Khand Part 35",
+            "Track_Title_Hin": "सती खंड अध्याय 35",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/35.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/35.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/35/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "35",
+            "TrackTitle_Eng": "Sati Khand Part 36",
+            "Track_Title_Hin": "सती खंड अध्याय 36",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/36.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/36.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/36/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "36",
+            "TrackTitle_Eng": "Sati Khand Part 37",
+            "Track_Title_Hin": "सती खंड अध्याय 37",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/37.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/37.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/37/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "37",
+            "TrackTitle_Eng": "Sati Khand Part 38",
+            "Track_Title_Hin": "सती खंड अध्याय 38",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/38.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/38.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/38/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "38",
+            "TrackTitle_Eng": "Sati Khand Part 39",
+            "Track_Title_Hin": "सती खंड अध्याय 39",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/39.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/39.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/39/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "39",
+            "TrackTitle_Eng": "Sati Khand Part 40",
+            "Track_Title_Hin": "सती खंड अध्याय 40",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/40.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/40.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/40/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "40",
+            "TrackTitle_Eng": "Sati Khand Part 41",
+            "Track_Title_Hin": "सती खंड अध्याय 41",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/41.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/41.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/41/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "41",
+            "TrackTitle_Eng": "Sati Khand Part 42",
+            "Track_Title_Hin": "सती खंड अध्याय 42",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/42.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/42.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/42/index.m3u8",
+            "secondaryPriceType": 1
+          },
+          {
+            "Track_id": "42",
+            "TrackTitle_Eng": "Sati Khand Part 43",
+            "Track_Title_Hin": "सती खंड अध्याय 43",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/43.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/43.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/43/index.m3u8",
+            "secondaryPriceType": 1
+          }
+        ]
+      },
+      {
+        "Album_id": "01",
+        "Album_Title_Eng": "12 Jyotirlinga",
+        "Album_Title_Hin": "12 ज्योतिर्लिंग",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/main.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "01 Somnath Jyotirlinga",
+            "Track_Title_Hin": "01 सोमनाथ ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/somnath.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/somnath.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Somnath_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "02 Mallikarjun Jyotirlinga",
+            "Track_Title_Hin": "02 मालिकरुंज ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/mallikarjun.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/mallikarjun.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Mallikarjun_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "03 Mahakaleshwar Jyotirlinga",
+            "Track_Title_Hin": "03 महाकालेश्वर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/mahakaleshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/mahakaleshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Mahakaleshwar_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "04 Omkareshwar Jyotirlinga",
+            "Track_Title_Hin": "04 ओमकरेश्वर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/omkareshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/omkareshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Omkareshwar_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "05 Kedarnath Jyotirlinga",
+            "Track_Title_Hin": "05 केदारनाथ ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/kedarnath.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/kedarnath.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KedarnathJyotirlinga_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "06 Bhimashankar Jyotirlinga",
+            "Track_Title_Hin": "06 भीमाशंकर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/bhimashankar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/bhimashankar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Bhimashankar_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "07 Kashi Vishwanath Jyotirlinga",
+            "Track_Title_Hin": "07 काशी विश्वनाथ ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/kashivishwanath.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/kashivishwanath.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KashiVishwanath_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "08 Trimbakeshwar Jyotirlinga",
+            "Track_Title_Hin": "08 त्रिअम्बकेश्वर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/trimbakeshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/trimbakeshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Trimbakeshwar_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "8",
+            "TrackTitle_Eng": "09 Nageshwar Jyotirlinga",
+            "Track_Title_Hin": "09 नागेश्वर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/nageshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/nageshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Nageshwar_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "9",
+            "TrackTitle_Eng": "10 Baidyanath Jyotirlinga",
+            "Track_Title_Hin": "10 बैदनाथ ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/baidyanath.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/baidyanath.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Baidyanath_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "10",
+            "TrackTitle_Eng": "11 Rameshwar Jyotirlinga",
+            "Track_Title_Hin": "11 रमेशवर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/rameshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/rameshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Rameshwaram_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "11",
+            "TrackTitle_Eng": "12 Ghrishneshwar Jyotirlinga",
+            "Track_Title_Hin": "12 घृष्णेश्वर ज्योतिर्लिंग",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/ghrishneshwar.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/12Jyotirlinga/ghrishneshwar.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Ghrishneshwar_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "15",
+        "Album_Title_Eng": "Daily Morning 5 Mantra",
+        "Album_Title_Hin": "दैनिक प्रातः काल 5 मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/main.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "01 Ganesh Mantra",
+            "Track_Title_Hin": "01 गणेश मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/ganeshmantra.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/ganeshmantra.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/GanpatiMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "02 Gayatri Mantra",
+            "Track_Title_Hin": "02 गायत्री मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/gayatrimantra.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/gayatrimantra.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/GayatriMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "03 Mahamrityunjaya Mantra",
+            "Track_Title_Hin": "03 महामृत्युंजय मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/mahamrityunjayamantra.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/mahamrityunjayamantra.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/MahamrityunjayMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "04 Hanuman Mantra",
+            "Track_Title_Hin": "04 हनुमान मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/hanumanmantra.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/hanumanmantra.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/HanumanMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "05 Laxmi Mantra",
+            "Track_Title_Hin": "05 लक्ष्मी मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/laxmimantra.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/laxmimantra.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/MahalaxmiMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "35",
+        "Album_Title_Eng": "Shiv Puran Srishti Khand",
+        "Album_Title_Hin": "शिव पुराण सृष्टि खंड",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand1.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand1.jpg",
+        "Album_Type": 1,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Srishti Khand Part 1",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand1.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand1.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay1_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Srishti Khand Part 2",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand2.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand2.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay2_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Srishti Khand Part 3",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand3.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand3.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay3_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Srishti Khand Part 4",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand4.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand4.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay4_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Srishti Khand Part 5",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand5.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand5.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay5_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Srishti Khand Part 6",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand6.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand6.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay6_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Srishti Khand Part 7",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand7.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand7.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay7_E/index.m3u8",
+            "secondaryPriceType": 0
+          },
+          {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Srishti Khand Part 8",
+            "Track_Title_Hin": "सृष्टि खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand8.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuran/srishtikhand8.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuran-SrishtiKhand-Adhyay8_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "62",
+        "Album_Title_Eng": "Gokul Nagri Me Hori",
+        "Album_Title_Hin": "गोकुल नगरी में होरी",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulNagriMeHori/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulNagriMeHori/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Gokul Nagri Me Hori",
+            "Track_Title_Hin": "गोकुल नगरी में होरी",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulNagriMeHori/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulNagriMeHori/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/GokulNagriMeHori_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "59",
+        "Album_Title_Eng": "108 Mata Vaishno Devi Dhyan Mantra",
+        "Album_Title_Hin": "१०८ माता वैष्णो देवी ध्यान मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MataVaishnoDeviDhyanMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MataVaishnoDeviDhyanMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Mata Vaishno Devi Dhyan Mantra",
+            "Track_Title_Hin": "१०८ माता वैष्णो देवी ध्यान मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MataVaishnoDeviDhyanMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MataVaishnoDeviDhyanMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MataVaishnoDeviDhyanMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "58",
+        "Album_Title_Eng": "108 Omkareshwar Jyotirling Stuti",
+        "Album_Title_Hin": "१०८ ओमकारेश्वर ज्योतिर्लिंग स्तुति",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmkareshwarJyotirlingStuti/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmkareshwarJyotirlingStuti/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Omkareshwar Jyotirling Stuti",
+            "Track_Title_Hin": "१०८ ओमकारेश्वर ज्योतिर्लिंग स्तुति",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmkareshwarJyotirlingStuti/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmkareshwarJyotirlingStuti/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/OmkareshwarJyotirlingStuti_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "57",
+        "Album_Title_Eng": "108 Somnath Jyotirling Stuti",
+        "Album_Title_Hin": "१०८ सोमनाथ ज्योतिर्लिंग स्तुति",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SomnathJyotirlingStuti/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SomnathJyotirlingStuti/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Somnath Jyotirling Stuti",
+            "Track_Title_Hin": "१०८ सोमनाथ ज्योतिर्लिंग स्तुति",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SomnathJyotirlingStuti/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SomnathJyotirlingStuti/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/SomnathJyotirlingStuti_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "56",
+        "Album_Title_Eng": "108 Vitthal Stuti",
+        "Album_Title_Hin": "१०८ विठ्ठल स्तुति",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VitthalStuti/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VitthalStuti/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Vitthal Stuti",
+            "Track_Title_Hin": "१०८ विठ्ठल स्तुति",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VitthalStuti/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VitthalStuti/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/VitthalStuti_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "55",
+        "Album_Title_Eng": "108 Hare Krishna Maha Mantra",
+        "Album_Title_Hin": "१०८ हरे कृष्ण महा मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HareKrishnaMahaMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HareKrishnaMahaMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Hare Krishna Maha Mantra",
+            "Track_Title_Hin": "१०८ हरे कृष्ण महा मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HareKrishnaMahaMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HareKrishnaMahaMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HareKrishnaMahaMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "54",
+        "Album_Title_Eng": "108 Shri Ram Dhyan Mantra",
+        "Album_Title_Hin": "१०८ श्री राम ध्यान मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamDhyanMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamDhyanMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Shri Ram Dhyan Mantra",
+            "Track_Title_Hin": "१०८ श्री राम ध्यान मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamDhyanMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamDhyanMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriRamDhyanMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "53",
+        "Album_Title_Eng": "108 Krishna Mool Mantra",
+        "Album_Title_Hin": "१०८ कृष्ण मूल मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KrishnaMoolMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KrishnaMoolMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Krishna Mool Mantra",
+            "Track_Title_Hin": "१०८ कृष्ण मूल मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KrishnaMoolMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KrishnaMoolMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KrishnaMoolMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "52",
+        "Album_Title_Eng": "108 Shri Sidhivinayak Dhyan Mantra",
+        "Album_Title_Hin": "१०८ श्री सिद्धिविनायक ध्यान मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriSidhivinayakDhyanMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriSidhivinayakDhyanMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Shri Sidhivinayak Dhyan Mantra",
+            "Track_Title_Hin": "१०८ श्री सिद्धिविनायक ध्यान मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriSidhivinayakDhyanMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriSidhivinayakDhyanMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriSidhivinayakDhyanMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "51",
+        "Album_Title_Eng": "108 Hanuman Dhyan Mantra",
+        "Album_Title_Hin": "१०८ हनुमान ध्यान मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanDhyanMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanDhyanMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Hanuman Dhyan Mantra",
+            "Track_Title_Hin": "१०८ हनुमान ध्यान मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanDhyanMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanDhyanMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HanumanDhyanMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "50",
+        "Album_Title_Eng": "108 Kashi Vishwanath Stuti",
+        "Album_Title_Hin": "१०८ काशी विश्वनाथ स्तुति",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KashiVishwanathStuti/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KashiVishwanathStuti/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Kashi Vishwanath Stuti",
+            "Track_Title_Hin": "१०८ काशी विश्वनाथ स्तुति",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KashiVishwanathStuti/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KashiVishwanathStuti/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KashiVishwanathStuti_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "49",
+        "Album_Title_Eng": "108 Khatushyam Mantra",
+        "Album_Title_Hin": "१०८ खाटूश्याम मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KhatushyamMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KhatushyamMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Khatushyam Mantra",
+            "Track_Title_Hin": "१०८ खाटूश्याम मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KhatushyamMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KhatushyamMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KhatushyamMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "48",
+        "Album_Title_Eng": "108 Mahalakshmi Mantra",
+        "Album_Title_Hin": "१०८ महालक्ष्मी मन्त्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahaLakshmiMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahaLakshmiMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "108 Mahalakshmi Mantra",
+            "Track_Title_Hin": "१०८ महालक्ष्मी मन्त्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahaLakshmiMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahaLakshmiMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MahaLakshmiMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "45",
+        "Album_Title_Eng": "Sawali Surat Pe Mohan",
+        "Album_Title_Hin": "सवाली सूरत पे मोहन",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SawaliSuratPeMohan/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SawaliSuratPeMohan/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Sawali Surat Pe Mohan",
+            "Track_Title_Hin": "सवाली सुरत पे मोहन",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SawaliSuratPeMohan/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SawaliSuratPeMohan/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/SawaliSuratPeMohan_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "44",
+        "Album_Title_Eng": "Om Jayanti Mangla Kali",
+        "Album_Title_Hin": "ॐ जयन्ती मंगला काली",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmJayantiManglaKali/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmJayantiManglaKali/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Om Jayanti Mangla Kali",
+            "Track_Title_Hin": "ॐ जयन्ती मंगला काली",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmJayantiManglaKali/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmJayantiManglaKali/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/OmJayantiManglaKali_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "43",
+        "Album_Title_Eng": "Karagre Vaste Lakshmi",
+        "Album_Title_Hin": "कराग्रे वास्ते लक्ष्मी",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KaragreVasteLakshmi/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KaragreVasteLakshmi/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Karagre Vaste Lakshmi",
+            "Track_Title_Hin": "कराग्रे वास्ते लक्ष्मी",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KaragreVasteLakshmi/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KaragreVasteLakshmi/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KaragreVasteLakshmi_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "42",
+        "Album_Title_Eng": "Hey Dukh Bhanjan",
+        "Album_Title_Hin": "हे दुःख भंजन",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HeyDukhBhanjan/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HeyDukhBhanjan/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Hey Dukh Bhanjan",
+            "Track_Title_Hin": "हे दुःख भंजन",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HeyDukhBhanjan/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HeyDukhBhanjan/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HeyDukhBhanjan_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "41",
+        "Album_Title_Eng": "Hari Sundar Nand Mukunda",
+        "Album_Title_Hin": "हरि सुंदर नंद मुकुंद",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HariSundarNandMukunda/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HariSundarNandMukunda/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Hari Sundar Nand Mukunda",
+            "Track_Title_Hin": "हरि सुंदर नंद मुकुंद",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HariSundarNandMukunda/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HariSundarNandMukunda/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HariSundarNandMukunda_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "40",
+        "Album_Title_Eng": "Gopala Govind",
+        "Album_Title_Hin": "गोपाल गोविंद",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GopalaGovind/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GopalaGovind/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Gopala Govind",
+            "Track_Title_Hin": "गोपाल गोविंद",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GopalaGovind/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GopalaGovind/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/GopalaGovind_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "39",
+        "Album_Title_Eng": "Ramji Chale Na Hanuman Ke Bina",
+        "Album_Title_Hin": "रामजी चले ना हनुमान के बिना",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamjiChaleNaHanumanKeBina/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamjiChaleNaHanumanKeBina/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ramji Chale Na Hanuman Ke Bina",
+            "Track_Title_Hin": "रामजी चले ना हनुमान के बिना",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamjiChaleNaHanumanKeBina/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamjiChaleNaHanumanKeBina/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamjiChaleNaHanumanKeBina_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "38",
+        "Album_Title_Eng": "Meri Durga Bhawani",
+        "Album_Title_Hin": "मेरी दुर्गा भवानी",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeriDurgaBhawani/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeriDurgaBhawani/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Meri Durga Bhawani",
+            "Track_Title_Hin": "मेरी दुर्गा भवानी",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeriDurgaBhawani/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeriDurgaBhawani/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeriDurgaBhawani_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "37",
+        "Album_Title_Eng": "Mere Banke Bihari Laal",
+        "Album_Title_Hin": "मेरे बांके बिहारी लाल",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MereBankeBihariLaal/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MereBankeBihariLaal/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Mere Banke Bihari Laal",
+            "Track_Title_Hin": "मेरे बांके बिहारी लाल",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MereBankeBihariLaal/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MereBankeBihariLaal/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MereBankeBihariLaal_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "36",
+        "Album_Title_Eng": "Gokul Ka Woh Chora",
+        "Album_Title_Hin": "गोकुल का वो छोरा",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulKaWohChora/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulKaWohChora/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Gokul Ka Woh Chora",
+            "Track_Title_Hin": "गोकुल का वो छोरा",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulKaWohChora/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/GokulKaWohChora/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/GokulKaWohChora_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "03",
+        "Album_Title_Eng": "Hanuman Chalisa",
+        "Album_Title_Hin": "हनुमान चालिसा",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanChalisa/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanChalisa/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Hanuman Chalisa",
+            "Track_Title_Hin": "हनुमान चालिसा",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanChalisa/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanChalisa/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HanumanChalisa_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "34",
+        "Album_Title_Eng": "Hanuman Baan",
+        "Album_Title_Hin": "हनुमान बान",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanBaan/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanBaan/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Hanuman Baan",
+            "Track_Title_Hin": "हनुमान बान",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanBaan/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanBaan/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HanumanBaan_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "30",
+        "Album_Title_Eng": "Mahishasur Mardini",
+        "Album_Title_Hin": "महिषासुर मर्दिनी",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahishasurMardini/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahishasurMardini/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Mahishasur Mardini",
+            "Track_Title_Hin": "महिषासुर मर्दिनी",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahishasurMardini/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahishasurMardini/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MahishasurMardini_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "31",
+        "Album_Title_Eng": "Mera Aapki Kripa Se",
+        "Album_Title_Hin": "मेरा आपकी कृपा से",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeraAapkiKripaSe/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeraAapkiKripaSe/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Mera Aapki Kripa Se",
+            "Track_Title_Hin": "मेरा आपकी कृपा से",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeraAapkiKripaSe/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeraAapkiKripaSe/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeraAapkiKripaSe_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "32",
+        "Album_Title_Eng": "Om Namah Shivay",
+        "Album_Title_Hin": "ओम नमः शिवाय",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmNamahShivay/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmNamahShivay/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Om Namah Shivay",
+            "Track_Title_Hin": "ओम नमः शिवाय",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmNamahShivay/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmNamahShivay/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/OmNamahShivay_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "33",
+        "Album_Title_Eng": "Radhe Kaunse Punya Kiye",
+        "Album_Title_Hin": "राधे कौनसे पुण्य किये",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RadheKaunsePunyaKiye/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RadheKaunsePunyaKiye/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Radhe Kaunse Punya Kiye",
+            "Track_Title_Hin": "राधे कौनसे पुण्य किये",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RadheKaunsePunyaKiye/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RadheKaunsePunyaKiye/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RadheKaunsePunyaKiye_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "02",
+        "Album_Title_Eng": "Hamare Sath Shri Ragunath",
+        "Album_Title_Hin": "हमारे साथ श्री रघुनाथ",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HamareSathShriRagunath/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HamareSathShriRagunath/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Hamare Sath Shri Ragunath",
+            "Track_Title_Hin": "हमारे साथ श्री रघुनाथ",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HamareSathShriRagunath/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HamareSathShriRagunath/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HamareSathShriRagunath_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "22",
+        "Album_Title_Eng": "Kabhi Ram Banke Kabhi Shyam Banke",
+        "Album_Title_Hin": "कभी राम बनके कभी श्याम बनके",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KabhiRamBankeKabhiShyamBanke/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KabhiRamBankeKabhiShyamBanke/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Kabhi Ram Banke Kabhi Shyam Banke",
+            "Track_Title_Hin": "कभी राम बनके कभी श्याम बनके",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KabhiRamBankeKabhiShyamBanke/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KabhiRamBankeKabhiShyamBanke/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KabhiRamBankeKabhiShyamBanke_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "23",
+        "Album_Title_Eng": "Payo Ji Maine Ram Ratan Dhan Payo",
+        "Album_Title_Hin": "पायो जी मैंने राम रतन धन पायो",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/PayoJiMaineRamRatanDhanPayo/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/PayoJiMaineRamRatanDhanPayo/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Payo Ji Maine Ram Ratan Dhan Payo",
+            "Track_Title_Hin": "पायो जी मैंने राम रतन धन पायो",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/PayoJiMaineRamRatanDhanPayo/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/PayoJiMaineRamRatanDhanPayo/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/PayoJiMaineRamRatanDhanPayo_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "24",
+        "Album_Title_Eng": "Ram Naam Ke Sabun Se",
+        "Album_Title_Hin": "राम नाम के साबुन से",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamNaamKeSabunSe/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamNaamKeSabunSe/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ram Naam Ke Sabun Se",
+            "Track_Title_Hin": "राम नाम के साबुन से",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamNaamKeSabunSe/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamNaamKeSabunSe/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamNaamKeSabunSe_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "25",
+        "Album_Title_Eng": "Shankar Teri Jata Se",
+        "Album_Title_Hin": "शंकर तेरी जटा से",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShankarTeriJataSe/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShankarTeriJataSe/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Shankar Teri Jata Se",
+            "Track_Title_Hin": "शंकर तेरी जटा से",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShankarTeriJataSe/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShankarTeriJataSe/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShankarTeriJataSe_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "26",
+        "Album_Title_Eng": "Shri Ram Janki Baithe Hain Mere Seene Me",
+        "Album_Title_Hin": "श्री राम जानकी बैठे हैं मेरे सीने में",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamJankiBaitheHainMereSeeneMe/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamJankiBaitheHainMereSeeneMe/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Shri Ram Janki Baithe Hain Mere Seene Me",
+            "Track_Title_Hin": "श्री राम जानकी बैठे हैं मेरे सीने में",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamJankiBaitheHainMereSeeneMe/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamJankiBaitheHainMereSeeneMe/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriRamJankiBaitheHainMereSeeneMe_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "27",
+        "Album_Title_Eng": "Tum Utho Siya Shringaar Karo",
+        "Album_Title_Hin": "तुम उठो सिया श्रृंगार करो",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TumUthoSiyaShringaarKaro/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TumUthoSiyaShringaarKaro/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Tum Utho Siya Shringaar Karo",
+            "Track_Title_Hin": "तुम उठो सिया श्रृंगार करो",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TumUthoSiyaShringaarKaro/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TumUthoSiyaShringaarKaro/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/TumUthoSiyaShringaarKaro_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "28",
+        "Album_Title_Eng": "Veer Hanuman Ati Balwana",
+        "Album_Title_Hin": "वीर हनुमान अति बलवाना",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VeerHanumanAtiBalwana/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VeerHanumanAtiBalwana/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Veer Hanuman Ati Balwana",
+            "Track_Title_Hin": "वीर हनुमान अति बलवाना",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VeerHanumanAtiBalwana/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/VeerHanumanAtiBalwana/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/VeerHanumanAtiBalwana_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "29",
+        "Album_Title_Eng": "Ye Chamak Ye Damak",
+        "Album_Title_Hin": "ये चमक ये दमक",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YeChamakYeDamak/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YeChamakYeDamak/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ye Chamak Ye Damak",
+            "Track_Title_Hin": "ये चमक ये दमक",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YeChamakYeDamak/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YeChamakYeDamak/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/YeChamakYeDamak_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "16",
+        "Album_Title_Eng": "Ambey Ambey",
+        "Album_Title_Hin": "अम्बे अम्बे",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AmbeyAmbey/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AmbeyAmbey/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ambey Ambey",
+            "Track_Title_Hin": "अम्बे अम्बे",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AmbeyAmbey/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AmbeyAmbey/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/AmbeyAmbey_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "17",
+        "Album_Title_Eng": "Aarti Kunj Bihari Ki",
+        "Album_Title_Hin": "अर्ति कुंज बिहरी की",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AartiKunjBihariKi/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AartiKunjBihariKi/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Aarti Kunj Bihari Ki",
+            "Track_Title_Hin": "अर्ति कुंज बिहरी की",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AartiKunjBihariKi/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AartiKunjBihariKi/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/AartiKunjBihariKi_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "18",
+        "Album_Title_Eng": "Ashutosh Shashank Shekhar",
+        "Album_Title_Hin": "अशुतोष शशंक शेखर",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AshutoshShashankShekhar/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AshutoshShashankShekhar/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ashutosh Shashank Shekhar",
+            "Track_Title_Hin": "अशुतोष शशंक शेखर",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AshutoshShashankShekhar/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AshutoshShashankShekhar/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/AshutoshShashankShekhar_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "19",
+        "Album_Title_Eng": "Choti Choti Gayiya",
+        "Album_Title_Hin": "छोटी छोटी गाइयाँ",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ChotiChotiGayiya/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ChotiChotiGayiya/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Choti Choti Gayiya",
+            "Track_Title_Hin": "छोटी छोटी गाइयाँ",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ChotiChotiGayiya/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ChotiChotiGayiya/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ChotiChotiGayiya_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "20",
+        "Album_Title_Eng": "Maya Ka Mareech Chala",
+        "Album_Title_Hin": "माया का मारीच चला",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MayaKaMareechChala/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MayaKaMareechChala/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Maya Ka Mareech Chala",
+            "Track_Title_Hin": "माया का मारीच चला",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MayaKaMareechChala/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MayaKaMareechChala/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MayaKaMareechChala_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "21",
+        "Album_Title_Eng": "Thumak Chalat",
+        "Album_Title_Hin": "ठुमक चलत",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ThumakChalat/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ThumakChalat/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Thumak Chalat",
+            "Track_Title_Hin": "ठुमक चलत",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ThumakChalat/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ThumakChalat/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ThumakChalat_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "04",
+        "Album_Title_Eng": "Kaal Bhairav Ashtkam",
+        "Album_Title_Hin": "काल भैरव अष्टकम",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KalBhairavAshtkam/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KalBhairavAshtkam/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Kaal Bhairav Ashtkam",
+            "Track_Title_Hin": "कल भैरव अष्टकम",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KalBhairavAshtkam/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KalBhairavAshtkam/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KalBhairavAshtkam_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "05",
+        "Album_Title_Eng": "Madhurashtakam",
+        "Album_Title_Hin": "मधुरष्टकम",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Madhurashtakam/main_v1.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Madhurashtakam/main_v1.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Madhurashtakam",
+            "Track_Title_Hin": "मधुरष्टकम",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Madhurashtakam/main_v1.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Madhurashtakam/main_v1.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Madhurashtakam_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "06",
+        "Album_Title_Eng": "Mangal Bhawan Amangal Hari",
+        "Album_Title_Hin": "मंगल भवन अमंगल हरि",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalBhavanAmangalHari/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalBhavanAmangalHari/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Mangal Bhawan Amangal Hari",
+            "Track_Title_Hin": "मंगल भवन अमंगल हरि",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalBhavanAmangalHari/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalBhavanAmangalHari/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MangalBhavanAmangalHari_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "07",
+        "Album_Title_Eng": "Mangal Mantra",
+        "Album_Title_Hin": "मंगल मंत्र",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalMantra/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalMantra/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Mangal Mantra",
+            "Track_Title_Hin": "मंगल मंत्र",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalMantra/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalMantra/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MangalMantra_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "08",
+        "Album_Title_Eng": "Ram Aayenge",
+        "Album_Title_Hin": "राम आयेंगे",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamAayenge/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamAayenge/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ram Aayenge",
+            "Track_Title_Hin": "राम आयेंगे",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamAayenge/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamAayenge/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamAayenge_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "09",
+        "Album_Title_Eng": "Ram Ko Dekhkar Shri Janak Nandini",
+        "Album_Title_Hin": "राम को देखकर श्री जनक नंदिनी",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamKoDekhkarShriJanakNandini/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamKoDekhkarShriJanakNandini/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Ram Ko Dekhkar Shri Janak Nandini",
+            "Track_Title_Hin": "राम को देखकर श्री जनक नंदिनी",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamKoDekhkarShriJanakNandini/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamKoDekhkarShriJanakNandini/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamKoDekhkarShriJanakNandini_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "10",
+        "Album_Title_Eng": "Rudrashtakam",
+        "Album_Title_Hin": "रुद्रष्टकम",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Rudrashtakam/main_v1.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Rudrashtakam/main_v1.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Rudrashtakam",
+            "Track_Title_Hin": "रुद्रष्टकम",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Rudrashtakam/main_v1.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Rudrashtakam/main_v1.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Rudrashtakam_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "12",
+        "Album_Title_Eng": "Shri Ramchandra Kripalu Bhajman",
+        "Album_Title_Hin": "श्री रामचंद्र कृपलु भजमन",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamchandraKripaluBhajman/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamchandraKripaluBhajman/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Shri Ramchandra Kripalu Bhajman",
+            "Track_Title_Hin": "श्री रामचंद्र कृपलु भजमन",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamchandraKripaluBhajman/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamchandraKripaluBhajman/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriRamchandraKripaluBhajman_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "13",
+        "Album_Title_Eng": "Teri Mand Mand Muskaniya Pe",
+        "Album_Title_Hin": "तेरी मंद मंद मुस्कानिया पे",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TeriMandMandMuskaniyaPe/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TeriMandMandMuskaniyaPe/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Teri Mand Mand Muskaniya Pe",
+            "Track_Title_Hin": "तेरी मंद मंद मुस्कानिया पे",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TeriMandMandMuskaniyaPe/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/TeriMandMandMuskaniyaPe/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/TeriMandMandMuskaniyaPe_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      },
+      {
+        "Album_id": "14",
+        "Album_Title_Eng": "Yadi Nath Ka Naam Dayanidhi Hai",
+        "Album_Title_Hin": "यदि नथ का नाम दयानिधि है",
+        "ThumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YadiNathKaNaamDayanidhiHai/main.jpg",
+        "ThumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YadiNathKaNaamDayanidhiHai/main.jpg",
+        "Album_Type": 0,
+        "primaryPriceType": 0,
+        "albumData": [
+          {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Yadi Nath Ka Naam Dayanidhi Hai",
+            "Track_Title_Hin": "यदि नथ का नाम दयानिधि है",
+            "thumbnailUrl_Portrait": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YadiNathKaNaamDayanidhiHai/main.jpg",
+            "thumbnailUrl_Landscape": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YadiNathKaNaamDayanidhiHai/main.jpg",
+            "videoUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/YadiNathKaNaamDayanidhiHai_E/index.m3u8",
+            "secondaryPriceType": 0
+          }
+        ]
+      }
+    ]
+  }

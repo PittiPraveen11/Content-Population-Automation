@@ -1,0 +1,398 @@
+{
+    "Album_id": "46",
+    "Album_Title_Eng": "Shiv Puran",
+    "Album_Title_Hin": "शिव पुराण",
+    "ThumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+    "ThumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+    "Album_Type": 1,
+    "primaryPriceType": 1,
+    "albumData": [
+        {
+            "Track_id": "0",
+            "TrackTitle_Eng": "Sati Khand Part 1",
+            "Track_Title_Hin": "सती खंड अध्याय 1",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/01.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/01/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "1",
+            "TrackTitle_Eng": "Sati Khand Part 2",
+            "Track_Title_Hin": "सती खंड अध्याय 2",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/02.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/02.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/02/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "2",
+            "TrackTitle_Eng": "Sati Khand Part 3",
+            "Track_Title_Hin": "सती खंड अध्याय 3",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/03.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/03.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/03/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "3",
+            "TrackTitle_Eng": "Sati Khand Part 4",
+            "Track_Title_Hin": "सती खंड अध्याय 4",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/04.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/04.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/04/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "4",
+            "TrackTitle_Eng": "Sati Khand Part 5",
+            "Track_Title_Hin": "सती खंड अध्याय 5",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/05.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/05.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/05/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "5",
+            "TrackTitle_Eng": "Sati Khand Part 6",
+            "Track_Title_Hin": "सती खंड अध्याय 6",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/06.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/06.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/06/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "6",
+            "TrackTitle_Eng": "Sati Khand Part 7",
+            "Track_Title_Hin": "सती खंड अध्याय 7",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/07.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/07.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/07/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "7",
+            "TrackTitle_Eng": "Sati Khand Part 8",
+            "Track_Title_Hin": "सती खंड अध्याय 8",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/08.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/08.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/08/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "8",
+            "TrackTitle_Eng": "Sati Khand Part 9",
+            "Track_Title_Hin": "सती खंड अध्याय 9",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/09.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/09.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/09/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "9",
+            "TrackTitle_Eng": "Sati Khand Part 10",
+            "Track_Title_Hin": "सती खंड अध्याय 10",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/10.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/10.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/10/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "10",
+            "TrackTitle_Eng": "Sati Khand Part 11",
+            "Track_Title_Hin": "सती खंड अध्याय 11",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/11.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/11.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/11/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "11",
+            "TrackTitle_Eng": "Sati Khand Part 12",
+            "Track_Title_Hin": "सती खंड अध्याय 12",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/12.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/12.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/12/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "12",
+            "TrackTitle_Eng": "Sati Khand Part 13",
+            "Track_Title_Hin": "सती खंड अध्याय 13",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/13.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/13.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/13/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "13",
+            "TrackTitle_Eng": "Sati Khand Part 14",
+            "Track_Title_Hin": "सती खंड अध्याय 14",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/14.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/14.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/14/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "14",
+            "TrackTitle_Eng": "Sati Khand Part 15",
+            "Track_Title_Hin": "सती खंड अध्याय 15",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/15.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/15.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/15/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "15",
+            "TrackTitle_Eng": "Sati Khand Part 16",
+            "Track_Title_Hin": "सती खंड अध्याय 16",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/16.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/16.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/16/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "16",
+            "TrackTitle_Eng": "Sati Khand Part 17",
+            "Track_Title_Hin": "सती खंड अध्याय 17",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/17.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/17.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/17/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "17",
+            "TrackTitle_Eng": "Sati Khand Part 18",
+            "Track_Title_Hin": "सती खंड अध्याय 18",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/18.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/18.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/18/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "18",
+            "TrackTitle_Eng": "Sati Khand Part 19",
+            "Track_Title_Hin": "सती खंड अध्याय 19",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/19.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/19.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/19/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "19",
+            "TrackTitle_Eng": "Sati Khand Part 20",
+            "Track_Title_Hin": "सती खंड अध्याय 20",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/20.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/20.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/20/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "20",
+            "TrackTitle_Eng": "Sati Khand Part 21",
+            "Track_Title_Hin": "सती खंड अध्याय 21",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/21.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/21.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/21/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "21",
+            "TrackTitle_Eng": "Sati Khand Part 22",
+            "Track_Title_Hin": "सती खंड अध्याय 22",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/22.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/22.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/22/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "22",
+            "TrackTitle_Eng": "Sati Khand Part 23",
+            "Track_Title_Hin": "सती खंड अध्याय 23",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/23.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/23.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/23/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "23",
+            "TrackTitle_Eng": "Sati Khand Part 24",
+            "Track_Title_Hin": "सती खंड अध्याय 24",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/24.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/24.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/24/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "24",
+            "TrackTitle_Eng": "Sati Khand Part 25",
+            "Track_Title_Hin": "सती खंड अध्याय 25",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/25.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/25.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/25/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "25",
+            "TrackTitle_Eng": "Sati Khand Part 26",
+            "Track_Title_Hin": "सती खंड अध्याय 26",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/26.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/26.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/26/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "26",
+            "TrackTitle_Eng": "Sati Khand Part 27",
+            "Track_Title_Hin": "सती खंड अध्याय 27",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/27.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/27.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/27/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "27",
+            "TrackTitle_Eng": "Sati Khand Part 28",
+            "Track_Title_Hin": "सती खंड अध्याय 28",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/28.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/28.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/28/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "28",
+            "TrackTitle_Eng": "Sati Khand Part 29",
+            "Track_Title_Hin": "सती खंड अध्याय 29",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/29.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/29.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/29/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "29",
+            "TrackTitle_Eng": "Sati Khand Part 30",
+            "Track_Title_Hin": "सती खंड अध्याय 30",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/30.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/30.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/30/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "30",
+            "TrackTitle_Eng": "Sati Khand Part 31",
+            "Track_Title_Hin": "सती खंड अध्याय 31",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/31.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/31.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/31/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "31",
+            "TrackTitle_Eng": "Sati Khand Part 32",
+            "Track_Title_Hin": "सती खंड अध्याय 32",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/32.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/32.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/32/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "32",
+            "TrackTitle_Eng": "Sati Khand Part 33",
+            "Track_Title_Hin": "सती खंड अध्याय 33",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/33.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/33.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/33/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "33",
+            "TrackTitle_Eng": "Sati Khand Part 34",
+            "Track_Title_Hin": "सती खंड अध्याय 34",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/34.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/34.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/34/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "34",
+            "TrackTitle_Eng": "Sati Khand Part 35",
+            "Track_Title_Hin": "सती खंड अध्याय 35",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/35.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/35.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/35/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "35",
+            "TrackTitle_Eng": "Sati Khand Part 36",
+            "Track_Title_Hin": "सती खंड अध्याय 36",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/36.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/36.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/36/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "36",
+            "TrackTitle_Eng": "Sati Khand Part 37",
+            "Track_Title_Hin": "सती खंड अध्याय 37",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/37.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/37.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/37/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "37",
+            "TrackTitle_Eng": "Sati Khand Part 38",
+            "Track_Title_Hin": "सती खंड अध्याय 38",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/38.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/38.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/38/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "38",
+            "TrackTitle_Eng": "Sati Khand Part 39",
+            "Track_Title_Hin": "सती खंड अध्याय 39",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/39.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/39.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/39/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "39",
+            "TrackTitle_Eng": "Sati Khand Part 40",
+            "Track_Title_Hin": "सती खंड अध्याय 40",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/40.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/40.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/40/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "40",
+            "TrackTitle_Eng": "Sati Khand Part 41",
+            "Track_Title_Hin": "सती खंड अध्याय 41",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/41.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/41.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/41/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "41",
+            "TrackTitle_Eng": "Sati Khand Part 42",
+            "Track_Title_Hin": "सती खंड अध्याय 42",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/42.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/42.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/42/index.m3u8",
+            "secondaryPriceType": 1
+        },
+        {
+            "Track_id": "42",
+            "TrackTitle_Eng": "Sati Khand Part 43",
+            "Track_Title_Hin": "सती खंड अध्याय 43",
+            "thumbnailUrl_Portrait": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/43.jpg",
+            "thumbnailUrl_Landscape": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShivPuranSatiKhand/43.jpg",
+            "videoUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShivPuranSatiKhand_E/43/index.m3u8",
+            "secondaryPriceType": 1
+        }
+    ]
+}

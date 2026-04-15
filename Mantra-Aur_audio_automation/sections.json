@@ -1,0 +1,371 @@
+[
+    {
+        "id": "69d3b6d58710710001e50183",
+        "code": "Shivji",
+        "type": "DEITY",
+        "tag": "Shivji",
+        "name": {
+            "hi": "भगवान शिव",
+            "en": "Lord Shiva"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+        "displayOrder": 1,
+        "active": true
+    },
+    {
+        "id": "69d3b6e68710710001e50184",
+        "code": "Ramji",
+        "type": "DEITY",
+        "tag": "Ramji",
+        "name": {
+            "hi": "भगवान राम",
+            "en": "Lord Ram"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Ram.jpg",
+        "displayOrder": 2,
+        "active": true
+    },
+    {
+        "id": "69d3b6f38710710001e50185",
+        "code": "DeviMataji",
+        "type": "DEITY",
+        "tag": "DeviMataji",
+        "name": {
+            "hi": "देवी मता जी",
+            "en": "Devi Mata Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+        "displayOrder": 3,
+        "active": true
+    },
+    {
+        "id": "69d3b6ff8710710001e50186",
+        "code": "KrishnaJi",
+        "type": "DEITY",
+        "tag": "KrishnaJi",
+        "name": {
+            "hi": "कृष्ण जी",
+            "en": "Krishna Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Krishna.jpg",
+        "displayOrder": 4,
+        "active": true
+    },
+    {
+        "id": "69d3b7298710710001e5018a",
+        "code": "Mantra",
+        "type": "GENRE",
+        "tag": "Mantra",
+        "name": {
+            "hi": "मंत्र",
+            "en": "Mantras"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Mantra.jpg",
+        "displayOrder": 4,
+        "active": true
+    },
+    {
+        "id": "69d3b70a8710710001e50187",
+        "code": "HanumanJi",
+        "type": "DEITY",
+        "tag": "HanumanJi",
+        "name": {
+            "hi": "हनुमान जी",
+            "en": "Hanuman Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Hanuman.jpg",
+        "displayOrder": 5,
+        "active": true
+    },
+    {
+        "id": "69d3b7168710710001e50188",
+        "code": "VishnuJi",
+        "type": "DEITY",
+        "tag": "VishnuJi",
+        "name": {
+            "hi": "विष्णु जी",
+            "en": "Vishnu Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Vishnu.jpg",
+        "displayOrder": 6,
+        "active": true
+    },
+    {
+        "id": "69d3b7348710710001e5018b",
+        "code": "Bhajan",
+        "type": "GENRE",
+        "tag": "Bhajan",
+        "name": {
+            "hi": "भजन",
+            "en": "Bhajan"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Bhajan.jpg",
+        "displayOrder": 6,
+        "active": true
+    },
+    {
+        "id": "69d3b7468710710001e5018d",
+        "code": "Strotam",
+        "type": "GENRE",
+        "tag": "Strotam",
+        "name": {
+            "hi": "स्तोत्रम",
+            "en": "Strotam"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strotam.jpg",
+        "displayOrder": 6,
+        "active": true
+    },
+    {
+        "id": "69d3b71f8710710001e50189",
+        "code": "Other",
+        "type": "DEITY",
+        "tag": "Other",
+        "name": {
+            "hi": "अन्य",
+            "en": "Other"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+        "displayOrder": 7,
+        "active": true
+    },
+    {
+        "id": "69d4fbcd42f8bd00019d033a",
+        "code": "Powerful Mantras",
+        "type": "Powerful",
+        "tag": "Powerful Mantras",
+        "name": {
+            "hi": "शक्तिशाली मंत्र",
+            "en": "Powerful Mantras"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Mantra.jpg",
+        "displayOrder": 8,
+        "active": true
+    },
+    {
+        "id": "69d4fbdb42f8bd00019d033b",
+        "code": "Powerful strotam",
+        "type": "Powerful",
+        "tag": "Powerful Strotam",
+        "name": {
+            "hi": "शक्तिशाली स्तोत्रम",
+            "en": "Powerful Strotam"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strotam.jpg",
+        "displayOrder": 8,
+        "active": true
+    },
+    {
+        "id": "69d5e12242f8bd00019d0358",
+        "code": "Top Bhajan",
+        "type": "Top Bhajan",
+        "tag": "Top Bhajan",
+        "name": {
+            "hi": "टॉप भजन",
+            "en": "Top Bhajan"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Bhajan.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Chalisa",
+        "type": "GENRE",
+        "tag": "Chalisa",
+        "name": {
+            "hi": "चालिसा",
+            "en": "Chalisa"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Chalisa.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Ashtakam",
+        "type": "GENRE",
+        "tag": "Ashtakam",
+        "name": {
+            "hi": "अष्टकम",
+            "en": "ASHTAKAM"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Ashtakam.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Stuti",
+        "type": "GENRE",
+        "tag": "Stuti",
+        "name": {
+            "hi": "स्तुति",
+            "en": "Stuti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Stuti.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Aarti",
+        "type": "GENRE",
+        "tag": "Aarti",
+        "name": {
+            "hi": "आरती",
+            "en": "Aarti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Aarti.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Shloka",
+        "type": "GENRE",
+        "tag": "Shloka",
+        "name": {
+            "hi": "श्लोक",
+            "en": "Shloka"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shloka.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "Katha",
+        "type": "GENRE",
+        "tag": "Katha",
+        "name": {
+            "hi": "कथा",
+            "en": "Katha"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Katha.jpg",
+        "displayOrder": 9,
+        "active": true
+    },
+    {
+        "code": "GaneshJi",
+        "type": "DEITY",
+        "tag": "GaneshJi",
+        "name": {
+            "hi": "गणेश जी",
+            "en": "Ganesh Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+        "displayOrder": 10,
+        "active": true
+    },
+    {
+        "code": "LakshmiJi",
+        "type": "DEITY",
+        "tag": "LakshmiJi",
+        "name": {
+            "hi": "लक्ष्मी जी",
+            "en": "Lakshmi Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+        "displayOrder": 11,
+        "active": true
+    },
+    {
+        "code": "ShaniiDevJi",
+        "type": "DEITY",
+        "tag": "ShaniiDevJi",
+        "name": {
+            "hi": "शनि देव जी",
+            "en": "Shani Dev Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+        "displayOrder": 12,
+        "active": true
+    },
+    {
+        "code": "DurjaJi",
+        "type": "DEITY",
+        "tag": "DurjaJi",
+        "name": {
+            "hi": "दुर्जा जी",
+            "en": "Durja Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+        "displayOrder": 13,
+        "active": true
+    },
+    {
+        "code": "Happiness",
+        "type": "INTENT",
+        "tag": "Happiness",
+        "name": {
+            "hi": "ख़ुशी और शांति",
+            "en": "Happiness and Peace"
+        },
+        "active": true
+    },
+    {
+        "code": "Wealth",
+        "type": "INTENT",
+        "tag": "Wealth",
+        "name": {
+            "hi": "धन और समृद्धि",
+            "en": "Wealth and Prosperity"
+        },
+        "active": true
+    },
+    {
+        "code": "Health",
+        "type": "INTENT",
+        "tag": "Health",
+        "name": {
+            "hi": "स्वास्थ्य और कल्याण",
+            "en": "Health and Wellness"
+        },
+        "active": true
+    },
+    {
+        "code": "Knowledge",
+        "type": "INTENT",
+        "tag": "Knowledge",
+        "name": {
+            "hi": "ज्ञान और बुद्धि",
+            "en": "Knowledge and Wisdom"
+        },
+        "active": true
+    },
+    {
+        "code": "Strength",
+        "type": "INTENT",
+        "tag": "Strength",
+        "name": {
+            "hi": "शक्ति और साहस",
+            "en": "Strength and Courage"
+        },
+        "active": true
+    },
+    {
+        "code": "LoveAndRelationship",
+        "type": "INTENT",
+        "tag": "LoveAndRelationship",
+        "name": {
+            "hi": "प्रेम और संबंध",
+            "en": "Love and Relationship"
+        },
+        "active": true
+    },
+    {
+        "code": "Success",
+        "type": "INTENT",
+        "tag": "Success",
+        "name": {
+            "hi": "सफलता",
+            "en": "Success"
+        },
+        "active": true
+    },
+    {
+        "code": "Diwali",
+        "type": "INTENT",
+        "tag": "Diwali",
+        "name": {
+            "hi": "दीपावली",
+            "en": "Diwali"
+        },
+        "active": true
+    }
+]
