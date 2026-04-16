@@ -296,6 +296,7 @@
             "hi": "ख़ुशी और शांति",
             "en": "Happiness and Peace"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Happiness.jpg",
         "active": true
     },
     {
@@ -306,6 +307,7 @@
             "hi": "धन और समृद्धि",
             "en": "Wealth and Prosperity"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Wealth.jpg",
         "active": true
     },
     {
@@ -316,6 +318,7 @@
             "hi": "स्वास्थ्य और कल्याण",
             "en": "Health and Wellness"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Health.jpg",
         "active": true
     },
     {
@@ -326,6 +329,7 @@
             "hi": "ज्ञान और बुद्धि",
             "en": "Knowledge and Wisdom"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Knowledge.jpg",
         "active": true
     },
     {
@@ -336,6 +340,7 @@
             "hi": "शक्ति और साहस",
             "en": "Strength and Courage"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strength.jpg",
         "active": true
     },
     {
@@ -346,6 +351,7 @@
             "hi": "प्रेम और संबंध",
             "en": "Love and Relationship"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/LoveAndRelationship.jpg",
         "active": true
     },
     {
@@ -356,16 +362,194 @@
             "hi": "सफलता",
             "en": "Success"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Success.jpg",
         "active": true
     },
     {
         "code": "Diwali",
-        "type": "INTENT",
+        "type": "FESTIVAL SPECIAL",
         "tag": "Diwali",
         "name": {
             "hi": "दीपावली",
             "en": "Diwali"
         },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Diwali.jpg",
+        "active": true
+    },
+    {
+        "code": "SubahUthteHi",
+        "type": "DAILY ROUTINE",
+        "tag": "SubahUthteHi",
+        "name": {
+            "hi": "सुबह उठते ही",
+            "en": "SubahUthteHi"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/SubahUthteHi.jpg",
+        "active": true
+    },
+    {
+        "code": "NahaneKeSamay",
+        "type": "DAILY ROUTINE",
+        "tag": "NahaneKeSamay",
+        "name": {
+            "hi": "नहाने के समय",
+            "en": "NahaneKeSamay"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/NahaneKeSamay.jpg",
+        "active": true
+    },
+    {
+        "code": "NahaneKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "NahaneKeBaad",
+        "name": {
+            "hi": "नहाने के बाद",
+            "en": "NahaneKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/NahaneKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "BhojanSePehle",
+        "type": "DAILY ROUTINE",
+        "tag": "BhojanSePehle",
+        "name": {
+            "hi": "भोजन से पहले",
+            "en": "BhojanSePehle"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/BhojanSePehle.jpg",
+        "active": true
+    },
+    {
+        "code": "BhojanKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "BhojanKeBaad",
+        "name": {
+            "hi": "भोजन के बाद",
+            "en": "BhojanKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/BhojanKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "PoojaKeSamay",
+        "type": "DAILY ROUTINE",
+        "tag": "PoojaKeSamay",
+        "name": {
+            "hi": "पूजा के समय",
+            "en": "PoojaKeSamay"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/PoojaKeSamay.jpg",
+        "active": true
+    },
+    {
+        "code": "PoojaKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "PoojaKeBaad",
+        "name": {
+            "hi": "पूजा के बाद",
+            "en": "PoojaKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/PoojaKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "SoneSePehle",
+        "type": "DAILY ROUTINE",
+        "tag": "SoneSePehle",
+        "name": {
+            "hi": "सोने से पहले",
+            "en": "SoneSePehle"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/SoneSePehle.jpg",
+        "active": true
+    },
+    {
+        "code": "Janmashtami",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Janmashtami",
+        "name": {
+            "hi": "जन्माष्टमी",
+            "en": "Janmashtami"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Janmashtami.jpg",
+        "active": true
+    },
+    {
+        "code": "Navratri",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Navratri",
+        "name": {
+            "hi": "नवरात्रि",
+            "en": "Navratri"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Navratri.jpg",
+        "active": true
+    },
+    {
+        "code": "Dussehra",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Dussehra",
+        "name": {
+            "hi": "दशहरा",
+            "en": "Dussehra"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Dussehra.jpg",
+        "active": true
+    },
+    {
+        "code": "MahaShivratri",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "MahaShivratri",
+        "name": {
+            "hi": "महाशिवरात्रि",
+            "en": "MahaShivratri"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/MahaShivratri.jpg",
+        "active": true
+    },
+    {
+        "code": "GaneshChaturthi",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "GaneshChaturthi",
+        "name": {
+            "hi": "गणेश चतुर्थी",
+            "en": "GaneshChaturthi"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/GaneshChaturthi.jpg",
+        "active": true
+    },
+    {
+        "code": "RamNavami",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "RamNavami",
+        "name": {
+            "hi": "राम नवमी",
+            "en": "RamNavami"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/RamNavami.jpg",
+        "active": true
+    },
+    {
+        "code": "HanumanJayanti",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "HanumanJayanti",
+        "name": {
+            "hi": "हनुमान जयंती",
+            "en": "HanumanJayanti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/HanumanJayanti.jpg",
+        "active": true
+    },
+    {
+        "code": "Peace",
+        "type": "INTENT",
+        "tag": "Peace",
+        "name": {
+            "hi": "शांति",
+            "en": "Peace"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Peace.jpg",
         "active": true
     }
 ]
