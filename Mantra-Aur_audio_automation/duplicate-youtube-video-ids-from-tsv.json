@@ -1,0 +1,1399 @@
+[
+  {
+    "youtube_video_id": "aTFeZxXkL78",
+    "unique_exact_url_count": 5,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/aTFeZxXkL78?si=HFj5YBPqHTqebgZi",
+      "https://youtu.be/aTFeZxXkL78?si=HaE-tYiH834XPpXn",
+      "https://youtu.be/aTFeZxXkL78?si=dnS6JCgCFy-zz_xG",
+      "https://youtu.be/aTFeZxXkL78?si=duxsc5pwTGoNRBpq",
+      "https://youtu.be/aTFeZxXkL78?si=m5lUjY4i8013BWXj"
+    ],
+    "all_unique_exact_urls_count": 5,
+    "line_numbers_sample": [
+      162,
+      460,
+      943,
+      1130,
+      1195,
+      1457
+    ]
+  },
+  {
+    "youtube_video_id": "HH_a6aRO1TE",
+    "unique_exact_url_count": 4,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/HH_a6aRO1TE?si=k0J6WxtRY4t4yhi1",
+      "https://youtu.be/HH_a6aRO1TE?si=kxNH5n_ZR6TlNb72",
+      "https://youtu.be/HH_a6aRO1TE?si=oQ72oac9OI-c9FEL",
+      "https://youtu.be/HH_a6aRO1TE?si=rTY4-xxT-cJfpz4W"
+    ],
+    "all_unique_exact_urls_count": 4,
+    "line_numbers_sample": [
+      111,
+      135,
+      836,
+      1203,
+      1538
+    ]
+  },
+  {
+    "youtube_video_id": "OKRVaXU01kI",
+    "unique_exact_url_count": 4,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/OKRVaXU01kI?si=3YMdFbLtHjcGJ4sE",
+      "https://youtu.be/OKRVaXU01kI?si=JiW7DxUS6igTBq2G",
+      "https://youtu.be/OKRVaXU01kI?si=_uw6ukhpng-Bgeg6",
+      "https://youtu.be/OKRVaXU01kI?si=iCg0c1WVrhyIyDez"
+    ],
+    "all_unique_exact_urls_count": 4,
+    "line_numbers_sample": [
+      599,
+      647,
+      1119,
+      1165
+    ]
+  },
+  {
+    "youtube_video_id": "1y2tRqtND1Y",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/1y2tRqtND1Y?si=Oc1VslQStdIS9Z13",
+      "https://youtu.be/1y2tRqtND1Y?si=j1s6RWWKKwE9EShB",
+      "https://youtu.be/1y2tRqtND1Y?si=wVq_YTMXmSeZFrYr"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      523,
+      750,
+      1063,
+      1309
+    ]
+  },
+  {
+    "youtube_video_id": "3yczGKnskts",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/3yczGKnskts?si=--z5nTrp4XW8mSRd",
+      "https://youtu.be/3yczGKnskts?si=FvdBzJon0L1sUzSE",
+      "https://youtu.be/3yczGKnskts?si=kXnjK3iThd_asoFy"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      266,
+      570,
+      753,
+      1025,
+      1081,
+      1156,
+      1236,
+      1287,
+      1312,
+      1325
+    ]
+  },
+  {
+    "youtube_video_id": "6LO2PRgbutc",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/6LO2PRgbutc?si=5jlVXHicQQJxmGEG",
+      "https://youtu.be/6LO2PRgbutc?si=vBmy2NmB3RzkWjbW",
+      "https://youtu.be/6LO2PRgbutc?si=yww6-9PsBDlf4jy1"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      554,
+      1318,
+      1517
+    ]
+  },
+  {
+    "youtube_video_id": "CIl1O1GwOfk",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/CIl1O1GwOfk?si=0PLRHfGike1eIJPN",
+      "https://youtu.be/CIl1O1GwOfk?si=S3QRakW4DlnGi8eb",
+      "https://youtu.be/CIl1O1GwOfk?si=l5pF_ixmqVuHcdOn"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      114,
+      129,
+      1074,
+      1140,
+      1210,
+      1531
+    ]
+  },
+  {
+    "youtube_video_id": "FUpzgvsWkL8",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/FUpzgvsWkL8?si=IR8jegQlpVL8NtTl",
+      "https://youtu.be/FUpzgvsWkL8?si=XDpQmK9jpt227gC0",
+      "https://youtu.be/FUpzgvsWkL8?si=qjtBffQzDjZu3rmc"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      88,
+      1117,
+      1168,
+      1529
+    ]
+  },
+  {
+    "youtube_video_id": "IKGvPex_NQM",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/IKGvPex_NQM?si=1DrV4jmYl-n-B0rm",
+      "https://youtu.be/IKGvPex_NQM?si=wE8sis6qTbHLMdVg",
+      "https://youtu.be/IKGvPex_NQM?si=xMEMFFJwC-anq-r8"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      925,
+      973,
+      1190
+    ]
+  },
+  {
+    "youtube_video_id": "Tssx17scqO4",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Tssx17scqO4?si=WWEOC-sAGbJPwWoB",
+      "https://youtu.be/Tssx17scqO4?si=gBPrZ12Ss-Z8E65l",
+      "https://youtu.be/Tssx17scqO4?si=uOt96Cx7Sz5DPI5b"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      164,
+      462,
+      1458
+    ]
+  },
+  {
+    "youtube_video_id": "bZ-Zrc-GPoc",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/bZ-Zrc-GPoc?si=b8J0Kore8Q3bJWmI",
+      "https://youtu.be/bZ-Zrc-GPoc?si=cw_EX8USJqc4e0KA",
+      "https://youtu.be/bZ-Zrc-GPoc?si=pLzw80vTt6ty2tJt"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      432,
+      1382,
+      1513
+    ]
+  },
+  {
+    "youtube_video_id": "sDhrWWWBQLI",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/sDhrWWWBQLI?si=08qM_PSgcxvPDebN",
+      "https://youtu.be/sDhrWWWBQLI?si=q8A3dtzw-Pz1pxK1",
+      "https://youtu.be/sDhrWWWBQLI?si=x0qKB6U3A5R2FSQr"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      132,
+      1384,
+      1549
+    ]
+  },
+  {
+    "youtube_video_id": "vYFOV9nj-_w",
+    "unique_exact_url_count": 3,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/vYFOV9nj-_w?si=Fh10acxtqXypmgSV",
+      "https://youtu.be/vYFOV9nj-_w?si=_NycUXJsmBt6Da4d",
+      "https://youtu.be/vYFOV9nj-_w?si=r49ExtqDfppGq1cg"
+    ],
+    "all_unique_exact_urls_count": 3,
+    "line_numbers_sample": [
+      179,
+      889,
+      1459
+    ]
+  },
+  {
+    "youtube_video_id": "-NqX8zOZ62w",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/-NqX8zOZ62w?si=DWcjvgR9t3KYkz-D",
+      "https://youtu.be/-NqX8zOZ62w?si=Gama0RD6ZBaBqVBt"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      739,
+      872,
+      1184,
+      1265
+    ]
+  },
+  {
+    "youtube_video_id": "-YVDlWff_5o",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/-YVDlWff_5o?si=NnLptGoA8ty1GuGv",
+      "https://youtu.be/-YVDlWff_5o?si=gNU9ViaghJWwBl-E"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      386,
+      1492
+    ]
+  },
+  {
+    "youtube_video_id": "1AOgbhmP0ig",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/1AOgbhmP0ig?si=41xOtRemY_fBbdT2",
+      "https://youtu.be/1AOgbhmP0ig?si=HztCRx46d8XXa16m"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      260,
+      564
+    ]
+  },
+  {
+    "youtube_video_id": "2GQ7t3b3PIM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/2GQ7t3b3PIM?si=LoDVda5DZZXnfd-B",
+      "https://youtu.be/2GQ7t3b3PIM?si=bTYiyyrcuLZYyzxb"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      185,
+      482
+    ]
+  },
+  {
+    "youtube_video_id": "3Y1JGvieOBk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/3Y1JGvieOBk?si=-Vziy6rODds0zN_H",
+      "https://youtu.be/3Y1JGvieOBk?si=wIIGJG8nmjPlyBfv"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      297,
+      937
+    ]
+  },
+  {
+    "youtube_video_id": "4-XRc7ofCkM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/4-XRc7ofCkM?si=X27vyybJleAeslG2",
+      "https://youtu.be/4-XRc7ofCkM?si=bWMvUOXKrHoN6k3S"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      930,
+      988
+    ]
+  },
+  {
+    "youtube_video_id": "4CKpFcQdJXk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/4CKpFcQdJXk?si=2OkdCoCBxDs78Tcv",
+      "https://youtu.be/4CKpFcQdJXk?si=HP-4pCLpQdu_xZpV"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      614,
+      829
+    ]
+  },
+  {
+    "youtube_video_id": "5hPQUvaahhg",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/5hPQUvaahhg?si=cqtLDH7VLQkac6QA",
+      "https://youtu.be/5hPQUvaahhg?si=pQia2507vSpSvByx"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      608,
+      824
+    ]
+  },
+  {
+    "youtube_video_id": "6fl5JFL-SoA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/6fl5JFL-SoA?si=q5d9ZR9bNuB-cEot",
+      "https://youtu.be/6fl5JFL-SoA?si=uMzDR8I4B2c9dy8-"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      196,
+      894
+    ]
+  },
+  {
+    "youtube_video_id": "8-qBFaUbKfs",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtube.com/shorts/8-qBFaUbKfs?si=3v_PngXwBsh9bHST",
+      "https://youtube.com/shorts/8-qBFaUbKfs?si=KrUhmC4PxuR0yc_a"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      916,
+      974
+    ]
+  },
+  {
+    "youtube_video_id": "8HTkpFKRqbw",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtube.com/shorts/8HTkpFKRqbw?si=gXDWT4gUuB1QS0Sj",
+      "https://youtube.com/shorts/8HTkpFKRqbw?si=lKsOmUxq3-s1g_eR"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      867,
+      913
+    ]
+  },
+  {
+    "youtube_video_id": "8jff2wz3Hpk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/8jff2wz3Hpk?si=QNsZeRhwDjGRQ5Hs",
+      "https://youtu.be/8jff2wz3Hpk?si=QtQGpuxc7Mo_NdyC"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      500,
+      1476
+    ]
+  },
+  {
+    "youtube_video_id": "8xvbnfVIJL4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/8xvbnfVIJL4?si=_w4OfD0T9j_4Ro1r",
+      "https://youtu.be/8xvbnfVIJL4?si=nj45iNF3J8MaTlA_"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      775,
+      1411
+    ]
+  },
+  {
+    "youtube_video_id": "AXDLxXIbxAs",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/AXDLxXIbxAs?si=61Ag66LJRXixtINz",
+      "https://youtu.be/AXDLxXIbxAs?si=LRLn7ZBIQYzSWhry"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      80,
+      123
+    ]
+  },
+  {
+    "youtube_video_id": "BBV0HQI3NB4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/BBV0HQI3NB4?si=LjPC9hE-1m_fAsBa",
+      "https://youtu.be/BBV0HQI3NB4?si=hqwyrr6ZWl8nXuSc"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      828,
+      1064,
+      1135,
+      1201
+    ]
+  },
+  {
+    "youtube_video_id": "BL5lLnsLUrA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/BL5lLnsLUrA?si=gbst_MpkoyNGs-vd",
+      "https://youtu.be/BL5lLnsLUrA?si=tKilMUx3mU_eIVe5"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      331,
+      1296
+    ]
+  },
+  {
+    "youtube_video_id": "BzPbfftJ8Ho",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/BzPbfftJ8Ho?si=D5a89g51GA88L_N_",
+      "https://youtu.be/BzPbfftJ8Ho?si=P8Ys7ZeqbXwkIgDP"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      822,
+      1544
+    ]
+  },
+  {
+    "youtube_video_id": "CAc9h7oTjrM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/CAc9h7oTjrM?si=VVFbSow3YEgGraj0",
+      "https://youtu.be/CAc9h7oTjrM?si=oeZgKcwyJsEpKqOo"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      261,
+      709
+    ]
+  },
+  {
+    "youtube_video_id": "DCkMeVhmiC4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/DCkMeVhmiC4?si=jcdhcguIvw6rcsQE",
+      "https://youtu.be/DCkMeVhmiC4?si=yxxvmUMREHx5iv2a"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      581,
+      1337
+    ]
+  },
+  {
+    "youtube_video_id": "EMO1AT1UQf0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/EMO1AT1UQf0?si=MkZfeLJzerN3VqU3",
+      "https://youtu.be/EMO1AT1UQf0?si=YEPhm4K955xBp6RB"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      552,
+      1316
+    ]
+  },
+  {
+    "youtube_video_id": "EkAUXHqqaLk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/EkAUXHqqaLk?si=b2ZaLaeUWX9IOTP5",
+      "https://youtu.be/EkAUXHqqaLk?si=c4jgf8zmawRwmVRl"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      235,
+      1002
+    ]
+  },
+  {
+    "youtube_video_id": "EvfGBluQkSk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/EvfGBluQkSk?si=6DRbdUZBZsWzEX86",
+      "https://youtu.be/EvfGBluQkSk?si=7z6NrixCl74aIvH_"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      406,
+      766,
+      1373,
+      1502
+    ]
+  },
+  {
+    "youtube_video_id": "GiUkwTxsaYA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/GiUkwTxsaYA?si=cScu8MSnQaP0GaX3",
+      "https://youtu.be/GiUkwTxsaYA?si=tAnNkeZ1LrxBim0v"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      504,
+      1481
+    ]
+  },
+  {
+    "youtube_video_id": "HeqiNrjiCfk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/HeqiNrjiCfk?si=EyUBWgbK16-rLLp0",
+      "https://youtu.be/HeqiNrjiCfk?si=euAnm4LHlwCrPpSH"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      288,
+      931,
+      1264
+    ]
+  },
+  {
+    "youtube_video_id": "Ik_zhFLWVA0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Ik_zhFLWVA0?si=VDJeXDG4eTL8qrcf",
+      "https://youtu.be/Ik_zhFLWVA0?si=cC6xuVXf48XoS0dP"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      279,
+      1047
+    ]
+  },
+  {
+    "youtube_video_id": "Im5TK-glA9M",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Im5TK-glA9M?si=9nkexVkWvXGF3cUA",
+      "https://youtu.be/Im5TK-glA9M?si=HrtM-508EyU_APJO"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      227,
+      776,
+      1017,
+      1072,
+      1145,
+      1215
+    ]
+  },
+  {
+    "youtube_video_id": "JGi64RoqZ9g",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/JGi64RoqZ9g?si=LzuKJAoqe1TsPcav",
+      "https://youtu.be/JGi64RoqZ9g?si=rwucrFkEivitDdFo"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      143,
+      1558
+    ]
+  },
+  {
+    "youtube_video_id": "Ly_Md1OOyTE",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Ly_Md1OOyTE?si=nCT-_G7dkRiPuF7QQ",
+      "https://youtu.be/Ly_Md1OOyTE?si=ni-k1rrLMF2suMfD"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      9,
+      989,
+      1406
+    ]
+  },
+  {
+    "youtube_video_id": "MJwg2dRnBeQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/MJwg2dRnBeQ?si=fQFON7tpoz66jfCP",
+      "https://youtu.be/MJwg2dRnBeQ?si=tgA7oiR_v6rXAlZV"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      1116,
+      1171
+    ]
+  },
+  {
+    "youtube_video_id": "MtbVsknZP-A",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/MtbVsknZP-A?si=EpGnCXoRWCCtKUhi",
+      "https://youtu.be/MtbVsknZP-A?si=uMbJViu_PvND-iuY"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      444,
+      1391
+    ]
+  },
+  {
+    "youtube_video_id": "MuVrsDfgwI0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/MuVrsDfgwI0?si=TpM7uKaIrn00Acbk",
+      "https://youtu.be/MuVrsDfgwI0?si=ttg63rMJqtDATiJg"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      221,
+      267
+    ]
+  },
+  {
+    "youtube_video_id": "NE3SWh9_vR4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/NE3SWh9_vR4?si=oJOVnsbkOB7Qxw5b",
+      "https://youtu.be/NE3SWh9_vR4?si=z8FGFGAzZeFHBd2I"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      256,
+      1146,
+      1217,
+      1275,
+      1319,
+      1363
+    ]
+  },
+  {
+    "youtube_video_id": "Naruxgq6oMU",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Naruxgq6oMU?si=FcMrbfkDJoW6MNjX",
+      "https://youtu.be/Naruxgq6oMU?si=xqSFGrw15ZFcqKY-"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      151,
+      450,
+      735,
+      754,
+      868,
+      1058,
+      1181,
+      1266,
+      1446
+    ]
+  },
+  {
+    "youtube_video_id": "O0dGIsqbMsw",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/O0dGIsqbMsw?si=YMDdBnbEnw14QNiR",
+      "https://youtu.be/O0dGIsqbMsw?si=shotKSeK8r1k9C7N"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      600,
+      648
+    ]
+  },
+  {
+    "youtube_video_id": "OOS-Pcovi-4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/OOS-Pcovi-4?si=SyvUORCDLtjdVH2F",
+      "https://youtu.be/OOS-Pcovi-4?si=vJZVLePUjRe5jde6"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      897,
+      1532
+    ]
+  },
+  {
+    "youtube_video_id": "OV9LXGOXjgs",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/OV9LXGOXjgs?si=0izGm1eYkmBS0343",
+      "https://youtu.be/OV9LXGOXjgs?si=9xpVAx95c3g2zoh6"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      6,
+      732,
+      812,
+      1056,
+      1113,
+      1167,
+      1400,
+      1419
+    ]
+  },
+  {
+    "youtube_video_id": "PT1CwFIoc98",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/PT1CwFIoc98?si=Il-i74wqg1etBqxF",
+      "https://youtu.be/PT1CwFIoc98?si=xAYsyfQq1WC7E0z_"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      427,
+      1288,
+      1383
+    ]
+  },
+  {
+    "youtube_video_id": "PeYGaeORoOY",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/PeYGaeORoOY?si=Czecw7q3IkVzA55C",
+      "https://youtu.be/PeYGaeORoOY?si=ONsUR5ezqmmko8O0"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      156,
+      455
+    ]
+  },
+  {
+    "youtube_video_id": "PvdeDNeCiQc",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/PvdeDNeCiQc?si=GEiACiPyXCFv9oen",
+      "https://youtu.be/PvdeDNeCiQc?si=T6FiME_l0gc5pd7S"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      543,
+      768,
+      1004
+    ]
+  },
+  {
+    "youtube_video_id": "R15QXx7yRUo",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/R15QXx7yRUo?si=F8f5-iFv9tBh6OJx",
+      "https://youtu.be/R15QXx7yRUo?si=aCpS8BKqgcMwoOqs"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      885,
+      903
+    ]
+  },
+  {
+    "youtube_video_id": "RDWtngDhknA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/RDWtngDhknA?si=6BoczvScrpmaOros",
+      "https://youtu.be/RDWtngDhknA?si=WCTJjON7OPrv6Hdy"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      320,
+      939
+    ]
+  },
+  {
+    "youtube_video_id": "RlNJspksnbg",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/RlNJspksnbg?si=RCael-63gpq5zKU4",
+      "https://youtu.be/RlNJspksnbg?si=jjexZNZPhPFgs0np"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      410,
+      1012
+    ]
+  },
+  {
+    "youtube_video_id": "S980-z1qx3g",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/S980-z1qx3g?si=mdxNJBopqX3nNpBz",
+      "https://youtu.be/S980-z1qx3g?si=skvwCt7XGHenuWbP"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      12,
+      833,
+      1410
+    ]
+  },
+  {
+    "youtube_video_id": "UJZZyryDK00",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/UJZZyryDK00?si=pS4DwK9XFn84QOnQ",
+      "https://youtu.be/UJZZyryDK00?si=rnb6ybLJ1g19xgWw"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      676,
+      773
+    ]
+  },
+  {
+    "youtube_video_id": "UkT5eHWOIjQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/UkT5eHWOIjQ?si=mbNXv4_wRxfFKtJ6",
+      "https://youtu.be/UkT5eHWOIjQ?si=wBoYN_nxertpZqQW"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      944,
+      1006
+    ]
+  },
+  {
+    "youtube_video_id": "WyHFSjN0miU",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/WyHFSjN0miU?si=C2PbbebEskn6KqLR",
+      "https://youtu.be/WyHFSjN0miU?si=pCUb4V5RltoNG-DB"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      176,
+      471,
+      856,
+      953,
+      1222,
+      1460
+    ]
+  },
+  {
+    "youtube_video_id": "XhxvcnExPNQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/XhxvcnExPNQ?si=nfh___BHqMxP2wv1",
+      "https://youtu.be/XhxvcnExPNQ?si=w62P2ANg6x0OryeL"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      172,
+      464
+    ]
+  },
+  {
+    "youtube_video_id": "Yuex2EnsGiY",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/Yuex2EnsGiY?si=0_Pq00ZXiWo3JeVx",
+      "https://youtu.be/Yuex2EnsGiY?si=SN2TjtMVVhHmp7gl"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      188,
+      486,
+      1274,
+      1284,
+      1317
+    ]
+  },
+  {
+    "youtube_video_id": "ZkKStVgGEJY",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/ZkKStVgGEJY?si=3ByfjplaH0mUbK5v",
+      "https://youtu.be/ZkKStVgGEJY?si=LGnO8DtUL_iEf1ei"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      431,
+      1378,
+      1509
+    ]
+  },
+  {
+    "youtube_video_id": "aH2ipOQ1_bU",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/aH2ipOQ1_bU?si=O2s_vctg1Roye0xu",
+      "https://youtu.be/aH2ipOQ1_bU?si=icocDYxf8Rhh_hJd"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      168,
+      463
+    ]
+  },
+  {
+    "youtube_video_id": "av9FFShVYBU",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/av9FFShVYBU?si=Ad06fEsAnohtH32q",
+      "https://youtu.be/av9FFShVYBU?si=cCKzcZmfK8byA0X8"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      170,
+      1464
+    ]
+  },
+  {
+    "youtube_video_id": "bcs4geISuy0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/bcs4geISuy0?si=-BYP11FJGKAQ7fk3",
+      "https://youtu.be/bcs4geISuy0?si=iIlUMsgUwP0VAQdf"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      286,
+      744,
+      924,
+      1061,
+      1182,
+      1260,
+      1261
+    ]
+  },
+  {
+    "youtube_video_id": "bo62sjQ0CmE",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/bo62sjQ0CmE?si=0zcZrViLINirsSiD",
+      "https://youtu.be/bo62sjQ0CmE?si=t1lAn32pD2F23gVQ"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      190,
+      1478
+    ]
+  },
+  {
+    "youtube_video_id": "c0J1WntPaDg",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/c0J1WntPaDg?si=MKuPTGQBJ6wKVF5s",
+      "https://youtu.be/c0J1WntPaDg?si=PMqDiJZ9LjbiqiFk"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      961,
+      1276
+    ]
+  },
+  {
+    "youtube_video_id": "dVTUUtOHUCA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/dVTUUtOHUCA?si=Kos_i0o8NA3VrmOj",
+      "https://youtu.be/dVTUUtOHUCA?si=Uk_2RDtvaypwtFhK"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      635,
+      1362,
+      1370
+    ]
+  },
+  {
+    "youtube_video_id": "dkVlpm1mKFI",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/dkVlpm1mKFI?si=crdKp9jnOOfpOZx7",
+      "https://youtu.be/dkVlpm1mKFI?si=vJFkS8R3-PMxX_Ji"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      154,
+      457,
+      1259,
+      1449
+    ]
+  },
+  {
+    "youtube_video_id": "dnCE-kSHES0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/dnCE-kSHES0?si=cYpIjXtwIhaE19YB",
+      "https://youtu.be/dnCE-kSHES0?si=yTCI8n72etTZr0XL"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      1033,
+      1083,
+      1231,
+      1333
+    ]
+  },
+  {
+    "youtube_video_id": "eH89BxWg9P4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/eH89BxWg9P4?si=0zOcU8tr43L7aj2q",
+      "https://youtu.be/eH89BxWg9P4?si=5IOyC_otVc9JKSFd"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      136,
+      1550
+    ]
+  },
+  {
+    "youtube_video_id": "enalr0CvqVM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/enalr0CvqVM?si=WMYDWThqcqx9a4pP",
+      "https://youtu.be/enalr0CvqVM?si=XToEKXUbPLlC3Dqe"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      204,
+      1477
+    ]
+  },
+  {
+    "youtube_video_id": "fV8WIzEHD-E",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/fV8WIzEHD-E?si=27m-AHd4U1hn9Aq-",
+      "https://youtu.be/fV8WIzEHD-E?si=QoCkMznHOJj-qUjD"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      501,
+      1474
+    ]
+  },
+  {
+    "youtube_video_id": "gFr5p5AyuD0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/gFr5p5AyuD0?si=QD5VW5nRGb8TXEFJ",
+      "https://youtu.be/gFr5p5AyuD0?si=d8JQg36LZDxyWjr3"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      189,
+      1471
+    ]
+  },
+  {
+    "youtube_video_id": "g_czAYo3MKQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/g_czAYo3MKQ?si=-LU0VBJs1MmgBg7t",
+      "https://youtu.be/g_czAYo3MKQ?si=gMXItXZe4oVrD-co"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      287,
+      927
+    ]
+  },
+  {
+    "youtube_video_id": "gsHIPGDctJ0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/gsHIPGDctJ0?si=0M-JKLTSQ47e8TaB",
+      "https://youtu.be/gsHIPGDctJ0?si=lAIFco1_0UhAKruS"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      242,
+      763
+    ]
+  },
+  {
+    "youtube_video_id": "gyLT2Yz_yHo",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/gyLT2Yz_yHo?si=6boX0E4ODR2nuxV9",
+      "https://youtu.be/gyLT2Yz_yHo?si=nhoDAX1GtLKoJJzs"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      536,
+      1015
+    ]
+  },
+  {
+    "youtube_video_id": "iRVIbOMymj0",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/iRVIbOMymj0?si=cFBjMhHR-DcFq9_Y",
+      "https://youtu.be/iRVIbOMymj0?si=p9yfDWWAsb63wtMq"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      697,
+      731,
+      792,
+      1059
+    ]
+  },
+  {
+    "youtube_video_id": "invPCYDaWUE",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/invPCYDaWUE?si=-cwsyKTg-INmshaY",
+      "https://youtu.be/invPCYDaWUE?si=0CRahD-R2NNXDnCu"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      395,
+      830,
+      1126,
+      1194,
+      1368,
+      1501
+    ]
+  },
+  {
+    "youtube_video_id": "j8l2aX86Ouk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/j8l2aX86Ouk?si=1JGWEjb8YcyEDR9R",
+      "https://youtu.be/j8l2aX86Ouk?si=dHrlQKdAK2KKrQCo"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      1118,
+      1170
+    ]
+  },
+  {
+    "youtube_video_id": "jB4aaP2X7S4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/jB4aaP2X7S4?si=fNw_s_3Ep9aH-uJZ",
+      "https://youtu.be/jB4aaP2X7S4?si=m9_aarWrjCpP8nDx"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      594,
+      746,
+      803,
+      1352
+    ]
+  },
+  {
+    "youtube_video_id": "m8hvtU9Lzzk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/m8hvtU9Lzzk?si=1K9flqSsHLdbD1bx",
+      "https://youtu.be/m8hvtU9Lzzk?si=Y9IBp48e1VidVKd4"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      289,
+      926
+    ]
+  },
+  {
+    "youtube_video_id": "mmVbmowFswQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/mmVbmowFswQ?si=4Pq4-LiYvLPJNzNH",
+      "https://youtu.be/mmVbmowFswQ?si=pZE5fw0QkulqRM2W"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      583,
+      1339
+    ]
+  },
+  {
+    "youtube_video_id": "n4fZknyZlsk",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/n4fZknyZlsk?si=5tj8RlXP-RerHJhG",
+      "https://youtu.be/n4fZknyZlsk?si=W6avmHz2Bl7IEuMr"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      133,
+      1152,
+      1554
+    ]
+  },
+  {
+    "youtube_video_id": "nLUmRxc6140",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/nLUmRxc6140?si=TlXcstkGhRj6Ed0G",
+      "https://youtu.be/nLUmRxc6140?si=tDzujtf2OLcvCbDf"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      202,
+      1472
+    ]
+  },
+  {
+    "youtube_video_id": "n_DeYZEy4Y4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/n_DeYZEy4Y4?si=sUCnkqbCYX4M_5BL",
+      "https://youtu.be/n_DeYZEy4Y4?si=wdZ7kUQSQ35qIs_5"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      388,
+      1493
+    ]
+  },
+  {
+    "youtube_video_id": "r66ySZ7iipM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/r66ySZ7iipM?si=FM_yp5XcLh9cQ4q0",
+      "https://youtu.be/r66ySZ7iipM?si=NEjamA32NPb6T0qz"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      601,
+      646
+    ]
+  },
+  {
+    "youtube_video_id": "r7GJ8GoGSD8",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/r7GJ8GoGSD8?si=5vKJpH3tM6QoFwzl",
+      "https://youtu.be/r7GJ8GoGSD8?si=_XwHYxWLE9gLr6gI"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      117,
+      1361
+    ]
+  },
+  {
+    "youtube_video_id": "rPUuIMR7IJg",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/rPUuIMR7IJg?si=Ih0RY7ld8sJvMgQ6",
+      "https://youtu.be/rPUuIMR7IJg?si=plhMh38FMb-YkGTj"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      1385,
+      1553
+    ]
+  },
+  {
+    "youtube_video_id": "udRgk50LOuA",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/udRgk50LOuA?si=OnWHt9_jUWmMlIHv",
+      "https://youtu.be/udRgk50LOuA?si=aNXgNWFWUnR1bwfA"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      173,
+      466
+    ]
+  },
+  {
+    "youtube_video_id": "vLP6gdiDbOU",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/vLP6gdiDbOU?si=jO6MgHWC3vJEyRrd",
+      "https://youtu.be/vLP6gdiDbOU?si=m7rY9Wm1sygwWuaf"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      238,
+      946
+    ]
+  },
+  {
+    "youtube_video_id": "vlc0vWvSrOM",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/vlc0vWvSrOM?si=fvKhdLJK61GyaAFD",
+      "https://youtu.be/vlc0vWvSrOM?si=kqXnkvDI7kec51Je"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      1353,
+      1404,
+      1526
+    ]
+  },
+  {
+    "youtube_video_id": "vp2Wp1mtb7o",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtube.com/shorts/vp2Wp1mtb7o?si=94qjGBD7qZDFoWA3",
+      "https://youtube.com/shorts/vp2Wp1mtb7o?si=ZDoZPcitIfChkb7U"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      797,
+      912
+    ]
+  },
+  {
+    "youtube_video_id": "w7HbgKcQS_w",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/w7HbgKcQS_w?si=9LtJV_tRsaENcyyg",
+      "https://youtu.be/w7HbgKcQS_w?si=KCJVUE_VkpIA8tKc"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      58,
+      1160,
+      1423
+    ]
+  },
+  {
+    "youtube_video_id": "wiIJr3qihaQ",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/wiIJr3qihaQ?si=-f9FdXR6zpC7iHDa",
+      "https://youtu.be/wiIJr3qihaQ?si=5q_29OGfvhaHvRka"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      503,
+      1473
+    ]
+  },
+  {
+    "youtube_video_id": "yWTN6bsDWN4",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/yWTN6bsDWN4?si=Lzw6_QbV5g85uOt9",
+      "https://youtu.be/yWTN6bsDWN4?si=UqPSo0fBRLeKdbXM"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      574,
+      1028
+    ]
+  },
+  {
+    "youtube_video_id": "ytV08faCJwg",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/ytV08faCJwg?si=5OYB2QhpM3Jyjw28",
+      "https://youtu.be/ytV08faCJwg?si=eXY_cZGO-FsueNS1"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      8,
+      1401,
+      1402
+    ]
+  },
+  {
+    "youtube_video_id": "zKC17254flc",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/zKC17254flc?si=1RLal5iLIRaiuuMb",
+      "https://youtu.be/zKC17254flc?si=yopAvgJ5ioKqpPJq"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      232,
+      840
+    ]
+  },
+  {
+    "youtube_video_id": "zukqadAe9N8",
+    "unique_exact_url_count": 2,
+    "unique_exact_urls_sample": [
+      "https://youtu.be/zukqadAe9N8?si=M1D-iNfUXiTaOKDm",
+      "https://youtu.be/zukqadAe9N8?si=c6fU3iNcPs4fnzy_"
+    ],
+    "all_unique_exact_urls_count": 2,
+    "line_numbers_sample": [
+      761,
+      1413
+    ]
+  }
+]

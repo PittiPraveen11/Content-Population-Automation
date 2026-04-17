@@ -8,7 +8,7 @@
             "hi": "भगवान शिव",
             "en": "Lord Shiva"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shiv.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Shivji.jpg",
         "displayOrder": 1,
         "active": true
     },
@@ -21,7 +21,7 @@
             "hi": "भगवान राम",
             "en": "Lord Ram"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Ram.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Ramji.jpg",
         "displayOrder": 2,
         "active": true
     },
@@ -47,7 +47,7 @@
             "hi": "कृष्ण जी",
             "en": "Krishna Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Krishna.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/KrishnaJi.jpg",
         "displayOrder": 4,
         "active": true
     },
@@ -60,7 +60,7 @@
             "hi": "मंत्र",
             "en": "Mantras"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Mantra.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Mantra.jpg",
         "displayOrder": 4,
         "active": true
     },
@@ -73,7 +73,7 @@
             "hi": "हनुमान जी",
             "en": "Hanuman Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Hanuman.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/HanumanJi.jpg",
         "displayOrder": 5,
         "active": true
     },
@@ -86,7 +86,7 @@
             "hi": "विष्णु जी",
             "en": "Vishnu Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Vishnu.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/VishnuJi.jpg",
         "displayOrder": 6,
         "active": true
     },
@@ -99,7 +99,7 @@
             "hi": "भजन",
             "en": "Bhajan"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Bhajan.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Bhajan.jpg",
         "displayOrder": 6,
         "active": true
     },
@@ -112,7 +112,7 @@
             "hi": "स्तोत्रम",
             "en": "Strotam"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strotam.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Strotam.jpg",
         "displayOrder": 6,
         "active": true
     },
@@ -176,7 +176,7 @@
             "hi": "चालिसा",
             "en": "Chalisa"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Chalisa.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Chalisa.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -188,7 +188,7 @@
             "hi": "अष्टकम",
             "en": "ASHTAKAM"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Ashtakam.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Ashtakam.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -200,7 +200,7 @@
             "hi": "स्तुति",
             "en": "Stuti"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Stuti.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Stuti.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -212,7 +212,7 @@
             "hi": "आरती",
             "en": "Aarti"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Aarti.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Aarti.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -224,7 +224,7 @@
             "hi": "श्लोक",
             "en": "Shloka"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Shloka.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Shloka.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -236,7 +236,7 @@
             "hi": "कथा",
             "en": "Katha"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Katha.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Katha.jpg",
         "displayOrder": 9,
         "active": true
     },
@@ -248,7 +248,7 @@
             "hi": "गणेश जी",
             "en": "Ganesh Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/GaneshJi.jpg",
         "displayOrder": 10,
         "active": true
     },
@@ -260,7 +260,7 @@
             "hi": "लक्ष्मी जी",
             "en": "Lakshmi Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/LakshmiJi.jpg",
         "displayOrder": 11,
         "active": true
     },
@@ -272,7 +272,7 @@
             "hi": "शनि देव जी",
             "en": "Shani Dev Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/ShaniiDevJi.jpg",
         "displayOrder": 12,
         "active": true
     },
@@ -284,7 +284,7 @@
             "hi": "दुर्जा जी",
             "en": "Durja Ji"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/DurjaJi.jpg",
         "displayOrder": 13,
         "active": true
     },
@@ -296,7 +296,7 @@
             "hi": "ख़ुशी और शांति",
             "en": "Happiness and Peace"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Happiness.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Happiness.jpg",
         "active": true
     },
     {
@@ -307,7 +307,7 @@
             "hi": "धन और समृद्धि",
             "en": "Wealth and Prosperity"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Wealth.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Wealth.jpg",
         "active": true
     },
     {
@@ -318,7 +318,7 @@
             "hi": "स्वास्थ्य और कल्याण",
             "en": "Health and Wellness"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Health.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Health.jpg",
         "active": true
     },
     {
@@ -329,7 +329,7 @@
             "hi": "ज्ञान और बुद्धि",
             "en": "Knowledge and Wisdom"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Knowledge.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Knowledge.jpg",
         "active": true
     },
     {
@@ -340,7 +340,7 @@
             "hi": "शक्ति और साहस",
             "en": "Strength and Courage"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Strength.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Strength.jpg",
         "active": true
     },
     {
@@ -351,7 +351,7 @@
             "hi": "प्रेम और संबंध",
             "en": "Love and Relationship"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/LoveAndRelationship.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/LoveAndRelationship.jpg",
         "active": true
     },
     {
@@ -362,7 +362,7 @@
             "hi": "सफलता",
             "en": "Success"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Success.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Success.jpg",
         "active": true
     },
     {
@@ -373,7 +373,7 @@
             "hi": "दीपावली",
             "en": "Diwali"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Diwali.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Diwali.jpg",
         "active": true
     },
     {
@@ -384,7 +384,7 @@
             "hi": "सुबह उठते ही",
             "en": "SubahUthteHi"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/SubahUthteHi.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/SubahUthteHi.jpg",
         "active": true
     },
     {
@@ -395,7 +395,7 @@
             "hi": "नहाने के समय",
             "en": "NahaneKeSamay"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/NahaneKeSamay.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/NahaneKeSamay.jpg",
         "active": true
     },
     {
@@ -406,7 +406,7 @@
             "hi": "नहाने के बाद",
             "en": "NahaneKeBaad"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/NahaneKeBaad.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/NahaneKeBaad.jpg",
         "active": true
     },
     {
@@ -417,7 +417,7 @@
             "hi": "भोजन से पहले",
             "en": "BhojanSePehle"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/BhojanSePehle.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/BhojanSePehle.jpg",
         "active": true
     },
     {
@@ -428,7 +428,7 @@
             "hi": "भोजन के बाद",
             "en": "BhojanKeBaad"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/BhojanKeBaad.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/BhojanKeBaad.jpg",
         "active": true
     },
     {
@@ -439,7 +439,7 @@
             "hi": "पूजा के समय",
             "en": "PoojaKeSamay"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/PoojaKeSamay.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/PoojaKeSamay.jpg",
         "active": true
     },
     {
@@ -450,7 +450,7 @@
             "hi": "पूजा के बाद",
             "en": "PoojaKeBaad"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/PoojaKeBaad.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/PoojaKeBaad.jpg",
         "active": true
     },
     {
@@ -461,7 +461,7 @@
             "hi": "सोने से पहले",
             "en": "SoneSePehle"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/SoneSePehle.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/SoneSePehle.jpg",
         "active": true
     },
     {
@@ -472,7 +472,7 @@
             "hi": "जन्माष्टमी",
             "en": "Janmashtami"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Janmashtami.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Janmashtami.jpg",
         "active": true
     },
     {
@@ -483,7 +483,7 @@
             "hi": "नवरात्रि",
             "en": "Navratri"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Navratri.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Navratri.jpg",
         "active": true
     },
     {
@@ -494,7 +494,7 @@
             "hi": "दशहरा",
             "en": "Dussehra"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Dussehra.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Dussehra.jpg",
         "active": true
     },
     {
@@ -505,7 +505,7 @@
             "hi": "महाशिवरात्रि",
             "en": "MahaShivratri"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/MahaShivratri.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/MahaShivratri.jpg",
         "active": true
     },
     {
@@ -516,7 +516,7 @@
             "hi": "गणेश चतुर्थी",
             "en": "GaneshChaturthi"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/GaneshChaturthi.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/GaneshChaturthi.jpg",
         "active": true
     },
     {
@@ -527,7 +527,7 @@
             "hi": "राम नवमी",
             "en": "RamNavami"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/RamNavami.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/RamNavami.jpg",
         "active": true
     },
     {
@@ -538,7 +538,7 @@
             "hi": "हनुमान जयंती",
             "en": "HanumanJayanti"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/HanumanJayanti.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/HanumanJayanti.jpg",
         "active": true
     },
     {
@@ -549,7 +549,7 @@
             "hi": "शांति",
             "en": "Peace"
         },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Peace.jpg",
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Peace.jpg",
         "active": true
     }
 ]

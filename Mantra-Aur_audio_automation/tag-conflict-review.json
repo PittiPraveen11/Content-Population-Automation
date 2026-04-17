@@ -1,0 +1,80 @@
+[
+  {
+    "file": "Mantra-Aur_audio_automation/new-tracks-payload.json",
+    "index": 364,
+    "video_id": "ZdBVEV5u2To",
+    "title_hi": "सर्वमंगल मांगल्ये",
+    "title_en": "Sarvamangala Mangalye",
+    "reason": "conflicting_context_no_title_match",
+    "suggested_line_1": 644,
+    "suggested_title_1": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+    "suggested_tags_1": [
+      "DurjaJi",
+      "Shloka"
+    ],
+    "score_1": 0.0,
+    "suggested_line_2": 975,
+    "suggested_title_2": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके",
+    "suggested_tags_2": [
+      "Shloka",
+      "Wealth"
+    ],
+    "score_2": 0.0,
+    "suggested_line_3": "",
+    "suggested_title_3": "",
+    "suggested_tags_3": [],
+    "score_3": 0
+  },
+  {
+    "file": "Mantra-Aur_audio_automation/new-tracks-payload.json",
+    "index": 807,
+    "video_id": "ZdBVEV5u2To",
+    "title_hi": "सर्वमंगल मांगल्ये",
+    "title_en": "Sarvamangala Mangalye",
+    "reason": "conflicting_context_no_title_match",
+    "suggested_line_1": 644,
+    "suggested_title_1": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+    "suggested_tags_1": [
+      "DurjaJi",
+      "Shloka"
+    ],
+    "score_1": 0.0,
+    "suggested_line_2": 975,
+    "suggested_title_2": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके",
+    "suggested_tags_2": [
+      "Shloka",
+      "Wealth"
+    ],
+    "score_2": 0.0,
+    "suggested_line_3": "",
+    "suggested_title_3": "",
+    "suggested_tags_3": [],
+    "score_3": 0
+  },
+  {
+    "file": "Mantra-Aur_audio_automation/new-tracks-payload-deduped.json",
+    "index": 364,
+    "video_id": "ZdBVEV5u2To",
+    "title_hi": "सर्वमंगल मांगल्ये",
+    "title_en": "Sarvamangala Mangalye",
+    "reason": "conflicting_context_no_title_match",
+    "suggested_line_1": 644,
+    "suggested_title_1": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥",
+    "suggested_tags_1": [
+      "DurjaJi",
+      "Shloka"
+    ],
+    "score_1": 0.0,
+    "suggested_line_2": 975,
+    "suggested_title_2": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके",
+    "suggested_tags_2": [
+      "Shloka",
+      "Wealth"
+    ],
+    "score_2": 0.0,
+    "suggested_line_3": "",
+    "suggested_title_3": "",
+    "suggested_tags_3": [],
+    "score_3": 0
+  }
+]

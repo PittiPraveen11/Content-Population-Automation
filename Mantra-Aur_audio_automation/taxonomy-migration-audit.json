@@ -1,0 +1,521 @@
+{
+  "summary": {
+    "payload_tracks": 1245,
+    "payload_unique_youtube_ids": 563,
+    "source_unique_youtube_ids": 721,
+    "source_missing_in_payload": 158
+  },
+  "type_counts": {
+    "DEITY": 1205,
+    "DAILY ROUTINE": 8,
+    "FESTIVAL SPECIAL": 32
+  },
+  "core_tags_present": {
+    "SubahUthteHi": true,
+    "NahaneKeSamay": false,
+    "NahaneKeBaad": true,
+    "BhojanSePehle": true,
+    "BhojanKeBaad": false,
+    "PoojaKeSamay": true,
+    "PoojaKeBaad": false,
+    "SoneSePehle": false,
+    "Diwali": false,
+    "Janmashtami": false,
+    "Navratri": true,
+    "Dussehra": false,
+    "MahaShivratri": false,
+    "GaneshChaturthi": false,
+    "RamNavami": false,
+    "HanumanJayanti": false,
+    "Peace": false,
+    "Happiness": true,
+    "Wealth": true,
+    "Health": true,
+    "Knowledge": true,
+    "Strength": true,
+    "LoveAndRelationship": true,
+    "Success": true
+  },
+  "missing_examples": [
+    {
+      "name": "पृथ्वी क्षमा प्रार्थना",
+      "section": "सुबह उठते ही",
+      "url": "https://youtube.com/shorts/Is7xRqhvlvU?si=qARyNsuIj0WI9zTT",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:677"
+    },
+    {
+      "name": "नवग्रह प्रभात मंत्र",
+      "section": "सुबह उठते ही",
+      "url": "https://youtube.com/shorts/A01Ms9WILjA?si=KGdLKpQz4FqoFG9l",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:678"
+    },
+    {
+      "name": "मंगल स्मरण मंत्र",
+      "section": "सुबह उठते ही",
+      "url": "https://youtube.com/shorts/aOHRIfSBjwY?si=zMFYh2Zdz7XqFqEC",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:679"
+    },
+    {
+      "name": "पंचकन्या स्मरण",
+      "section": "सुबह उठते ही",
+      "url": "https://youtube.com/shorts/r4k-aM0MJ2w?si=Qjs577cDJd79KsFl",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:680"
+    },
+    {
+      "name": "स्नान मंत्र",
+      "section": "नहाने के समय",
+      "url": "https://youtu.be/psLJhxiQ85o?si=2-SNh1BWmsciWde8",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:683"
+    },
+    {
+      "name": "वरुण मंत्र",
+      "section": "नहाने के समय",
+      "url": "https://youtu.be/xD_nK8TBYUQ?si=TjCJDoV0_CM_-6Xh",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:684"
+    },
+    {
+      "name": "सूर्य अर्घ्य",
+      "section": "नहाने के बाद",
+      "url": "https://youtube.com/shorts/R-DMV8NHR3g?si=EIPgctHvzEgL2I5Q",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:688"
+    },
+    {
+      "name": "गायत्री मंत्र",
+      "section": "नहाने के बाद",
+      "url": "https://youtube.com/shorts/DnPBZvI1YCg?si=2O3c1NfZk4fj_OzH",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:689"
+    },
+    {
+      "name": "चंदन लगाने का मंत्र",
+      "section": "नहाने के बाद",
+      "url": "https://youtube.com/shorts/gzd3cfS-SIE?si=LbgxNx5RT8Dak9i3",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:691"
+    },
+    {
+      "name": "तुलसी प्रार्थना",
+      "section": "नहाने के बाद",
+      "url": "https://youtube.com/shorts/_fGRay5SF5k?si=NRI8iKUB1ASVK3nK",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:692"
+    },
+    {
+      "name": "ब्रह्मार्पण मंत्र",
+      "section": "भोजन से पहले",
+      "url": "https://youtu.be/CY0le0A1spY?si=FnNo2p4vCGM_2sQi",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:695"
+    },
+    {
+      "name": "अन्नपूर्णा स्तुति",
+      "section": "भोजन से पहले",
+      "url": "https://youtube.com/shorts/RM8VZu4aFFA?si=hcKNCncaQbr3yGl6",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:696"
+    },
+    {
+      "name": "अगस्त्य मंत्र",
+      "section": "भोजन के बाद",
+      "url": "https://youtube.com/shorts/IXIA0ua2WDs?si=4cKvCmZ8Ew4lFZnq",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:700"
+    },
+    {
+      "name": "कृतज्ञता",
+      "section": "भोजन के बाद",
+      "url": "https://youtu.be/RqWyAbDZkxg?si=FTezx_rtvlQGO4hP",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:701"
+    },
+    {
+      "name": "चरणामृत मंत्र",
+      "section": "भोजन के बाद",
+      "url": "https://youtube.com/shorts/1z4ohQ5wjVQ?si=qFSjLi160P6jWR1Q",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:702"
+    },
+    {
+      "name": "आसन मंत्र",
+      "section": "पूजा के समय",
+      "url": "https://youtu.be/yXymIcFJVTY?si=E3QSPPbXbaayLBXy",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:705"
+    },
+    {
+      "name": "दीप मंत्र",
+      "section": "पूजा के समय",
+      "url": "https://youtube.com/shorts/jBIA9Ap-VR0?si=3Gxj8KQQsu6h2icW",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:706"
+    },
+    {
+      "name": "गणेश वंदना",
+      "section": "पूजा के समय",
+      "url": "https://youtube.com/shorts/hzQqfRM-mtA?si=whkvJBQngpHbomLh",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:707"
+    },
+    {
+      "name": "आचमन मंत्र",
+      "section": "पूजा के समय",
+      "url": "https://youtu.be/EeGBRq880uU?si=5C-5VPQu7MQKBmTM",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:710"
+    },
+    {
+      "name": "पुष्पाञ्जलि श्लोक",
+      "section": "पूजा के समय",
+      "url": "https://youtube.com/shorts/vYcSZAYfzaM?si=x1ZVFUHW2SanoxGv",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:711"
+    },
+    {
+      "name": "पूर्णमदः मंत्र",
+      "section": "पूजा के बाद",
+      "url": "https://youtube.com/shorts/l-Ky7bRU7Ys?si=O7bu3zjBGyfRjwVm",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:714"
+    },
+    {
+      "name": "प्रदक्षिणा मंत्र",
+      "section": "पूजा के बाद",
+      "url": "https://youtube.com/shorts/5fSrgIFS_EM?si=URx57pYNWGu7fTip",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:715"
+    },
+    {
+      "name": "हनुमान मंत्र",
+      "section": "सोने से पहले",
+      "url": "https://youtu.be/2dv4rUhuBEg?si=uTSd8zAclqdT1YTC",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:718"
+    },
+    {
+      "name": "रक्षा मंत्र",
+      "section": "सोने से पहले",
+      "url": "https://youtu.be/DkoN-b0YrAs?si=7Oa0wGZzVspJfpt9",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:719"
+    },
+    {
+      "name": "शयन मंत्र",
+      "section": "सोने से पहले",
+      "url": "https://youtube.com/shorts/W8_pcfb0Mgk?si=Nb9rTpxGI6TMzTDo",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:720"
+    },
+    {
+      "name": "क्षमा याचना",
+      "section": "सोने से पहले",
+      "url": "https://youtu.be/zM3ML2Exxlo?si=YJtOX3Gvds7hHr85",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:721"
+    },
+    {
+      "name": "विष्णु स्मरण",
+      "section": "सोने से पहले",
+      "url": "https://youtube.com/shorts/G-LD7NIP8Vs?si=spLFLTo06gHTTYLv",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:722"
+    },
+    {
+      "name": "राम रक्षा स्तोत्र",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/EMeSTcffrEI?si=Le3PQ2ZAfKVecpc4",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:821"
+    },
+    {
+      "name": "पंचमुखी हनुमान कवच",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/BzPbfftJ8Ho?si=P8Ys7ZeqbXwkIgDP",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:822"
+    },
+    {
+      "name": "दुर्गा सप्तश्लोकी",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/bwTk15-oRys?si=f4hVOcSw7hJxd58b",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:823"
+    },
+    {
+      "name": "नृसिंह स्तोत्रम",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/RLNrZUy6Ydo?si=lEGDZ8CTRcLnTbWK",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:825"
+    },
+    {
+      "name": "कालभैरव अष्टकम",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/BsEqI1NZA-E?si=BvvWKg3Y9kURK_Uu",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:826"
+    },
+    {
+      "name": "सुदर्शन अष्टकम",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/0KRtx2CxXo8?si=ABjvz1r2s-Yy7cTA",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:831"
+    },
+    {
+      "name": "नृसिंह कवच",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/AafMDVg6W94?si=f4-0vp9yvV0pyLGk",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:834"
+    },
+    {
+      "name": "देवी कवच",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/rqgvyF9LBHk?si=Q2TMKsuJzBA3pvYX",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:835"
+    },
+    {
+      "name": "महाकाली स्तोत्र",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/7wsmGmotCIE?si=wo9dJcGTmbVuH9CG",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:838"
+    },
+    {
+      "name": "कार्तिकेय कवच",
+      "section": "📜 Stotram / Ashtakam / kavach",
+      "url": "https://youtu.be/AQc1UVfxpY0?si=BYDIeeQL-JBS_CpL",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:839"
+    },
+    {
+      "name": "श्री राम का आगमन",
+      "section": "📖 Katha",
+      "url": "https://youtu.be/tj6yKxSPQZQ?si=_x0KiFTx5Dwnc27J",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1294"
+    },
+    {
+      "name": "नरकासुर वध",
+      "section": "📖 Katha",
+      "url": "https://youtu.be/V5bvJlR38xE?si=Cmm8uCXgEtB9CWux",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1295"
+    },
+    {
+      "name": "पूतना वध की कथा",
+      "section": "📖 Katha",
+      "url": "https://youtu.be/s6eY3KmckxM?si=snJjDcySedBSkWXG",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1338"
+    },
+    {
+      "name": "कालिया नाग मर्दन",
+      "section": "📖 Katha",
+      "url": "https://youtu.be/RsBjj-D9yNA?si=V-Ft5Yq0hG1iLEl7",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1340"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/LIRZl2SS6gs?si=AVDsYTG_SV2X6A99",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtube.com/shorts/qZoqKbSjQIs?si=_99YpXjMBBPkNUdt",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/5OBU8nYEkSU?si=9mA5hpkOrNkBvnPY",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/AXvmt88JLWg?si=dj_OFw1cqaz-9iex",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/qKKBdPWIQBs?si=EeHNtUNmftY8x5xA",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/f1hFif4_VsI?si=sc8sjCh5oDZeZ3hC",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ शैलपुत्री",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/HK9_coxwzyU?si=S6DZZa59WPYGjpCX",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1346"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/LU3WomO8T78?si=FXzd1nlNA3ZvbEJ1",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/4D5lntlBe38?si=dCdMDFImhjKeeUDI",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/CHwlptJwiFo?si=fJ_A1IxIqqHCSYsw",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/RlC-lvHnnxI?si=5nlQj80kmuYP3Rn9",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/zkO8HfmRsD0?si=H3DSNO2ffu8dvy3S",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ ब्रह्मचारिणी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/dy2hKmedmnQ?si=LjVypS6avCUu_74W",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1347"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/iX6fay1rQp8?si=PHZJn3YzY51u5qoi",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/9oju38z549I?si=xvMdvegCDxrbqSt8",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/39lDm7fA4ZI?si=9XxzCwsKLE0-C8Pp",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/dhE1JFVfBUQ?si=vqHqUdWO_VaPM1jU",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/st7v3f9cDpw?si=CzGNX78ZzGHIL6yM",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ चंद्रघंटा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/C9mzqGDyiEQ?si=GoCqcKJ8dvEBHMOs",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1348"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/P8gTDIV-aps?si=O56jXq2zbqJr8MI9",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/8cpa-HjoDho?si=O3q4g8RnTLYjx3mc",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/12RcOYPkOQE?si=KiO2llcj5PvLPfro",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/B5yQ7xxw294?si=seupbxLZrObJ82ui",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/a1Nk1z2TsT4?si=B4h60gFXBdmXF67M",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ कुष्मांडा",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/yHNggTfMVz4?si=8VoYpjfLd-WAX1vV",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1349"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/Z2LC5cixTxk?si=IyYaspKZIgSSG48x",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/xKN1hS24DSk?si=QBAPt_Tb7xcXtS_c",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/ew1yGxycT5c?si=Vx7-WQh5ztd6o-5n",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/EZ4Xk-zThJU?si=E2AlaotKLtiUSCG8",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/1kXKNEk_bH4?si=0yolOSSFl3E8G2h_",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/macdUAgZTpY?si=2XRO73tWj2H9NT90",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/yutx7mSPrM8?si=fitqBzqFiRmJ0hVA",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ स्कंदमाता",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/Ob_IMRI3FHg?si=d1ZZ0Ld8L6LQPAtq",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1350"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/JAdSYIqeQKw?si=bjBjiUk2e4USPI6k",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/rBFN2kzA1YM?si=KhP2Bne5x26x2iRR",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/13lFnCyrM70?si=TmJasFPvRaZd02mt",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/A5Tvq4Cd09M?si=gcmnu3lS_6MBXzKa",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/OY9uYvA2H7g?si=DA_D7BIm9dD2b5qn",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    },
+    {
+      "name": "माँ कात्यायनी",
+      "section": "🚩🛕🐚🕉️Navratri / Durga Puja (Devi Maa ki upasna)",
+      "url": "https://youtu.be/GUTxDyR04GQ?si=p5U6BJkVWWEZGv9o",
+      "source": "bhagwan ji ke mantra shlokas chalisa  - Sheet1.tsv:1351"
+    }
+  ]
+}
