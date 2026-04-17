@@ -81,6 +81,7 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "MahaShivratri",
       "Mantra",
       "Shivji"
     ],
@@ -226,8 +227,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Shivji"
+      "Shivji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -255,8 +256,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Shivji"
+      "Shivji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -285,7 +286,8 @@
     "status": "DRAFT",
     "tags": [
       "Chalisa",
-      "Shivji"
+      "Shivji",
+      "Strength"
     ],
     "locked": false
   },
@@ -342,8 +344,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "Shivji"
+      "Shivji",
+      "Stuti"
     ],
     "locked": false
   },
@@ -400,8 +402,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Shloka",
-      "Shivji"
+      "Shivji",
+      "Shloka"
     ],
     "locked": false
   },
@@ -430,6 +432,8 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
+      "Health",
+      "MahaShivratri",
       "Shivji"
     ],
     "locked": false
@@ -835,8 +839,9 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "HanumanJi",
       "Mantra",
-      "HanumanJi"
+      "Strength"
     ],
     "locked": false
   },
@@ -922,8 +927,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "HanumanJi"
+      "HanumanJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -951,8 +956,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "HanumanJi"
+      "HanumanJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -1009,8 +1014,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "HanumanJi"
+      "HanumanJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -1038,8 +1043,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "HanumanJi"
+      "HanumanJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -1067,8 +1072,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "HanumanJi"
+      "HanumanJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -1096,8 +1101,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "HanumanJi"
+      "HanumanJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -1125,8 +1130,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "HanumanJi"
+      "HanumanJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -1242,7 +1247,7 @@
     "status": "DRAFT",
     "tags": [
       "Aarti",
-      "HanumanJi"
+      "Dussehra"
     ],
     "locked": false
   },
@@ -1270,8 +1275,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Shloka",
-      "HanumanJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -1328,8 +1332,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Shloka",
-      "HanumanJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -1357,8 +1360,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Shloka",
-      "HanumanJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -1445,7 +1447,8 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "HanumanJi"
+      "HanumanJayanti",
+      "Health"
     ],
     "locked": false
   },
@@ -1473,8 +1476,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Bhajan",
-      "HanumanJi"
+      "Bhajan"
     ],
     "locked": false
   },
@@ -1532,7 +1534,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "HanumanJi"
+      "HanumanJayanti"
     ],
     "locked": false
   },
@@ -1560,8 +1562,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Bhajan",
-      "HanumanJi"
+      "Bhajan"
     ],
     "locked": false
   },
@@ -1589,8 +1590,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "HanumanJi"
+      "Katha"
     ],
     "locked": false
   },
@@ -1850,8 +1850,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -1879,8 +1879,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -1908,8 +1908,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -2169,8 +2169,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -2198,8 +2198,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -2605,6 +2605,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
+      "GaneshChaturthi",
       "GaneshJi"
     ],
     "locked": false
@@ -2749,8 +2750,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -2894,6 +2895,7 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "Bhajan",
       "Mantra",
       "VishnuJi"
     ],
@@ -3155,6 +3157,7 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "LoveAndRelationship",
       "Strotam",
       "VishnuJi"
     ],
@@ -3533,6 +3536,8 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "Mantra",
+      "Peace",
       "Shloka",
       "VishnuJi"
     ],
@@ -3555,35 +3560,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/3yczGKnskts?si=--z5nTrp4XW8mSRd",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "imageUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/VishnuJi/shri_man_narayan_4x.webp",
-      "iconUrl": null,
-      "description": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/MuVrsDfgwI0?si=ttg63rMJqtDATiJg",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -4055,8 +4031,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -4084,8 +4060,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -4113,8 +4089,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -4201,8 +4177,9 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "LakshmiJi",
       "Strotam",
-      "LakshmiJi"
+      "Wealth"
     ],
     "locked": false
   },
@@ -4230,8 +4207,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "LakshmiJi"
+      "Diwali",
+      "LakshmiJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -4259,8 +4237,9 @@
     ],
     "status": "DRAFT",
     "tags": [
+      "LakshmiJi",
       "Strotam",
-      "LakshmiJi"
+      "Wealth"
     ],
     "locked": false
   },
@@ -4288,8 +4267,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -4375,8 +4354,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -4404,8 +4383,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "LakshmiJi"
+      "LakshmiJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -4897,8 +4876,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -4926,8 +4905,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -4955,8 +4934,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -4984,8 +4963,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5014,7 +4993,8 @@
     "status": "DRAFT",
     "tags": [
       "Chalisa",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Strength"
     ],
     "locked": false
   },
@@ -5071,8 +5051,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -5100,8 +5080,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "ShaniiDevJi"
+      "ShaniiDevJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -5680,8 +5660,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Ramji"
+      "Ramji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5738,8 +5718,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Ramji"
+      "Ramji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5767,8 +5747,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Ramji"
+      "RamNavami",
+      "Ramji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5796,8 +5777,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Ramji"
+      "Ramji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5825,8 +5806,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "Ramji"
+      "Ramji",
+      "Strotam"
     ],
     "locked": false
   },
@@ -5912,8 +5893,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "Ramji"
+      "Ramji",
+      "Stuti"
     ],
     "locked": false
   },
@@ -6377,6 +6358,8 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
+      "Dussehra",
+      "RamNavami",
       "Ramji"
     ],
     "locked": false
@@ -6406,6 +6389,8 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
+      "Dussehra",
+      "RamNavami",
       "Ramji"
     ],
     "locked": false
@@ -6464,7 +6449,12 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "Ramji"
+      "Dussehra",
+      "Happiness",
+      "Health",
+      "RamNavami",
+      "Ramji",
+      "Success"
     ],
     "locked": false
   },
@@ -6782,8 +6772,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -6811,8 +6801,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -6840,37 +6830,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ विनायकाय नमः",
-        "en": "Om Vinayakaya Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ विनायकाय नमः",
-        "en": "Om Vinayakaya Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PeYGaeORoOY?si=Czecw7q3IkVzA55C",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -6898,8 +6859,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -7072,8 +7033,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "GaneshJi"
+      "GaneshJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -7130,8 +7091,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "GaneshJi"
+      "GaneshJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -7189,6 +7150,7 @@
     "status": "DRAFT",
     "tags": [
       "Ashtakam",
+      "GaneshChaturthi",
       "GaneshJi"
     ],
     "locked": false
@@ -7217,8 +7179,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -7246,8 +7208,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -7275,8 +7237,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -7333,8 +7295,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "GaneshJi"
+      "GaneshJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -7768,8 +7730,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7797,8 +7759,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7826,8 +7788,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7855,8 +7817,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7884,8 +7846,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7913,8 +7875,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -7971,8 +7933,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -8000,8 +7962,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -8029,8 +7991,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -8174,8 +8136,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "KrishnaJi"
+      "Janmashtami",
+      "KrishnaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -8203,8 +8166,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -8232,8 +8195,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -8261,8 +8224,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -8290,8 +8253,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8319,8 +8282,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8348,8 +8311,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8377,8 +8340,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8406,8 +8369,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8523,7 +8486,10 @@
     "status": "DRAFT",
     "tags": [
       "Ashtakam",
-      "KrishnaJi"
+      "KrishnaJi",
+      "LoveAndRelationship",
+      "Peace",
+      "Strotam"
     ],
     "locked": false
   },
@@ -8551,8 +8517,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -8580,8 +8546,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -8609,8 +8575,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -8638,8 +8604,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "KrishnaJi"
+      "KrishnaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -9161,6 +9127,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
+      "Janmashtami",
       "KrishnaJi"
     ],
     "locked": false
@@ -9595,9 +9562,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
       "DurjaJi",
-      "Navratri"
+      "Mantra"
     ],
     "locked": false
   },
@@ -9828,8 +9794,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "DurjaJi"
+      "DurjaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -9857,8 +9823,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "DurjaJi"
+      "DurjaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -9916,9 +9882,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
       "DurjaJi",
-      "Navratri"
+      "Strength",
+      "Strotam"
     ],
     "locked": false
   },
@@ -9946,9 +9912,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
       "DurjaJi",
-      "Navratri"
+      "Strotam"
     ],
     "locked": false
   },
@@ -9976,8 +9941,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "DurjaJi"
+      "DurjaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -10005,8 +9970,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "DurjaJi"
+      "DurjaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -10064,8 +10029,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "DurjaJi"
+      "DurjaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -10093,8 +10058,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Strotam",
-      "DurjaJi"
+      "DurjaJi",
+      "Strotam"
     ],
     "locked": false
   },
@@ -10152,8 +10117,7 @@
     "status": "DRAFT",
     "tags": [
       "Ashtakam",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10182,8 +10146,7 @@
     "status": "DRAFT",
     "tags": [
       "Ashtakam",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10211,8 +10174,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "DurjaJi"
+      "DurjaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -10240,8 +10203,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "DurjaJi"
+      "DurjaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -10269,8 +10232,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "DurjaJi"
+      "DurjaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -10298,8 +10261,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "DurjaJi"
+      "DurjaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -10327,8 +10290,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Stuti",
-      "DurjaJi"
+      "DurjaJi",
+      "Stuti"
     ],
     "locked": false
   },
@@ -10735,8 +10698,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10765,8 +10727,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10795,8 +10756,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10854,8 +10814,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -10913,8 +10872,7 @@
     "status": "DRAFT",
     "tags": [
       "Bhajan",
-      "DurjaJi",
-      "Navratri"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -11000,8 +10958,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11029,8 +10987,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11058,8 +11016,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11087,8 +11045,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11116,8 +11074,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11145,8 +11103,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11174,8 +11132,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11203,8 +11161,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "DurjaJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -11232,8 +11190,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11261,8 +11219,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11290,8 +11248,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11319,8 +11277,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11348,8 +11306,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11377,8 +11335,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11406,8 +11364,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11435,8 +11393,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11464,8 +11422,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11522,8 +11480,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Katha",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11580,8 +11538,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11667,8 +11626,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness"
     ],
     "locked": false
   },
@@ -11689,35 +11648,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/RIYVVqu2XY4?si=zZcShWvTzV_kAWCQ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम नाम के हीरे मोती",
-        "en": "Ram Naam Ke Heere Moti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "राम नाम के हीरे मोती",
-        "en": "Ram Naam Ke Heere Moti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/6BJR_j4FHz4?si=hRLU-bLSvuuKWHgs",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -11754,8 +11684,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -11783,8 +11714,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness"
     ],
     "locked": false
   },
@@ -11812,8 +11743,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness"
     ],
     "locked": false
   },
@@ -11841,8 +11772,10 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness",
+      "Health",
+      "Success"
     ],
     "locked": false
   },
@@ -11870,8 +11803,10 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Happiness",
+      "Health",
+      "Success"
     ],
     "locked": false
   },
@@ -11957,8 +11892,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -11986,8 +11921,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -12073,8 +12008,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -12102,8 +12037,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -12131,8 +12066,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -12160,8 +12095,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Strotam"
     ],
     "locked": false
   },
@@ -12182,35 +12117,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/BBV0HQI3NB4?si=LjPC9hE-1m_fAsBa",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हे दुख भंजन मारुति नंदन",
-        "en": "He Dukh Bhanjan Maruti Nandan"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हे दुख भंजन मारुति नंदन",
-        "en": "He Dukh Bhanjan Maruti Nandan"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/n4fZknyZlsk?si=W6avmHz2Bl7IEuMr",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -12247,8 +12153,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Health"
     ],
     "locked": false
   },
@@ -12276,8 +12182,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Health"
     ],
     "locked": false
   },
@@ -12305,37 +12211,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव शंकर को जिसने पूजा",
-        "en": "Shiv Shankar Ko Jisne Puja"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शिव शंकर को जिसने पूजा",
-        "en": "Shiv Shankar Ko Jisne Puja"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/w7HbgKcQS_w?si=KCJVUE_VkpIA8tKc",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Health",
+      "Success"
     ],
     "locked": false
   },
@@ -12421,8 +12299,12 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Dussehra",
+      "HanumanJayanti",
+      "Strength",
+      "Strotam",
+      "Stuti",
+      "Success"
     ],
     "locked": false
   },
@@ -12653,8 +12535,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Chalisa",
+      "Success"
     ],
     "locked": false
   },
@@ -12715,35 +12597,6 @@
       "Happiness",
       "Mantra",
       "Strength",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "रुद्र मंत्र",
-        "en": "Rudra Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शिव रुद्र मंत्र (Rudra Mantra) या श्री रुद्रम का श्रवण (सुनना) अत्यंत फलदायी माना जाता है। इसे विशेष रूप से प्रदोष काल (सूर्यास्त के समय) में सुनना सबसे उत्तम है।",
-        "en": "Rudra Mantra Shravan"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/iEAPaA9Yf1s?si=lGmdeqXsCqtQQzx1",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
       "Shivji"
     ],
     "locked": false
@@ -12871,645 +12724,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "शिव महिम्न स्तोत्र:",
-        "en": "Shiv Mahimn Stotra:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "प्रतिदिन सुबह या शाम की पूजा के समय",
-        "en": "Shiv Mahimn Stotra:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/TXXioV0_9-o?si=wEaulnEEeYWdA4C5",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shivji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "वेदसार शिव स्तोत्रम्",
-        "en": "Vedasar Shiv Stotram"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "प्रतिदिन प्रातःकाल स्नान के बाद या सोमवार व प्रदोष व्रत के दिनों में",
-        "en": "Vedasar Shiv Stotram"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/3_8Z1uqPWZ0?si=2Vlmkq5w0gw_xDCZ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shivji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव चालीसा",
-        "en": "Shiv Chalisa"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सुबह (ब्रह्म मुहूर्त: 4 से 6 बजे) या शाम (प्रदोष काल) में करना सबसे उत्तम और फलदायी माना जाता है। प्रतिदिन के अलावा, सोमवार, सावन माह, प्रदोष तिथि और शिवरात्रि पर विशेष रूप से पाठ करना चाहिए",
-        "en": "Shiv Chalisa Path"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/-mUoM-sSzkc?si=a3TP0d2Z_b5S-kCr",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Chalisa",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री रुद्राष्टकम् (संक्षिप्त अंश - तुलसीदास रचित)",
-        "en": "Shri Rudrashtakam (Sankshipt Ansh - Tulsidas Rachit)"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नमामीशमीशान' (शिव रुद्राष्टकम) का पाठ प्रतिदिन सुबह या शाम को स्नानोपरांत करना सबसे उत्तम है। विशेष रूप से सोमवार, प्रदोष व्रत, श्रावण मास, और महाशिवरात्रि पर इसका पाठ अत्यधिक कल्याणकारी और मनोकामनाएं पूरी करने वाला माना जाता है।",
-        "en": "Shri Rudrashtakam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/081bLdQKX-Q?si=msq2vM1Qng2BQD9H",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ashtakam",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव स्तुति",
-        "en": "Shiv Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सुबह (ब्रह्ममुहूर्त) या शाम की पूजा के समय किया जाता है। यह स्तुति महादेव के शांत स्वरूप की महिमा गाती है, इसलिए इसे मानसिक शांति और प्रसन्नता के लिए रोज़ या महाशिवरात्रि/सावन जैसे विशेष दिनों में सुना जा सकता है।",
-        "en": "Shiv Stuti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/JfXPpBVPkcU?si=fMvP8aJMsyMYOHU3",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Happiness",
-      "Stuti",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ जय शिव ओंकारा",
-        "en": "Om Jai Shiv Omkara"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "इसे विशेष रूप से सोमवार के दिन, सावन मास में, महाशिवरात्रि पर, और दैनिक पूजा में गाया जाता है।",
-        "en": "Aarti Om Jai Shiv Omkara"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/BhwOproElxU?si=hlOKkSda3B3Cka2O",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ध्यान श्लोक (पूजा हेतु)",
-        "en": "Dhyan Shlok (Puja Hetu)"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "आरती के बाद , दैनिक प्रार्थना",
-        "en": "Dhyan Shlok"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/HdFD5S7pdtw?si=LGbLbPv5GY_tE3Ab",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव शंकर को जिसने पूजा",
-        "en": "Shiv Shankar Ko Jisne Puja"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शिव शंकर को जिसने पूजा",
-        "en": "Shiv Shankar Ko Jisne Puja"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/w7HbgKcQS_w?si=KCJVUE_VkpIA8tKc",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सुबह सुबह ले शिव का नाम",
-        "en": "Subah Subah Le Shiv Ka Naam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सुबह सुबह ले शिव का नाम",
-        "en": "Subah Subah Le Shiv Ka Naam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/TplRlUULXz8?si=w-ebBCmQx88smeOh",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हे शम्भू बाबा मेरे भोले नाथ",
-        "en": "He Shambhu Baba Mere Bhole Nath"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हे शम्भू बाबा मेरे भोले नाथ",
-        "en": "He Shambhu Baba Mere Bhole Nath"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/i6rDYxNpubk?si=Z1cSGYW4UCmuEsd6",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "चलो शिव शंकर के मंदिर में भक्तों",
-        "en": "Chalo Shiv Shankar Ke Mandir Mein Bhakto"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "चलो शिव शंकर के मंदिर में भक्तों",
-        "en": "Chalo Shiv Shankar Ke Mandir Mein Bhakto"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/uY5YAvygOJs?si=8dBC9W82qOAvOxTd",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "भोले भंडारी सबके ही भंडार भरे",
-        "en": "Bhole Bhandari Sabke Hi Bhandar Bhare"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भोले भंडारी सबके ही भंडार भरे",
-        "en": "Bhole Bhandari Sabke Hi Bhandar Bhare"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/zfhnJkZbtB0?si=J0cNKvR_xcs-AdL7",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शंकर तेरी जटा में बहती है गंगधारा",
-        "en": "Shankar Teri Jata Mein Behti Hai Gangdhara"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शंकर तेरी जटा में बहती है गंगधारा",
-        "en": "Shankar Teri Jata Mein Behti Hai Gangdhara"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ZxAZksjaUUU?si=pFBqlNlDgtv6Qwxu",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सम्पूर्ण शिव पुराण सार",
-        "en": "Sampurn Shiv Puran Saar"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सम्पूर्ण शिव पुराण सार",
-        "en": "Sampurn Shiv Puran Saar"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/d-zWzSTNOMo?si=8Gtyc3crPXZxHvXM",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव जी का जन्म कैसे हुआ",
-        "en": "Shiv Ji Ka Janm Kaise Hua"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शिव जी का जन्म कैसे हुआ",
-        "en": "Shiv Ji Ka Janm Kaise Hua"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/g4iZhS7EvQc?si=tajjxxWlYauvwgSt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सम्पूर्ण गाथा नीलकंठ की",
-        "en": "Sampurn Gatha Neelkanth Ki"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सम्पूर्ण गाथा नीलकंठ की",
-        "en": "Sampurn Gatha Neelkanth Ki"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/zUdp2fQJemw?si=jdzUfbtXHLEoG4OC",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नंदी कैसे बने शिवजी के सवारी",
-        "en": "Nandi Kaise Bane Shivji Ke Sawari"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नंदी कैसे बने शिवजी के सवारी",
-        "en": "Nandi Kaise Bane Shivji Ke Sawari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/2hUQyXzKgOo?si=dvtDXcOirPxrEizn",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "आखिर क्यों शिवपार्वती ने लिया था अर्धनारीश्वर रूप ?",
-        "en": "Aakhir Kyon Shiv-Parvati Ne Liya Tha Ardhanarishwar Roop?"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "आखिर क्यों शिवपार्वती ने लिया था अर्धनारीश्वर रूप ?",
-        "en": "Aakhir Kyon Shiv-Parvati Ne Liya Tha Ardhanarishwar Roop?"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/4lokTkaO9xs?si=C19AkxnlrW3NFtQ2",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "क्यों मिला था चंद्रमा को श्राप ?",
-        "en": "Kyon Mila Tha Chandrama Ko Shrap?"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "क्यों मिला था चंद्रमा को श्राप ?",
-        "en": "Kyon Mila Tha Chandrama Ko Shrap?"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/iEIJBAKx0wI?si=bBiJfhIDY2Psljnj",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "12 ज्योतिर्लिंग की कथाएँ क्या है?",
-        "en": "12 Jyotirling Ki Kathayein Kya Hai?"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "12 ज्योतिर्लिंग की कथाएँ क्या है?",
-        "en": "12 Jyotirling Ki Kathayein Kya Hai?"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/My9aRwekYGk?si=jbP4Jiv89W7Ij-D7",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शिव ने अपने ही पुत्र गणेश का सिर क्यों काटा?",
-        "en": "Shiv Ne Apne Hi Putra Ganesh Ka Sir Kyon Kata?"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शिव ने अपने ही पुत्र गणेश का सिर क्यों काटा?",
-        "en": "Shiv Ne Apne Hi Putra Ganesh Ka Sir Kyon Kata?"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/oa1tHpermgU?si=VvSwaXWDjjjQ4FfT",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Shivji"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हनुमान बीज मंत्र",
-        "en": "Hanuman Beej Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सुबह ब्रह्म मुहूर्त (4:00 AM - 6:00 AM) है। मंगलवार और शनिवार को यह अधिक प्रभावशाली माना जाता है। आप इसे पूजा के दौरान सुबह स्नान के बाद या रात में सोने से पहले भी शांत मन से सुन/कर सकते हैं।",
-        "en": "Hanuman Beej Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/o5Uk1sxGBZU?si=aIuPQqmzIrromxMt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "HanumanJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हनुमान गायत्री मंत्र:",
         "en": "Hanuman Gayatri Mantra:"
       },
@@ -13568,68 +12782,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "रुद्रावतार हनुमान मंत्र (मूल मंत्र:)",
-        "en": "Rudravatar Hanuman Mantra (Mool Mantra:)"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भय और तनाव में , शत्रु नाश और सुरक्षा के लिए , रोग मुक्ति के लिए",
-        "en": "Rudravatar Hanuman Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/BYDOl5Sm-HE?si=80FQdV8AYyPkhQOY",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Health",
-      "Happiness",
-      "Mantra",
-      "Strength",
-      "HanumanJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "आंजनेय मंत्र",
-        "en": "Anjaneya Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शक्ति, सुरक्षा और साहस प्राप्त करने के लिए सुना या जप किया जाता है।",
-        "en": "Anjaneya Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/OhF0O9nb5t8?si=FNJNYprwyEwqcGsC",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "HanumanJi",
-      "Strength"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "प्रमुख मंत्र:",
         "en": "Pramukh Mantra:"
       },
@@ -13655,156 +12807,6 @@
       "HanumanJi",
       "Happiness",
       "Health"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "रक्षा कवच मंत्र:",
-        "en": "Raksha Kavach Mantra:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सुरक्षा, शक्ति और भय से मुक्ति के लिए नित्य (रोजाना) सुना या जपा जा सकता है",
-        "en": "Raksha Kavach Mantra:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/_97POkIQ_kQ?si=2Nyp0GAVtCXv1eOf",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Health",
-      "Happiness",
-      "Mantra",
-      "Strength",
-      "HanumanJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मारुती स्तोत्र",
-        "en": "Maruti Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मारुती स्तोत्र",
-        "en": "Maruti Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/V1-7O0EPaJk?si=0-xX1NUeG-kZ76qS",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री हनुमान तांडव स्तोत्र",
-        "en": "Shri Hanuman Tandav Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शत्रुओं पर विजय, शारीरिक-मानसिक बल बढ़ाने, और मंगल-राहु जैसे ग्रहों के दोषों को दूर करने के लिए अत्यंत प्रभावशाली माना जाता है",
-        "en": "Shri Hanuman Tandav Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/AjCLVm6gKQc?si=acKj8AiCXoLASvM8",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Strength",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री आञ्जनेय द्वादशनाम स्तोत्रम्",
-        "en": "Shri Anjaneya Dwadashnam Stotram"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री आञ्जनेय द्वादशनाम स्तोत्रम्",
-        "en": "Shri Anjaneya Dwadashnam Stotram"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/BjvVJOS7xPE?si=NtPLuZzAbGNbe6gO",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "पंचमुखी हनुमान स्तोत्र",
-        "en": "Panchmukhi Hanuman Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नकारात्मकता और काला जादू से रक्षा: , ग्रह दोषों से मुक्ति:",
-        "en": "Panchmukhi Hanuman Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PzjSJIswc6s?si=VeKkvGCYklpFQt0d",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Health",
-      "Strotam"
     ],
     "locked": false
   },
@@ -13900,65 +12902,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "आरती कीजै हनुमान लला की",
-        "en": "Aarti Keeje Hanuman Lala Ki"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "आरती कीजै हनुमान लला की",
-        "en": "Aarti Keeje Hanuman Lala Ki"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/r7GJ8GoGSD8?si=5vKJpH3tM6QoFwzl",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "HanumanJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "बुद्धिर्बलं यशो धैर्यं निर्भयत्वमरोगता।",
-        "en": "Buddhirbalam Yasho Dhairyam Nirbhayatvamarogata."
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मानसिक और शारीरिक शक्ति के लिए",
-        "en": "Buddhirbalam Yasho Dhairyam Nirbhayatvamarogata."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/4PZzUru94JY?si=unI0BALTYhAIdzmS",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "HanumanJi",
-      "Strength"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हनुमान गायत्री",
         "en": "Hanuman Gayatri"
       },
@@ -13983,65 +12926,6 @@
       "Shloka",
       "HanumanJi",
       "Strength"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मर्कटेश महोत्साह सर्वशोक विनाशन।",
-        "en": "Markatesh Mahotsah Sarvashok Vinashan."
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "धन प्राप्ति और शत्रु से रक्षा मंत्र",
-        "en": "Markatesh Mahotsah Sarvashok Vinashan."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/xvaY6-PgNyY?si=1wxv0hpaEyvvF4jN",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "HanumanJi",
-      "Wealth"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "कार्य सिद्धि",
-        "en": "Karya Siddhi"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "कार्य सिद्धि",
-        "en": "Karya Siddhi"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/faCtr2ajTuE?si=svKC2jHHd_23bpz4",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "HanumanJi"
     ],
     "locked": false
   },
@@ -14107,64 +12991,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "हे दुख भंजन मारुति नंदन",
-        "en": "He Dukh Bhanjan Maruti Nandan"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हे दुख भंजन मारुति नंदन",
-        "en": "He Dukh Bhanjan Maruti Nandan"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/n4fZknyZlsk?si=W6avmHz2Bl7IEuMr",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "छम छम नाचे वीर हनुमान",
-        "en": "Chham Chham Nache Veer Hanuman"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "छम छम नाचे वीर हनुमान",
-        "en": "Chham Chham Nache Veer Hanuman"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/hy_UKySqiNo?si=WO1ouxTrWAya94GP",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "संकट मोचन नाम तिहारो",
         "en": "Sankat Mochan Naam Tiharo"
       },
@@ -14194,93 +13020,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "बजरंग बली मेरी नाव चली",
-        "en": "Bajrang Bali Meri Naav Chali"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "बजरंग बली मेरी नाव चली",
-        "en": "Bajrang Bali Meri Naav Chali"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/eH89BxWg9P4?si=5IOyC_otVc9JKSFd",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "वीर हनुमाना अति बलवाना",
-        "en": "Veer Hanumana Ati Balwana"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "वीर हनुमाना अति बलवाना",
-        "en": "Veer Hanumana Ati Balwana"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Dlu4KGrnmZg?si=uNHWa9x_7eYIABar",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हनुमान जन्म कथा",
-        "en": "Hanuman Janm Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हनुमान जन्म कथा",
-        "en": "Hanuman Janm Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/IfpaqbjwW6Y?si=0Q_-WTElzyLcpNwT",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "HanumanJi",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "शक्ति, भक्ति और बुद्धि के देव हनुमान जी को समझिए |",
         "en": "Shakti, Bhakti Aur Buddhi Ke Dev Hanuman Ji Ko Samjhiye |"
       },
@@ -14302,7 +13041,6 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "HanumanJi",
       "Katha"
     ],
     "locked": false
@@ -14331,7 +13069,6 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "HanumanJi",
       "Katha"
     ],
     "locked": false
@@ -14389,7 +13126,6 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "HanumanJi",
       "Katha"
     ],
     "locked": false
@@ -14418,7 +13154,6 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "HanumanJi",
       "Katha"
     ],
     "locked": false
@@ -14476,8 +13211,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "GaneshJi"
+      "GaneshJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -14498,64 +13233,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/dkVlpm1mKFI?si=crdKp9jnOOfpOZx7",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "संकट नाशक मंत्र",
-        "en": "Sankat Nashak Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "संकट नाशक मंत्र",
-        "en": "Sankat Nashak Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/sHjD9ChjUsU?si=kj5RxANqbh9URRDf",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ लम्बोदराय नमः",
-        "en": "Om Lambodaray Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ लम्बोदराय नमः",
-        "en": "Om Lambodaray Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/a5qd1rCqkvI?si=s5oYDC9M7BF8gZIn",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -14776,64 +13453,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "तुलसीदास कृत श्री गणेश स्तुति",
-        "en": "Tulsidas Krit Shri Ganesh Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "तुलसीदास कृत श्री गणेश स्तुति",
-        "en": "Tulsidas Krit Shri Ganesh Stuti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PHYOoKN1eRA?si=ss-wUy5JBBGT5IWO",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Stuti",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सिद्धिविनायक स्तुति",
-        "en": "Siddhivinayak Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सिद्धिविनायक स्तुति",
-        "en": "Siddhivinayak Stuti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/-ZrQZp2y3PQ?si=hCx7LtL3gBXFjUBg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Stuti",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "नमामि ते गजाननं",
         "en": "Namami Te Gajananm"
       },
@@ -14935,64 +13554,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/bo62sjQ0CmE?si=t1lAn32pD2F23gVQ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "जय देव जय देव जय मंगलमूर्ती",
-        "en": "Jai Dev Jai Dev Jai Mangalmurti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "जय देव जय देव जय मंगलमूर्ती",
-        "en": "Jai Dev Jai Dev Jai Mangalmurti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/_NgJw_JU0N0?si=xxET0DfzB9lul_dc",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "आरती सिद्धिविनायक जी की",
-        "en": "Aarti Siddhivinayak Ji Ki"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "आरती सिद्धिविनायक जी की",
-        "en": "Aarti Siddhivinayak Ji Ki"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/_oOQ5UYKAKo?si=LHHmXG1Si_5d1Gky",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -15182,93 +13743,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "संकट हर लो मंगल कर दो",
-        "en": "Sankat Har Lo Mangal Kar Do"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "संकट हर लो मंगल कर दो",
-        "en": "Sankat Har Lo Mangal Kar Do"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ZswQ9qUMDTs?si=JCy5lg1H5mtQ_5JL",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "तेरी जय हो गणेश",
-        "en": "Teri Jai Ho Ganesh"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "तेरी जय हो गणेश",
-        "en": "Teri Jai Ho Ganesh"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/enalr0CvqVM?si=WMYDWThqcqx9a4pP",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हे गौरी नंदन तुमको वन्दन",
-        "en": "He Gauri Nandan Tumko Vandan"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हे गौरी नंदन तुमको वन्दन",
-        "en": "He Gauri Nandan Tumko Vandan"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/BMHSi1dzXzs?si=rn151FPk0nrcDwwa",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हे गौरी नंदन तुमको वंदन",
         "en": "He Gauri Nandan Tumko Vandan"
       },
@@ -15298,93 +13772,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "गणपति पहला तुम्हे प्रणाम है",
-        "en": "Ganpati Pehla Tumhe Pranam Hai"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गणपति पहला तुम्हे प्रणाम है",
-        "en": "Ganpati Pehla Tumhe Pranam Hai"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/c6NhHI-nOW0?si=KvNW6DMPNdcX9kLy",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "गजानन महाराज पधारो",
-        "en": "Gajanan Maharaj Padharo"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गजानन महाराज पधारो",
-        "en": "Gajanan Maharaj Padharo"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/fOWk1A27pKQ?si=1hsP5OkDsZwIELgh",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री गणेश जन्म कथा",
-        "en": "Shri Ganesh Janm Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री गणेश जन्म कथा",
-        "en": "Shri Ganesh Janm Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/yqzr0_-2XbQ?si=KaaBH4Ke-TxOb1ih",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "सबसे पहले गणेश भगवान् की पूजा क्यों करते है",
         "en": "Sabse Pehle Ganesh Bhagwan Ki Puja Kyon Karte Hai"
       },
@@ -15406,8 +13793,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -15435,37 +13822,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "GaneshJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "द्वादशाक्षर मंत्र",
-        "en": "Dwadashakshar Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "द्वादशाक्षर मंत्र",
-        "en": "Dwadashakshar Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Vb06G2bDFkE?si=mxsOg_3XgD0DSJQi",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "VishnuJi"
+      "GaneshJi",
+      "Katha"
     ],
     "locked": false
   },
@@ -15501,64 +13859,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/MuVrsDfgwI0?si=TpM7uKaIrn00Acbk",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ विष्णवे नमः",
-        "en": "Om Vishnave Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ विष्णवे नमः",
-        "en": "Om Vishnave Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/U7WIOZyTEaQ?si=sdZ_Z-n3qy3JFTNU",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "कार्तवीर्यार्जुन मंत्र",
         "en": "Kartaviryarjuna Mantra"
       },
@@ -15573,35 +13873,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://www.youtube.com/live/IhBouQi3D9Q?si=jENRpKbSc3oDZxDg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ लक्ष्मीपतये नमः",
-        "en": "Om Lakshmipataye Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ लक्ष्मीपतये नमः",
-        "en": "Om Lakshmipataye Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/erQ7OvBnfMY?si=6Tr4oodbqcuN7H97",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -15675,35 +13946,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "ॐ अचुताय नमः",
-        "en": "Om Achyutaya Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ अचुताय नमः",
-        "en": "Om Achyutaya Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/6Ncyh3vwtQI?si=JS1uUNm_AsCNqZUZ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "विष्णु सहस्रनाम स्तोत्रम्:",
         "en": "Vishnu Sahasranama Stotram:"
       },
@@ -15718,93 +13960,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/zKC17254flc?si=1RLal5iLIRaiuuMb",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Strotam",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "गजेन्द्र मोक्ष स्तोत्र:",
-        "en": "Gajendra Moksha Stotra:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गजेन्द्र मोक्ष स्तोत्र:",
-        "en": "Gajendra Moksha Stotra:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/3dmYdRgJsJ4?si=G1IqQRXpQdgix2Pr",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Strotam",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "लक्ष्मी नारायण स्तोत्र",
-        "en": "Lakshmi Narayan Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "लक्ष्मी नारायण स्तोत्र",
-        "en": "Lakshmi Narayan Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/EkAUXHqqaLk?si=c4jgf8zmawRwmVRl",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Strotam",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "विष्णु पंजर स्तोत्रम्",
-        "en": "Vishnu Panjar Stotram"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "विष्णु पंजर स्तोत्रम्",
-        "en": "Vishnu Panjar Stotram"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/kt9-B0uUmRY?si=Or6uohC4Z_ZY7DZ5",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -15849,35 +14004,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "विष्णु भुजंग प्रयात स्तोत्र",
-        "en": "Vishnu Bhujang Prayat Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "विष्णु भुजंग प्रयात स्तोत्र",
-        "en": "Vishnu Bhujang Prayat Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/yx_Koe1uOdI?si=AHlai-OftkIyeKnG",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Strotam",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "श्री हरि स्तोत्रम्",
         "en": "Shri Hari Stotram"
       },
@@ -15900,64 +14026,6 @@
     "status": "DRAFT",
     "tags": [
       "Strotam",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "विष्णु चालीसा",
-        "en": "Vishnu Chalisa"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "विष्णु चालीसा",
-        "en": "Vishnu Chalisa"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/yPiSJP34-QM?si=YnJXYPnTNuwpbv0L",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Chalisa",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "अच्युताष्टकम",
-        "en": "Achyutashtakam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "अच्युताष्टकम",
-        "en": "Achyutashtakam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/gy07mltqNRc?si=qzWa5TytleC7FSax",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ashtakam",
       "VishnuJi"
     ],
     "locked": false
@@ -16016,35 +14084,6 @@
     "status": "DRAFT",
     "tags": [
       "Aarti",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नमोऽस्त्वनन्ताय",
-        "en": "Namostvanantaya"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नमोऽस्त्वनन्ताय",
-        "en": "Namostvanantaya"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/LG28JZIvNsc?si=aHLn3k0UYaxwBxWH",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
       "VishnuJi"
     ],
     "locked": false
@@ -16111,64 +14150,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "सशंखचक्रं सकिरीटकुण्डलं",
-        "en": "Sashankhachakram Sakiritakundalam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सशंखचक्रं सकिरीटकुण्डलं",
-        "en": "Sashankhachakram Sakiritakundalam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/_TGfTsdHi0c?si=S1p1qdhJL2vCsEl6",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "त्वमेव माता च पिता त्वमेव",
-        "en": "Tvameva Mata Cha Pita Tvameva"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "त्वमेव माता च पिता त्वमेव",
-        "en": "Tvameva Mata Cha Pita Tvameva"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/JSVctoNlPKs?si=W7kvcuUvTsv_KM5A",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Shloka",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "अच्युतम केशवम कृष्ण दामोदरम",
         "en": "Achyutam Keshavam Krishna Damodaram"
       },
@@ -16198,296 +14179,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्रीमन नारायण नारायण हरी हरी",
-        "en": "Shriman Narayan Narayan Hari Hari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/MuVrsDfgwI0?si=ttg63rMJqtDATiJg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नमो नमो श्री नारायण जय बैकुण्ड बिहारी",
-        "en": "Namo Namo Shri Narayan Jai Vaikunth Bihari"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नमो नमो श्री नारायण जय बैकुण्ड बिहारी",
-        "en": "Namo Namo Shri Narayan Jai Vaikunth Bihari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ABNYMP9z8qk?si=EkfBRWlZWFeDBGaz",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सारे जहाँ के मालिक तेरा ही आसरा है",
-        "en": "Sare Jahan Ke Malik Tera Hi Aasra Hai"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सारे जहाँ के मालिक तेरा ही आसरा है",
-        "en": "Sare Jahan Ke Malik Tera Hi Aasra Hai"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/-JYk923PASE?si=wruS-9FuWwzEb6X5",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "हरी आ जाओ एक बार",
-        "en": "Hari Aa Jao Ek Baar"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "हरी आ जाओ एक बार",
-        "en": "Hari Aa Jao Ek Baar"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Ylxbl767w_w?si=2tEunpeyYL5Rxs1d",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सत्यनारायण व्रत कथा:",
-        "en": "Satyanarayan Vrat Katha:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सत्यनारायण व्रत कथा:",
-        "en": "Satyanarayan Vrat Katha:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/JCU2B7718PY?si=YHivudgRSSDMI3uY",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "समुद्र मंथन की कथा:",
-        "en": "Samudra Manthan Ki Katha:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "समुद्र मंथन की कथा:",
-        "en": "Samudra Manthan Ki Katha:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ib4O0n3PH8o?si=gM39DNbgDuWKfvFA",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "दशावतार कथा:",
-        "en": "Dashavatar Katha:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "दशावतार कथा:",
-        "en": "Dashavatar Katha:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/URoRSBBZFgg?si=T85HrSjmY0jyqqr3",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नरसिंह अवतार और प्रह्लाद की कथा",
-        "en": "Narsingh Avatar Aur Prahlad Ki Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नरसिंह अवतार और प्रह्लाद की कथा",
-        "en": "Narsingh Avatar Aur Prahlad Ki Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/HhLUl36i2gs?si=Qbhw_Rvjr7barqml",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "वामन अवतार और राजा बलि की कथा",
-        "en": "Vaman Avatar Aur Raja Bali Ki Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "वामन अवतार और राजा बलि की कथा",
-        "en": "Vaman Avatar Aur Raja Bali Ki Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/fDzcm2RKM4s?si=nQip96jtyul3SEsn",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "विष्णु जी और माता लक्ष्मी के विवाह की कथा",
-        "en": "Vishnu Ji Aur Mata Lakshmi Ke Vivah Ki Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "विष्णु जी और माता लक्ष्मी के विवाह की कथा",
-        "en": "Vishnu Ji Aur Mata Lakshmi Ke Vivah Ki Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/iZkxNZpqQ4s?si=8wxeb0gCobXxfiQH",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "शालिग्राम बनने की कथा",
         "en": "Shaligram Banne Ki Katha"
       },
@@ -16502,35 +14193,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/Ik_zhFLWVA0?si=cC6xuVXf48XoS0dP",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "VishnuJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "गुरुवार व्रत कथा",
-        "en": "Guruvar Vrat Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गुरुवार व्रत कथा",
-        "en": "Guruvar Vrat Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/7_YKhtWKfX8?si=AWwS-7AgfKFaduT9",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -16662,93 +14324,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "ॐ धनाय नमो नमः",
-        "en": "Om Dhanaya Namo Namah"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ धनाय नमो नमः",
-        "en": "Om Dhanaya Namo Namah"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/HkdHyXjagiU?si=4GOKIUcqQY6_aHZB",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सर्वबाधा निवारण मंत्र",
-        "en": "Sarvabadha Nivaran Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सर्वबाधा निवारण मंत्र",
-        "en": "Sarvabadha Nivaran Mantra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/QI_N_P6aZ7s?si=liGVZcINpHYs6PdJ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ ह्रीं ह्रीं श्री लक्ष्मी वासुदेवाय नम:।",
-        "en": "Om Hreem Hreem Shri Lakshmi Vasudevaya Namah."
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ ह्रीं ह्रीं श्री लक्ष्मी वासुदेवाय नम:।",
-        "en": "Om Hreem Hreem Shri Lakshmi Vasudevaya Namah."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/qR-PxhTOZXY?si=ZBtgkGLQ_x7io_NN",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Mantra",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "श्री सूक्तम:",
         "en": "Shri Suktam:"
       },
@@ -16808,122 +14383,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "लक्ष्मी हृदय स्तोत्र",
-        "en": "Lakshmi Hridaya Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "लक्ष्मी हृदय स्तोत्र",
-        "en": "Lakshmi Hridaya Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/phOoGvDu_h4?si=XKx4FvAb65DYm0Vv",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "LakshmiJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "महालक्ष्मी कवच",
-        "en": "Mahalakshmi Kavach"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "महालक्ष्मी कवच",
-        "en": "Mahalakshmi Kavach"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/OvimStyyQWI?si=SwrQDOQ7f47RApTT",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "LakshmiJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "अष्टलक्ष्मी स्तोत्र",
-        "en": "Ashtalakshmi Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "अष्टलक्ष्मी स्तोत्र",
-        "en": "Ashtalakshmi Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/qb5EuozSWA0?si=1DOqyZO7j9BrmhKi",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "LakshmiJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सर्वदेव कृत लक्ष्मी स्तोत्र",
-        "en": "Sarvadeva Krit Lakshmi Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सर्वदेव कृत लक्ष्मी स्तोत्र",
-        "en": "Sarvadeva Krit Lakshmi Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/HaRSDKZPQ3I?si=H1izhPc-mXQi_vT1",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "LakshmiJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "श्री लक्ष्मी चालीसा",
         "en": "Shri Lakshmi Chalisa"
       },
@@ -16946,122 +14405,6 @@
     "status": "DRAFT",
     "tags": [
       "Chalisa",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "महालक्ष्म्यष्टकम्",
-        "en": "Mahalakshmyashtakam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "महालक्ष्म्यष्टकम्",
-        "en": "Mahalakshmyashtakam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/7P7XuN_D2nQ?si=H9rP6H9jO-grHqXC",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ashtakam",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "महा लक्ष्मी स्तुति",
-        "en": "Maha Lakshmi Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "महा लक्ष्मी स्तुति",
-        "en": "Maha Lakshmi Stuti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/MMVH6vPr2mo?si=jIy2ahvcXaIKa1xJ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Stuti",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "महालक्ष्मी स्तवनम्",
-        "en": "Mahalakshmi Stavanam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "महालक्ष्मी स्तवनम्",
-        "en": "Mahalakshmi Stavanam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/sIPwrMosN9k?si=3QzMTb-otB4uncz-",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Stuti",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ॐ जय लक्ष्मी माता",
-        "en": "Om Jai Lakshmi Mata"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ॐ जय लक्ष्मी माता",
-        "en": "Om Jai Lakshmi Mata"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/0J1aNK16sFM?si=CSef8Vdgn6PlSsmM",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
       "LakshmiJi"
     ],
     "locked": false
@@ -17098,180 +14441,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "लक्ष्मी अमृतवाणी",
-        "en": "Lakshmi Amritwani"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "लक्ष्मी अमृतवाणी",
-        "en": "Lakshmi Amritwani"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/gv8Q4rrkqWE?si=_38Rpl582wr9YcG_",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मेरे घर आओ मां लक्ष्मी",
-        "en": "Mere Ghar Aao Maa Lakshmi"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मेरे घर आओ मां लक्ष्मी",
-        "en": "Mere Ghar Aao Maa Lakshmi"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/5JMFiNOxejY?si=owu81CB4a7qNA6-m",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मइया लक्ष्मी देती धन धान है",
-        "en": "Maiya Lakshmi Deti Dhan Dhan Hai"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मइया लक्ष्मी देती धन धान है",
-        "en": "Maiya Lakshmi Deti Dhan Dhan Hai"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/w9vGn5lQMxU?si=y2-tmAbRLU_U2xLE",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "घर में पधारो लक्ष्मी मैया",
-        "en": "Ghar Mein Padharo Lakshmi Maiya"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "घर में पधारो लक्ष्मी मैया",
-        "en": "Ghar Mein Padharo Lakshmi Maiya"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/H2r9M66CQPk?si=VK7SngiMM1nMQ2hZ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "लक्ष्मी मैया है तुमसे",
-        "en": "Lakshmi Maiya Hai Tumse"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "लक्ष्मी मैया है तुमसे",
-        "en": "Lakshmi Maiya Hai Tumse"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/m3P-UtGt3Ts?si=wee1Hbb2XDZh_r50",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शुभ लाभ धन वैभव दाता जय",
-        "en": "Shubh Labh Dhan Vaibhav Data Jai"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शुभ लाभ धन वैभव दाता जय",
-        "en": "Shubh Labh Dhan Vaibhav Data Jai"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/aRHDmzWFPdo?si=rRwqcCmyV9MQrXkS",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Bhajan",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "लक्ष्मी जी की अवतार कथा |",
         "en": "Lakshmi Ji Ki Avatar Katha |"
       },
@@ -17295,267 +14464,6 @@
     "tags": [
       "Katha",
       "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "वैभव लक्ष्मी व्रत कथा",
-        "en": "Vaibhav Lakshmi Vrat Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "वैभव लक्ष्मी व्रत कथा",
-        "en": "Vaibhav Lakshmi Vrat Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/UH-qlhvW7A4?si=Ua4KCJHZXkykQOJt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "दीपावली की कथा:",
-        "en": "Deepawali Ki Katha:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "दीपावली की कथा:",
-        "en": "Deepawali Ki Katha:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PYhoZ9zUFNA?si=BZ6-5dOq0gfaUpBH",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "माँ लक्ष्मी और राजा बलि की कथा",
-        "en": "Maa Lakshmi Aur Raja Bali Ki Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "माँ लक्ष्मी और राजा बलि की कथा",
-        "en": "Maa Lakshmi Aur Raja Bali Ki Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/W9GywBEmin0?si=Y8MZZLmQalTE_osa",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "LakshmiJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि वज्र पंजर कवचम्",
-        "en": "Shani Vajra Panjar Kavacham"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि वज्र पंजर कवचम्",
-        "en": "Shani Vajra Panjar Kavacham"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/pTcdxwTWstI?si=lyJbdwKdQI3eTfXv",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "दशरथकृत शनि स्तोत्र",
-        "en": "Dashrathkrit Shani Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "दशरथकृत शनि स्तोत्र",
-        "en": "Dashrathkrit Shani Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/NqVQbkZNb3k?si=up8I1tLPXOTVEQFt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "महाकाल शनि मृत्युञ्जय स्तोत्र",
-        "en": "Mahakal Shani Mrityunjaya Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "महाकाल शनि मृत्युञ्जय स्तोत्र",
-        "en": "Mahakal Shani Mrityunjaya Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/R-QTna2MvME?si=okZ5YcA6gTSonATR",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि पीडाहर स्तोत्र",
-        "en": "Shani Peedahar Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि पीडाहर स्तोत्र",
-        "en": "Shani Peedahar Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/XiMzBSu9l6U?si=jFA_091ue8XvG4Ck",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि स्तुति",
-        "en": "Shani Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि स्तुति",
-        "en": "Shani Stuti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/v5zWGRCJV6c?si=ZLpqnNbRnZ52LKcJ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Stuti"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि वंदना:",
-        "en": "Shani Vandana:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि वंदना:",
-        "en": "Shani Vandana:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/2nGciKbBAMY?si=-h41UQYsN1Tn89Ox",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Stuti"
     ],
     "locked": false
   },
@@ -17591,267 +14499,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "सच्चा शनिदेव तेरा दरबार",
-        "en": "Sachcha Shanidev Tera Darbar"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सच्चा शनिदेव तेरा दरबार",
-        "en": "Sachcha Shanidev Tera Darbar"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/o70xTR8t0H4?si=HatQvVEQ9HPQgqLD",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि जी करदो बेड़ा पार",
-        "en": "Shani Ji Kardo Beda Paar"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि जी करदो बेड़ा पार",
-        "en": "Shani Ji Kardo Beda Paar"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/oepDHcPHWwc?si=QJr2Vv_RI9lN8rJ1",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री शनिदेव अमृतवाणी",
-        "en": "Shri Shanidev Amritwani"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री शनिदेव अमृतवाणी",
-        "en": "Shri Shanidev Amritwani"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/e3K3BREwxRQ?si=dfzljU4OEcbG3KLp",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि देव तुम्हारे चरणों में",
-        "en": "Shani Dev Tumhare Charno Mein"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि देव तुम्हारे चरणों में",
-        "en": "Shani Dev Tumhare Charno Mein"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/UqQgZSu8bqg?si=_5Z7nj5e6baEJvaU",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनिदेव तेरा जग में अजब नजारा है",
-        "en": "Shanidev Tera Jag Mein Ajab Nazara Hai"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनिदेव तेरा जग में अजब नजारा है",
-        "en": "Shanidev Tera Jag Mein Ajab Nazara Hai"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/QtwtvLgJFzQ?si=pEGCwBUmI0YlEnb0",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनिदेव के जन्म की महान कथा",
-        "en": "Shanidev Ke Janm Ki Mahan Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनिदेव के जन्म की महान कथा",
-        "en": "Shanidev Ke Janm Ki Mahan Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/SQcX9sUnkP4?si=qSFF_V0Drj9D7Iyx",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनिदेव और हनुमान जी की कथा |",
-        "en": "Shanidev Aur Hanuman Ji Ki Katha |"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनिदेव और हनुमान जी की कथा |",
-        "en": "Shanidev Aur Hanuman Ji Ki Katha |"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/8l77GDrFq-k?si=9Z4rz10EH1DVrmgH",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनिवार व्रत कथा",
-        "en": "Shanivar Vrat Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनिवार व्रत कथा",
-        "en": "Shanivar Vrat Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/sNBJiXNxuZ0?si=tBfa_WYc8KvWc3wn",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "ShaniiDevJi",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री राम रक्षा स्तोत्र:",
-        "en": "Shri Ram Raksha Stotra:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री राम रक्षा स्तोत्र:",
-        "en": "Shri Ram Raksha Stotra:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/NYakpChmUb0?si=JIAUkjQRaibfhJsE",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "आदित्य हृदय स्तोत्र:",
         "en": "Aditya Hridaya Stotra:"
       },
@@ -17875,151 +14522,6 @@
     "tags": [
       "Ramji",
       "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री राम सहस्रनाम स्तोत्र",
-        "en": "Shri Ram Sahasranama Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री राम सहस्रनाम स्तोत्र",
-        "en": "Shri Ram Sahasranama Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/yeWPihxDQvA?si=5TDCOox2vWBbCJzB",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नाम रामायणम्",
-        "en": "Nama Ramayanam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नाम रामायणम्",
-        "en": "Nama Ramayanam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/9IqAtf_DTb8?si=7qKSbxov-_kWaUeO",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम हृदय स्तोत्र",
-        "en": "Ram Hridaya Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "राम हृदय स्तोत्र",
-        "en": "Ram Hridaya Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/rUmtjKs26dw?si=JRofuERjRhU5rOtv",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "जटायु कृत श्री राम स्तोत्र",
-        "en": "Jatayu Krit Shri Ram Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "जटायु कृत श्री राम स्तोत्र",
-        "en": "Jatayu Krit Shri Ram Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/jxgpE4o0zoM?si=7XCu8h1e7eQkvotb",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री रामचंद्र कृपालु भजु मन:",
-        "en": "Shri Ramachandra Kripalu Bhaju Man:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री रामचंद्र कृपालु भजु मन:",
-        "en": "Shri Ramachandra Kripalu Bhaju Man:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/igJHuojQHeo?si=B6vk7vi5KYW6nhYO",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Stuti"
     ],
     "locked": false
   },
@@ -18084,35 +14586,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "पायो जी मैंने राम रतन धन पायो",
-        "en": "Payo Ji Maine Ram Ratan Dhan Payo"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "पायो जी मैंने राम रतन धन पायो",
-        "en": "Payo Ji Maine Ram Ratan Dhan Payo"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/pRjGwMSqjZo?si=paIzNVFEfqMABUaj",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "ठुमक चलत रामचंद्र बाजत पैंजनिया",
         "en": "Thumak Chalat Ramchandra Bajat Painjaniya"
       },
@@ -18136,412 +14609,6 @@
     "tags": [
       "Ramji",
       "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री राम जानकी बैठे हैं मेरे सीने में",
-        "en": "Shri Ram Janki Baithe Hain Mere Seene Mein"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री राम जानकी बैठे हैं मेरे सीने में",
-        "en": "Shri Ram Janki Baithe Hain Mere Seene Mein"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/jxtDNKTnmqY?si=wElShzcNXxs7zp4R",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "रघुपति राघव राजा राम",
-        "en": "Raghupati Raghav Raja Ram"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "रघुपति राघव राजा राम",
-        "en": "Raghupati Raghav Raja Ram"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Gtfufkz68KM?si=exIeaIdkt21gExXk",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम कहानी सुनो रे राम कहानी",
-        "en": "Ram Kahani Suno Re Ram Kahani"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "राम कहानी सुनो रे राम कहानी",
-        "en": "Ram Kahani Suno Re Ram Kahani"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/raAgqGKgIU8?si=imd0TcZyq9jAJfNN",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नगरी हो अयोध्या सी",
-        "en": "Nagari Ho Ayodhya Si"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नगरी हो अयोध्या सी",
-        "en": "Nagari Ho Ayodhya Si"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ZkKStVgGEJY?si=LGnO8DtUL_iEf1ei",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम जी की निकली सवारी",
-        "en": "Ram Ji Ki Nikli Sawari"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "राम जी की निकली सवारी",
-        "en": "Ram Ji Ki Nikli Sawari"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/bZ-Zrc-GPoc?si=pLzw80vTt6ty2tJt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "भजमन राम चरण सुखदाई",
-        "en": "Bhajman Ram Charan Sukhdayi"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भजमन राम चरण सुखदाई",
-        "en": "Bhajman Ram Charan Sukhdayi"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/bhJ8_EqziNY?si=FKZ8NHKTs6R1lRUW",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम नाम के हीरे मोती",
-        "en": "Ram Naam Ke Heere Moti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "राम नाम के हीरे मोती",
-        "en": "Ram Naam Ke Heere Moti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/6BJR_j4FHz4?si=hRLU-bLSvuuKWHgs",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मन में राम बसा ले",
-        "en": "Man Mein Ram Basa Le"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मन में राम बसा ले",
-        "en": "Man Mein Ram Basa Le"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/eXSq8m8CqGc?si=3f43U1aXfPAM58Hi",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Bhajan"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री राम जन्म कथा:",
-        "en": "Shri Ram Janm Katha:"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री राम जन्म कथा:",
-        "en": "Shri Ram Janm Katha:"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/_9mbammZPdU?si=n-ByLRdXdeMlpmHp",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री राम ने कैसे किया माँ अहल्या का उद्धार",
-        "en": "Shri Ram Ne Kaise Kiya Maa Ahalya Ka Uddhar"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री राम ने कैसे किया माँ अहल्या का उद्धार",
-        "en": "Shri Ram Ne Kaise Kiya Maa Ahalya Ka Uddhar"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/x795jwrP6sY?si=Yx3aq_swuDsuga3X",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सीता स्वयंवर की अद्भुत कथा",
-        "en": "Sita Swayamvar Ki Adbhut Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सीता स्वयंवर की अद्भुत कथा",
-        "en": "Sita Swayamvar Ki Adbhut Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/f_dQkIQqdvs?si=VW1LPoO0Ogb4h0pc",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्रीराम वनवास की कथा",
-        "en": "Shriram Vanvas Ki Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्रीराम वनवास की कथा",
-        "en": "Shriram Vanvas Ki Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/vcV_UjRl_OM?si=FuwK91gx91kJVKGN",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "भरत राम मिलाप - कथा",
-        "en": "Bharat Ram Milap - Katha"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भरत राम मिलाप - कथा",
-        "en": "Bharat Ram Milap - Katha"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/DF8jiXHJlRA?si=LwvO4OoiAxaNRpDV",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्रीराम ने बाली को छुपकर क्यों मारा ?",
-        "en": "Shriram Ne Bali Ko Chhupkar Kyon Mara?"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्रीराम ने बाली को छुपकर क्यों मारा ?",
-        "en": "Shriram Ne Bali Ko Chhupkar Kyon Mara?"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/k7kdm72nBjU?si=NJnOHq8FVwLrioHv",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Ramji",
-      "Katha"
     ],
     "locked": false
   },
@@ -18693,35 +14760,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "गणेश कवच",
-        "en": "Ganesh Kavach"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गणेश कवच",
-        "en": "Ganesh Kavach"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/7AOJUIx9dLE?si=iiZJAYQrRCv1tpsQ",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "GaneshJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "मयूरेस्वर स्तोत्र",
         "en": "Mayureshwar Stotra"
       },
@@ -18744,180 +14782,6 @@
     "status": "DRAFT",
     "tags": [
       "GaneshJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "गणेश हृदय स्तोत्र",
-        "en": "Ganesh Hridaya Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गणेश हृदय स्तोत्र",
-        "en": "Ganesh Hridaya Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/hA__sJZ_FOc?si=-goJ82D1uxHHIBdW",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "GaneshJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "गोपाल सहस्रनाम स्तोत्र",
-        "en": "Gopal Sahasranama Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "गोपाल सहस्रनाम स्तोत्र",
-        "en": "Gopal Sahasranama Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/sjWftsKY17c?si=mLCx34MI5E8Wd-Yo",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "KrishnaJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मुकुंद माला स्तोत्र",
-        "en": "Mukunda Mala Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मुकुंद माला स्तोत्र",
-        "en": "Mukunda Mala Stotra"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ZTs6tcgm0lE?si=zJdwNIS-eYe8GMet",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "KrishnaJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्री कृष्ण अष्टोत्तर शतनाम स्तोत्र (108 नाम)",
-        "en": "Shri Krishna Ashtottara Shatanam Stotra (108 Naam)"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "श्री कृष्ण अष्टोत्तर शतनाम स्तोत्र (108 नाम)",
-        "en": "Shri Krishna Ashtottara Shatanam Stotra (108 Naam)"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/K3oE-h8Lgxk?si=H2NeiSvZDFyeitvU",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "KrishnaJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "ब्रह्म संहिता",
-        "en": "Brahma Samhita"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ब्रह्म संहिता",
-        "en": "Brahma Samhita"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/0pSbpQcCBNc?si=uR5GGoDtiu4sh4nB",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "KrishnaJi",
-      "Strotam"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "नारायणीयम्",
-        "en": "Narayaneeyam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "नारायणीयम्",
-        "en": "Narayaneeyam"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/vheWrSxvQf8?si=WSd_Oh9eIu29WaY4",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "KrishnaJi",
       "Strotam"
     ],
     "locked": false
@@ -18975,8 +14839,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Mantra",
-      "DurjaJi"
+      "DurjaJi",
+      "Mantra"
     ],
     "locked": false
   },
@@ -19004,8 +14868,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19209,8 +15073,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19238,8 +15102,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Happiness",
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19267,8 +15132,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19325,9 +15190,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19355,8 +15219,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19413,8 +15277,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19471,8 +15335,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19529,8 +15393,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19558,8 +15422,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Peace"
     ],
     "locked": false
   },
@@ -19638,35 +15502,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/BLn-f2DZN4Y?si=tdz0GGjNGQIWYzX4",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "त्वमेव माता च पिता त्वमेव",
-        "en": "Tvameva Mata Cha Pita Tvameva"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "त्वमेव माता च पिता त्वमेव, त्वमेव बन्धुश्च सखा त्वमेव। त्वमेव विद्या द्रविणं त्वमेव, त्वमेव सर्वं मम देव देव॥",
-        "en": "Tvameva Mata Cha Pita Tvameva, Tvameva Bandhushcha Sakha Tvameva. Tvameva Vidya Dravinam Tvameva, Tvameva Sarvam Mam Dev Dev."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/JSVctoNlPKs?si=W7kvcuUvTsv_KM5A",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -19761,8 +15596,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Strotam"
     ],
     "locked": false
   },
@@ -19790,8 +15625,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Ashtakam",
+      "Peace"
     ],
     "locked": false
   },
@@ -19819,9 +15654,10 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Knowledge",
-      "DurjaJi"
+      "MahaShivratri",
+      "Peace",
+      "Strotam",
+      "Stuti"
     ],
     "locked": false
   },
@@ -19908,9 +15744,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Happiness",
-      "Katha",
-      "DurjaJi"
+      "Ashtakam",
+      "Peace"
     ],
     "locked": false
   },
@@ -19998,38 +15833,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Knowledge",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "कृष्ण अष्टकम",
-        "en": "Krishna Ashtakam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मन को भक्ति के आनंद में डुबोकर नकारात्मकता से दूर ले जाता है।",
-        "en": "Man Ko Bhakti Ke Anand Mein Dubokar Nakaratmakta Se Door Le Jata Hai."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PvdeDNeCiQc?si=GEiACiPyXCFv9oen",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "DurjaJi"
+      "Ashtakam",
+      "Peace"
     ],
     "locked": false
   },
@@ -20177,9 +15982,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Knowledge",
+      "Peace",
+      "Stuti"
     ],
     "locked": false
   },
@@ -20207,8 +16012,12 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Happiness",
+      "Health",
+      "LoveAndRelationship",
+      "Peace",
+      "Stuti",
+      "Success"
     ],
     "locked": false
   },
@@ -20236,8 +16045,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Stuti"
     ],
     "locked": false
   },
@@ -20265,8 +16074,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Stuti"
     ],
     "locked": false
   },
@@ -20324,9 +16133,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Happiness",
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Stuti"
     ],
     "locked": false
   },
@@ -20383,9 +16191,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Happiness",
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20413,9 +16220,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Knowledge",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20443,8 +16249,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20472,8 +16278,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20532,8 +16338,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20561,9 +16367,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20591,9 +16396,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Happiness",
-      "Katha",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20621,9 +16425,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Knowledge",
-      "DurjaJi"
+      "Peace",
+      "Shloka"
     ],
     "locked": false
   },
@@ -20688,36 +16491,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "हनुमान बीज मंत्र",
-        "en": "Hanuman Beej Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "तत्काल डर दूर करने और भारी संकट से सुरक्षा के लिए।",
-        "en": "Tatkal Dar Door Karne Aur Bhari Sankat Se Suraksha Ke Liye."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/o5Uk1sxGBZU?si=aIuPQqmzIrromxMt",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "काली मंत्र",
         "en": "Kali Mantra"
       },
@@ -20739,8 +16512,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -20768,9 +16541,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -20858,8 +16630,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -20948,9 +16720,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -20978,9 +16749,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
+      "Mantra",
       "Strength",
-      "DurjaJi"
+      "Success"
     ],
     "locked": false
   },
@@ -21008,9 +16779,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -21038,8 +16808,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Strength"
     ],
     "locked": false
   },
@@ -21134,35 +16904,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "शिव चालीसा",
-        "en": "Shiv Chalisa"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भगवान शिव",
-        "en": "Bhagwan Shiv"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/-mUoM-sSzkc?si=a3TP0d2Z_b5S-kCr",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "काली चालीसा",
         "en": "Kali Chalisa"
       },
@@ -21184,8 +16925,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21213,8 +16954,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21242,37 +16983,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शनि चालीसा",
-        "en": "Shani Chalisa"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शनि देव",
-        "en": "Shani Dev"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/MJ14wONWjWg?si=DEpgPZC7NuC6rPgX",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21329,8 +17041,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21358,8 +17070,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21387,8 +17099,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21416,8 +17128,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength"
     ],
     "locked": false
   },
@@ -21474,8 +17186,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Strength",
+      "Wealth"
     ],
     "locked": false
   },
@@ -21655,8 +17368,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Knowledge",
+      "Mantra"
     ],
     "locked": false
   },
@@ -21684,10 +17397,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "Strength",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -21715,10 +17426,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "Strength",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -21777,9 +17486,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Knowledge",
+      "Mantra"
     ],
     "locked": false
   },
@@ -21837,10 +17545,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "Strength",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -21868,9 +17574,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -21898,9 +17603,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -21958,10 +17662,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Success",
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -22049,8 +17751,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Knowledge",
+      "Strotam"
     ],
     "locked": false
   },
@@ -22078,9 +17780,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -22108,9 +17809,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Knowledge",
+      "Strotam"
     ],
     "locked": false
   },
@@ -22168,10 +17868,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Happiness",
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Stuti"
     ],
     "locked": false
   },
@@ -22237,36 +17935,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "शिव मानस स्तुति",
-        "en": "Shiv Manas Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मानसिक स्पष्टता और गहरे आत्मज्ञान के लिए।",
-        "en": "Mansik Spashtata Aur Gehre Aatmgyan Ke Liye."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/HblVEP-ecEo?si=XaU9U-v4WoR7-NDE",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Knowledge",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हनुमान बुद्धि स्तुति",
         "en": "Hanuman Buddhi Stuti"
       },
@@ -22319,9 +17987,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Strength",
-      "DurjaJi"
+      "Knowledge",
+      "Stuti"
     ],
     "locked": false
   },
@@ -22408,9 +18075,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Stuti"
     ],
     "locked": false
   },
@@ -22529,8 +18195,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Knowledge",
+      "Shloka"
     ],
     "locked": false
   },
@@ -22559,9 +18225,7 @@
     "status": "DRAFT",
     "tags": [
       "Knowledge",
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -22589,9 +18253,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -22708,8 +18371,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Knowledge",
+      "Shloka"
     ],
     "locked": false
   },
@@ -22737,9 +18400,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Success",
-      "Katha",
-      "DurjaJi"
+      "Knowledge",
+      "Shloka"
     ],
     "locked": false
   },
@@ -22797,9 +18459,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
       "Knowledge",
-      "DurjaJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -22948,9 +18609,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Health",
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Wealth"
     ],
     "locked": false
   },
@@ -22978,9 +18638,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Mantra",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23068,9 +18727,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Mantra",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23098,8 +18756,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Mantra",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23218,70 +18876,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Health",
-      "Katha",
-      "Wealth",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "अष्टलक्ष्मी स्तोत्र",
-        "en": "Ashtalakshmi Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "जीवन के 8 अलग-अलग क्षेत्रों में समृद्धि पाने के लिए।",
-        "en": "Jeevan Ke 8 Alag-Alag Kshetron Mein Samriddhi Pane Ke Liye."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/qb5EuozSWA0?si=1DOqyZO7j9BrmhKi",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "लक्ष्मी हृदय स्तोत्र",
-        "en": "Lakshmi Hridaya Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "व्यापार में बड़ी कामयाबी और अटके हुए धन की प्राप्ति हेतु।",
-        "en": "Vyapar Mein Badi Kamyabi Aur Atke Hue Dhan Ki Prapti Hetu."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/phOoGvDu_h4?si=XKx4FvAb65DYm0Vv",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Strotam",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23339,9 +18935,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Strotam",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23369,9 +18965,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Strotam",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23429,9 +19024,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Strotam",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23459,9 +19053,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Chalisa",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23489,9 +19082,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "Wealth",
-      "DurjaJi"
+      "Chalisa",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23527,38 +19119,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "सरस्वती चालीसा",
-        "en": "Saraswati Chalisa"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "बुद्धि से धन कमाने की शक्ति हेतु",
-        "en": "Buddhi Se Dhan Kamane Ki Shakti Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/w19sRwFqbwY?si=gQYxs5wL-HxhsoAF",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Knowledge",
-      "Katha",
-      "Strength",
-      "Wealth",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "महालक्ष्मी चालीसा",
         "en": "Mahalakshmi Chalisa"
       },
@@ -23580,8 +19140,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi"
+      "Chalisa",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23670,8 +19230,7 @@
     "status": "DRAFT",
     "tags": [
       "Aarti",
-      "Wealth",
-      "DurjaJi"
+      "Wealth"
     ],
     "locked": false
   },
@@ -23700,7 +19259,7 @@
     "status": "DRAFT",
     "tags": [
       "Aarti",
-      "DurjaJi"
+      "Wealth"
     ],
     "locked": false
   },
@@ -23788,10 +19347,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Knowledge",
-      "Strength",
-      "DurjaJi"
+      "Shloka",
+      "Wealth"
     ],
     "locked": false
   },
@@ -23970,9 +19527,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -24000,8 +19556,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Mantra"
     ],
     "locked": false
   },
@@ -24059,8 +19615,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Mantra"
     ],
     "locked": false
   },
@@ -24088,9 +19644,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -24208,8 +19763,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Mantra"
     ],
     "locked": false
   },
@@ -24266,9 +19821,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -24325,10 +19879,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "Strength",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -24356,8 +19908,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Strotam"
     ],
     "locked": false
   },
@@ -24385,8 +19937,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "LoveAndRelationship",
+      "Strotam"
     ],
     "locked": false
   },
@@ -24414,70 +19966,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Happiness",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "लक्ष्मी नारायण स्तोत्र",
-        "en": "Lakshmi Narayan Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "घर में सुख-शांति और प्रेम की स्थिरता",
-        "en": "Ghar Mein Sukh-Shanti Aur Prem Ki Sthirta"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/EkAUXHqqaLk?si=b2ZaLaeUWX9IOTP5",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "Happiness",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "कृष्ण अष्टकम",
-        "en": "Krishna Ashtakam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "जीवन में आनंद और खुशहाल संबंधों के लिए",
-        "en": "Jeevan Mein Anand Aur Khushhal Sambandhon Ke Liye"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/PvdeDNeCiQc?si=GEiACiPyXCFv9oen",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -24505,41 +19995,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "Wealth",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "अन्नपूर्णा स्तोत्र",
-        "en": "Annapurna Stotra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "परिवार में प्रेम और भरपूर बरकत के लिए",
-        "en": "Parivar Mein Prem Aur Bharpoor Barkat Ke Liye"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/UkT5eHWOIjQ?si=wBoYN_nxertpZqQW",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "Wealth",
-      "DurjaJi"
+      "Strotam"
     ],
     "locked": false
   },
@@ -24567,10 +20024,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "Success",
-      "DurjaJi"
+      "Stuti"
     ],
     "locked": false
   },
@@ -24598,9 +20053,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "LoveAndRelationship",
-      "DurjaJi"
+      "Stuti"
     ],
     "locked": false
   },
@@ -24784,35 +20238,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "सरस्वती स्तुति",
-        "en": "Saraswati Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "बातचीत में मिठास",
-        "en": "Baatchit Mein Mithas"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Njc1Hu6WPDU?si=2e_xq2AoGxLJomUg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हनुमान स्तुति",
         "en": "Hanuman Stuti"
       },
@@ -24871,36 +20296,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "राधे राधे बरसाने वाली",
-        "en": "Radhe Radhe Barsane Wali"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "प्रेम भाव जगाने हेतु",
-        "en": "Prem Bhav Jagane Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/61EGpAy4Ids?si=N2hWEO1airA1nztA",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "अच्युतम केशवम",
         "en": "Achyutam Keshavam"
       },
@@ -24931,35 +20326,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "श्यामा आन बसो",
-        "en": "Shyama Aan Baso"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "अकेलेपन को दूर करना",
-        "en": "Akelepann Ko Door Karna"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/XtTG7iT7H3g?si=QwuObktBmdhoY9ZT",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "मीठे रस से भरयो री",
         "en": "Meethe Ras Se Bharyo Ri"
       },
@@ -24981,8 +20347,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25040,8 +20406,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25069,8 +20435,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25098,8 +20464,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25127,8 +20493,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25185,9 +20551,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "DurjaJi"
+      "Bhajan",
+      "LoveAndRelationship"
     ],
     "locked": false
   },
@@ -25492,37 +20857,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "बुद्ध मंत्र",
-        "en": "Buddha Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "आंतरिक शांति और ज्ञान",
-        "en": "Aantrik Shanti Aur Gyan"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/ntpeQR7K0PI?si=4_9jjQ1cbxYs7wRa",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Happiness",
-      "Knowledge",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "श्री राम स्तुति",
         "en": "Shri Ram Stuti"
       },
@@ -25635,36 +20969,6 @@
     "status": "DRAFT",
     "tags": [
       "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सरस्वती स्तुति",
-        "en": "Saraswati Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "बुद्धि और मन की स्पष्टता",
-        "en": "Buddhi Aur Man Ki Spashtata"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Njc1Hu6WPDU?si=2e_xq2AoGxLJomUg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Knowledge",
       "DurjaJi"
     ],
     "locked": false
@@ -25815,8 +21119,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Happiness",
+      "Health",
+      "Shloka"
     ],
     "locked": false
   },
@@ -25844,9 +21149,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "DurjaJi"
+      "Happiness",
+      "Shloka"
     ],
     "locked": false
   },
@@ -25993,8 +21297,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Happiness",
+      "Shloka"
     ],
     "locked": false
   },
@@ -26022,8 +21326,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Happiness",
+      "Shloka"
     ],
     "locked": false
   },
@@ -26051,8 +21355,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Happiness",
+      "Shloka"
     ],
     "locked": false
   },
@@ -26141,9 +21445,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "Health",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -26171,9 +21474,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Strength",
-      "DurjaJi"
+      "Health",
+      "Mantra"
     ],
     "locked": false
   },
@@ -26319,10 +21621,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Happiness",
       "Health",
-      "DurjaJi"
+      "Mantra"
     ],
     "locked": false
   },
@@ -26381,9 +21681,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Strength",
-      "DurjaJi"
+      "Health",
+      "Mantra"
     ],
     "locked": false
   },
@@ -26685,35 +21984,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "सरस्वती स्तुति",
-        "en": "Saraswati Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मानसिक स्पष्टता और हीलिंग",
-        "en": "Mansik Spashtata Aur Healing"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Njc1Hu6WPDU?si=2e_xq2AoGxLJomUg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "आरोग्य श्लोक",
         "en": "Arogya Shlok"
       },
@@ -26765,9 +22035,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Strength",
-      "DurjaJi"
+      "Health",
+      "Shloka"
     ],
     "locked": false
   },
@@ -26818,36 +22087,6 @@
     "streamingOptions": [
       {
         "contentUrl": "https://youtu.be/FUpzgvsWkL8?si=IR8jegQlpVL8NtTl",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Health",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "शांति श्लोक",
-        "en": "Shanti Shlok"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सबको रोगमुक्त और सुखी रखने हेतु",
-        "en": "Sabko Rogmukt Aur Sukhi Rakhne Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtube.com/shorts/uCiRodyfM_8?si=PN-Mn7CrHYKViZK_",
         "streamingQuality": "ADAPTIVE",
         "awsKey": null,
         "sizeInKb": 0
@@ -26944,9 +22183,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
       "Health",
-      "DurjaJi"
+      "Shloka"
     ],
     "locked": false
   },
@@ -26974,8 +22212,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Health",
+      "Shloka"
     ],
     "locked": false
   },
@@ -27003,9 +22241,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Wealth",
-      "DurjaJi"
+      "Health",
+      "Shloka"
     ],
     "locked": false
   },
@@ -27220,36 +22457,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "कार्तिकेय मंत्र",
-        "en": "Kartikeya Mantra"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "शत्रुओं पर विजय और प्रतियोगिता हेतु",
-        "en": "Shatruon Par Vijay Aur Pratiyogita Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/5arZWUzAQ2U?si=t1dIPuKyuZOw08Cb",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Strength",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "दुर्गा मंत्र",
         "en": "Durga Mantra"
       },
@@ -27394,37 +22601,6 @@
     "tags": [
       "Aarti",
       "Strength",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "सरस्वती स्तुति",
-        "en": "Saraswati Stuti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "बुद्धि, इंटरव्यू और ज्ञान में उन्नति",
-        "en": "Buddhi Interview Aur Gyan Mein Unnati"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/Njc1Hu6WPDU?si=2e_xq2AoGxLJomUg",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Success",
-      "Knowledge",
       "DurjaJi"
     ],
     "locked": false
@@ -27609,67 +22785,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "इतनी शक्ति हमें देना दाता",
-        "en": "Itni Shakti Humein Dena Data"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "कार्यक्षेत्र में आत्मबल बढ़ाने हेतु",
-        "en": "Karyakshetra Mein Aatmbal Badhane Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/3EnLaJKhO2A?si=7gCDpVLnLz5KZhbG",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Success",
-      "Strength",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "राम नाम के हीरे मोती",
-        "en": "Ram Naam Ke Heere Moti"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मेहनत का फल और मानसिक शांति हेतु",
-        "en": "Mehnat Ka Phal Aur Mansik Shanti Hetu"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/6BJR_j4FHz4?si=hRLU-bLSvuuKWHgs",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Happiness",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "ऐसी लागी लगन",
         "en": "Aisi Lagi Lagan"
       },
@@ -27699,66 +22814,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "ओ पालनहारे",
-        "en": "O Palanhare"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "मुश्किल प्रोजेक्ट्स में ईश्वर का साथ",
-        "en": "Mushkil Projects Mein Ishwar Ka Saath"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/kbMinfmC3E0?si=EORk1j1UQxAqRLLu",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "मेरा आपकी कृपा से",
-        "en": "Mera Aapki Kripa Se"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "सफलता का श्रेय और अहंकार से मुक्ति",
-        "en": "Safalta Ka Shrey Aur Ahankar Se Mukti"
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/C9EespXQCGE?si=IyEpmHHsEOLzOuXF",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Success",
-      "Health",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "हमको मन की शक्ति देना",
         "en": "Humko Man Ki Shakti Dena"
       },
@@ -27780,8 +22835,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Success"
     ],
     "locked": false
   },
@@ -27809,8 +22864,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Success"
     ],
     "locked": false
   },
@@ -27868,8 +22923,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Success"
     ],
     "locked": false
   },
@@ -27897,8 +22952,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Bhajan",
+      "Success"
     ],
     "locked": false
   },
@@ -27957,10 +23012,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Success",
-      "Strength",
-      "DurjaJi"
+      "Shloka",
+      "Success"
     ],
     "locked": false
   },
@@ -28676,8 +23729,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "DurjaJi"
+      "Diwali",
+      "Stuti"
     ],
     "locked": false
   },
@@ -28705,9 +23758,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Wealth",
-      "DurjaJi"
+      "Diwali",
+      "Katha"
     ],
     "locked": false
   },
@@ -28860,37 +23912,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "महालक्ष्मी कवच",
-        "en": "Mahalakshmi Kavach"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "घर और परिवार की सुरक्षा और बरकत के लिए।",
-        "en": "Ghar Aur Parivar Ki Suraksha Aur Barkat Ke Liye."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/OvimStyyQWI?si=SwrQDOQ7f47RApTT",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Strength",
-      "Wealth",
-      "DurjaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "विष्णु सहस्रनाम",
         "en": "Vishnu Sahasranama"
       },
@@ -28912,9 +23933,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Wealth",
-      "DurjaJi"
+      "Diwali",
+      "Dussehra",
+      "Strotam"
     ],
     "locked": false
   },
@@ -28981,36 +24002,6 @@
   {
     "thumbnail": {
       "title": {
-        "hi": "कृष्ण गायत्री",
-        "en": "Krishna Gayatri"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "ज्ञान, बुद्धि और एकाग्रता बढ़ाने के लिए।",
-        "en": "Gyan Buddhi Aur Ekagrata Badhane Ke Liye."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/yzwVyns93nc?si=UqzAJ3pjM1DUhsI7",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "Knowledge",
-      "KrishnaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
         "hi": "संतान गोपाल मंत्र",
         "en": "Santan Gopal Mantra"
       },
@@ -29032,9 +24023,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "KrishnaJi"
+      "Janmashtami",
+      "Mantra"
     ],
     "locked": false
   },
@@ -29092,8 +24082,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "KrishnaJi"
+      "Janmashtami",
+      "Mantra"
     ],
     "locked": false
   },
@@ -29152,9 +24142,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "Wealth",
-      "KrishnaJi"
+      "Janmashtami",
+      "Mantra"
     ],
     "locked": false
   },
@@ -29444,8 +24433,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "KrishnaJi"
+      "Janmashtami"
     ],
     "locked": false
   },
@@ -29473,8 +24461,7 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "KrishnaJi"
+      "Janmashtami"
     ],
     "locked": false
   },
@@ -29531,39 +24518,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "KrishnaJi"
-    ],
-    "locked": false
-  },
-  {
-    "thumbnail": {
-      "title": {
-        "hi": "श्याम तेरी बंसी पुकारे राधा नाम",
-        "en": "Shyam Teri Bansi Pukare Radha Naam"
-      },
-      "imageUrl": null,
-      "iconUrl": null,
-      "description": {
-        "hi": "भगवान के प्रेम और बांसुरी की महिमा।",
-        "en": "Bhagwan Ke Prem Aur Bansuri Ki Mahima."
-      },
-      "displayOrientation": "SQUARE"
-    },
-    "streamingOptions": [
-      {
-        "contentUrl": "https://youtu.be/XJqKbDxAa3U?si=8QX2YAec4EyoDiPP",
-        "streamingQuality": "ADAPTIVE",
-        "awsKey": null,
-        "sizeInKb": 0
-      }
-    ],
-    "status": "DRAFT",
-    "tags": [
-      "Aarti",
-      "LoveAndRelationship",
-      "KrishnaJi"
+      "Bhajan",
+      "Janmashtami"
     ],
     "locked": false
   },
@@ -29591,8 +24547,8 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
-      "KrishnaJi"
+      "Janmashtami",
+      "Mantra"
     ],
     "locked": false
   },
