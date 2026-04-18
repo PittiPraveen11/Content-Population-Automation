@@ -3478,8 +3478,7 @@
     "status": "DRAFT",
     "tags": [
       "Shloka",
-      "VishnuJi",
-      "PoojaKeSamay"
+      "VishnuJi"
     ],
     "locked": false
   },
@@ -11140,6 +11139,846 @@
   {
     "thumbnail": {
       "title": {
+        "hi": "करादर्शनम्",
+        "en": "Karadarshanam"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "करादर्शनम्",
+        "en": "Karadarshanam"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/UJZZyryDK00?si=rnb6ybLJ1g19xgWw",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SubahUthteHi"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "पृथ्वी क्षमा प्रार्थना",
+        "en": "Prithvi Kshama Prarthana"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "पृथ्वी क्षमा प्रार्थना",
+        "en": "Prithvi Kshama Prarthana"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/Is7xRqhvlvU?si=qARyNsuIj0WI9zTT",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SubahUthteHi"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "नवग्रह प्रभात मंत्र",
+        "en": "Navgrah Prabhat Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "नवग्रह प्रभात मंत्र",
+        "en": "Navgrah Prabhat Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/A01Ms9WILjA?si=KGdLKpQz4FqoFG9l",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SubahUthteHi"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "मंगल स्मरण मंत्र",
+        "en": "Mangal Smaran Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "मंगल स्मरण मंत्र",
+        "en": "Mangal Smaran Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/aOHRIfSBjwY?si=zMFYh2Zdz7XqFqEC",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SubahUthteHi"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "पंचकन्या स्मरण",
+        "en": "Panchkanya Smaran"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "पंचकन्या स्मरण",
+        "en": "Panchkanya Smaran"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/r4k-aM0MJ2w?si=Qjs577cDJd79KsFl",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SubahUthteHi"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "स्नान मंत्र",
+        "en": "Snan Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "स्नान मंत्र",
+        "en": "Snan Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/psLJhxiQ85o?si=2-SNh1BWmsciWde8",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "वरुण मंत्र",
+        "en": "Varun Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "वरुण मंत्र",
+        "en": "Varun Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/xD_nK8TBYUQ?si=TjCJDoV0_CM_-6Xh",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "सूर्य अर्घ्य",
+        "en": "Surya Arghya"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "सूर्य अर्घ्य",
+        "en": "Surya Arghya"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/R-DMV8NHR3g?si=EIPgctHvzEgL2I5Q",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "गायत्री मंत्र",
+        "en": "Gayatri Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "गायत्री मंत्र",
+        "en": "Gayatri Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/DnPBZvI1YCg?si=2O3c1NfZk4fj_OzH",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "चंदन लगाने का मंत्र",
+        "en": "Chandan Lagane Ka Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "चंदन लगाने का मंत्र",
+        "en": "Chandan Lagane Ka Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/gzd3cfS-SIE?si=LbgxNx5RT8Dak9i3",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "तुलसी प्रार्थना",
+        "en": "Tulsi Prarthana"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "तुलसी प्रार्थना",
+        "en": "Tulsi Prarthana"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/_fGRay5SF5k?si=NRI8iKUB1ASVK3nK",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "NahaneKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "ब्रह्मार्पण मंत्र",
+        "en": "Brahmarpan Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "ब्रह्मार्पण मंत्र",
+        "en": "Brahmarpan Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/CY0le0A1spY?si=FnNo2p4vCGM_2sQi",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "BhojanSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "अन्नपूर्णा स्तुति",
+        "en": "Annapurna Stuti"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "अन्नपूर्णा स्तुति",
+        "en": "Annapurna Stuti"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/RM8VZu4aFFA?si=hcKNCncaQbr3yGl6",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "BhojanSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "अगस्त्य मंत्र",
+        "en": "Agastya Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "अगस्त्य मंत्र",
+        "en": "Agastya Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/IXIA0ua2WDs?si=4cKvCmZ8Ew4lFZnq",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "BhojanKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "कृतज्ञता",
+        "en": "Kritagyata"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "कृतज्ञता",
+        "en": "Kritagyata"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/RqWyAbDZkxg?si=FTezx_rtvlQGO4hP",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "BhojanKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "चरणामृत मंत्र",
+        "en": "Charanamrit Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "चरणामृत मंत्र",
+        "en": "Charanamrit Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/1z4ohQ5wjVQ?si=qFSjLi160P6jWR1Q",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "BhojanKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "आसन मंत्र",
+        "en": "Aasan Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "आसन मंत्र",
+        "en": "Aasan Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/yXymIcFJVTY?si=E3QSPPbXbaayLBXy",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "दीप मंत्र",
+        "en": "Deep Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "दीप मंत्र",
+        "en": "Deep Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/jBIA9Ap-VR0?si=3Gxj8KQQsu6h2icW",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "गणेश वंदना",
+        "en": "Ganesh Vandana"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "गणेश वंदना",
+        "en": "Ganesh Vandana"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/hzQqfRM-mtA?si=whkvJBQngpHbomLh",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "गुरु वंदना",
+        "en": "Guru Vandana"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "गुरु वंदना",
+        "en": "Guru Vandana"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/ycvqpPFyQSU?si=tJjnZm6QMTDBoMPY",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "अर्पण मंत्र",
+        "en": "Arpan Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "अर्पण मंत्र",
+        "en": "Arpan Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/CAc9h7oTjrM?si=VVFbSow3YEgGraj0",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "आचमन मंत्र",
+        "en": "Aachaman Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "आचमन मंत्र",
+        "en": "Aachaman Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/EeGBRq880uU?si=5C-5VPQu7MQKBmTM",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "पुष्पाञ्जलि श्लोक",
+        "en": "Pushpanjali Shloka"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "पुष्पाञ्जलि श्लोक",
+        "en": "Pushpanjali Shloka"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/vYcSZAYfzaM?si=x1ZVFUHW2SanoxGv",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeSamay"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "पूर्णमदः मंत्र",
+        "en": "Purnamadah Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "पूर्णमदः मंत्र",
+        "en": "Purnamadah Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/l-Ky7bRU7Ys?si=O7bu3zjBGyfRjwVm",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "प्रदक्षिणा मंत्र",
+        "en": "Pradakshina Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "प्रदक्षिणा मंत्र",
+        "en": "Pradakshina Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/5fSrgIFS_EM?si=URx57pYNWGu7fTip",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "PoojaKeBaad"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "हनुमान मंत्र",
+        "en": "Hanuman Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "हनुमान मंत्र",
+        "en": "Hanuman Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/2dv4rUhuBEg?si=uTSd8zAclqdT1YTC",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SoneSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "रक्षा मंत्र",
+        "en": "Raksha Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "रक्षा मंत्र",
+        "en": "Raksha Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/DkoN-b0YrAs?si=7Oa0wGZzVspJfpt9",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SoneSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "शयन मंत्र",
+        "en": "Shayan Mantra"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "शयन मंत्र",
+        "en": "Shayan Mantra"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/W8_pcfb0Mgk?si=Nb9rTpxGI6TMzTDo",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SoneSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "क्षमा याचना",
+        "en": "Kshama Yachana"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "क्षमा याचना",
+        "en": "Kshama Yachana"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtu.be/zM3ML2Exxlo?si=YJtOX3Gvds7hHr85",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SoneSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
+        "hi": "विष्णु स्मरण",
+        "en": "Vishnu Smaran"
+      },
+      "imageUrl": null,
+      "iconUrl": null,
+      "description": {
+        "hi": "विष्णु स्मरण",
+        "en": "Vishnu Smaran"
+      },
+      "displayOrientation": "SQUARE"
+    },
+    "streamingOptions": [
+      {
+        "contentUrl": "https://youtube.com/shorts/G-LD7NIP8Vs?si=spLFLTo06gHTTYLv",
+        "streamingQuality": "ADAPTIVE",
+        "awsKey": null,
+        "sizeInKb": 0
+      }
+    ],
+    "status": "DRAFT",
+    "tags": [
+      "SoneSePehle"
+    ],
+    "locked": false
+  },
+  {
+    "thumbnail": {
+      "title": {
         "hi": "राधा-कृष्ण प्रेम कथा",
         "en": "Radha-Krishna Prem Katha"
       },
@@ -13242,8 +14081,6 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Katha",
-      "DurjaJi",
       "BhojanSePehle"
     ],
     "locked": false
@@ -14625,8 +15462,7 @@
     "tags": [
       "Happiness",
       "Katha",
-      "DurjaJi",
-      "BhojanSePehle"
+      "DurjaJi"
     ],
     "locked": false
   },
@@ -18899,9 +19735,9 @@
     ],
     "status": "DRAFT",
     "tags": [
-      "Aarti",
+      "Mantra",
       "Happiness",
-      "DurjaJi",
+      "Peace",
       "BhojanSePehle"
     ],
     "locked": false
