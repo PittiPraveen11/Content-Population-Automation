@@ -1,0 +1,11 @@
+{
+  "mode": "strict_same_id_same_title_plus_single_title_map_guard",
+  "total_tracks": 1011,
+  "duplicate_groups_same_id_same_title": 246,
+  "updated_groups": 0,
+  "skipped_no_map": 0,
+  "skipped_multi_title_map": 90,
+  "skipped_single_title_mismatch": 156,
+  "restored_from_backup": "/Users/pittipraveen/Downloads/company/techxr/Content-Population-Automation/Mantra-Aur_audio_automation/new-tracks-payload-deduped.backup-20260417-113636.json",
+  "pre_strict_run_backup": "/Users/pittipraveen/Downloads/company/techxr/Content-Population-Automation/Mantra-Aur_audio_automation/new-tracks-payload-deduped.backup-strict-run-20260417-114713.json"
+}

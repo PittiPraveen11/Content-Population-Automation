@@ -61,7 +61,7 @@
             "en": "Mantras"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Mantra.jpg",
-        "displayOrder": 4,
+        "displayOrder": 1,
         "active": true
     },
     {
@@ -100,7 +100,7 @@
             "en": "Bhajan"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Bhajan.jpg",
-        "displayOrder": 6,
+        "displayOrder": 2,
         "active": true
     },
     {
@@ -113,7 +113,7 @@
             "en": "Strotam"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Strotam.jpg",
-        "displayOrder": 6,
+        "displayOrder": 3,
         "active": true
     },
     {

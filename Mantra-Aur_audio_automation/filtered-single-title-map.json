@@ -1,27 +1,5 @@
 [
   {
-    "youtube_video_id": "-1udu-1LpOo",
-    "tags": [
-      "Mantra",
-      "Peace",
-      "RamNavami",
-      "Ramji"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/-1udu-1LpOo?si=pmbGDDSFyq5uJhX0",
-    "line_numbers": [
-      387,
-      749,
-      1489
-    ],
-    "titles": [
-      "राम मंत्र",
-      "विजय मंत्र",
-      "श्री राम जय राम जय जय राम"
-    ]
-  },
-  {
     "youtube_video_id": "-2zGr9Q91DI",
     "tags": [
       "GaneshJi",
@@ -115,48 +93,6 @@
     ],
     "titles": [
       "सारे जहाँ के मालिक तेरा ही आसरा है"
-    ]
-  },
-  {
-    "youtube_video_id": "-NqX8zOZ62w",
-    "tags": [
-      "Diwali",
-      "Knowledge",
-      "Mantra",
-      "Peace",
-      "Success"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/-NqX8zOZ62w?si=DWcjvgR9t3KYkz-D",
-    "line_numbers": [
-      739,
-      872,
-      1184,
-      1265
-    ],
-    "titles": [
-      "नवग्रह सरस्वती",
-      "सरस्वती मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "-YVDlWff_5o",
-    "tags": [
-      "Mantra",
-      "RamNavami",
-      "Ramji"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/-YVDlWff_5o?si=NnLptGoA8ty1GuGv",
-    "line_numbers": [
-      386,
-      1492
-    ],
-    "titles": [
-      "शांति मंत्र",
-      "ॐ राम रामाय नमः"
     ]
   },
   {
@@ -452,25 +388,6 @@
     ]
   },
   {
-    "youtube_video_id": "1AOgbhmP0ig",
-    "tags": [
-      "KrishnaJi",
-      "Shloka",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/1AOgbhmP0ig?si=41xOtRemY_fBbdT2",
-    "line_numbers": [
-      260,
-      564
-    ],
-    "titles": [
-      "यदा यदा ही धर्मस्य",
-      "यदा यदा ही धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥"
-    ]
-  },
-  {
     "youtube_video_id": "1B048qCYGJY",
     "tags": [
       "Bhajan",
@@ -500,79 +417,6 @@
     ],
     "titles": [
       "सजा दो घर को गुलशन सा"
-    ]
-  },
-  {
-    "youtube_video_id": "1kskWmG_u5Q",
-    "tags": [
-      "Happiness",
-      "LoveAndRelationship",
-      "Mantra",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/1kskWmG_u5Q?si=NtjDNiRY45StpS88",
-    "line_numbers": [
-      1016,
-      1075,
-      1189
-    ],
-    "titles": [
-      "दुर्गा मंत्र",
-      "दुर्गा स्तुति"
-    ]
-  },
-  {
-    "youtube_video_id": "1mCkCzBIvDo",
-    "tags": [
-      "Bhajan",
-      "Diwali",
-      "GaneshChaturthi",
-      "Happiness",
-      "Mantra",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 5,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/1mCkCzBIvDo?si=gbomNeAXomyRR6Xw",
-    "line_numbers": [
-      1099,
-      1244,
-      1263,
-      1450,
-      1479
-    ],
-    "titles": [
-      "गणेश श्लोक",
-      "निर्विघ्न मंत्र",
-      "वक्रतुण्ड महाकाय"
-    ]
-  },
-  {
-    "youtube_video_id": "1y2tRqtND1Y",
-    "tags": [
-      "Happiness",
-      "Janmashtami",
-      "KrishnaJi",
-      "Mantra",
-      "Peace"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/1y2tRqtND1Y?si=Oc1VslQStdIS9Z13",
-    "line_numbers": [
-      523,
-      750,
-      1063,
-      1309
-    ],
-    "titles": [
-      "कृष्ण शरणम",
-      "शरण मंत्र",
-      "श्री कृष्णाय शरणं मम"
     ]
   },
   {
@@ -620,24 +464,6 @@
     ],
     "titles": [
       "गायत्री स्तुति"
-    ]
-  },
-  {
-    "youtube_video_id": "2GQ7t3b3PIM",
-    "tags": [
-      "GaneshJi",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/2GQ7t3b3PIM?si=LoDVda5DZZXnfd-B",
-    "line_numbers": [
-      185,
-      482
-    ],
-    "titles": [
-      "नमामि ते गजाननं",
-      "श्री गणेश स्तुति"
     ]
   },
   {
@@ -786,25 +612,6 @@
     ]
   },
   {
-    "youtube_video_id": "3Y1JGvieOBk",
-    "tags": [
-      "LakshmiJi",
-      "Strotam",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/3Y1JGvieOBk?si=-Vziy6rODds0zN_H",
-    "line_numbers": [
-      297,
-      937
-    ],
-    "titles": [
-      "कनकधारा स्तोत्र",
-      "कनकधारा स्तोत्र:"
-    ]
-  },
-  {
     "youtube_video_id": "3_8Z1uqPWZ0",
     "tags": [
       "Shivji",
@@ -869,25 +676,6 @@
     ]
   },
   {
-    "youtube_video_id": "3rJ4HVA9cII",
-    "tags": [
-      "Shivji",
-      "Strotam",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/3rJ4HVA9cII?si=euKFMGNZX2c0rt5p",
-    "line_numbers": [
-      21,
-      1202
-    ],
-    "titles": [
-      "शिव पंचाक्षर स्तोत्र",
-      "शिव पंचाक्षर स्तोत्रम्:"
-    ]
-  },
-  {
     "youtube_video_id": "3ucCEjXS9n8",
     "tags": [
       "Aarti",
@@ -904,61 +692,6 @@
     ]
   },
   {
-    "youtube_video_id": "3yczGKnskts",
-    "tags": [
-      "Bhajan",
-      "Diwali",
-      "Happiness",
-      "Health",
-      "Janmashtami",
-      "KrishnaJi",
-      "LoveAndRelationship",
-      "Mantra",
-      "Peace",
-      "Stuti",
-      "Success",
-      "VishnuJi"
-    ],
-    "occurrence_count": 10,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/3yczGKnskts?si=--z5nTrp4XW8mSRd",
-    "line_numbers": [
-      266,
-      570,
-      753,
-      1025,
-      1081,
-      1156,
-      1236,
-      1287,
-      1312,
-      1325
-    ],
-    "titles": [
-      "अच्युतम केशवम",
-      "अच्युतम केशवम कृष्ण दामोदरम"
-    ]
-  },
-  {
-    "youtube_video_id": "4-XRc7ofCkM",
-    "tags": [
-      "LoveAndRelationship",
-      "Mantra",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/4-XRc7ofCkM?si=X27vyybJleAeslG2",
-    "line_numbers": [
-      930,
-      988
-    ],
-    "titles": [
-      "विष्णु लक्ष्मी मंत्र",
-      "विष्णु-लक्ष्मी मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "45obOMbjQmA",
     "tags": [
       "Mantra",
@@ -972,25 +705,6 @@
     ],
     "titles": [
       "गरुड़ शक्ति मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "4CKpFcQdJXk",
-    "tags": [
-      "DurjaJi",
-      "Strength",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/4CKpFcQdJXk?si=2OkdCoCBxDs78Tcv",
-    "line_numbers": [
-      614,
-      829
-    ],
-    "titles": [
-      "महिषासुर मर्दिनी",
-      "महिषासुरमर्दिनी स्तोत्र"
     ]
   },
   {
@@ -1248,29 +962,6 @@
     ]
   },
   {
-    "youtube_video_id": "6LO2PRgbutc",
-    "tags": [
-      "Aarti",
-      "Bhajan",
-      "Janmashtami",
-      "KrishnaJi",
-      "RamNavami"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/6LO2PRgbutc?si=5jlVXHicQQJxmGEG",
-    "line_numbers": [
-      554,
-      1318,
-      1517
-    ],
-    "titles": [
-      "आरती श्री बांके बिहारी तेरी आरती गाऊं",
-      "बांके बिहारी की आरती",
-      "रघुबर तेरी आरती गाऊं"
-    ]
-  },
-  {
     "youtube_video_id": "6Ncyh3vwtQI",
     "tags": [
       "Mantra",
@@ -1303,26 +994,6 @@
     ]
   },
   {
-    "youtube_video_id": "6YC07U56lEE",
-    "tags": [
-      "Happiness",
-      "LoveAndRelationship",
-      "Mantra",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/6YC07U56lEE?si=yMIUoQan-D0osO7O",
-    "line_numbers": [
-      985,
-      1076
-    ],
-    "titles": [
-      "कात्यायनी मंत्र",
-      "कात्यायनी स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "6em96KXH2uY",
     "tags": [
       "Aarti",
@@ -1336,26 +1007,6 @@
     ],
     "titles": [
       "आरती जुगल किशोर की"
-    ]
-  },
-  {
-    "youtube_video_id": "6fl5JFL-SoA",
-    "tags": [
-      "GaneshJi",
-      "Knowledge",
-      "Shloka",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/6fl5JFL-SoA?si=q5d9ZR9bNuB-cEot",
-    "line_numbers": [
-      196,
-      894
-    ],
-    "titles": [
-      "गजाननं भूतगणादिसेवितं कपित्थजम्बूफलचारुभक्षणम्। उमासुतं शोकविनाशकारकं नमामि विघ्नेश्वरपादपंकजम्॥",
-      "गणेश स्तुति (गजाननं भूत..)"
     ]
   },
   {
@@ -1388,31 +1039,6 @@
     ],
     "titles": [
       "गणेश कवच"
-    ]
-  },
-  {
-    "youtube_video_id": "7BEYmt8EeX8",
-    "tags": [
-      "Ashtakam",
-      "Diwali",
-      "Mantra",
-      "Shloka",
-      "Strotam",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/7BEYmt8EeX8?si=kqi58ODFW_qjBs1A",
-    "line_numbers": [
-      967,
-      1196,
-      1267,
-      1280
-    ],
-    "titles": [
-      "नमो नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते",
-      "महालक्ष्मी अष्टकम"
     ]
   },
   {
@@ -1544,25 +1170,6 @@
     ]
   },
   {
-    "youtube_video_id": "8-qBFaUbKfs",
-    "tags": [
-      "Knowledge",
-      "Shloka",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtube.com/shorts/8-qBFaUbKfs?si=3v_PngXwBsh9bHST",
-    "line_numbers": [
-      916,
-      974
-    ],
-    "titles": [
-      "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन",
-      "गीता श्लोक 2"
-    ]
-  },
-  {
     "youtube_video_id": "897iHQ6bPbU",
     "tags": [
       "Dussehra",
@@ -1576,25 +1183,6 @@
     ],
     "titles": [
       "महिषासुर मर्दन"
-    ]
-  },
-  {
-    "youtube_video_id": "8HTkpFKRqbw",
-    "tags": [
-      "Knowledge",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtube.com/shorts/8HTkpFKRqbw?si=gXDWT4gUuB1QS0Sj",
-    "line_numbers": [
-      867,
-      913
-    ],
-    "titles": [
-      "विद्या प्राप्ति मंत्र",
-      "सरस्वती श्लोक"
     ]
   },
   {
@@ -1627,45 +1215,6 @@
     ],
     "titles": [
       "राधा-कृष्ण प्रेम कथा"
-    ]
-  },
-  {
-    "youtube_video_id": "8hbV_LQKvv0",
-    "tags": [
-      "Shloka",
-      "Strotam",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/8hbV_LQKvv0?si=k4cFAIlX83ys0rDI",
-    "line_numbers": [
-      968,
-      1198
-    ],
-    "titles": [
-      "धनं धान्यं पशुं बहुपुत्रलाभं शतसंवत्सरं दीर्घमायुः",
-      "श्री सूक्तम"
-    ]
-  },
-  {
-    "youtube_video_id": "8jff2wz3Hpk",
-    "tags": [
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/8jff2wz3Hpk?si=QNsZeRhwDjGRQ5Hs",
-    "line_numbers": [
-      500,
-      1476
-    ],
-    "titles": [
-      "मौर्य रे बाप्पा मौर्य रे",
-      "मौर्या रे बाप्पा मौर्या रे"
     ]
   },
   {
@@ -1714,25 +1263,6 @@
     ],
     "titles": [
       "ओम चैंटिंग"
-    ]
-  },
-  {
-    "youtube_video_id": "8xvbnfVIJL4",
-    "tags": [
-      "MahaShivratri",
-      "Peace",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/8xvbnfVIJL4?si=_w4OfD0T9j_4Ro1r",
-    "line_numbers": [
-      775,
-      1411
-    ],
-    "titles": [
-      "शिव रुद्राष्टकम",
-      "शिव रुद्राष्टकम स्तुति"
     ]
   },
   {
@@ -1913,53 +1443,6 @@
     ]
   },
   {
-    "youtube_video_id": "AETFvQonfV8",
-    "tags": [
-      "Chalisa",
-      "Dussehra",
-      "HanumanJayanti",
-      "RamNavami",
-      "Strength",
-      "Success"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/AETFvQonfV8?si=YezmW2nYi76Eoi6Q",
-    "line_numbers": [
-      107,
-      844,
-      1221,
-      1371,
-      1504,
-      1536
-    ],
-    "titles": [
-      "श्री हनुमान चालीसा",
-      "हनुमान चालीसा"
-    ]
-  },
-  {
-    "youtube_video_id": "AK-fDVxDV6A",
-    "tags": [
-      "Happiness",
-      "MahaShivratri",
-      "Mantra",
-      "NahaneKeBaad"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/AK-fDVxDV6A?si=hJqXBNcFgGpUmF7A",
-    "line_numbers": [
-      690,
-      1060,
-      1399
-    ],
-    "titles": [
-      "पंचाक्षरी मंत्र",
-      "शिव पंचाक्षर"
-    ]
-  },
-  {
     "youtube_video_id": "APztwI6m1KI",
     "tags": [
       "Bhajan",
@@ -1988,25 +1471,6 @@
     ],
     "titles": [
       "कार्तिकेय कवच"
-    ]
-  },
-  {
-    "youtube_video_id": "AXDLxXIbxAs",
-    "tags": [
-      "HanumanJi",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/AXDLxXIbxAs?si=61Ag66LJRXixtINz",
-    "line_numbers": [
-      80,
-      123
-    ],
-    "titles": [
-      "हनुमान गायत्री",
-      "हनुमान गायत्री मंत्र:"
     ]
   },
   {
@@ -2105,44 +1569,6 @@
     ]
   },
   {
-    "youtube_video_id": "Asb3NCYzDnM",
-    "tags": [
-      "Happiness",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/Asb3NCYzDnM?si=2Ip-bhoGeriuglXN",
-    "line_numbers": [
-      1102,
-      1246
-    ],
-    "titles": [
-      "विद्या श्लोक",
-      "सरस्वती श्लोक"
-    ]
-  },
-  {
-    "youtube_video_id": "B2Mbb_uUC8E",
-    "tags": [
-      "Knowledge",
-      "LoveAndRelationship",
-      "Mantra"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/B2Mbb_uUC8E?si=9o3n9FgDqedN50LH",
-    "line_numbers": [
-      865,
-      992
-    ],
-    "titles": [
-      "माँ सरस्वती मंत्र",
-      "सरस्वती बीज मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "B2lrRky9eE4",
     "tags": [
       "Chalisa",
@@ -2159,68 +1585,6 @@
     ]
   },
   {
-    "youtube_video_id": "BBV0HQI3NB4",
-    "tags": [
-      "Happiness",
-      "Health",
-      "Mantra",
-      "Strength",
-      "Strotam",
-      "Success"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/BBV0HQI3NB4?si=LjPC9hE-1m_fAsBa",
-    "line_numbers": [
-      828,
-      1064,
-      1135,
-      1201
-    ],
-    "titles": [
-      "नारायण कवच",
-      "नारायण मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "BIK_VYd2RQw",
-    "tags": [
-      "Health",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/BIK_VYd2RQw?si=XrxIX1rsAAm4V_V9",
-    "line_numbers": [
-      1141,
-      1213
-    ],
-    "titles": [
-      "आदित्य स्तुति",
-      "सूर्य स्तुति"
-    ]
-  },
-  {
-    "youtube_video_id": "BL5lLnsLUrA",
-    "tags": [
-      "Diwali",
-      "Katha",
-      "LakshmiJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/BL5lLnsLUrA?si=gbst_MpkoyNGs-vd",
-    "line_numbers": [
-      331,
-      1296
-    ],
-    "titles": [
-      "माता लक्ष्मी का अवतार",
-      "लक्ष्मी जी की अवतार कथा |"
-    ]
-  },
-  {
     "youtube_video_id": "BLVWder8V9I",
     "tags": [
       "GaneshJi",
@@ -2234,25 +1598,6 @@
     ],
     "titles": [
       "ॐ विकटाय नमः"
-    ]
-  },
-  {
-    "youtube_video_id": "BLn-f2DZN4Y",
-    "tags": [
-      "Mantra",
-      "Peace",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/BLn-f2DZN4Y?si=tdz0GGjNGQIWYzX4",
-    "line_numbers": [
-      220,
-      751
-    ],
-    "titles": [
-      "नारायण मंत्र",
-      "ॐ नमो नारायणाय"
     ]
   },
   {
@@ -2440,76 +1785,6 @@
     ]
   },
   {
-    "youtube_video_id": "CA8RcKyO0Y4",
-    "tags": [
-      "Dussehra",
-      "Mantra",
-      "RamNavami",
-      "Ramji"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/CA8RcKyO0Y4?si=lQGTY9Ov96Uhu8JI",
-    "line_numbers": [
-      385,
-      1349,
-      1488
-    ],
-    "titles": [
-      "राम मूल मंत्र",
-      "विजय मंत्र",
-      "ॐ रामाय नमः"
-    ]
-  },
-  {
-    "youtube_video_id": "CAc9h7oTjrM",
-    "tags": [
-      "PoojaKeSamay",
-      "Shloka",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/CAc9h7oTjrM?si=VVFbSow3YEgGraj0",
-    "line_numbers": [
-      261,
-      709
-    ],
-    "titles": [
-      "अर्पण मंत्र",
-      "कायेन वाचा"
-    ]
-  },
-  {
-    "youtube_video_id": "CIl1O1GwOfk",
-    "tags": [
-      "HanumanJayanti",
-      "Happiness",
-      "Health",
-      "Mantra",
-      "Shloka",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/CIl1O1GwOfk?si=0PLRHfGike1eIJPN",
-    "line_numbers": [
-      114,
-      129,
-      1074,
-      1140,
-      1210,
-      1531
-    ],
-    "titles": [
-      "अतुलित बल मंत्र",
-      "अतुलितबलधामं हेमशैलाभदेहं,",
-      "अतुलितबलधामं हेमशैलाभदेहं, अनुजवनकृशानुं ज्ञानिनामग्रगण्यम्। सकलगुणनिधानं वानराणामधीशं, रघुपतिप्रियभक्तं वातजातं नमामि।",
-      "हनुमान स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "CY0le0A1spY",
     "tags": [
       "BhojanSePehle"
@@ -2554,25 +1829,6 @@
     ],
     "titles": [
       "हनुमान मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "DCkMeVhmiC4",
-    "tags": [
-      "Janmashtami",
-      "Katha",
-      "KrishnaJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/DCkMeVhmiC4?si=jcdhcguIvw6rcsQE",
-    "line_numbers": [
-      581,
-      1337
-    ],
-    "titles": [
-      "श्री कृष्ण का जन्म",
-      "श्री कृष्ण जन्म कथा:"
     ]
   },
   {
@@ -2717,25 +1973,6 @@
     ]
   },
   {
-    "youtube_video_id": "EMO1AT1UQf0",
-    "tags": [
-      "Aarti",
-      "Janmashtami",
-      "KrishnaJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/EMO1AT1UQf0?si=MkZfeLJzerN3VqU3",
-    "line_numbers": [
-      552,
-      1316
-    ],
-    "titles": [
-      "आरती कुंज बिहारी की",
-      "आरती कुंजबिहारी की"
-    ]
-  },
-  {
     "youtube_video_id": "EMeSTcffrEI",
     "tags": [
       "Strength",
@@ -2849,29 +2086,6 @@
     ]
   },
   {
-    "youtube_video_id": "EvfGBluQkSk",
-    "tags": [
-      "Ashtakam",
-      "Dussehra",
-      "Peace",
-      "RamNavami",
-      "Ramji"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/EvfGBluQkSk?si=6DRbdUZBZsWzEX86",
-    "line_numbers": [
-      406,
-      766,
-      1373,
-      1502
-    ],
-    "titles": [
-      "राम अष्टकम",
-      "श्री राम अष्टकम"
-    ]
-  },
-  {
     "youtube_video_id": "EvzntcbyjFU",
     "tags": [
       "Diwali",
@@ -2954,31 +2168,6 @@
     ]
   },
   {
-    "youtube_video_id": "FUpzgvsWkL8",
-    "tags": [
-      "HanumanJayanti",
-      "HanumanJi",
-      "Health",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/FUpzgvsWkL8?si=IR8jegQlpVL8NtTl",
-    "line_numbers": [
-      88,
-      1117,
-      1168,
-      1529
-    ],
-    "titles": [
-      "प्रमुख मंत्र:",
-      "स्वास्थ्य मंत्र",
-      "हनुमान स्वास्थ्य",
-      "हनुमान स्वास्थ्य मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "FVdX-ZhTR4w",
     "tags": [
       "Aarti",
@@ -3026,25 +2215,6 @@
     ]
   },
   {
-    "youtube_video_id": "GHBynIok2Lo",
-    "tags": [
-      "DurjaJi",
-      "Mantra",
-      "Strength"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/GHBynIok2Lo?si=uHYmAAtpv22yQ64n",
-    "line_numbers": [
-      597,
-      808
-    ],
-    "titles": [
-      "दुर्गा दुःस्वप्न निवारण",
-      "ॐ ह्रीं दुं दुर्गायै नमः"
-    ]
-  },
-  {
     "youtube_video_id": "GM-1L-Hglnw",
     "tags": [
       "DurjaJi",
@@ -3058,25 +2228,6 @@
     ],
     "titles": [
       "महिषासुर वध की कथा:"
-    ]
-  },
-  {
-    "youtube_video_id": "GiUkwTxsaYA",
-    "tags": [
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/GiUkwTxsaYA?si=cScu8MSnQaP0GaX3",
-    "line_numbers": [
-      504,
-      1481
-    ],
-    "titles": [
-      "गणपति बप्पा मोरया (Title)",
-      "मेरे मन मंदिर में तुम भगवान रहे,"
     ]
   },
   {
@@ -3109,34 +2260,6 @@
     ],
     "titles": [
       "घर में पधारो लक्ष्मी मैया"
-    ]
-  },
-  {
-    "youtube_video_id": "HH_a6aRO1TE",
-    "tags": [
-      "Ashtakam",
-      "Bhajan",
-      "HanumanJayanti",
-      "Strength",
-      "Strotam",
-      "Success"
-    ],
-    "occurrence_count": 5,
-    "unique_url_count": 4,
-    "sample_url": "https://youtu.be/HH_a6aRO1TE?si=k0J6WxtRY4t4yhi1",
-    "line_numbers": [
-      111,
-      135,
-      836,
-      1203,
-      1538
-    ],
-    "titles": [
-      "संकट मोचन नाम तिहारो",
-      "संकट मोचन हनुमानाष्टक",
-      "संकटमोचन हनुमान अष्टक",
-      "हनुमान अष्टक",
-      "हनुमान अष्टकम"
     ]
   },
   {
@@ -3254,28 +2377,6 @@
     ]
   },
   {
-    "youtube_video_id": "HeqiNrjiCfk",
-    "tags": [
-      "Diwali",
-      "LakshmiJi",
-      "Mantra",
-      "Wealth"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/HeqiNrjiCfk?si=EyUBWgbK16-rLLp0",
-    "line_numbers": [
-      288,
-      931,
-      1264
-    ],
-    "titles": [
-      "महालक्ष्मी गायत्री",
-      "लक्ष्मी गायत्री",
-      "लक्ष्मी गायत्री मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "HhLUl36i2gs",
     "tags": [
       "Katha",
@@ -3371,27 +2472,6 @@
     ]
   },
   {
-    "youtube_video_id": "IKGvPex_NQM",
-    "tags": [
-      "Mantra",
-      "Shloka",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/IKGvPex_NQM?si=1DrV4jmYl-n-B0rm",
-    "line_numbers": [
-      925,
-      973,
-      1190
-    ],
-    "titles": [
-      "कुबेर मंत्र",
-      "यक्षाय कुबेराय वैश्रवणाय धनधान्याधिपतये"
-    ]
-  },
-  {
     "youtube_video_id": "IMtvmQr5o5I",
     "tags": [
       "GaneshJi",
@@ -3405,26 +2485,6 @@
     ],
     "titles": [
       "श्री गणेश पञ्चरत्न"
-    ]
-  },
-  {
-    "youtube_video_id": "IPmuTHmizWo",
-    "tags": [
-      "Happiness",
-      "MahaShivratri",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/IPmuTHmizWo?si=XZ2PxqPnPCnTi9QR",
-    "line_numbers": [
-      1100,
-      1403
-    ],
-    "titles": [
-      "करपूर गौरं मंत्र",
-      "शिव श्लोक"
     ]
   },
   {
@@ -3487,53 +2547,6 @@
     ],
     "titles": [
       "ॐ ह्रीं कार्तवीर्यार्जुनो नाम राजा बाहु सहस्रवान। यस्य स्मरेण मात्रेण हृतं नष्टं च लभ्यते॥"
-    ]
-  },
-  {
-    "youtube_video_id": "Ik_zhFLWVA0",
-    "tags": [
-      "Katha",
-      "LoveAndRelationship",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/Ik_zhFLWVA0?si=VDJeXDG4eTL8qrcf",
-    "line_numbers": [
-      279,
-      1047
-    ],
-    "titles": [
-      "तुलसी-शालिग्राम",
-      "शालिग्राम बनने की कथा"
-    ]
-  },
-  {
-    "youtube_video_id": "Im5TK-glA9M",
-    "tags": [
-      "Happiness",
-      "Health",
-      "LoveAndRelationship",
-      "Mantra",
-      "Peace",
-      "Stuti",
-      "Success",
-      "VishnuJi"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/Im5TK-glA9M?si=9nkexVkWvXGF3cUA",
-    "line_numbers": [
-      227,
-      776,
-      1017,
-      1072,
-      1145,
-      1215
-    ],
-    "titles": [
-      "नारायण स्तुति",
-      "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशं"
     ]
   },
   {
@@ -3613,24 +2626,6 @@
     ],
     "titles": [
       "सत्यनारायण व्रत कथा:"
-    ]
-  },
-  {
-    "youtube_video_id": "JGi64RoqZ9g",
-    "tags": [
-      "HanumanJayanti",
-      "Katha"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/JGi64RoqZ9g?si=LzuKJAoqe1TsPcav",
-    "line_numbers": [
-      143,
-      1558
-    ],
-    "titles": [
-      "हनुमान जनम कथा",
-      "हनुमान जन्म कथा"
     ]
   },
   {
@@ -3813,25 +2808,6 @@
     ]
   },
   {
-    "youtube_video_id": "LNrQLgfTGJA",
-    "tags": [
-      "Knowledge",
-      "Peace",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/LNrQLgfTGJA?si=Ny6Y5AKVVghnbuXG",
-    "line_numbers": [
-      765,
-      884
-    ],
-    "titles": [
-      "दक्षिणमूर्ति स्तोत्र",
-      "दक्षिणमूर्ति स्तोत्रम"
-    ]
-  },
-  {
     "youtube_video_id": "LP86cJl-NGg",
     "tags": [
       "HanumanJayanti",
@@ -3928,28 +2904,6 @@
     ]
   },
   {
-    "youtube_video_id": "Ly_Md1OOyTE",
-    "tags": [
-      "LoveAndRelationship",
-      "MahaShivratri",
-      "Mantra",
-      "Shivji"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/Ly_Md1OOyTE?si=nCT-_G7dkRiPuF7QQ",
-    "line_numbers": [
-      9,
-      989,
-      1406
-    ],
-    "titles": [
-      "कार्य सिद्धि मंत्र",
-      "शिव शक्ति मंत्र",
-      "शिव स्तुति मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "M0E506vc8r0",
     "tags": [
       "Bhajan",
@@ -3981,25 +2935,6 @@
     ],
     "titles": [
       "शनि चालीसा"
-    ]
-  },
-  {
-    "youtube_video_id": "MJwg2dRnBeQ",
-    "tags": [
-      "Health",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/MJwg2dRnBeQ?si=fQFON7tpoz66jfCP",
-    "line_numbers": [
-      1116,
-      1171
-    ],
-    "titles": [
-      "रोग नाशक मंत्र",
-      "रोग निवारण"
     ]
   },
   {
@@ -4051,27 +2986,6 @@
     ]
   },
   {
-    "youtube_video_id": "MoJw2s6q4P0",
-    "tags": [
-      "Chalisa",
-      "RamNavami",
-      "Ramji",
-      "Strength"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/MoJw2s6q4P0?si=R2XibwgmtcN1lazL",
-    "line_numbers": [
-      403,
-      851,
-      1505
-    ],
-    "titles": [
-      "राम चालीसा",
-      "श्री राम चालीसा"
-    ]
-  },
-  {
     "youtube_video_id": "MsuWbBoSwX8",
     "tags": [
       "DurjaJi",
@@ -4085,25 +2999,6 @@
     ],
     "titles": [
       "नवदुर्गा के 9 रूपों की कथा:"
-    ]
-  },
-  {
-    "youtube_video_id": "MtbVsknZP-A",
-    "tags": [
-      "Dussehra",
-      "Katha",
-      "Ramji"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/MtbVsknZP-A?si=EpGnCXoRWCCtKUhi",
-    "line_numbers": [
-      444,
-      1391
-    ],
-    "titles": [
-      "रावण वध",
-      "विजयादशमी - राम रावण अंतिम युद्ध की सम्पूर्ण कथा |"
     ]
   },
   {
@@ -4173,34 +3068,6 @@
     ]
   },
   {
-    "youtube_video_id": "NE3SWh9_vR4",
-    "tags": [
-      "Aarti",
-      "Diwali",
-      "Dussehra",
-      "Health",
-      "Janmashtami",
-      "Stuti",
-      "Success",
-      "VishnuJi"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/NE3SWh9_vR4?si=oJOVnsbkOB7Qxw5b",
-    "line_numbers": [
-      256,
-      1146,
-      1217,
-      1275,
-      1319,
-      1363
-    ],
-    "titles": [
-      "ओम जय जगदीश हरे",
-      "विष्णु स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "NM9pHX6dqDc",
     "tags": [
       "Bhajan",
@@ -4249,41 +3116,6 @@
     ]
   },
   {
-    "youtube_video_id": "Naruxgq6oMU",
-    "tags": [
-      "Diwali",
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Happiness",
-      "Knowledge",
-      "Mantra",
-      "Peace",
-      "Success"
-    ],
-    "occurrence_count": 9,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/Naruxgq6oMU?si=FcMrbfkDJoW6MNjX",
-    "line_numbers": [
-      151,
-      450,
-      735,
-      754,
-      868,
-      1058,
-      1181,
-      1266,
-      1446
-    ],
-    "titles": [
-      "गणेश बीज",
-      "गणेश मंत्र",
-      "गणेश मूल मंत्र",
-      "गणेश विद्या मंत्र",
-      "बीज मंत्र",
-      "मूल बीज मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "Njc1Hu6WPDU",
     "tags": [
       "Happiness",
@@ -4324,27 +3156,6 @@
     ]
   },
   {
-    "youtube_video_id": "Nod_i0EKVRw",
-    "tags": [
-      "Happiness",
-      "Health",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/Nod_i0EKVRw?si=dnGltyIGNaTvUMWF",
-    "line_numbers": [
-      1070,
-      1139,
-      1214
-    ],
-    "titles": [
-      "शिव आरोग्य स्तुति",
-      "शिव स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "NqVQbkZNb3k",
     "tags": [
       "ShaniiDevJi",
@@ -4361,73 +3172,6 @@
     ]
   },
   {
-    "youtube_video_id": "O0dGIsqbMsw",
-    "tags": [
-      "DurjaJi",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/O0dGIsqbMsw?si=YMDdBnbEnw14QNiR",
-    "line_numbers": [
-      600,
-      648
-    ],
-    "titles": [
-      "शरणागत दीनार्त परित्राण परायणे। सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तुते॥",
-      "शरणागतदीनार्तपरित्राणपरायणे। सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥"
-    ]
-  },
-  {
-    "youtube_video_id": "OC7LQxuhQUU",
-    "tags": [
-      "Diwali",
-      "LakshmiJi",
-      "Mantra",
-      "Strotam",
-      "Stuti",
-      "Wealth"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/OC7LQxuhQUU?si=Dk4q0uGOrbCSfm7I",
-    "line_numbers": [
-      295,
-      938,
-      1262,
-      1281
-    ],
-    "titles": [
-      "श्री सूक्तम",
-      "श्री सूक्तम:"
-    ]
-  },
-  {
-    "youtube_video_id": "OKRVaXU01kI",
-    "tags": [
-      "DurjaJi",
-      "Health",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 4,
-    "sample_url": "https://youtu.be/OKRVaXU01kI?si=3YMdFbLtHjcGJ4sE",
-    "line_numbers": [
-      599,
-      647,
-      1119,
-      1165
-    ],
-    "titles": [
-      "आरोग्य श्लोक",
-      "दुर्गा आरोग्य मंत्र",
-      "देहि सौभाग्यमारोग्यं देहि मे परमं सुखम्। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥",
-      "सौभाग्य प्राप्ति हेतु"
-    ]
-  },
-  {
     "youtube_video_id": "OLWnCrUl6yA",
     "tags": [
       "Janmashtami",
@@ -4441,58 +3185,6 @@
     ],
     "titles": [
       "क्लेश नाशक मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "OOS-Pcovi-4",
-    "tags": [
-      "HanumanJayanti",
-      "Knowledge",
-      "Mantra",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/OOS-Pcovi-4?si=SyvUORCDLtjdVH2F",
-    "line_numbers": [
-      897,
-      1532
-    ],
-    "titles": [
-      "बुद्धि प्रदायक मंत्र",
-      "हनुमान बुद्धि स्तुति"
-    ]
-  },
-  {
-    "youtube_video_id": "OV9LXGOXjgs",
-    "tags": [
-      "Happiness",
-      "Health",
-      "MahaShivratri",
-      "Mantra",
-      "Peace",
-      "Shivji",
-      "Shloka",
-      "Strength",
-      "Strotam"
-    ],
-    "occurrence_count": 8,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/OV9LXGOXjgs?si=0izGm1eYkmBS0343",
-    "line_numbers": [
-      6,
-      732,
-      812,
-      1056,
-      1113,
-      1167,
-      1400,
-      1419
-    ],
-    "titles": [
-      "महामृत्युंजय",
-      "महामृत्युंजय मंत्र",
-      "महामृत्युंजय स्तोत्र"
     ]
   },
   {
@@ -4591,27 +3283,6 @@
     ],
     "titles": [
       "तुलसीदास कृत श्री गणेश स्तुति"
-    ]
-  },
-  {
-    "youtube_video_id": "PT1CwFIoc98",
-    "tags": [
-      "Bhajan",
-      "Diwali",
-      "Dussehra",
-      "Ramji"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/PT1CwFIoc98?si=Il-i74wqg1etBqxF",
-    "line_numbers": [
-      427,
-      1288,
-      1383
-    ],
-    "titles": [
-      "ठुमक चलत रामचंद्र",
-      "ठुमक चलत रामचंद्र बाजत पैंजनिया"
     ]
   },
   {
@@ -4859,25 +3530,6 @@
     ]
   },
   {
-    "youtube_video_id": "R15QXx7yRUo",
-    "tags": [
-      "Knowledge",
-      "Strotam",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/R15QXx7yRUo?si=F8f5-iFv9tBh6OJx",
-    "line_numbers": [
-      885,
-      903
-    ],
-    "titles": [
-      "बृहस्पति स्तुति",
-      "बृहस्पति स्तोत्र"
-    ]
-  },
-  {
     "youtube_video_id": "R2uDzusTCHg",
     "tags": [
       "Mantra",
@@ -4907,45 +3559,6 @@
     ],
     "titles": [
       "देवा श्री गणेशा"
-    ]
-  },
-  {
-    "youtube_video_id": "RDWtngDhknA",
-    "tags": [
-      "LakshmiJi",
-      "Shloka",
-      "Strotam",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/RDWtngDhknA?si=6BoczvScrpmaOros",
-    "line_numbers": [
-      320,
-      939
-    ],
-    "titles": [
-      "नमस्तेऽस्तु महामाये श्रीपीठे सुरपूजिते। शङ्खचक्रगदाहस्ते महालक्ष्मि नमोऽस्तु ते",
-      "महालक्ष्मी अष्टकम"
-    ]
-  },
-  {
-    "youtube_video_id": "RIYVVqu2XY4",
-    "tags": [
-      "Bhajan",
-      "Happiness",
-      "Janmashtami"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/RIYVVqu2XY4?si=zZcShWvTzV_kAWCQ",
-    "line_numbers": [
-      1086,
-      1326
-    ],
-    "titles": [
-      "यशोमती मैया से बोले",
-      "यशोमती मैया से बोले नंदलाला"
     ]
   },
   {
@@ -5012,25 +3625,6 @@
     ]
   },
   {
-    "youtube_video_id": "RlNJspksnbg",
-    "tags": [
-      "LoveAndRelationship",
-      "Ramji",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/RlNJspksnbg?si=RCael-63gpq5zKU4",
-    "line_numbers": [
-      410,
-      1012
-    ],
-    "titles": [
-      "जानकी स्तुति",
-      "सीता स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "RqWyAbDZkxg",
     "tags": [
       "BhojanKeBaad"
@@ -5075,28 +3669,6 @@
     ],
     "titles": [
       "मन मेरा मंदिर शिव मेरी पूजा"
-    ]
-  },
-  {
-    "youtube_video_id": "S980-z1qx3g",
-    "tags": [
-      "MahaShivratri",
-      "Shivji",
-      "Strength",
-      "Strotam"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/S980-z1qx3g?si=mdxNJBopqX3nNpBz",
-    "line_numbers": [
-      12,
-      833,
-      1410
-    ],
-    "titles": [
-      "शिव तांडव स्तोत्र",
-      "शिव तांडव स्तोत्रम (संक्षिप्त अंश - रावण रचित) [1]",
-      "शिव ताण्डव स्तोत्र"
     ]
   },
   {
@@ -5228,26 +3800,6 @@
     ]
   },
   {
-    "youtube_video_id": "Tssx17scqO4",
-    "tags": [
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Strotam"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/Tssx17scqO4?si=WWEOC-sAGbJPwWoB",
-    "line_numbers": [
-      164,
-      462,
-      1458
-    ],
-    "titles": [
-      "गणेश अथर्वशीर्ष",
-      "गणेश अथर्वशीर्ष:"
-    ]
-  },
-  {
     "youtube_video_id": "U2Eoov4alUA",
     "tags": [
       "Katha",
@@ -5373,25 +3925,6 @@
     ],
     "titles": [
       "चलो बुलावा आया है, माता ने बुलाया है"
-    ]
-  },
-  {
-    "youtube_video_id": "UJZZyryDK00",
-    "tags": [
-      "Peace",
-      "Stuti",
-      "SubahUthteHi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/UJZZyryDK00?si=pS4DwK9XFn84QOnQ",
-    "line_numbers": [
-      676,
-      773
-    ],
-    "titles": [
-      "कर दर्शन स्तुति",
-      "करादर्शनम्"
     ]
   },
   {
@@ -5668,25 +4201,6 @@
     ]
   },
   {
-    "youtube_video_id": "WCcW1Efq3W4",
-    "tags": [
-      "Shloka",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/WCcW1Efq3W4?si=-ql30mOBC_JbYjXP",
-    "line_numbers": [
-      972,
-      1247
-    ],
-    "titles": [
-      "उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः",
-      "संकल्प श्लोक"
-    ]
-  },
-  {
     "youtube_video_id": "WFBpMrcaxXA",
     "tags": [
       "Bhajan",
@@ -5783,51 +4297,6 @@
     ]
   },
   {
-    "youtube_video_id": "WqiKUywr55o",
-    "tags": [
-      "Janmashtami",
-      "KrishnaJi",
-      "Mantra"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/WqiKUywr55o?si=sx_88WGHIxnkZoNM",
-    "line_numbers": [
-      524,
-      1307
-    ],
-    "titles": [
-      "कृष्ण बीज मंत्र",
-      "ॐ क्लीं कृष्णाय नमः"
-    ]
-  },
-  {
-    "youtube_video_id": "WyHFSjN0miU",
-    "tags": [
-      "Chalisa",
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Strength",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/WyHFSjN0miU?si=C2PbbebEskn6KqLR",
-    "line_numbers": [
-      176,
-      471,
-      856,
-      953,
-      1222,
-      1460
-    ],
-    "titles": [
-      "गणेश चालीसा",
-      "श्री गणेश चालीसा"
-    ]
-  },
-  {
     "youtube_video_id": "X6rKpVJoxaQ",
     "tags": [
       "Aarti",
@@ -5841,29 +4310,6 @@
     ],
     "titles": [
       "माता चामुंडा देवी जी की आरती"
-    ]
-  },
-  {
-    "youtube_video_id": "XAxNnRPoyiU",
-    "tags": [
-      "Diwali",
-      "Knowledge",
-      "Mantra",
-      "Stuti",
-      "VishnuJi"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/XAxNnRPoyiU?si=SzEsaZlOfS48Hd-b",
-    "line_numbers": [
-      252,
-      899,
-      1268
-    ],
-    "titles": [
-      "विष्णु वंदना",
-      "विष्णु स्तुति (शान्ताकारं..)",
-      "श्री विष्णु स्तुति"
     ]
   },
   {
@@ -5898,24 +4344,6 @@
     ],
     "titles": [
       "श्याम तेरी बंसी पुकारे राधा नाम"
-    ]
-  },
-  {
-    "youtube_video_id": "XhxvcnExPNQ",
-    "tags": [
-      "GaneshJi",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/XhxvcnExPNQ?si=nfh___BHqMxP2wv1",
-    "line_numbers": [
-      172,
-      464
-    ],
-    "titles": [
-      "गणेश अष्टोत्तर शतनाम स्तोत्र",
-      "गणेश अष्टोत्तर शतनाम स्तोत्र:"
     ]
   },
   {
@@ -5985,46 +4413,6 @@
     ]
   },
   {
-    "youtube_video_id": "XzqJUoSDHZU",
-    "tags": [
-      "Bhajan",
-      "Happiness",
-      "Janmashtami",
-      "KrishnaJi"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/XzqJUoSDHZU?si=8-LAQkUg8tq7ov6T",
-    "line_numbers": [
-      572,
-      1093,
-      1329
-    ],
-    "titles": [
-      "छोटी छोटी गईया",
-      "छोटी छोटी गईया छोटे छोटे ग्वाल"
-    ]
-  },
-  {
-    "youtube_video_id": "YD0eXOX6gbo",
-    "tags": [
-      "DurjaJi",
-      "Strength",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/YD0eXOX6gbo?si=imwcbkJIn2dnyT97",
-    "line_numbers": [
-      607,
-      832
-    ],
-    "titles": [
-      "अर्गला स्तोत्र",
-      "श्री अर्गला स्तोत्रम"
-    ]
-  },
-  {
     "youtube_video_id": "Yafs12RHYqw",
     "tags": [
       "Katha"
@@ -6085,53 +4473,6 @@
     ],
     "titles": [
       "हरी आ जाओ एक बार"
-    ]
-  },
-  {
-    "youtube_video_id": "Yof1Vrh5TK0",
-    "tags": [
-      "DurjaJi",
-      "Health",
-      "Mantra",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/Yof1Vrh5TK0?si=s3diaEG-5Tn4r_2c",
-    "line_numbers": [
-      596,
-      1142,
-      1216
-    ],
-    "titles": [
-      "दुर्गा स्तुति",
-      "सर्वमंगल मांगल्ये शिवे सर्वार्थ साधिके। शरण्ये त्र्यम्बके गौरी नारायणि नमोऽस्तुते॥"
-    ]
-  },
-  {
-    "youtube_video_id": "Yuex2EnsGiY",
-    "tags": [
-      "Aarti",
-      "Bhajan",
-      "Diwali",
-      "GaneshJi",
-      "Janmashtami"
-    ],
-    "occurrence_count": 5,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/Yuex2EnsGiY?si=0_Pq00ZXiWo3JeVx",
-    "line_numbers": [
-      188,
-      486,
-      1274,
-      1284,
-      1317
-    ],
-    "titles": [
-      "जय गणेश जय गणेश देवा",
-      "जय गणेश देवा",
-      "श्री गणेश जी की आरती"
     ]
   },
   {
@@ -6212,69 +4553,6 @@
     ],
     "titles": [
       "मुकुंद माला स्तोत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "Zagf46kv7p8",
-    "tags": [
-      "HanumanJayanti",
-      "Happiness",
-      "Mantra",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/Zagf46kv7p8?si=adpqwJ6tLsIAHHr0",
-    "line_numbers": [
-      1062,
-      1185,
-      1525
-    ],
-    "titles": [
-      "हनुमान मंत्र",
-      "हनुमान मूल मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "ZdBVEV5u2To",
-    "tags": [
-      "DurjaJi",
-      "Shloka",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/ZdBVEV5u2To?si=em-5O2iYoV9z50BF",
-    "line_numbers": [
-      644,
-      975
-    ],
-    "titles": [
-      "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके",
-      "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥"
-    ]
-  },
-  {
-    "youtube_video_id": "Zdcth9NndEA",
-    "tags": [
-      "Happiness",
-      "Janmashtami",
-      "KrishnaJi",
-      "Mantra",
-      "Peace"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/Zdcth9NndEA?si=cBoFKjOpIFF2NbjP",
-    "line_numbers": [
-      522,
-      734,
-      1057,
-      1304
-    ],
-    "titles": [
-      "महामंत्र",
-      "हरे कृष्ण महामंत्र"
     ]
   },
   {
@@ -6536,47 +4814,6 @@
     ]
   },
   {
-    "youtube_video_id": "aH2ipOQ1_bU",
-    "tags": [
-      "GaneshJi",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/aH2ipOQ1_bU?si=O2s_vctg1Roye0xu",
-    "line_numbers": [
-      168,
-      463
-    ],
-    "titles": [
-      "ऋणहर्ता गणेश स्तोत्र",
-      "ऋणहर्ता गणेश स्तोत्र:"
-    ]
-  },
-  {
-    "youtube_video_id": "aLKLcvJZ2Hc",
-    "tags": [
-      "Chalisa",
-      "Diwali",
-      "LakshmiJi",
-      "Strength",
-      "Success"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/aLKLcvJZ2Hc?si=LghSz9KgBnH3YqXK",
-    "line_numbers": [
-      305,
-      858,
-      1223,
-      1285
-    ],
-    "titles": [
-      "लक्ष्मी चालीसा",
-      "श्री लक्ष्मी चालीसा"
-    ]
-  },
-  {
     "youtube_video_id": "aOHRIfSBjwY",
     "tags": [
       "SubahUthteHi"
@@ -6640,35 +4877,6 @@
     ]
   },
   {
-    "youtube_video_id": "aTFeZxXkL78",
-    "tags": [
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Health",
-      "Strotam",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 5,
-    "sample_url": "https://youtu.be/aTFeZxXkL78?si=HFj5YBPqHTqebgZi",
-    "line_numbers": [
-      162,
-      460,
-      943,
-      1130,
-      1195,
-      1457
-    ],
-    "titles": [
-      "गणेश संकटनाशन स्तोत्र",
-      "भक्तावासं स्मरेन्नित्यं आयुःकामार्थसिद्धये",
-      "श्री संकटनाशन गणेश स्तोत्र",
-      "संकट नाशन गणेश स्तोत्र",
-      "संकटनाशन गणेश स्तोत्र"
-    ]
-  },
-  {
     "youtube_video_id": "adxlvgEH10Y",
     "tags": [
       "Katha",
@@ -6682,32 +4890,6 @@
     ],
     "titles": [
       "श्रीकृष्ण ने किया कंस का वध"
-    ]
-  },
-  {
-    "youtube_video_id": "agqwzb3YzQ0",
-    "tags": [
-      "GaneshChaturthi",
-      "Happiness",
-      "Health",
-      "LoveAndRelationship",
-      "Mantra",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 5,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/agqwzb3YzQ0?si=XnSUpCXTo4pmEzDK",
-    "line_numbers": [
-      1020,
-      1071,
-      1144,
-      1208,
-      1453
-    ],
-    "titles": [
-      "गजानन मंत्र",
-      "गणेश स्तुति"
     ]
   },
   {
@@ -6755,25 +4937,6 @@
     ],
     "titles": [
       "जब हनुमान जी चले लंका माता जानकी को खोजने |"
-    ]
-  },
-  {
-    "youtube_video_id": "av9FFShVYBU",
-    "tags": [
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/av9FFShVYBU?si=Ad06fEsAnohtH32q",
-    "line_numbers": [
-      170,
-      1464
-    ],
-    "titles": [
-      "गणेश कवच",
-      "श्री गणेश कवच:"
     ]
   },
   {
@@ -6909,62 +5072,6 @@
     ]
   },
   {
-    "youtube_video_id": "bc1obsjb58c",
-    "tags": [
-      "LoveAndRelationship",
-      "Mantra",
-      "Peace",
-      "Shivji",
-      "Strength"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/bc1obsjb58c?si=oQIb1G1Fx1wOJ8Gw",
-    "line_numbers": [
-      5,
-      733,
-      817,
-      990
-    ],
-    "titles": [
-      "पंचाक्षरी मन्त्र",
-      "रुद्र मंत्र",
-      "शिव मंत्र",
-      "सर्व सुरक्षा मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "bcs4geISuy0",
-    "tags": [
-      "Diwali",
-      "Happiness",
-      "LakshmiJi",
-      "Mantra",
-      "Peace",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 7,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/bcs4geISuy0?si=-BYP11FJGKAQ7fk3",
-    "line_numbers": [
-      286,
-      744,
-      924,
-      1061,
-      1182,
-      1260,
-      1261
-    ],
-    "titles": [
-      "कुबेर मंत्र",
-      "महालक्ष्मी बीज मंत्र",
-      "महालक्ष्मी मंत्र",
-      "लक्ष्मी बीज मंत्र",
-      "लक्ष्मी मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "bhJ8_EqziNY",
     "tags": [
       "Bhajan",
@@ -6981,26 +5088,6 @@
     ]
   },
   {
-    "youtube_video_id": "bo62sjQ0CmE",
-    "tags": [
-      "Aarti",
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/bo62sjQ0CmE?si=0zcZrViLINirsSiD",
-    "line_numbers": [
-      190,
-      1478
-    ],
-    "titles": [
-      "शेंदूर लाल चढ़ायो अच्छा गजमुख को",
-      "सिंदूर लाल चढ़ायो"
-    ]
-  },
-  {
     "youtube_video_id": "bwTk15-oRys",
     "tags": [
       "Strength",
@@ -7014,25 +5101,6 @@
     ],
     "titles": [
       "दुर्गा सप्तश्लोकी"
-    ]
-  },
-  {
-    "youtube_video_id": "c0J1WntPaDg",
-    "tags": [
-      "Aarti",
-      "Diwali",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/c0J1WntPaDg?si=MKuPTGQBJ6wKVF5s",
-    "line_numbers": [
-      961,
-      1276
-    ],
-    "titles": [
-      "कुबेर जी की आरती",
-      "श्री कुबेर आरती"
     ]
   },
   {
@@ -7180,25 +5248,6 @@
     ]
   },
   {
-    "youtube_video_id": "cidhzMLBUPQ",
-    "tags": [
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Mantra"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/cidhzMLBUPQ?si=fXMWhEu5ZeeOpj3l",
-    "line_numbers": [
-      451,
-      1447
-    ],
-    "titles": [
-      "विनायक मंत्र",
-      "ॐ वक्रतुण्डाय हुम्"
-    ]
-  },
-  {
     "youtube_video_id": "cqzJBHFeI0Y",
     "tags": [
       "Ramji",
@@ -7310,28 +5359,6 @@
     ]
   },
   {
-    "youtube_video_id": "dVTUUtOHUCA",
-    "tags": [
-      "Aarti",
-      "DurjaJi",
-      "Dussehra",
-      "Strotam"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/dVTUUtOHUCA?si=Kos_i0o8NA3VrmOj",
-    "line_numbers": [
-      635,
-      1362,
-      1370
-    ],
-    "titles": [
-      "अम्बे तू है जगदम्बे काली",
-      "अम्बे तू है जगदम्बे काली, जय दुर्गे खप्पर वाली",
-      "महिषासुर मर्दिनी"
-    ]
-  },
-  {
     "youtube_video_id": "dheA6Pqjtm4",
     "tags": [
       "Bhajan",
@@ -7345,51 +5372,6 @@
     ],
     "titles": [
       "बड़ी देर भई नन्दलाला"
-    ]
-  },
-  {
-    "youtube_video_id": "dkVlpm1mKFI",
-    "tags": [
-      "Diwali",
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Mantra"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/dkVlpm1mKFI?si=crdKp9jnOOfpOZx7",
-    "line_numbers": [
-      154,
-      457,
-      1259,
-      1449
-    ],
-    "titles": [
-      "गणेश गायत्री",
-      "गणेश गायत्री मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "dnCE-kSHES0",
-    "tags": [
-      "Bhajan",
-      "Happiness",
-      "Janmashtami",
-      "LoveAndRelationship",
-      "Success"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/dnCE-kSHES0?si=cYpIjXtwIhaE19YB",
-    "line_numbers": [
-      1033,
-      1083,
-      1231,
-      1333
-    ],
-    "titles": [
-      "ऐसी लागी लगन",
-      "ऐसी लागी लगन मीरा हो गई मगन"
     ]
   },
   {
@@ -7556,25 +5538,6 @@
     ]
   },
   {
-    "youtube_video_id": "fGShWlmiDyE",
-    "tags": [
-      "Happiness",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/fGShWlmiDyE?si=sHBTIs2BRo6Bf0Pj",
-    "line_numbers": [
-      1101,
-      1249
-    ],
-    "titles": [
-      "गुरु कृपा",
-      "गुरु श्लोक"
-    ]
-  },
-  {
     "youtube_video_id": "fOWk1A27pKQ",
     "tags": [
       "Bhajan",
@@ -7588,25 +5551,6 @@
     ],
     "titles": [
       "गजानन महाराज पधारो"
-    ]
-  },
-  {
-    "youtube_video_id": "fV8WIzEHD-E",
-    "tags": [
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/fV8WIzEHD-E?si=27m-AHd4U1hn9Aq-",
-    "line_numbers": [
-      501,
-      1474
-    ],
-    "titles": [
-      "गजानन श्री गणराया",
-      "गजानना श्री गणराया"
     ]
   },
   {
@@ -7626,30 +5570,6 @@
     ]
   },
   {
-    "youtube_video_id": "f_tCqLX6GNU",
-    "tags": [
-      "Happiness",
-      "Knowledge",
-      "LoveAndRelationship",
-      "Peace",
-      "Stuti"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/f_tCqLX6GNU?si=g9esdPlr_XnbbTWa",
-    "line_numbers": [
-      781,
-      902,
-      1013,
-      1077
-    ],
-    "titles": [
-      "कृष्ण स्तुति",
-      "कृष्ण स्तुति (कस्तूरी तिलकम..)",
-      "श्री कृष्ण स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "faCtr2ajTuE",
     "tags": [
       "Shloka"
@@ -7662,49 +5582,6 @@
     ],
     "titles": [
       "कार्य सिद्धि"
-    ]
-  },
-  {
-    "youtube_video_id": "felGgBmnx-I",
-    "tags": [
-      "Janmashtami",
-      "KrishnaJi",
-      "Mantra",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/felGgBmnx-I?si=YoB5C1tli8tX3Kpx",
-    "line_numbers": [
-      521,
-      1187,
-      1303
-    ],
-    "titles": [
-      "मुक्ति मंत्र",
-      "मूल मंत्र",
-      "विष्णु मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "fsMzgFMMGxA",
-    "tags": [
-      "Chalisa",
-      "DurjaJi",
-      "Strength",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/fsMzgFMMGxA?si=vMcngDgu3vYUf4te",
-    "line_numbers": [
-      619,
-      845,
-      1224
-    ],
-    "titles": [
-      "दुर्गा चालीसा",
-      "श्री दुर्गा चालीसा"
     ]
   },
   {
@@ -7756,26 +5633,6 @@
     ]
   },
   {
-    "youtube_video_id": "gFr5p5AyuD0",
-    "tags": [
-      "Aarti",
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/gFr5p5AyuD0?si=QD5VW5nRGb8TXEFJ",
-    "line_numbers": [
-      189,
-      1471
-    ],
-    "titles": [
-      "सुखकर्ता दुखहर्ता",
-      "सुखकर्ता दुखहर्ता वार्ता विघ्नाची"
-    ]
-  },
-  {
     "youtube_video_id": "gW-Cz2AIWOs",
     "tags": [
       "Ashtakam",
@@ -7808,25 +5665,6 @@
     ]
   },
   {
-    "youtube_video_id": "g_czAYo3MKQ",
-    "tags": [
-      "LakshmiJi",
-      "Mantra",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/g_czAYo3MKQ?si=-LU0VBJs1MmgBg7t",
-    "line_numbers": [
-      287,
-      927
-    ],
-    "titles": [
-      "लक्ष्मी मंत्र",
-      "ॐ श्री महालक्ष्म्यै नमः"
-    ]
-  },
-  {
     "youtube_video_id": "gaJR15qWTDA",
     "tags": [
       "Bhajan",
@@ -7840,25 +5678,6 @@
     ],
     "titles": [
       "मेरा भोला है भंडारी"
-    ]
-  },
-  {
-    "youtube_video_id": "gsHIPGDctJ0",
-    "tags": [
-      "Peace",
-      "Strotam",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/gsHIPGDctJ0?si=0M-JKLTSQ47e8TaB",
-    "line_numbers": [
-      242,
-      763
-    ],
-    "titles": [
-      "नारायण स्तोत्रम",
-      "श्री हरि स्तोत्रम्"
     ]
   },
   {
@@ -7939,26 +5758,6 @@
     ],
     "titles": [
       "अच्युताष्टकम"
-    ]
-  },
-  {
-    "youtube_video_id": "gyLT2Yz_yHo",
-    "tags": [
-      "KrishnaJi",
-      "LoveAndRelationship",
-      "Strotam",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/gyLT2Yz_yHo?si=6boX0E4ODR2nuxV9",
-    "line_numbers": [
-      536,
-      1015
-    ],
-    "titles": [
-      "गोपाल स्तुति",
-      "संतान गोपाल स्तोत्र"
     ]
   },
   {
@@ -8179,7 +5978,7 @@
       "MahaShivratri",
       "Mantra",
       "Shivji"
-    ], 
+    ],
     "occurrence_count": 2,
     "unique_url_count": 1,
     "sample_url": "https://youtu.be/iEAPaA9Yf1s?si=lGmdeqXsCqtQQzx1",
@@ -8256,59 +6055,6 @@
     ]
   },
   {
-    "youtube_video_id": "iRVIbOMymj0",
-    "tags": [
-      "BhojanSePehle",
-      "Happiness",
-      "Mantra",
-      "Peace",
-      "Shloka"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/iRVIbOMymj0?si=cFBjMhHR-DcFq9_Y",
-    "line_numbers": [
-      697,
-      731,
-      792,
-      1059
-    ],
-    "titles": [
-      "कठोपनिषद शांति",
-      "शांति मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "iWd6VAWduZg",
-    "tags": [
-      "HanumanJayanti",
-      "HanumanJi",
-      "Happiness",
-      "LoveAndRelationship",
-      "Mantra",
-      "Shloka",
-      "Strength",
-      "Stuti"
-    ],
-    "occurrence_count": 5,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/iWd6VAWduZg?si=qrMcv4ayCSmC3X_q",
-    "line_numbers": [
-      82,
-      807,
-      1019,
-      1106,
-      1527
-    ],
-    "titles": [
-      "मनोजवं मारुततुल्यवेगं मंत्र:",
-      "मनोजवम मंत्र",
-      "हनुमान श्लोक",
-      "हनुमान स्तुति",
-      "हनुमान स्तुति मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "iZkxNZpqQ4s",
     "tags": [
       "Katha",
@@ -8373,33 +6119,6 @@
     ]
   },
   {
-    "youtube_video_id": "invPCYDaWUE",
-    "tags": [
-      "Dussehra",
-      "Health",
-      "RamNavami",
-      "Ramji",
-      "Strength",
-      "Strotam",
-      "Success"
-    ],
-    "occurrence_count": 6,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/invPCYDaWUE?si=-cwsyKTg-INmshaY",
-    "line_numbers": [
-      395,
-      830,
-      1126,
-      1194,
-      1368,
-      1501
-    ],
-    "titles": [
-      "आदित्य हृदय स्तोत्र",
-      "आदित्य हृदय स्तोत्र:"
-    ]
-  },
-  {
     "youtube_video_id": "iuBOevhL-bU",
     "tags": [
       "HanumanJayanti",
@@ -8432,50 +6151,6 @@
     ]
   },
   {
-    "youtube_video_id": "j8l2aX86Ouk",
-    "tags": [
-      "Health",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/j8l2aX86Ouk?si=1JGWEjb8YcyEDR9R",
-    "line_numbers": [
-      1118,
-      1170
-    ],
-    "titles": [
-      "अश्विनी कुमार",
-      "अश्विनी कुमार मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "jB4aaP2X7S4",
-    "tags": [
-      "DurjaJi",
-      "Dussehra",
-      "Mantra",
-      "Peace",
-      "Strength"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/jB4aaP2X7S4?si=fNw_s_3Ep9aH-uJZ",
-    "line_numbers": [
-      594,
-      746,
-      803,
-      1352
-    ],
-    "titles": [
-      "दुर्गा बीज मंत्र",
-      "दुर्गा मंत्र",
-      "बीज मंत्र",
-      "शक्तिदायक मंत्र"
-    ]
-  },
-  {
     "youtube_video_id": "jBIA9Ap-VR0",
     "tags": [
       "PoojaKeSamay"
@@ -8504,26 +6179,6 @@
     ],
     "titles": [
       "श्री सरस्वती चालीसा"
-    ]
-  },
-  {
-    "youtube_video_id": "jXPk7TnZC4c",
-    "tags": [
-      "Knowledge",
-      "Mantra",
-      "Peace",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/jXPk7TnZC4c?si=3IMkISoz8uz7DN_R",
-    "line_numbers": [
-      742,
-      907
-    ],
-    "titles": [
-      "गुरु मंत्र",
-      "गुरु श्लोक"
     ]
   },
   {
@@ -8700,25 +6355,6 @@
     ],
     "titles": [
       "हमको मन की शक्ति देना"
-    ]
-  },
-  {
-    "youtube_video_id": "kOgaTaFcgjU",
-    "tags": [
-      "Knowledge",
-      "Mantra",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/kOgaTaFcgjU?si=JDvMuvOFUXbD0Icu",
-    "line_numbers": [
-      874,
-      1186
-    ],
-    "titles": [
-      "सूर्य प्रज्ञा मंत्र",
-      "सूर्य मंत्र"
     ]
   },
   {
@@ -8901,48 +6537,6 @@
     ]
   },
   {
-    "youtube_video_id": "leVoi6kkp3o",
-    "tags": [
-      "Aarti",
-      "Bhajan",
-      "Diwali",
-      "Dussehra",
-      "Happiness",
-      "Health",
-      "Knowledge",
-      "Peace",
-      "RamNavami",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 12,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/leVoi6kkp3o?si=v3atP52xIcpUEFs8",
-    "line_numbers": [
-      774,
-      900,
-      1069,
-      1084,
-      1143,
-      1161,
-      1209,
-      1286,
-      1359,
-      1369,
-      1498,
-      1499
-    ],
-    "titles": [
-      "भए प्रगट कृपाला",
-      "राम स्तुति",
-      "राम स्तुति (श्री रामचन्द्र..)",
-      "श्री राम स्तुति",
-      "श्री रामचंद्र कृपालु",
-      "श्री रामचंद्र कृपालु भजु मन",
-      "श्री रामचन्द्र कृपालु"
-    ]
-  },
-  {
     "youtube_video_id": "ln8em1Dc5Zs",
     "tags": [
       "Katha",
@@ -8975,44 +6569,6 @@
     ]
   },
   {
-    "youtube_video_id": "log_B4nMkH0",
-    "tags": [
-      "Knowledge",
-      "Strotam",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/log_B4nMkH0?si=T7hhpGvgFFSaNdjq",
-    "line_numbers": [
-      882,
-      1200
-    ],
-    "titles": [
-      "नील सरस्वती स्तोत्र",
-      "सरस्वती स्तोत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "m0VD0vSXNXQ",
-    "tags": [
-      "KrishnaJi",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/m0VD0vSXNXQ?si=rYvcj8atb4ReJtxk",
-    "line_numbers": [
-      565,
-      1242
-    ],
-    "titles": [
-      "कर्म श्लोक",
-      "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"
-    ]
-  },
-  {
     "youtube_video_id": "m3P-UtGt3Ts",
     "tags": [
       "Bhajan",
@@ -9026,25 +6582,6 @@
     ],
     "titles": [
       "लक्ष्मी मैया है तुमसे"
-    ]
-  },
-  {
-    "youtube_video_id": "m8hvtU9Lzzk",
-    "tags": [
-      "LakshmiJi",
-      "Mantra",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/m8hvtU9Lzzk?si=1K9flqSsHLdbD1bx",
-    "line_numbers": [
-      289,
-      926
-    ],
-    "titles": [
-      "महालक्ष्मी मूल मंत्र",
-      "श्री सिद्ध लक्ष्मी मंत्र"
     ]
   },
   {
@@ -9160,25 +6697,6 @@
     ]
   },
   {
-    "youtube_video_id": "mmVbmowFswQ",
-    "tags": [
-      "Janmashtami",
-      "Katha",
-      "KrishnaJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/mmVbmowFswQ?si=4Pq4-LiYvLPJNzNH",
-    "line_numbers": [
-      583,
-      1339
-    ],
-    "titles": [
-      "गोवर्धन जी कथा",
-      "गोवर्धन पर्वत की कथा"
-    ]
-  },
-  {
     "youtube_video_id": "mrH_rSZnxdU",
     "tags": [
       "Aarti",
@@ -9262,25 +6780,6 @@
     ]
   },
   {
-    "youtube_video_id": "nLUmRxc6140",
-    "tags": [
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/nLUmRxc6140?si=TlXcstkGhRj6Ed0G",
-    "line_numbers": [
-      202,
-      1472
-    ],
-    "titles": [
-      "घर में पधारो गजानंद जी मेरे घर में पधारो",
-      "घर में पधारो गजानन जी"
-    ]
-  },
-  {
     "youtube_video_id": "nViaKp1JhsE",
     "tags": [
       "Bhajan",
@@ -9294,45 +6793,6 @@
     ],
     "titles": [
       "बालाजी अच्छा लागे से"
-    ]
-  },
-  {
-    "youtube_video_id": "n_DeYZEy4Y4",
-    "tags": [
-      "Mantra",
-      "RamNavami",
-      "Ramji"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/n_DeYZEy4Y4?si=sUCnkqbCYX4M_5BL",
-    "line_numbers": [
-      388,
-      1493
-    ],
-    "titles": [
-      "राम स्तुति मंत्र",
-      "ॐ श्री रामचन्द्राय नमः"
-    ]
-  },
-  {
-    "youtube_video_id": "nbfyD78Dke0",
-    "tags": [
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/nbfyD78Dke0?si=--jK-lqu9SvtXhzK",
-    "line_numbers": [
-      496,
-      1452
-    ],
-    "titles": [
-      "लक्ष्मी-गणेश मंत्र",
-      "ॐ श्रीं गं सौभाग्य गणपतये वर्वर्द सर्वजन्म में वषमान्य स्वाहा"
     ]
   },
   {
@@ -9415,35 +6875,6 @@
     ],
     "titles": [
       "बुद्ध मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "nwRoHC83wx0",
-    "tags": [
-      "Diwali",
-      "Happiness",
-      "Health",
-      "Knowledge",
-      "Mantra",
-      "Peace",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 7,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/nwRoHC83wx0?si=f1Akd4C3BSvXNJaE",
-    "line_numbers": [
-      730,
-      866,
-      1055,
-      1121,
-      1183,
-      1245,
-      1269
-    ],
-    "titles": [
-      "गायत्री मंत्र",
-      "बुद्धि श्लोक"
     ]
   },
   {
@@ -9819,25 +7250,6 @@
     ]
   },
   {
-    "youtube_video_id": "r66ySZ7iipM",
-    "tags": [
-      "DurjaJi",
-      "Mantra",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/r66ySZ7iipM?si=FM_yp5XcLh9cQ4q0",
-    "line_numbers": [
-      601,
-      646
-    ],
-    "titles": [
-      "जयन्ती मङ्गला काली भद्रकाली कपालिनी। दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥",
-      "ॐ जयन्ती मङ्गला काली भद्रकाली कपालिनी। दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तुते॥"
-    ]
-  },
-  {
     "youtube_video_id": "r7GJ8GoGSD8",
     "tags": [
       "Aarti",
@@ -10048,27 +7460,6 @@
     ]
   },
   {
-    "youtube_video_id": "sDhrWWWBQLI",
-    "tags": [
-      "Bhajan",
-      "Dussehra",
-      "HanumanJayanti"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/sDhrWWWBQLI?si=08qM_PSgcxvPDebN",
-    "line_numbers": [
-      132,
-      1384,
-      1549
-    ],
-    "titles": [
-      "दुनिया चले न श्री राम के बिना",
-      "दुनिया चले ना श्री राम",
-      "दुनिया चले ना श्री राम के बिना"
-    ]
-  },
-  {
     "youtube_video_id": "sHjD9ChjUsU",
     "tags": [
       "GaneshJi",
@@ -10133,50 +7524,6 @@
     ]
   },
   {
-    "youtube_video_id": "sRjLbmFjjQ0",
-    "tags": [
-      "Dussehra",
-      "Mantra",
-      "Ramji"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/sRjLbmFjjQ0?si=BflcnYp06jrhbI1r",
-    "line_numbers": [
-      389,
-      1354
-    ],
-    "titles": [
-      "ग्रह दोष निवारण",
-      "ॐ नमो भगवते रामचंद्राय"
-    ]
-  },
-  {
-    "youtube_video_id": "sdZpM8paUnM",
-    "tags": [
-      "Ashtakam",
-      "Janmashtami",
-      "LoveAndRelationship",
-      "Mantra",
-      "Peace",
-      "Strotam",
-      "Stuti"
-    ],
-    "occurrence_count": 4,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/sdZpM8paUnM?si=nAeAA34E_6X4S8uO",
-    "line_numbers": [
-      762,
-      997,
-      1311,
-      1324
-    ],
-    "titles": [
-      "मधुराष्टकम",
-      "मधुराष्टकम (अधरं मधुरं)"
-    ]
-  },
-  {
     "youtube_video_id": "sgniT3zYZGE",
     "tags": [
       "GaneshJi",
@@ -10206,25 +7553,6 @@
     ],
     "titles": [
       "गोपाल सहस्रनाम स्तोत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "snRINfVgunw",
-    "tags": [
-      "Dussehra",
-      "Mantra",
-      "RamNavami"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/snRINfVgunw?si=OBhIF1xWjPyu43K6",
-    "line_numbers": [
-      1351,
-      1491
-    ],
-    "titles": [
-      "भय नाशक मंत्र",
-      "विपत्ति नाशक मंत्र"
     ]
   },
   {
@@ -10406,24 +7734,6 @@
     ]
   },
   {
-    "youtube_video_id": "udRgk50LOuA",
-    "tags": [
-      "GaneshJi",
-      "Strotam"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/udRgk50LOuA?si=OnWHt9_jUWmMlIHv",
-    "line_numbers": [
-      173,
-      466
-    ],
-    "titles": [
-      "मयूरेस्वर स्तोत्र",
-      "मयूरेस्वर स्तोत्र:"
-    ]
-  },
-  {
     "youtube_video_id": "ukq70I4YDP8",
     "tags": [
       "Bhajan",
@@ -10472,48 +7782,6 @@
     ]
   },
   {
-    "youtube_video_id": "vLP6gdiDbOU",
-    "tags": [
-      "Strotam",
-      "VishnuJi",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/vLP6gdiDbOU?si=jO6MgHWC3vJEyRrd",
-    "line_numbers": [
-      238,
-      946
-    ],
-    "titles": [
-      "नारायण सुक्तम",
-      "नारायण सूक्तम"
-    ]
-  },
-  {
-    "youtube_video_id": "vYFOV9nj-_w",
-    "tags": [
-      "Ashtakam",
-      "GaneshChaturthi",
-      "GaneshJi",
-      "Knowledge",
-      "Strotam"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 3,
-    "sample_url": "https://youtu.be/vYFOV9nj-_w?si=Fh10acxtqXypmgSV",
-    "line_numbers": [
-      179,
-      889,
-      1459
-    ],
-    "titles": [
-      "गणेश पंचरत्न स्तोत्र",
-      "श्री गणेश पञ्चरत्नम्",
-      "श्री गणेशपञ्चरत्नम्"
-    ]
-  },
-  {
     "youtube_video_id": "vYcSZAYfzaM",
     "tags": [
       "PoojaKeSamay"
@@ -10542,25 +7810,6 @@
     ],
     "titles": [
       "श्रीराम वनवास की कथा"
-    ]
-  },
-  {
-    "youtube_video_id": "vfzibQrVPoM",
-    "tags": [
-      "Peace",
-      "Shloka",
-      "Success"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/vfzibQrVPoM?si=y7xPU6cE7-JtCkvc",
-    "line_numbers": [
-      786,
-      1248
-    ],
-    "titles": [
-      "उपनिषद शांति पाठ",
-      "शांति-विजय"
     ]
   },
   {
@@ -10593,47 +7842,6 @@
     ],
     "titles": [
       "नारायणीयम्"
-    ]
-  },
-  {
-    "youtube_video_id": "vlc0vWvSrOM",
-    "tags": [
-      "Dussehra",
-      "HanumanJayanti",
-      "MahaShivratri",
-      "Mantra"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/vlc0vWvSrOM?si=fvKhdLJK61GyaAFD",
-    "line_numbers": [
-      1353,
-      1404,
-      1526
-    ],
-    "titles": [
-      "महाकाल मंत्र",
-      "सकंट मोचन मंत्र",
-      "सिद्धि मंत्र"
-    ]
-  },
-  {
-    "youtube_video_id": "vp2Wp1mtb7o",
-    "tags": [
-      "Knowledge",
-      "Peace",
-      "Shloka"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtube.com/shorts/vp2Wp1mtb7o?si=94qjGBD7qZDFoWA3",
-    "line_numbers": [
-      797,
-      912
-    ],
-    "titles": [
-      "अध्यात्म श्लोक",
-      "वैदिक विद्या"
     ]
   },
   {
@@ -10736,25 +7944,6 @@
     ],
     "titles": [
       "मइया लक्ष्मी देती धन धान है"
-    ]
-  },
-  {
-    "youtube_video_id": "wiIJr3qihaQ",
-    "tags": [
-      "Bhajan",
-      "GaneshChaturthi",
-      "GaneshJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/wiIJr3qihaQ?si=-f9FdXR6zpC7iHDa",
-    "line_numbers": [
-      503,
-      1473
-    ],
-    "titles": [
-      "गणपति अपने गाँव चले",
-      "गणपति अपने गांव चले"
     ]
   },
   {
@@ -10948,39 +8137,6 @@
     ]
   },
   {
-    "youtube_video_id": "y-Xv63obhKI",
-    "tags": [
-      "Dussehra",
-      "Health",
-      "Mantra",
-      "RamNavami",
-      "Ramji",
-      "Shloka",
-      "Strength",
-      "Strotam",
-      "Success",
-      "Wealth"
-    ],
-    "occurrence_count": 7,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/y-Xv63obhKI?si=M5eZNo40oYpESgJA",
-    "line_numbers": [
-      423,
-      811,
-      976,
-      1129,
-      1197,
-      1367,
-      1500
-    ],
-    "titles": [
-      "आपदामपहर्तारं दातारं सर्वसंपदाम्",
-      "आपदामपहर्तारं दातारं सर्वसंपदाम्। लोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम्॥",
-      "राम रक्षा कवच मंत्र",
-      "राम रक्षा स्तोत्र"
-    ]
-  },
-  {
     "youtube_video_id": "y9Py0BBVHpQ",
     "tags": [
       "Aarti",
@@ -11010,25 +8166,6 @@
     ],
     "titles": [
       "विष्णु चालीसा"
-    ]
-  },
-  {
-    "youtube_video_id": "yWTN6bsDWN4",
-    "tags": [
-      "Bhajan",
-      "KrishnaJi",
-      "LoveAndRelationship"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/yWTN6bsDWN4?si=Lzw6_QbV5g85uOt9",
-    "line_numbers": [
-      574,
-      1028
-    ],
-    "titles": [
-      "यशमति मैया से बोले नंदलाला",
-      "यशोमती मैया से बोले"
     ]
   },
   {
@@ -11063,25 +8200,6 @@
     ]
   },
   {
-    "youtube_video_id": "ycvqpPFyQSU",
-    "tags": [
-      "Knowledge",
-      "PoojaKeSamay",
-      "Stuti"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtube.com/shorts/ycvqpPFyQSU?si=tJjnZm6QMTDBoMPY",
-    "line_numbers": [
-      708,
-      895
-    ],
-    "titles": [
-      "गुरु वंदना",
-      "गुरु वंदना (गुरुर्ब्रह्मा..)"
-    ]
-  },
-  {
     "youtube_video_id": "yeWPihxDQvA",
     "tags": [
       "Ramji",
@@ -11098,28 +8216,6 @@
     ]
   },
   {
-    "youtube_video_id": "yfYUZ6juevk",
-    "tags": [
-      "Health",
-      "LoveAndRelationship",
-      "Stuti",
-      "Success"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/yfYUZ6juevk?si=txXjqTklefjUdFv9",
-    "line_numbers": [
-      1014,
-      1147,
-      1212
-    ],
-    "titles": [
-      "महालक्ष्मी स्तुति",
-      "लक्ष्मी आरोग्य स्तुति",
-      "लक्ष्मी स्तुति"
-    ]
-  },
-  {
     "youtube_video_id": "yqzr0_-2XbQ",
     "tags": [
       "GaneshJi",
@@ -11133,26 +8229,6 @@
     ],
     "titles": [
       "श्री गणेश जन्म कथा"
-    ]
-  },
-  {
-    "youtube_video_id": "ytV08faCJwg",
-    "tags": [
-      "MahaShivratri",
-      "Mantra",
-      "Shivji"
-    ],
-    "occurrence_count": 3,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/ytV08faCJwg?si=5OYB2QhpM3Jyjw28",
-    "line_numbers": [
-      8,
-      1401,
-      1402
-    ],
-    "titles": [
-      "रुद्र गायत्री मंत्र",
-      "शिव गायत्री मंत्र"
     ]
   },
   {
@@ -11187,25 +8263,6 @@
     ],
     "titles": [
       "कृष्ण गायत्री"
-    ]
-  },
-  {
-    "youtube_video_id": "zKC17254flc",
-    "tags": [
-      "Strength",
-      "Strotam",
-      "VishnuJi"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 2,
-    "sample_url": "https://youtu.be/zKC17254flc?si=1RLal5iLIRaiuuMb",
-    "line_numbers": [
-      232,
-      840
-    ],
-    "titles": [
-      "विष्णु सहस्रनाम",
-      "विष्णु सहस्रनाम स्तोत्रम्:"
     ]
   },
   {
@@ -11269,25 +8326,6 @@
     ],
     "titles": [
       "सम्पूर्ण गाथा नीलकंठ की"
-    ]
-  },
-  {
-    "youtube_video_id": "zdZ67AM47u8",
-    "tags": [
-      "Aarti",
-      "Diwali",
-      "Wealth"
-    ],
-    "occurrence_count": 2,
-    "unique_url_count": 1,
-    "sample_url": "https://youtu.be/zdZ67AM47u8?si=Ff03RfC0f0Fll-oI",
-    "line_numbers": [
-      960,
-      1273
-    ],
-    "titles": [
-      "ओम जय लक्ष्मी माता",
-      "लक्ष्मी जी की आरती"
     ]
   },
   {
