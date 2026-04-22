@@ -1,0 +1,453 @@
+[
+    {
+        "code": "Shivji",
+        "type": "DEITY",
+        "tag": "Shivji",
+        "name": {
+            "hi": "भगवान शिव",
+            "en": "Lord Shiva"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Shivji.jpg",
+        "active": true
+    },
+    {
+        "code": "HanumanJi",
+        "type": "DEITY",
+        "tag": "HanumanJi",
+        "name": {
+            "hi": "हनुमान जी",
+            "en": "Hanuman Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/HanumanJi.jpg",
+        "active": true
+    },
+    {
+        "code": "GaneshJi",
+        "type": "DEITY",
+        "tag": "GaneshJi",
+        "name": {
+            "hi": "गणेश जी",
+            "en": "Ganesh Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/GaneshJi.jpg",
+        "active": true
+    },
+    {
+        "code": "VishnuJi",
+        "type": "DEITY",
+        "tag": "VishnuJi",
+        "name": {
+            "hi": "विष्णु जी",
+            "en": "Vishnu Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/VishnuJi.jpg",
+        "active": true
+    },
+    {
+        "code": "LakshmiJi",
+        "type": "DEITY",
+        "tag": "LakshmiJi",
+        "name": {
+            "hi": "लक्ष्मी जी",
+            "en": "Lakshmi Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/LakshmiJi.jpg",
+        "active": true
+    },
+    {
+        "code": "ShaniiDevJi",
+        "type": "DEITY",
+        "tag": "ShaniiDevJi",
+        "name": {
+            "hi": "शनि देव जी",
+            "en": "ShaniDev Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/ShaniiDevJi.jpg",
+        "active": true
+    },
+    {
+        "code": "DurjaJi",
+        "type": "DEITY",
+        "tag": "DurjaJi",
+        "name": {
+            "hi": "दुर्जा जी",
+            "en": "Durja Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/DurjaJi.jpg",
+        "active": true
+    },
+    {
+        "code": "Ramji",
+        "type": "DEITY",
+        "tag": "Ramji",
+        "name": {
+            "hi": "भगवान राम",
+            "en": "Lord Ram"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Ramji.jpg",
+        "active": true
+    },
+    {
+        "code": "KrishnaJi",
+        "type": "DEITY",
+        "tag": "KrishnaJi",
+        "name": {
+            "hi": "कृष्ण जी",
+            "en": "Krishna Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/KrishnaJi.jpg",
+        "active": true
+    },
+    {
+        "code": "Mantra",
+        "type": "GENRE",
+        "tag": "Mantra",
+        "name": {
+            "hi": "मंत्र",
+            "en": "Mantra"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Mantra.jpg",
+        "active": true
+    },
+    {
+        "code": "Bhajan",
+        "type": "GENRE",
+        "tag": "Bhajan",
+        "name": {
+            "hi": "भजन",
+            "en": "Bhajan"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Bhajan.jpg",
+        "active": true
+    },
+    {
+        "code": "Stotram",
+        "type": "GENRE",
+        "tag": "Stotram",
+        "name": {
+            "hi": "स्तोत्रम",
+            "en": "Stotram"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Strotam.jpg",
+        "active": true
+    },
+    {
+        "code": "Chalisa",
+        "type": "GENRE",
+        "tag": "Chalisa",
+        "name": {
+            "hi": "चालिसा",
+            "en": "Chalisa"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Chalisa.jpg",
+        "active": true
+    },
+    {
+        "code": "Ashtakam",
+        "type": "GENRE",
+        "tag": "Ashtakam",
+        "name": {
+            "hi": "अष्टकम",
+            "en": "ASHTAKAM"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Ashtakam.jpg",
+        "active": true
+    },
+    {
+        "code": "Stuti",
+        "type": "GENRE",
+        "tag": "Stuti",
+        "name": {
+            "hi": "स्तुति",
+            "en": "Stuti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Stuti.jpg",
+        "active": true
+    },
+    {
+        "code": "Aarti",
+        "type": "GENRE",
+        "tag": "Aarti",
+        "name": {
+            "hi": "आरती",
+            "en": "Aarti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Aarti.jpg",
+        "active": true
+    },
+    {
+        "code": "Shloka",
+        "type": "GENRE",
+        "tag": "Shloka",
+        "name": {
+            "hi": "श्लोक",
+            "en": "Shloka"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Shloka.jpg",
+        "active": true
+    },
+    {
+        "code": "Katha",
+        "type": "GENRE",
+        "tag": "Katha",
+        "name": {
+            "hi": "कथा",
+            "en": "Katha"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Katha.jpg",
+        "active": true
+    },
+    {
+        "code": "Peace",
+        "type": "INTENT",
+        "tag": "Peace",
+        "name": {
+            "hi": "शांति",
+            "en": "Peace"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Peace.jpg",
+        "active": true
+    },
+    {
+        "code": "Happiness",
+        "type": "INTENT",
+        "tag": "Happiness",
+        "name": {
+            "hi": "ख़ुशी",
+            "en": "Happiness"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Happiness.jpg",
+        "active": true
+    },
+    {
+        "code": "Wealth",
+        "type": "INTENT",
+        "tag": "Wealth",
+        "name": {
+            "hi": "धन",
+            "en": "Wealth"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Wealth.jpg",
+        "active": true
+    },
+    {
+        "code": "Health",
+        "type": "INTENT",
+        "tag": "Health",
+        "name": {
+            "hi": "स्वास्थ्य",
+            "en": "Health"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Health.jpg",
+        "active": true
+    },
+    {
+        "code": "Knowledge",
+        "type": "INTENT",
+        "tag": "Knowledge",
+        "name": {
+            "hi": "ज्ञान",
+            "en": "Knowledge"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Knowledge.jpg",
+        "active": true
+    },
+    {
+        "code": "Strength",
+        "type": "INTENT",
+        "tag": "Strength",
+        "name": {
+            "hi": "शक्ति",
+            "en": "Strength"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Strength.jpg",
+        "active": true
+    },
+    {
+        "code": "Love",
+        "type": "INTENT",
+        "tag": "Love",
+        "name": {
+            "hi": "प्रेम",
+            "en": "Love"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/LoveAndRelationship.jpg",
+        "active": true
+    },
+    {
+        "code": "Success",
+        "type": "INTENT",
+        "tag": "Success",
+        "name": {
+            "hi": "सफलता",
+            "en": "Success"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Success.jpg",
+        "active": true
+    },
+    {
+        "code": "Diwali",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Diwali",
+        "name": {
+            "hi": "दीपावली",
+            "en": "Diwali"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Diwali.jpg",
+        "active": true
+    },
+    {
+        "code": "SubahUthteHi",
+        "type": "DAILY ROUTINE",
+        "tag": "SubahUthteHi",
+        "name": {
+            "hi": "सुबह उठते ही",
+            "en": "SubahUthteHi"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/SubahUthteHi.jpg",
+        "active": true
+    },
+    {
+        "code": "NahaneKeSamay",
+        "type": "DAILY ROUTINE",
+        "tag": "NahaneKeSamay",
+        "name": {
+            "hi": "नहाने के समय",
+            "en": "NahaneKeSamay"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/NahaneKeSamay.jpg",
+        "active": true
+    },
+    {
+        "code": "NahaneKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "NahaneKeBaad",
+        "name": {
+            "hi": "नहाने के बाद",
+            "en": "NahaneKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/NahaneKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "BhojanSePehle",
+        "type": "DAILY ROUTINE",
+        "tag": "BhojanSePehle",
+        "name": {
+            "hi": "भोजन से पहले",
+            "en": "BhojanSePehle"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/BhojanSePehle.jpg",
+        "active": true
+    },
+    {
+        "code": "BhojanKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "BhojanKeBaad",
+        "name": {
+            "hi": "भोजन के बाद",
+            "en": "BhojanKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/BhojanKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "PoojaKeSamay",
+        "type": "DAILY ROUTINE",
+        "tag": "PoojaKeSamay",
+        "name": {
+            "hi": "पूजा के समय",
+            "en": "PoojaKeSamay"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/PoojaKeSamay.jpg",
+        "active": true
+    },
+    {
+        "code": "PoojaKeBaad",
+        "type": "DAILY ROUTINE",
+        "tag": "PoojaKeBaad",
+        "name": {
+            "hi": "पूजा के बाद",
+            "en": "PoojaKeBaad"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/PoojaKeBaad.jpg",
+        "active": true
+    },
+    {
+        "code": "SoneSePehle",
+        "type": "DAILY ROUTINE",
+        "tag": "SoneSePehle",
+        "name": {
+            "hi": "सोने से पहले",
+            "en": "SoneSePehle"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Daily/SoneSePehle.jpg",
+        "active": true
+    },
+    {
+        "code": "Janmashtami",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Janmashtami",
+        "name": {
+            "hi": "जन्माष्टमी",
+            "en": "Janmashtami"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Janmashtami.jpg",
+        "active": true
+    },
+    {
+        "code": "Dussehra",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "Dussehra",
+        "name": {
+            "hi": "दशहरा",
+            "en": "Dussehra"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/Dussehra.jpg",
+        "active": true
+    },
+    {
+        "code": "MahaShivratri",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "MahaShivratri",
+        "name": {
+            "hi": "महाशिवरात्रि",
+            "en": "MahaShivratri"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/MahaShivratri.jpg",
+        "active": true
+    },
+    {
+        "code": "GaneshChaturthi",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "GaneshChaturthi",
+        "name": {
+            "hi": "गणेश चतुर्थी",
+            "en": "GaneshChaturthi"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/GaneshChaturthi.jpg",
+        "active": true
+    },
+    {
+        "code": "RamNavami",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "RamNavami",
+        "name": {
+            "hi": "राम नवमी",
+            "en": "RamNavami"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/RamNavami.jpg",
+        "active": true
+    },
+    {
+        "code": "HanumanJayanti",
+        "type": "FESTIVAL SPECIAL",
+        "tag": "HanumanJayanti",
+        "name": {
+            "hi": "हनुमान जयंती",
+            "en": "HanumanJayanti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/HanumanJayanti.jpg",
+        "active": true
+    }
+]
