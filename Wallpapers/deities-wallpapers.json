@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "deities": [
     {
       "id": "durga_ji",
@@ -26,56 +26,6 @@
         {
           "id": "durga_ji_portrait_188",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/Frame%20188.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_275_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_275_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_276_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_276_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_277_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_277_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_278_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_278_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_279_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_279_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_280_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_280_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_281_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_281_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_282_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_282_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_283_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_283_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "durga_ji_portrait_284_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/DurgaJi/frame_284_4x.webp",
           "isFree": false
         }
       ]
@@ -111,56 +61,6 @@
           "id": "hanuman_ji_portrait_185",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/Frame%20185.webp",
           "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_285_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_285_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_286_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_286_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_287_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_287_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_288_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_288_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_289_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_289_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_290_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_290_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_291_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_291_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_292_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_292_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_293_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_293_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "hanuman_ji_portrait_294_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/HanumanJi/frame_294_4x.webp",
-          "isFree": false
         }
       ]
     },
@@ -195,56 +95,6 @@
           "id": "krishna_ji_portrait_201",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/Frame%20201.webp",
           "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_265_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_265_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_266_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_266_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_267_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_267_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_268_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_268_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_269_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_269_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_270_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_270_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_271_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_271_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_272_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_272_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_273_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_273_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "krishna_ji_portrait_274_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/KrishnaJi/frame_274_4x.webp",
-          "isFree": false
         }
       ]
     },
@@ -268,56 +118,6 @@
         {
           "id": "laxmi_ji_portrait_203",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/Frame%20203.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_255_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_255_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_256_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_256_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_257_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_257_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_258_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_258_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_259_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_259_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_260_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_260_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_261_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_261_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_262_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_262_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_263_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_263_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "laxmi_ji_portrait_264_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/LaxmiJi/frame_264_4x.webp",
           "isFree": false
         }
       ]
@@ -352,56 +152,6 @@
         {
           "id": "radha_rani_portrait_202",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/Frame%20202.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_295_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_295_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_296_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_296_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_297_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_297_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_298_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_298_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_299_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_299_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_300_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_300_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_301_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_301_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_302_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_302_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_303_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_303_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "radha_rani_portrait_304_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/RadhaRani/frame_304_4x.webp",
           "isFree": false
         }
       ]
@@ -475,56 +225,6 @@
         {
           "id": "shiv_ji_portrait_190",
           "imageUrl": "https://storage.googleapis.com/durlabh_darshan/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/Frame%20190.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_245_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_245_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_246_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_246_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_247_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_247_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_248_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_248_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_249_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_249_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_250_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_250_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_251_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_251_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_252_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_252_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_253_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_253_4x.webp",
-          "isFree": false
-        },
-        {
-          "id": "shiv_ji_portrait_254_4x",
-          "imageUrl": "https://ddappcdn.techxr.co/HinduSanatanWallpapersAndStatus/Portraits/ShivJi/frame_254_4x.webp",
           "isFree": false
         }
       ]

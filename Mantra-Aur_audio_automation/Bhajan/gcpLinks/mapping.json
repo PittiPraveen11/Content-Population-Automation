@@ -1,0 +1,550 @@
+{
+    "SubahUthteHi": {
+        "General": {
+            "Karadarshanam": "Default.webp",
+            "Prithvi Kshama Prarthana": "Default.webp",
+            "Navgrah Prabhat Mantra": "Default.webp",
+            "Mangal Smaran Mantra": "Default.webp",
+            "Panchkanya Smaran": "Default.webp"
+        }
+    },
+    "NahaneKeSamay": {
+        "General": {
+            "Snan Mantra": "Default.webp",
+            "Varun Mantra": "om_namoh_narayana_4x.webp"
+        }
+    },
+    "NahaneKeBaad": {
+        "General": {
+            "Surya Arghya": "aditya_hadya_stotram_4x.webp",
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Shiv Panchakshar": "shiv_panchakshar_4x.webp",
+            "Chandan Lagane Ka Mantra": "Default.webp",
+            "Tulsi Prarthana": "om_namoh_narayana_4x.webp"
+        }
+    },
+    "BhojanSePehle": {
+        "General": {
+            "Brahmarpan Mantra": "om_namoh_narayana_4x.webp",
+            "Annapurna Stuti": "Default.webp",
+            "Shanti Mantra": "Default.webp"
+        }
+    },
+    "BhojanKeBaad": {
+        "General": {
+            "Agastya Mantra": "Default.webp",
+            "Kritagyata": "Default.webp",
+            "Charanamrit Mantra": "om_namoh_narayana_4x.webp"
+        }
+    },
+    "PoojaKeSamay": {
+        "General": {
+            "Aasan Mantra": "Default.webp",
+            "Deep Mantra": "Default.webp",
+            "Ganesh Vandana": "sidhivinayak_stuti_4x.webp",
+            "Guru Vandana": "Default.webp",
+            "Aachaman Mantra": "om_namoh_narayana_4x.webp",
+            "Pushpanjali Shloka": "Default.webp"
+        }
+    },
+    "PoojaKeBaad": {
+        "General": {
+            "Purnamadah Mantra": "Default.webp",
+            "Pradakshina Mantra": "Default.webp"
+        }
+    },
+    "SoneSePehle": {
+        "General": {
+            "Hanuman Mantra": "hanuman_beej_mantra_4x.webp",
+            "Raksha Mantra": "raksha_kawach_mantra_4x.webp",
+            "Shayan Mantra": "om_namoh_narayana_4x.webp",
+            "Kshama Yachana": "Default.webp",
+            "Vishnu Smaran": "om_namoh_narayana_4x.webp"
+        }
+    },
+    "peace_of_mind": {
+        "Mantra": {
+            "Om Chanting": "Default.webp",
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Shanti Mantra": "Default.webp",
+            "Sarvesham Shanti": "Default.webp",
+            "Buddha Mantra": "Default.webp",
+            "Loka Samasta": "Default.webp",
+            "Saraswati Mantra": "mool_beej_mantra_4x.webp",
+            "Hanuman Mantra": "hanuman_beej_mantra_4x.webp",
+            "Asato Ma": "Default.webp",
+            "Guru Mantra": "Default.webp",
+            "Nirvana Shatakam": "shiv_stuti_4x.webp",
+            "So-Ham Mantra": "Default.webp",
+            "Ra Ma Da Sa": "Default.webp",
+            "Aham Brahmasmi": "Default.webp"
+        },
+        "Strotam": {
+            "Nirvana Shatakam": "shiv_stuti_4x.webp",
+            "Lingashtakam": "shiv_panchakshar_4x.webp",
+            "Shiv Manas Puja": "shiv_stuti_4x.webp",
+            "Madhurashtakam": "krishna_astham_4x.webp",
+            "Guruvashtakam": "Default.webp",
+            "Dakshinamurti Stotram": "shiv_panchakshar_4x.webp",
+            "Bilvashtakam": "shiv_stuti_4x.webp"
+        },
+        "Stuti": {
+            "Karadarshanam": "Default.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Shiv Rudrashtakam Stuti": "shiv_rudrashtakam_4x.webp",
+            "Shiv Manas Stuti": "shiv_stuti_4x.webp",
+            "Saraswati Stuti": "jai_saraswati_mata_4x.webp",
+            "Vishnu Mangal Stuti": "shri_vihsnu_stuti_4x.webp",
+            "Apradh Kshamapan Stuti": "Default.webp",
+            "Shri Krishna Stuti": "bal_mukund_stuti_4x.webp",
+            "Durga Shanti Stuti": "devi_stuti_4x.webp"
+        },
+        "Shloka": {
+            "Upanishad Shanti Path": "Default.webp",
+            "Gita (Adhyay 2)": "yada_yada_hi_dharmsay_4x.webp",
+            "Gita (Adhyay 6)": "yada_yada_hi_dharmsay_4x.webp",
+            "Ishavasya Upanishad": "Default.webp"
+        }
+    },
+    "Strength": {
+        "Mantra": {
+            "Kali Mantra": "om_durgaye_namah_4x.webp",
+            "Nrisingh Gayatri": "narshing_avtar_4x.webp",
+            "Nrisingh Beej Mantra": "narshing_avtar_4x.webp",
+            "Sudarshan Mantra": "om_namoh_bhagwate_vasudevay_4x.webp",
+            "Kartikeya Mantra": "Default.webp",
+            "Baglamukhi Beej Mantra": "om_durgaye_namah_4x.webp",
+            "Garuda Shakti Mantra": "om_namoh_narayana_4x.webp"
+        },
+        "Strotam": {
+            "राम रक्षा स्तोत्र": "shri_ram_rakha_stotram_4x.webp",
+            "पंचमुखी हनुमान कवच": "panch_mukhi_hanuman_4x.webp",
+            "दुर्गा सप्तश्लोकी": "durga_saptsati_4x.webp",
+            "नृसिंह स्तोत्रम": "narshing_avtar_4x.webp",
+            "कालभैरव अष्टकम": "shiv_tandav_4x.webp",
+            "Narayan Kavach": "narayan_sukhtam_4x.webp",
+            "सुदर्शन अष्टकम": "om_namoh_bhagwate_vasudevay_4x.webp",
+            "नृसिंह कवच": "narshing_avtar_4x.webp",
+            "देवी कवच": "durga_kavach_4x.webp",
+            "महाकाली स्तोत्र": "durga_saptsati_4x.webp",
+            "कार्तिकेय कवच": "Default.webp"
+        },
+        "Chalisa": {
+            "Kali Chalisa": "durga_chalisa_4x.webp",
+            "Bhairav Chalisa": "shiv_chalisa_4x.webp",
+            "Nrisingh Chalisa": "narshing_avtar_4x.webp",
+            "Vindhyeshwari Chalisa": "durga_chalisa_4x.webp",
+            "Kartikeya Chalisa": "Default.webp",
+            "Baglamukhi Chalisa": "durga_chalisa_4x.webp",
+            "Gayatri Chalisa": "Default.webp",
+            "Saraswati Chalisa": "Default.webp"
+        }
+    },
+    "Knowledge": {
+        "Mantra": {
+            "Saraswati Beej Mantra": "mool_beej_mantra_4x.webp",
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Vidya Prapti Mantra": "mool_beej_mantra_4x.webp",
+            "Guru Mantra": "mool_beej_mantra_4x.webp",
+            "Hanuman Buddhi Mantra": "manojivyan_marutulyam_4x.webp",
+            "Budh Grah Mantra": "Default.webp",
+            "Saraswati Mantra": "mool_beej_mantra_4x.webp",
+            "Pragya Vardhan Mantra": "Default.webp",
+            "Surya Pragya Mantra": "aditya_hadya_stotram_4x.webp"
+        },
+        "Strotam": {
+            "Agastya Rachit Saraswati Stotra": "Default.webp",
+            "Hayagriva Stotra": "Default.webp",
+            "Sharda Bhujang Prayat Stotra": "Default.webp",
+            "Saraswati Stotra": "Default.webp",
+            "Vidya Lakshmi Stotra": "laxmi_hardhya_stotram_4x.webp",
+            "Dakshinamurti Stotram": "shiv_panchakshar_4x.webp",
+            "Brihaspati Stotra": "Default.webp",
+            "Budh Stotra": "Default.webp",
+            "Saraswati Dwadash Naam Stotra": "Default.webp",
+            "Medha Sukta Stotra": "Default.webp"
+        },
+        "Stuti": {
+            "Saraswati Vandana (Ya Kundendu..)": "Default.webp",
+            "Guru Vandana": "Default.webp",
+            "Shiv Manas Stuti": "shiv_stuti_4x.webp",
+            "Hanuman Buddhi Stuti": "manojivyan_marutulyam_4x.webp",
+            "Brahma Stuti": "Default.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Gayatri Stuti": "Default.webp",
+            "Shri Krishna Stuti": "bal_mukund_stuti_4x.webp",
+            "Brihaspati Stotra": "Default.webp"
+        }
+    },
+    "Wealth": {
+        "Mantra": {
+            "Kuber Mantra": "om_shri_laxmiya_namah_4x.webp",
+            "Rina Mochan Mantra": "snakat_nasak_stotram_4x.webp",
+            "Kanakdhara Beej Mantra": "kankandhara_stotram_4x.webp",
+            "Vishnu Lakshmi Mantra": "laxmi_narayan_stotram_4x.webp",
+            "Vyapar Vriddhi Mantra": "shri_siddh_laxmi_mantra_4x.webp",
+            "Dhan Prada Mantra": "maha_laxmi_beej_mantra_4x.webp"
+        },
+        "Strotam": {
+            "Rina Mochan Mangal Stotra": "snakat_nasak_stotram_4x.webp",
+            "Annapurna Stotra": "Default.webp",
+            "Indrakshi Stotra": "Default.webp",
+            "Shubh-Labh Stotra": "shubh_laab_dhan_vaibhav_4x.webp"
+        },
+        "Chalisa": {
+            "Lakshmi Chalisa": "laxmi_chalisa_4x.webp",
+            "Kuber Chalisa": "laxmi_chalisa_4x.webp",
+            "Saraswati Chalisa": "Default.webp",
+            "Mahalakshmi Chalisa": "laxmi_chalisa_4x.webp"
+        },
+        "Aarti": {
+            "Lakshmi Ji Ki Aarti": "om_jay_laxmi_mata_4x.webp",
+            "Kuber Ji Ki Aarti": "om_jay_laxmi_mata_4x.webp",
+            "Maa Annapurna Aarti": "Default.webp",
+            "Maa Vaibhav Lakshmi Aarti": "om_jay_laxmi_mata_4x.webp"
+        },
+        "Shloka": {
+            "Mahalakshmi Ashtakam": "mahalaxmi_astham_4x.webp",
+            "Shri Suktam": "shri_sukhtam_4x.webp",
+            "Yatra Yogeshwarah Krishno Yatra Partho Dhanurdharah": "yada_yada_hi_dharmsay_4x.webp",
+            "Udyamen Hi Sidhyanti Karyani Na Manorathaih": "Default.webp"
+        }
+    },
+    "LoveAndRelationship": {
+        "Mantra": {
+            "Kleem Beej Mantra": "om_kleem_krishnya_namah_4x.webp",
+            "Kamdev Gayatri": "Default.webp",
+            "Katyayani Mantra": "om_durgaye_namah_4x.webp",
+            "Patni Prapti Mantra": "Default.webp",
+            "Gauri-Shankar Mantra": "shiv_stuti_mantra_4x.webp",
+            "Vishnu Lakshmi Mantra": "laxmi_narayan_stotram_4x.webp",
+            "Ardhanarishwar Mantra": "ardhanarishvara_4x.webp",
+            "Saraswati Beej Mantra": "mool_beej_mantra_4x.webp"
+        },
+        "Strotam": {
+            "Radha Kripa Kataksha": "radha_krishna_yogal_stuti_4x.webp",
+            "Madhurashtakam": "krishna_astham_4x.webp",
+            "Kamdev Stotra": "Default.webp",
+            "Ardhanarishwar Stotra": "ardhanarishvara_4x.webp",
+            "Janki Stotra": "janki_stuti_4x.webp",
+            "Parvati Stotra": "durga_shama_pradhan_4x.webp",
+            "Uma Maheshwar Stotra": "shiv_stuti_4x.webp",
+            "Annapurna Stotra": "Default.webp"
+        },
+        "Stuti": {
+            "Parvati Stuti": "durga_shama_pradhan_4x.webp",
+            "Radha Stuti": "radha_krishna_yogal_stuti_4x.webp",
+            "Shri Krishna Stuti": "bal_mukund_stuti_4x.webp",
+            "Lakshmi Stuti": "shri_laxmi_stuti_4x.webp",
+            "Durga Stuti": "devi_stuti_4x.webp",
+            "Saraswati Stuti": "jai_saraswati_mata_4x.webp",
+            "Ganesh Stuti": "sidhivinayak_stuti_4x.webp"
+        },
+        "Bhajan": {
+            "Radhe Radhe Barsane Wali": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Shyama Aan Baso": "savli_surat_per_mohan_dil_4x.webp",
+            "Meethe Ras Se Bharyo Ri": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Sitaram Charit Pavan": "shri_ram_janaki__4x.webp",
+            "Kanhaiya Le Chal Paar": "kahniyan_le_chala_4x.webp",
+            "Shyam Teri Bansi": "shyam_teri_bansi_purakre_radha_naam_4x.webp",
+            "Humein Radha Rani Tere Naam Ka Sahara": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Aisi Lagi Lagan": "achutam_keshsavam_4x.webp",
+            "Hari Bin Koi Na Tera": "achutam_keshsavam_4x.webp"
+        },
+        "Katha": {
+            "Radha-Krishna Prem Katha": "krishna_janm_katha_4x.webp",
+            "Shiv-Parvati Vivah": "ShivParvatiVivah_4x.webp",
+            "Ram-Sita Vanvas Katha": "shri_ram_van_vas_ki_katha_4x.webp",
+            "Rukmini Haran Katha": "krishna_janm_katha_4x.webp",
+            "Nal-Damayanti Katha": "Default.webp",
+            "Kamdev-Rati Katha": "Default.webp",
+            "Satyabhama-Krishna Katha": "krishna_janm_katha_4x.webp",
+            "Usha-Aniruddh Katha": "krishna_janm_katha_4x.webp",
+            "Subhadra-Arjun Vivah": "krishna_janm_katha_4x.webp",
+            "Hanuman-Ram Bhakti": "bhagwan_shri_ram_n_hanuman_milaap_4x.webp"
+        }
+    },
+    "Happiness": {
+        "Mantra": {
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Shanti Mantra": "Default.webp",
+            "Shiv Panchakshar": "shiv_panchakshar_4x.webp",
+            "Hanuman Mantra": "hanuman_beej_mantra_4x.webp",
+            "Narayan Kavach": "narayan_sukhtam_4x.webp",
+            "Buddha Mantra": "Default.webp"
+        },
+        "Stuti": {
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Shiv Stuti": "shiv_stuti_4x.webp",
+            "Ganesh Stuti": "sidhivinayak_stuti_4x.webp",
+            "Saraswati Stuti": "jai_saraswati_mata_4x.webp",
+            "Durga Stuti": "devi_stuti_4x.webp"
+        },
+        "Shloka": {
+            "Shanti Shlok": "Default.webp",
+            "Samarpan Shlok": "Default.webp",
+            "Ganesha Shlok": "vakrthund_mahakaya_4x.webp",
+            "Shiv Shlok": "shiv_shlok_4x.webp",
+            "Guru Shlok": "Default.webp",
+            "Saraswati Shlok": "jai_saraswati_mata_4x.webp",
+            "Prabhat Shlok": "Default.webp",
+            "Mangal Shlok": "Default.webp",
+            "Bhakti Shlok": "achutam_keshsavam_4x.webp"
+        },
+        "Bhajan": {
+            "Radhe Radhe Barsane Wali": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Aisi Lagi Lagan": "achutam_keshsavam_4x.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_janaki__4x.webp",
+            "Kishori Kuch Aisa Intazam": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Yashomati Maiya Se Bole": "yashomati_maiya_se_bole_nandlala__4x.webp",
+            "Shyama Aan Baso": "savli_surat_per_mohan_dil_4x.webp",
+            "Meethe Ras Se Bharyo Ri": "mithi_ras_se_bhariori_radha_rani_lage_4x.webp",
+            "Bhar Re Shyam Jholi": "achutam_keshsavam_4x.webp",
+            "O Palanhare": "achutam_keshsavam_4x.webp",
+            "Mera Aapki Kripa Se": "achutam_keshsavam_4x.webp"
+        }
+    },
+    "Health": {
+        "Mantra": {
+            "Surya Arogya Mantra": "aditya_hadya_stotram_4x.webp",
+            "Prana Mudra Mantra": "Default.webp",
+            "Rog Nashak Mantra": "mahamritunjay_4x.webp",
+            "Ashwini Kumar Mantra": "Default.webp",
+            "Shiv Arogya Mantra": "mahamritunjay_4x.webp",
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Narayan Kavach Ansh": "narayan_sukhtam_4x.webp"
+        },
+        "Strotam": {
+            "Vaidyanath Stotra": "mahamritunjay_4x.webp",
+            "Dhanvantari Stotra": "Default.webp",
+            "Mrityunjaya Stotra": "mahamritunjay_4x.webp",
+            "Durga Apaduddharak Stotra": "durga_saptsati_4x.webp",
+            "Hanuman Bahuk": "sankat_mochan_hanuman_astakam_4x.webp",
+            "Surya Mandal Stotra": "aditya_hadya_stotram_4x.webp",
+            "Narayan Kavach": "narayan_sukhtam_4x.webp"
+        },
+        "Stuti": {
+            "Shiv Stuti": "shiv_stuti_4x.webp",
+            "Surya Stuti": "aditya_hadya_stotram_4x.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Ganesh Stuti": "sidhivinayak_stuti_4x.webp",
+            "Lakshmi Stuti": "shri_laxmi_stuti_4x.webp",
+            "Saraswati Stuti": "jai_saraswati_mata_4x.webp"
+        },
+        "Shloka": {
+            "Dhanvantari Shlok": "Default.webp",
+            "Shanti Shlok": "Default.webp"
+        },
+        "Bhajan": {
+            "Naam Hai Tera Taranhara": "achutam_keshsavam_4x.webp",
+            "Kitna Pyara Hai Shringar": "savli_surat_per_mohan_dil_4x.webp",
+            "Mera Aapki Kripa Se": "achutam_keshsavam_4x.webp",
+            "O Palanhare": "achutam_keshsavam_4x.webp",
+            "Itni Shakti Humein Dena Data": "atulit_bal_dhamam_4x.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_janaki__4x.webp"
+        }
+    },
+    "Success": {
+        "Mantra": {
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp",
+            "Saraswati Mantra": "mool_beej_mantra_4x.webp",
+            "Hanuman Mantra": "hanuman_beej_mantra_4x.webp",
+            "Surya Pragya Mantra": "aditya_hadya_stotram_4x.webp",
+            "Kartikeya Mantra": "Default.webp"
+        },
+        "Strotam": {
+            "Mahalakshmi Ashtakam": "mahalaxmi_astham_4x.webp",
+            "Shri Suktam": "shri_sukhtam_4x.webp",
+            "Bajrang Baan": "sankat_mochan_hanuman_astakam_4x.webp",
+            "Saraswati Stotra": "Default.webp",
+            "Narayan Kavach": "narayan_sukhtam_4x.webp"
+        },
+        "Chalisa": {
+            "Shri Saraswati Chalisa": "Default.webp"
+        },
+        "Stuti": {
+            "Ganesh Stuti": "sidhivinayak_stuti_4x.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Saraswati Stuti": "jai_saraswati_mata_4x.webp",
+            "Lakshmi Stuti": "shri_laxmi_stuti_4x.webp",
+            "Surya Stuti": "aditya_hadya_stotram_4x.webp",
+            "Shiv Stuti": "shiv_stuti_4x.webp"
+        },
+        "Shloka": {
+            "Vijay Shlok": "Default.webp",
+            "Ganesha Shlok": "vakrthund_mahakaya_4x.webp"
+        },
+        "Bhajan": {
+            "Itni Shakti Humein Dena Data": "atulit_bal_dhamam_4x.webp",
+            "Aisi Lagi Lagan": "achutam_keshsavam_4x.webp",
+            "O Palanhare": "achutam_keshsavam_4x.webp",
+            "Mera Aapki Kripa Se": "achutam_keshsavam_4x.webp",
+            "Humko Man Ki Shakti Dena": "Default.webp",
+            "Jag Mein Sundar Hain Do Naam": "raghupati_raghav_raja_ram_4x.webp",
+            "Prabhu Ji Tum Chandan Hum Paani": "achutam_keshsavam_4x.webp",
+            "Jai Hanuman Gyan Gun Sagar": "hanuman_chalisa_4x.webp"
+        }
+    },
+    "Diwali": {
+        "Mantra": {
+            "Ganesha Shlok": "vakrthund_mahakaya_4x.webp",
+            "Saraswati Mantra": "mool_beej_mantra_4x.webp",
+            "Mahalakshmi Ashtakam": "mahalaxmi_astham_4x.webp",
+            "Gayatri Mantra": "mool_beej_mantra_4x.webp"
+        },
+        "Aarti": {
+            "Lakshmi Ji Ki Aarti": "om_jay_laxmi_mata_4x.webp",
+            "Kuber Ji Ki Aarti": "om_jay_laxmi_mata_4x.webp"
+        },
+        "Bhajan": {
+            "Mahalakshmi Ashtakam": "mahalaxmi_astham_4x.webp",
+            "Shri Ram Chandra Kripalu Bhaju Man": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Maiya Lakshmi Ji Ki Amritwani": "laxmi_amtrit_vani_4x.webp",
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Vishnu Sahasranama": "vishnu_shastranaam_4x.webp"
+        },
+        "Katha": {
+            "श्री राम का आगमन": "shri_ram_janm_khata_4x.webp",
+            "नरकासुर वध": "narkasur_vadh_4x.webp"
+        }
+    },
+    "Janmashtami": {
+        "Mantra": {
+            "Santan Gopal Mantra": "santan_gopal_4x.webp",
+            "Klesh Nashak Mantra": "om_kleem_krishnya_namah_4x.webp",
+            "Govind Mantra": "om_namoh_bhagwate_vasudevaye_4x.webp",
+            "Madhurashtakam": "krishna_astham_4x.webp"
+        },
+        "Bhajan": {
+            "Madhurashtakam": "krishna_astham_4x.webp",
+            "Yashomati Maiya Se Bole": "yashomati_maiya_se_bole_nandlala__4x.webp",
+            "Govind Bolo Hari Gopal Bolo": "achutam_keshsavam_4x.webp",
+            "Nand Ke Anand Bhayo Jai Kanhaiya Lal Ki": "nand_ke_anand_bhayo__4x.webp",
+            "Mere Banke Bihari Lal": "savli_surat_per_mohan_dil_4x.webp",
+            "Shri Krishna Govind Hare Murari": "achutam_keshsavam_4x.webp",
+            "Aisi Lagi Lagan": "achutam_keshsavam_4x.webp"
+        },
+        "Katha": {
+            "पूतना वध की कथा": "krishna_janm_katha_4x.webp",
+            "कालिया नाग मर्दन": "kaliya_naag_mardan_4x.webp"
+        }
+    },
+    "Dussehra": {
+        "Mantra": {
+            "अपराजिता मंत्र": "om_durgaye_namah_4x.webp",
+            "भय नाशक मंत्र": "hanuman_beej_mantra_4x.webp",
+            "सिद्धि मंत्र": "pramukh_mantra_4x.webp",
+            "राम गायत्री मंत्र": "om_ramay_namah_4x.webp"
+        },
+        "Strotam": {
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "Vishnu Sahasranama": "vishnu_shastranaam_4x.webp",
+            "Bajrang Baan": "sankat_mochan_hanuman_astakam_4x.webp"
+        },
+        "Aarti": {
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp",
+            "आरती कीजै रामलला की": "shri_ram_chandra_ji_ki_aarti_4x.webp"
+        },
+        "Bhajan": {
+            "मंगल भवन अमंगल हारी": "shri_ram_janaki__4x.webp",
+            "मेरे सरकार आए हैं": "nagri_ho_ayodhya_si_4x.webp",
+            "सुख के सब साथी": "raghupati_raghav_raja_ram_4x.webp",
+            "राम जी का नाम लेकर": "ram_ji_ki_nikli_sawari_4x.webp",
+            "कभी राम बनके कभी श्याम": "achutam_keshsavam_4x.webp"
+        },
+        "Katha": {
+            "महिषासुर मर्दन": "mahisasoor_vadh_ki_katha_4x.webp"
+        }
+    },
+    "MahaShivratri": {
+        "Mantra": {
+            "Shiv Panchakshar": "shiv_panchakshar_4x.webp",
+            "Shiv Shlok": "shiv_shlok_4x.webp",
+            "सिद्धि मंत्र": "rudra_mantra_4x.webp"
+        },
+        "Bhajan": {
+            "मेरा भोला है भंडारी": "bhole_bhandari_4x.webp",
+            "शिव कैलाशों के वासी": "hey_shambhu_baba_4x.webp",
+            "मन मेरा मंदिर शिव मेरी पूजा": "shiv_shankar_ko_jisne_pooja_4x.webp",
+            "सत्यम शिवम सुंदरम": "shiv_stuti_4x.webp",
+            "नगर में जोगी आया": "subha_subha_le_shiv_ka_naam_4x.webp",
+            "भोले ओ भोले": "bhole_bhandari_4x.webp",
+            "ऐसी सुबह ना आए": "subha_subha_le_shiv_ka_naam_4x.webp",
+            "बम लहरी": "gangaadhara_4x.webp",
+            "शिव जी सत्य है": "shiv_stuti_4x.webp"
+        },
+        "Katha": {
+            "शिव पार्वती विवाह की संपूर्ण कथा": "ShivParvatiVivah_4x.webp"
+        }
+    },
+    "GaneshChaturthi": {
+        "Mantra": {
+            "Om Vakratundaya Hum": "vakrthund_mahakaya_4x.webp",
+            "सिद्धि विनायक मंत्र": "om_vinayakaya_namah_4x.webp",
+            "Ganesha Shlok": "vakrthund_mahakaya_4x.webp",
+            "ऋद्धि-सिद्धि मंत्र": "sankat_nasak_mantra_4x.webp",
+            "Om Shreem Gam Saubhagya Ganapataye Varvarada Sarvajanma Me Vashamanya Swaha": "mool_beej_mantra_4x.webp"
+        },
+        "Strotam": {
+            "Ganesh Ashtakam": "ganesh_panchratan_4x.webp",
+            "ऋणमोचन गणेश स्तोत्र": "snakat_nasak_stotram_4x.webp",
+            "गणपति गकार स्तोत्र": "ganesh_arthvashish_4x.webp",
+            "लम्बोदर स्तोत्र": "om_lambodaraye_namah_4x.webp",
+            "गणेश द्वादशनाम स्तोत्र": "ganesh_atotar_satnaam_4x.webp"
+        },
+        "Bhajan": {
+            "देवा श्री गणेशा": "teri_jay_ho_ganesh_4x.webp",
+            "Ganpati Apne Gaon Chale": "ganpati_phele_tumhe_pranaam_hai_4x.webp",
+            "Gajanana Shri Ganaraya": "gajanan_maharaj_phadaro_4x.webp",
+            "ओ माय फ्रेंड गणेशा": "ghar_me_padharo_gajanan_4x.webp",
+            "Maurya Re Bappa Maurya Re": "gajanan_kardo_bedha_paar.webp",
+            "Ganesha Shlok": "vakrthund_mahakaya_4x.webp",
+            "देवा हो देवा गणपति देवा": "sakh_karta_dukh_harta_4x.webp",
+            "Mere Man Mandir Mein Tum Bhagwan Rahe": "ghar_me_padharo_gajanan_4x.webp"
+        }
+    },
+    "RamNavami": {
+        "Mantra": {
+            "राम गायत्री मंत्र": "om_ramay_namah_4x.webp",
+            "भय नाशक मंत्र": "hanuman_beej_mantra_4x.webp",
+            "हनुमत-राम मंत्र": "shri_ram_jay_ram_jay_jay_ram_4x.webp"
+        },
+        "Strotam": {
+            "Shri Ramchandra Kripalu": "shri_ram_chandra_karipalu_bhajman_4x.webp"
+        },
+        "Bhajan": {
+            "मंगल भवन अमंगल हारी": "shri_ram_janaki__4x.webp",
+            "भए प्रगट कृपाला दीनदयाला": "shri_ram_janm_khata_4x.webp",
+            "सजा दो घर को गुलशन सा": "nagri_ho_ayodhya_si_4x.webp",
+            "हम कथा सुनाते राम सकल": "ram_khani_suno_re_ram_khanai_4x.webp",
+            "सुख के सब साथी दुःख में ना कोई": "raghupati_raghav_raja_ram_4x.webp",
+            "ओ माँ मेरी झोपड़ी के भाग": "Default.webp"
+        }
+    },
+    "HanumanJayanti": {
+        "Mantra": {
+            "Hanuman Mantra": "hanuman_beej_mantra_4x.webp",
+            "सिद्धि मंत्र": "pramukh_mantra_4x.webp",
+            "सुरक्षा मंत्र": "raksha_kawach_mantra_4x.webp",
+            "राम-दूत मंत्र": "anjanay_mantra_4x.webp"
+        },
+        "Strotam": {
+            "Bajrang Baan": "sankat_mochan_hanuman_astakam_4x.webp",
+            "सुंदरकांड": "hanuman_tandav_stotram_4x.webp",
+            "हनुमान बाहुक": "maruti_stotram_4x.webp",
+            "श्री हनुमत् स्तवन": "atulit_bal_dhamam_4x.webp",
+            "मारुति स्तोत्र": "maruti_stotram_4x.webp",
+            "एकमुखी हनुमत् कवच": "dwadashnaam_stotram_4x.webp",
+            "पंचमुखी हनुमान कवच": "panch_mukhi_hanuman_4x.webp",
+            "हनुमान साठिका": "atulit_bal_dhamam_4x.webp"
+        },
+        "Bhajan": {
+            "बालाजी अच्छा लागे से": "veer_hanumana_4x.webp",
+            "हनुमान जब चले": "nache_veer_hanuman_4x.webp",
+            "राम जी का नाम लेकर": "ram_ji_chale_na_hanuman_4x.webp"
+        },
+        "Katha": {
+            "हनुमान जयंती कथा": "hanuman_janam_katha_4x.webp"
+        }
+    }
+}

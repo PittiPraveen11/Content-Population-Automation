@@ -1,6 +1,5 @@
 [
     {
-
         "code": "Shivji",
         "type": "DEITY",
         "tag": "Shivji",
@@ -9,58 +8,6 @@
             "en": "Lord Shiva"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Shivji.jpg",
-        "displayOrder": 1,
-        "active": true
-    },
-    {
-
-        "code": "Ramji",
-        "type": "DEITY",
-        "tag": "Ramji",
-        "name": {
-            "hi": "भगवान राम",
-            "en": "Lord Ram"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Ramji.jpg",
-        "displayOrder": 2,
-        "active": true
-    },
-    {
-
-        "code": "DeviMataji",
-        "type": "DEITY",
-        "tag": "DeviMataji",
-        "name": {
-            "hi": "देवी मता जी",
-            "en": "Devi Mata Ji"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/DeviMata.jpg",
-        "displayOrder": 3,
-        "active": true
-    },
-    {
-        "code": "KrishnaJi",
-        "type": "DEITY",
-        "tag": "KrishnaJi",
-        "name": {
-            "hi": "कृष्ण जी",
-            "en": "Krishna Ji"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/KrishnaJi.jpg",
-        "displayOrder": 4,
-        "active": true
-    },
-    {
-
-        "code": "Mantra",
-        "type": "GENRE",
-        "tag": "Mantra",
-        "name": {
-            "hi": "मंत्र",
-            "en": "Mantras"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Mantra.jpg",
-        "displayOrder": 1,
         "active": true
     },
     {
@@ -72,127 +19,6 @@
             "en": "Hanuman Ji"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/HanumanJi.jpg",
-        "displayOrder": 5,
-        "active": true
-    },
-    {
-        "code": "VishnuJi",
-        "type": "DEITY",
-        "tag": "VishnuJi",
-        "name": {
-            "hi": "विष्णु जी",
-            "en": "Vishnu Ji"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/VishnuJi.jpg",
-        "displayOrder": 6,
-        "active": true
-    },
-    {
-        "code": "Bhajan",
-        "type": "GENRE",
-        "tag": "Bhajan",
-        "name": {
-            "hi": "भजन",
-            "en": "Bhajan"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Bhajan.jpg",
-        "displayOrder": 2,
-        "active": true
-    },
-    {
-        "code": "Strotam",
-        "type": "GENRE",
-        "tag": "Strotam",
-        "name": {
-            "hi": "स्तोत्रम",
-            "en": "Strotam"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Strotam.jpg",
-        "displayOrder": 3,
-        "active": true
-    },
-    {
-        "code": "Other",
-        "type": "DEITY",
-        "tag": "Other",
-        "name": {
-            "hi": "अन्य",
-            "en": "Other"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Categories/Other.jpg",
-        "displayOrder": 7,
-        "active": true
-    },
-    {
-        "code": "Chalisa",
-        "type": "GENRE",
-        "tag": "Chalisa",
-        "name": {
-            "hi": "चालिसा",
-            "en": "Chalisa"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Chalisa.jpg",
-        "displayOrder": 9,
-        "active": true
-    },
-    {
-        "code": "Ashtakam",
-        "type": "GENRE",
-        "tag": "Ashtakam",
-        "name": {
-            "hi": "अष्टकम",
-            "en": "ASHTAKAM"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Ashtakam.jpg",
-        "displayOrder": 9,
-        "active": true
-    },
-    {
-        "code": "Stuti",
-        "type": "GENRE",
-        "tag": "Stuti",
-        "name": {
-            "hi": "स्तुति",
-            "en": "Stuti"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Stuti.jpg",
-        "displayOrder": 9,
-        "active": true
-    },
-    {
-        "code": "Aarti",
-        "type": "GENRE",
-        "tag": "Aarti",
-        "name": {
-            "hi": "आरती",
-            "en": "Aarti"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Aarti.jpg",
-        "displayOrder": 9,
-        "active": true
-    },
-    {
-        "code": "Shloka",
-        "type": "GENRE",
-        "tag": "Shloka",
-        "name": {
-            "hi": "श्लोक",
-            "en": "Shloka"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Shloka.jpg",
-        "displayOrder": 9,
-        "active": true
-    },
-    {
-        "code": "Katha",
-        "type": "GENRE",
-        "tag": "Katha",
-        "name": {
-            "hi": "कथा",
-            "en": "Katha"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Katha.jpg",
-        "displayOrder": 9,
         "active": true
     },
     {
@@ -204,7 +30,17 @@
             "en": "Ganesh Ji"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/GaneshJi.jpg",
-        "displayOrder": 10,
+        "active": true
+    },
+    {
+        "code": "VishnuJi",
+        "type": "DEITY",
+        "tag": "VishnuJi",
+        "name": {
+            "hi": "विष्णु जी",
+            "en": "Vishnu Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/VishnuJi.jpg",
         "active": true
     },
     {
@@ -216,7 +52,6 @@
             "en": "Lakshmi Ji"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/LakshmiJi.jpg",
-        "displayOrder": 11,
         "active": true
     },
     {
@@ -225,10 +60,9 @@
         "tag": "ShaniiDevJi",
         "name": {
             "hi": "शनि देव जी",
-            "en": "Shani Dev Ji"
+            "en": "ShaniDev Ji"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/ShaniiDevJi.jpg",
-        "displayOrder": 12,
         "active": true
     },
     {
@@ -240,7 +74,138 @@
             "en": "Durja Ji"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/DurjaJi.jpg",
-        "displayOrder": 13,
+        "active": true
+    },
+    {
+        "code": "Ramji",
+        "type": "DEITY",
+        "tag": "Ramji",
+        "name": {
+            "hi": "भगवान राम",
+            "en": "Lord Ram"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/Ramji.jpg",
+        "active": true
+    },
+    {
+        "code": "KrishnaJi",
+        "type": "DEITY",
+        "tag": "KrishnaJi",
+        "name": {
+            "hi": "कृष्ण जी",
+            "en": "Krishna Ji"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Diety/KrishnaJi.jpg",
+        "active": true
+    },
+    {
+        "code": "Mantra",
+        "type": "GENRE",
+        "tag": "Mantra",
+        "name": {
+            "hi": "मंत्र",
+            "en": "Mantra"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Mantra.jpg",
+        "active": true
+    },
+    {
+        "code": "Bhajan",
+        "type": "GENRE",
+        "tag": "Bhajan",
+        "name": {
+            "hi": "भजन",
+            "en": "Bhajan"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Bhajan.jpg",
+        "active": true
+    },
+    {
+        "code": "Stotram",
+        "type": "GENRE",
+        "tag": "Stotram",
+        "name": {
+            "hi": "स्तोत्रम",
+            "en": "Stotram"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Strotam.jpg",
+        "active": true
+    },
+    {
+        "code": "Chalisa",
+        "type": "GENRE",
+        "tag": "Chalisa",
+        "name": {
+            "hi": "चालिसा",
+            "en": "Chalisa"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Chalisa.jpg",
+        "active": true
+    },
+    {
+        "code": "Ashtakam",
+        "type": "GENRE",
+        "tag": "Ashtakam",
+        "name": {
+            "hi": "अष्टकम",
+            "en": "ASHTAKAM"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Ashtakam.jpg",
+        "active": true
+    },
+    {
+        "code": "Stuti",
+        "type": "GENRE",
+        "tag": "Stuti",
+        "name": {
+            "hi": "स्तुति",
+            "en": "Stuti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Stuti.jpg",
+        "active": true
+    },
+    {
+        "code": "Aarti",
+        "type": "GENRE",
+        "tag": "Aarti",
+        "name": {
+            "hi": "आरती",
+            "en": "Aarti"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Aarti.jpg",
+        "active": true
+    },
+    {
+        "code": "Shloka",
+        "type": "GENRE",
+        "tag": "Shloka",
+        "name": {
+            "hi": "श्लोक",
+            "en": "Shloka"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Shloka.jpg",
+        "active": true
+    },
+    {
+        "code": "Katha",
+        "type": "GENRE",
+        "tag": "Katha",
+        "name": {
+            "hi": "कथा",
+            "en": "Katha"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Genre/Katha.jpg",
+        "active": true
+    },
+    {
+        "code": "Peace",
+        "type": "INTENT",
+        "tag": "Peace",
+        "name": {
+            "hi": "शांति",
+            "en": "Peace"
+        },
+        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Peace.jpg",
         "active": true
     },
     {
@@ -248,8 +213,8 @@
         "type": "INTENT",
         "tag": "Happiness",
         "name": {
-            "hi": "ख़ुशी और शांति",
-            "en": "Happiness and Peace"
+            "hi": "ख़ुशी",
+            "en": "Happiness"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Happiness.jpg",
         "active": true
@@ -259,8 +224,8 @@
         "type": "INTENT",
         "tag": "Wealth",
         "name": {
-            "hi": "धन और समृद्धि",
-            "en": "Wealth and Prosperity"
+            "hi": "धन",
+            "en": "Wealth"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Wealth.jpg",
         "active": true
@@ -270,8 +235,8 @@
         "type": "INTENT",
         "tag": "Health",
         "name": {
-            "hi": "स्वास्थ्य और कल्याण",
-            "en": "Health and Wellness"
+            "hi": "स्वास्थ्य",
+            "en": "Health"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Health.jpg",
         "active": true
@@ -281,8 +246,8 @@
         "type": "INTENT",
         "tag": "Knowledge",
         "name": {
-            "hi": "ज्ञान और बुद्धि",
-            "en": "Knowledge and Wisdom"
+            "hi": "ज्ञान",
+            "en": "Knowledge"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Knowledge.jpg",
         "active": true
@@ -292,19 +257,19 @@
         "type": "INTENT",
         "tag": "Strength",
         "name": {
-            "hi": "शक्ति और साहस",
-            "en": "Strength and Courage"
+            "hi": "शक्ति",
+            "en": "Strength"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Strength.jpg",
         "active": true
     },
     {
-        "code": "LoveAndRelationship",
+        "code": "Love",
         "type": "INTENT",
-        "tag": "LoveAndRelationship",
+        "tag": "Love",
         "name": {
-            "hi": "प्रेम और संबंध",
-            "en": "Love and Relationship"
+            "hi": "प्रेम",
+            "en": "Love"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/LoveAndRelationship.jpg",
         "active": true
@@ -494,17 +459,6 @@
             "en": "HanumanJayanti"
         },
         "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Festival/HanumanJayanti.jpg",
-        "active": true
-    },
-    {
-        "code": "Peace",
-        "type": "INTENT",
-        "tag": "Peace",
-        "name": {
-            "hi": "शांति",
-            "en": "Peace"
-        },
-        "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/BhajanThumbnails/BhajanHomeThumbnails/Intent/Peace.jpg",
         "active": true
     }
 ]

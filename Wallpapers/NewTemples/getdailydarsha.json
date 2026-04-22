@@ -1,0 +1,3113 @@
+[
+    {
+        "templeDto": {
+            "id": "69e617454c8de90001148500",
+            "name": {
+                "hi": "श्री गोपीनाथ जी मंदिर",
+                "en": "Shri Gopinath Ji Mandir"
+            },
+            "city": {
+                "hi": "जयपुर",
+                "en": "Jaipur"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री गोपीनाथ जी मंदिर",
+                    "en": "Shri Gopinath Ji Mandir"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/gopinath_ji_temple_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "भगवान श्री कृष्ण के गोपीनाथ स्वरूप को समर्पित एक अत्यंत सुंदर एवं भक्तिपूर्ण पावन स्थल।",
+                    "en": "A serene and devotional sanctuary dedicated to the Gopinath form of Lord Shri Krishna."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e847c0965cc300010bbaf5",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/GopinathJiTemple/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695cd3da64add5e2447ad7aa",
+            "name": {
+                "hi": "श्री सालासर बालाजी",
+                "en": "Shri Salasar Balaji"
+            },
+            "city": {
+                "hi": "सालासर",
+                "en": "Salasar"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "सालासर बालाजी",
+                    "en": "Salasar Balaji"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/salasar_balaji_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SalasarBalaji/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "सालासर बालाजी",
+                    "en": "Salasar Balaji"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "सालासर बाला जी की पूजा करने से उन्हें प्रसाद , नारियल अर्पित करने से भय और बाधाओं से मुक्ति: हनुमान जी को संकटमोचन कहा जाता है, वे भक्त के जीवन के सभी प्रकार के कष्ट, डर और बाधाओं को नष्ट कर देते हैं।",
+                        "en": "Worshipping Salasar Balaji and offering prasad and coconut is believed to bring freedom from fear and obstacles. Lord Hanuman is known as “Sankatmochan,” the remover of troubles, who destroys all kinds of difficulties, fears, and barriers in a devotee’s life."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "साहस और आत्मविश्वास",
+                        "en": "Courage and Confidence"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "उनकी पूजा से व्यक्ति में आत्मबल, साहस और आत्मविश्वास में वृद्धि होती है।",
+                        "en": "Worship of Lord Hanuman is believed to increase inner strength, courage, and self-confidence."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "स्वास्थ्य और दीर्घायु",
+                        "en": "Health and Longevity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "हनुमान जी आरोग्य के प्रदाता हैं, हनुमान चालीसा का पाठ करने से बीमारियां दूर रहती हैं और मानसिक शांति मिलती है।",
+                        "en": "Lord Hanuman is considered the giver of good health. Reciting the Hanuman Chalisa is believed to keep illnesses away and bring mental peace."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "ग्रह दोषों से रक्षा",
+                        "en": "Protection from Planetary Doshas"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "मंगलवार और शनिवार को हनुमान जी की पूजा से शनि की साढ़ेसाती, ढैया और मंगल ग्रह के दोषों का नकारात्मक प्रभाव कम होता है।",
+                        "en": "Worshipping Lord Hanuman on Tuesdays and Saturdays is believed to reduce the negative effects of Shani Sade Sati, Dhaiya, and Mangal dosh."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "नकारात्मकता का नाश",
+                        "en": "Removal of Negativity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "हनुमान जी की पूजा से भूत-प्रेत, बुरी आत्माओं और नकारात्मक ऊर्जा से रक्षा होती है।",
+                        "en": "Devotion to Lord Hanuman is believed to provide protection from negative energies, evil spirits, and harmful influences."
+                    }
+                }
+            ],
+            "youtubeHandle": "salasarofficial",
+            "sortOrder": 6,
+            "aartiSchedule": [
+                {
+                    "name": "Mangla Aarti",
+                    "startTime": "05:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SalasarBalaji/mangla_aarti/mangla_aarti_2x.webp"
+                },
+                {
+                    "name": "Sandhya Aarti",
+                    "startTime": "19:10",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SalasarBalaji/sandhya_aarti/sandhya_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbad3",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/SalasarBalaji/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6997066164add59a2644f896",
+            "thumbnail": {
+                "title": {
+                    "hi": "हनुमान ध्यान मंत्र",
+                    "en": "Hanuman Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/salasar_balaji_/salasar_balaji__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "अतुलितबलधामं हेमशैलाभदेहं दनुजवनकृशानुं ज्ञानिनामग्रगण्यम्। सकलगुणनिधानं वानराणामधीशं रघुपतिप्रियभक्तं वातजातं नमामि॥",
+                    "en": "Atulitabaladhaamam Hemashailaabhadeham Danujavanakrishaanung Gyaaninaamagraganyam | Sakalagunanidhanam Vanaranamadhisham Raghupatiprivabhaktam Vaatjaatam Namaami ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/SalasarBalajiMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "6997066164add59a2644f896",
+            "thumbnail": {
+                "title": {
+                    "hi": "हनुमान ध्यान मंत्र",
+                    "en": "Hanuman Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/salasar_balaji_/salasar_balaji__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "अतुलितबलधामं हेमशैलाभदेहं दनुजवनकृशानुं ज्ञानिनामग्रगण्यम्। सकलगुणनिधानं वानराणामधीशं रघुपतिप्रियभक्तं वातजातं नमामि॥",
+                    "en": "Atulitabaladhaamam Hemashailaabhadeham Danujavanakrishaanung Gyaaninaamagraganyam | Sakalagunanidhanam Vanaranamadhisham Raghupatiprivabhaktam Vaatjaatam Namaami ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/SalasarBalajiMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "6965f03364add5fa0bd149eb",
+            "name": {
+                "hi": "श्री महालक्ष्मी देवी ",
+                "en": "Shri Mahalakshmi Devi "
+            },
+            "city": {
+                "hi": "कोल्हापुर",
+                "en": "Kolhapur"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "महालक्ष्मी",
+                    "en": "Mahalakshmi"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/mahalaxmi_temple_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/MahalaxmiKolhapur/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "महालक्ष्मी, कोल्हापुर",
+                    "en": "Mahalakshmi, Kolhapur"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता महालक्ष्मी धन, वैभव और समृद्धि की देवी मानी जाती हैं। उनकी पूजा और अभिषेक करने से जीवन में सुख, समृद्धि और धन की वृद्धि होती है।",
+                        "en": "Goddess Mahalakshmi is considered the goddess of wealth and prosperity. Worshipping and performing Abhishek of Mahalakshmi is believed to bring prosperity, abundance, and happiness."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "धन और समृद्धि",
+                        "en": "Wealth and Prosperity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता लक्ष्मी की कृपा से आर्थिक समस्याएं दूर होती हैं और घर में धन-धान्य की वृद्धि होती है।",
+                        "en": "With the blessings of Goddess Lakshmi, financial difficulties are believed to reduce and prosperity increases in the household."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "सौभाग्य और शांति",
+                        "en": "Good Fortune and Peace"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता महालक्ष्मी की पूजा से परिवार में सौभाग्य, सुख और शांति बनी रहती है।",
+                        "en": "Worshipping Goddess Mahalakshmi is believed to bring good fortune, happiness, and peace to the family."
+                    }
+                }
+            ],
+            "youtubeHandle": "ShreeMahalakshmiMandirMumbai",
+            "sortOrder": 8,
+            "aartiSchedule": [
+                {
+                    "name": "Kakad Aarti",
+                    "startTime": "05:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/MahalaxmiKolhapur/kakad_aarti/kakad_aarti_2x.webp"
+                },
+                {
+                    "name": "Evening Aarti",
+                    "startTime": "19:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/MahalaxmiKolhapur/evening_aarti/evening_aarti_2x.webp"
+                },
+                {
+                    "name": "Shej Aarti",
+                    "startTime": "22:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/MahalaxmiKolhapur/shej_aarti/shej_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbad5",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/Mahalakshmi/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "699711d764add59a2644f8a5",
+            "thumbnail": {
+                "title": {
+                    "hi": "महालक्ष्मी मंत्र",
+                    "en": "Mahalakshmi Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/mahalakshmi_/mahalakshmi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ महालक्ष्यै नमो नमः विष्णुप्रिये नमो नमः धनप्रदाये नमो नमः विश्वजनन्यै नमो नमः",
+                    "en": "Om Mahaalakshmyai Namo Namah Vishnupriye Namo Namah Dhanapradaaye Namo Namah Vishva-Jananyai Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Mahalakshmi/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971bea64add59a2644f8b3",
+            "thumbnail": {
+                "title": {
+                    "hi": "ॐ श्री महालक्ष्म्यै ध्यान मंत्र",
+                    "en": "Om Shri Mahalakshmyai Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/mahalakshmi_/mahalakshmi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ महालक्ष्म्यै च विद्महे विष्णुपत्नी च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥",
+                    "en": "Om Mahalakshmyai Cha ,\nVidmahe Vishnupatni Cha Dhimahi,\nTanno Lakshmih Prachodayat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/OmShriMahalakshmyaiMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e615e64c8de900011484fd",
+            "name": {
+                "hi": "श्री हरसिद्धि मंदिर",
+                "en": "Shri Harsiddhi Temple"
+            },
+            "city": {
+                "hi": "उज्जैन",
+                "en": "Ujjain"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री हरसिद्धि मंदिर",
+                    "en": "Shri Harsiddhi Temple"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/maa_harsiddhi_temple_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "माता सती का पावन शक्तिपीठ, जो अपनी अलौकिक आध्यात्मिक आभा के लिए विख्यात है।",
+                    "en": "A sacred Shaktipeeth of Goddess Sati, renowned for its profound spiritual aura"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbaed",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/HarsiddhiTemple/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6997093464add59a2644f89a",
+            "thumbnail": {
+                "title": {
+                    "hi": "दुर्गा शक्ति मंत्र",
+                    "en": "Durga Shakti Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vaishno_devi_/vaishno_devi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+                    "en": "Om Aim Hreem Kleem Chamundayai Viche"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695cd44164add5e2447ad7ab",
+            "name": {
+                "hi": "श्री राम जन्मभूमि",
+                "en": "Shri Ram Janmbhoomi"
+            },
+            "city": {
+                "hi": "अयोध्या",
+                "en": "Ayodhya"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "राम जन्मभूमि",
+                    "en": "Ram Janmbhoomi"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/ram_janmbhoomi_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/RamLala/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "राम जन्मभूमि",
+                    "en": "Ram Janmbhoomi"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_android_v5"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_ios_v5"
+                }
+            ],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान् श्री राम के बाल स्वरूप का अभिषेक करने से सकारात्मकता और शांति: नित्य राम नाम का जप करने से मन को शांति और घर में सकारात्मक ऊर्जा आती है।",
+                        "en": "Performing abhishek of Lord Shri Ram in his child form is believed to bring positivity and peace. Regular chanting of the name of Lord Ram brings calmness to the mind and fills the home with positive energy."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "मर्यादा और सद्गुण",
+                        "en": "Righteousness and Virtues"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "राम जी मर्यादा पुरुषोत्तम हैं। उनकी पूजा से व्यक्ति में नैतिकता, ईमानदारी, और धैर्य जैसे गुण विकसित होते हैं।",
+                        "en": "Lord Ram is known as Maryada Purushottam. Worshipping him helps develop qualities such as morality, honesty, patience, and discipline."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "मनोकामना पूर्ति",
+                        "en": "Fulfillment of Wishes"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "सच्चे मन से पूजा करने से सभी मनोकामनाएं पूर्ण होती हैं।",
+                        "en": "Prayers offered with a sincere heart are believed to fulfill devotees’ desires."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "संतान प्राप्ति",
+                        "en": "Blessings of Children"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान राम के बाल रूप की आराधना करने से सुयोग्य व तेजस्वी संतान की प्राप्ति मानी जाती है।",
+                        "en": "Worship of Lord Ram in his child form is believed to bless devotees with virtuous and radiant children."
+                    }
+                }
+            ],
+            "youtubeHandle": "DoordarshanNational",
+            "sortOrder": 11,
+            "aartiSchedule": [
+                {
+                    "name": "Shringar Aarti",
+                    "startTime": "06:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/RamLala/shringar_aarti/shringar_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_android_v5"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/RamMandirAyodhya/rammandir_ios_v5"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbae5",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/RamJanmbhoomi/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6997074964add59a2644f898",
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री राम ध्यान मंत्र",
+                    "en": "Shri Ram Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/ram_lala_/ram_lala__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "लोकाभिरामं रणरंगधीरं राजीवनेत्रं रघुवंशनाथम्। कारुण्यरूपं करुणाकरन्तं श्रीरामचन्द्रं शरणं प्रपद्ये।।",
+                    "en": "Lokaabhi-Raamam Ranna-Rangga-Dhiiram Raajiiva-Netram Raghu-Vamsha-Naatham | Kaarunnya-Rupam Karunnaa-Karantam Shriiraamacamdram Sharannam Prapadye ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Ramlallamantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "656100000000000000000006",
+            "name": {
+                "hi": "श्री काशी विश्वनाथ",
+                "en": "Shri Kashi Vishwanath"
+            },
+            "city": {
+                "hi": "वाराणसी",
+                "en": "Varanasi (Kashi)"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री काशी विश्वनाथ",
+                    "en": "Shri Kashi Vishwanath"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/kashi_vishwanath_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Kashi/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "विश्वनाथ मंदिर का विवरण",
+                    "en": "Description of Vishwanath Temple"
+                },
+                "displayOrientation": "PORTRAIT"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_android_v4"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_ios_v4"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "MACOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_mac_universal_v1"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/android_v1"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/iOS_v1"
+                }
+            ],
+            "liveLink": {
+                "on": false,
+                "videoUrl": "https://www.youtube.com/watch?v=aN7WhtX-St8",
+                "lastUpdatedAt": "2026-04-22T10:46:08.292Z",
+                "streamingOption": {
+                    "contentUrl": "https://www.youtube.com/watch?v=J4z7CIrvsuw",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": null,
+                    "sizeInKb": null
+                }
+            },
+            "youtubeChannelConfig": {
+                "channelId": "UCXhail7h5FDRbHprlR56nIw",
+                "titlePrefix": "🔴Live Darshan -"
+            },
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "शिव पुराण के अनुसार, श्री काशी विश्वनाथ जी मुक्तिदायक हैं और अपने मंगलकारी रूप में काशी में विराजमान हैं। इनके दैनिक अभिषेक से मानसिक शांति, समृद्धि की प्राप्ति होती है और सभी प्रकार के कष्ट दूर होते हैं।",
+                        "en": "According to the Shiv Puran, Shri Kashi Vishwanath Ji is considered the giver of liberation and is present in Kashi in his auspicious and benevolent form. Performing daily abhishek to the deity is believed to bring mental peace, prosperity, and relief from all kinds of difficulties."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "सोमवार",
+                        "en": "Monday"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "सोमवार शिव जी का विशेष दिन माना जाता है। ‘सोम’ अर्थात चंद्रमा, और शिव जी अपने मस्तक पर चंद्रमा धारण करते हैं, जो शीतलता और शांति का प्रतीक है। इस दिन अभिषेक करने का विशेष महत्त्व है, जिससे मानसिक शांति और समृद्धि प्राप्त होती है।",
+                        "en": "Monday is regarded as a special day dedicated to Lord Shiva. The word “Som” refers to the Moon, and Lord Shiva adorns the Moon on his forehead, symbolizing calmness and peace. Performing abhishek on this day holds special significance, as it is believed to bring mental peace and prosperity."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "प्रदोष",
+                        "en": "Pradosh"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "मान्यता के अनुसार प्रदोष के दिन शिव पूजा का विशेष महत्त्व होता है। इस दिन विधि-विधान से की गई पूजा से सभी कष्टों का निवारण होता है और भगवान शिव की विशेष कृपा प्राप्त होती है।",
+                        "en": "According to tradition, worship of Lord Shiva on the day of Pradosh carries great importance. Performing rituals with proper devotion on this day is believed to remove hardships and bring the special blessings of Lord Shiva."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "मासिक शिवरात्रि",
+                        "en": "Masik Shivratri"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "कृष्ण पक्ष की चतुर्दशी तिथि को मासिक शिवरात्रि मनाई जाती है। इस दिन शिव पूजन का अत्यधिक महत्त्व है। श्रद्धा और भक्ति से की गई पूजा से मनोकामनाएँ पूर्ण होती हैं तथा जीवन में सुख-शांति का वास होता है।",
+                        "en": "Masik Shivratri is observed on the Chaturdashi (14th day) of the Krishna Paksha. Worshipping Lord Shiva on this day is considered highly auspicious. Prayers offered with faith and devotion are believed to fulfill wishes and bring happiness and peace into life."
+                    }
+                }
+            ],
+            "youtubeHandle": "ShreeKashiVishwanathMandir",
+            "sortOrder": 4,
+            "aartiSchedule": [
+                {
+                    "name": "Mangla Aarti",
+                    "startTime": "03:00",
+                    "endTime": "04:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Kashi/mangla_aarti/mangla_aarti_2x.webp"
+                },
+                {
+                    "name": "Bhog Aarti",
+                    "startTime": "11:15",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Kashi/bhog_aarti/bhog_aarti_2x.webp"
+                },
+                {
+                    "name": "Sandhya Aarti",
+                    "startTime": "19:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Kashi/sandhya_aarti/sandhya_aarti_2x.webp"
+                },
+                {
+                    "name": "Shayan Aarti",
+                    "startTime": "22:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Kashi/shayan_aarti/shayan_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_ios_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "MACOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Kashi/kashi_mac_universal_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Kashi/iOS_v1"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbae9",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/KashiVishwanath/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "69970a3764add59a2644f89c",
+            "thumbnail": {
+                "title": {
+                    "hi": "काशी विश्वनाथ स्तुति",
+                    "en": "Kashi Vishwanath Stuti"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/kashi_vishwanath_v3.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सानन्दमानन्दवने वसन्तम आनन्दकन्दं हतपापवृन्दम्। वाराणसीनाथमनाथनाथं श्रीविश्वनाथं शरणं प्रपद्ये॥",
+                    "en": "Saanandam Aanandavane Vasantam Aanandakandam Hatapapavrindam| Varanashinatham Anathanatham Shri Vishwanatham Sharanam Prapadye||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Kashimantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "699715dd64add59a2644f8a9",
+            "thumbnail": {
+                "title": {
+                    "hi": "महामृत्युंजय ध्यानमंथन मंत्र",
+                    "en": "Mahamrityunjaya Meditashan Mantra"
+                },
+                "imageUrl": "https://ih1.redbubble.net/image.712280568.1367/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+                    "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,\nUrvarukamiva Bandhanan Mrityormukshiya Maamritat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/MahamrityunjayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "699473fc64add5dbc12627db",
+            "name": {
+                "hi": "श्री विंध्यवासिनी देवी",
+                "en": "Shri Vindhya Vasini Devi"
+            },
+            "city": {
+                "hi": "मिर्जापुर",
+                "en": " Mirzapur"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "विंध्यवासिनी देवी मंदिर",
+                    "en": "Shri Vindhya Wasini Devi Temple"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vindhyawasini_devi_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/Vindhyavasini.jpg",
+                "description": {
+                    "hi": "विंध्यवासिनी देवी मंदिर दर्शन",
+                    "en": "Shri Vindhya Wasini Devi Temple Darshan"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता विंध्यवासिनी देवी शक्ति का स्वरूप हैं और भक्तों की रक्षा करने वाली मानी जाती हैं। उनकी पूजा और अभिषेक से जीवन में शक्ति, साहस और आशीर्वाद प्राप्त होता है।",
+                        "en": "Maa Vindhyawasini is considered a powerful form of Goddess Durga who protects her devotees. Worshipping and performing Abhishek of the goddess is believed to bring strength, courage, and divine blessings."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "रक्षा और शक्ति",
+                        "en": "Protection and Strength"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता की कृपा से भक्तों को संकटों से रक्षा और जीवन में शक्ति प्राप्त होती है।",
+                        "en": "With the blessings of the goddess, devotees are believed to gain protection from difficulties and strength in life."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "सुख और समृद्धि",
+                        "en": "Happiness and Prosperity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता विंध्यवासिनी की पूजा से परिवार में सुख, शांति और समृद्धि आती है।",
+                        "en": "Worshipping Maa Vindhyawasini is believed to bring happiness, peace, and prosperity to the family."
+                    }
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbadb",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/VindhyavasiniDevi/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "699719c864add59a2644f8ad",
+            "thumbnail": {
+                "title": {
+                    "hi": "निशुंभ शुंभ मर्दिनिन ध्यान मंत्र",
+                    "en": "Nishumbh Shumbh Mardinin Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vindhyawasini_/vindhyawasini__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "निशुम्भ-शुम्भ-गर्जनीं, प्रचण्ड-मुण्ड-खण्डिनीम् ।\nबने रणे प्रकाशिनीं, भजामि विन्ध्यवासिनीम् ॥ ",
+                    "en": "Nishumbha-Shumbha-Garjanim, Prachanda-Munda-Khandinim,\nBane Rane Prakashinim, Bhajami Vindhyavasinim."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/NishumbhShumbhMardininMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "6997093464add59a2644f89a",
+            "thumbnail": {
+                "title": {
+                    "hi": "दुर्गा शक्ति मंत्र",
+                    "en": "Durga Shakti Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vaishno_devi_/vaishno_devi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+                    "en": "Om Aim Hreem Kleem Chamundayai Viche"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "6965f1cb64add5fa0bd149ec",
+            "name": {
+                "hi": "श्री विट्ठल रुक्मिणी",
+                "en": "Shri VitthalRukmini"
+            },
+            "city": {
+                "hi": "पंढरपुर",
+                "en": "Pandharpur"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "विट्ठल रुक्मिणी",
+                    "en": "VitthalRukmini"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vittalrukmini_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VithalRukmini/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "विट्ठल रुक्मिणी, पंढरपुर",
+                    "en": "VitthalRukmini, Pandharpur"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान विष्णु और लक्ष्मी का रूप माना जाता है। यह स्थान स्वार्थहीन प्रेम, भक्ति और आध्यात्मिक मुक्ति का प्रतीक है, जहाँ भक्त ईंट पर खड़े विट्ठल के दर्शन से अहंकार त्याग और आत्म-साक्षात्कार (अहं ब्रह्मास्मि) की सीख पाते हैं।",
+                        "en": "This form is considered to represent Lord Vishnu and Goddess Lakshmi. The place symbolizes selfless love, devotion, and spiritual liberation, where devotees learn the essence of surrendering ego and attaining self-realization (“Aham Brahmasmi”) through the darshan of Vitthal, who stands upon a brick."
+                    }
+                }
+            ],
+            "youtubeHandle": "shrivitthaldarshanpandharpur",
+            "sortOrder": 10,
+            "aartiSchedule": [
+                {
+                    "name": "Kakad Aarti",
+                    "startTime": "04:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VithalRukmini/kakad_aarti_1/kakad_aarti_1_2x.webp"
+                },
+                {
+                    "name": "Dhoop Aarti",
+                    "startTime": "19:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VithalRukmini/dhoop_aarti/dhoop_aarti_2x.webp"
+                },
+                {
+                    "name": "Shej Aarti",
+                    "startTime": "22:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VithalRukmini/shej_aarti/shej_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbaeb",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/VitthalRukmini/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "699712c164add59a2644f8a7",
+            "thumbnail": {
+                "title": {
+                    "hi": "विठ्ठल स्तुति",
+                    "en": "Vitthal Stuti"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vitthalrukmini_/vitthalrukmini__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "श्री विट्ठल रुक्मिणी नमो नमः",
+                    "en": "Shri Vitthal rukmini namo namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/VitthalRukmini/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971bea64add59a2644f8b3",
+            "thumbnail": {
+                "title": {
+                    "hi": "ॐ श्री महालक्ष्म्यै ध्यान मंत्र",
+                    "en": "Om Shri Mahalakshmyai Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/mahalakshmi_/mahalakshmi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ महालक्ष्म्यै च विद्महे विष्णुपत्नी च धीमहि।\nतन्नो लक्ष्मीः प्रचोदयात्॥",
+                    "en": "Om Mahalakshmyai Cha ,\nVidmahe Vishnupatni Cha Dhimahi,\nTanno Lakshmih Prachodayat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/OmShriMahalakshmyaiMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "6965ef8964add5fa0bd149ea",
+            "name": {
+                "hi": "श्री वैष्णोदेवी",
+                "en": "Shri Mata Vaishnodevi"
+            },
+            "city": {
+                "hi": "कटरा",
+                "en": "Katra"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "वैष्णोदेवी",
+                    "en": "Vaishnodevi"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/vaishnodevi_temple_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VaishnoDevi/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "वैष्णोदेवी, Katra",
+                    "en": "Vaishnodevi, Katra"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "मां वैष्णोदेवी अपने भक्तों द्वारा सच्चे मन से की गई पूजा से प्रसन्न होकर सभी इच्छाएं पूरी करती हैं ।माता को चुनरी अर्पित करने से देवी प्रसन्न होकर सुखी जीवन का आशीर्वाद देती है ।",
+                        "en": "Maa Vaishno Devi becomes pleased with the sincere prayers of her devotees and fulfills their wishes. Offering a chunri (sacred cloth) to the Goddess is believed to bring her blessings for a happy and prosperous life."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "शक्ति और ऊर्जा",
+                        "en": "Strength and Energy"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "शारीरिक, मानसिक और भावनात्मक शक्ति प्राप्त होती है।",
+                        "en": "Devotees receive physical, mental, and emotional strength."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "समृद्धि और सुख",
+                        "en": "Prosperity and Happiness"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "घर में सुख-समृद्धि और शांति का वास होता है।",
+                        "en": "Peace, prosperity, and harmony are believed to enter the home."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "भय से मुक्ति",
+                        "en": "Freedom from Fear"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "माता की कृपा से हर तरह के डर, रोग और शत्रुओं का नाश होता है।",
+                        "en": "With the Goddess’s grace, fear, illness, and enemies are believed to be overcome."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "यश और वैभव",
+                        "en": "Fame and Prosperity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "जीवन में यश, कीर्ति और सफलता (राजयोग) की प्राप्ति होती है।",
+                        "en": "Devotees are believed to attain recognition, success, and royal fortune (Rajyog) in life."
+                    }
+                }
+            ],
+            "youtubeHandle": "MHONESHRADDHA",
+            "sortOrder": 7,
+            "notes": "Not everytime live",
+            "aartiSchedule": [
+                {
+                    "name": "Morning Aarti",
+                    "startTime": "06:20",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VaishnoDevi/morning_aarti/morning_aarti_2x.webp"
+                },
+                {
+                    "name": "Evening Aarti",
+                    "startTime": "18:20",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/VaishnoDevi/_evening_aarti_/_evening_aarti__2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbae7",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/Vaishnodevi/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6997093464add59a2644f89a",
+            "thumbnail": {
+                "title": {
+                    "hi": "दुर्गा शक्ति मंत्र",
+                    "en": "Durga Shakti Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/vaishno_devi_/vaishno_devi__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ओम ऐं ह्रीं क्लीं चामुण्डायै विच्चे",
+                    "en": "Om Aim Hreem Kleem Chamundayai Viche"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Vaishnodevo/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "6965f23664add5fa0bd149ed",
+            "name": {
+                "hi": "श्री खाटूश्याम",
+                "en": "Shri Khatushyam"
+            },
+            "city": {
+                "hi": "सीकर",
+                "en": "Sikar"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "खाटूश्याम",
+                    "en": "Khatushyam"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/khatushyam_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/KhatuShyam/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "खाटूश्याम, सीकर",
+                    "en": "Khatushyam, Sikar"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "खाटू श्याम जी को कलयुग के देवता माना जाता है। उनकी पूजा और अभिषेक करने से भक्तों की मनोकामनाएं पूर्ण होती हैं और जीवन में आने वाली बाधाएं दूर होती हैं।",
+                        "en": "Khatu Shyam Ji is considered the deity of the present age (Kaliyuga). Worshipping and performing Abhishek of Khatu Shyam Ji is believed to fulfill devotees’ wishes and remove obstacles from life."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "मनोकामना पूर्ति",
+                        "en": "Fulfillment of Wishes"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "सच्चे मन से खाटू श्याम जी की भक्ति करने से भक्तों की इच्छाएं पूर्ण होती हैं।",
+                        "en": "Devotion to Khatu Shyam Ji with a pure heart is believed to fulfill devotees’ wishes."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "संकटों से रक्षा",
+                        "en": "Protection from Difficulties"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "श्याम बाबा की कृपा से जीवन के संकट और परेशानियां दूर होती हैं और साहस प्राप्त होता है।",
+                        "en": "With the blessings of Shyam Baba, devotees believe their troubles and challenges are reduced and they gain courage."
+                    }
+                }
+            ],
+            "youtubeHandle": "ShriShyamDarshan",
+            "sortOrder": 9,
+            "aartiSchedule": [
+                {
+                    "name": "Shringar Aarti",
+                    "startTime": "07:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/KhatuShyam/shringar_aarti/shringar_aarti_2x.webp"
+                },
+                {
+                    "name": "Sandhya Aarti",
+                    "startTime": "19:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/KhatuShyam/sandhya_aarti/sandhya_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbad7",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/KhatuShyam/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "69971e5064add59a2644f8b7",
+            "thumbnail": {
+                "title": {
+                    "hi": "खाटूश्याम मंत्र",
+                    "en": "Khatushyam Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/khatushyam_/khatushyam__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ श्री श्याम देवाय नमः जय श्री श्याम ! 🚩",
+                    "en": "Om Shri Shyam Devaya Namah. Jai Shri Shyam! 🚩"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KhatuShyam/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e61df7d7c724000151a6c0",
+            "name": {
+                "hi": "श्री बरसाना राधा जी मंदिर",
+                "en": "Shri Barsana Radha Ji Mandir"
+            },
+            "city": {
+                "hi": "बरसाना",
+                "en": "Barsana"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री बरसाना राधा जी मंदिर",
+                    "en": "Shri Barsana Radha Ji Mandir"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/_barsana_radha_ji_temple_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "श्री राधा रानी (लाड़ली जी) का दिव्य निवास स्थान, जहाँ उनकी करुणा सदैव प्रवाहित होती है।",
+                    "en": "The divine abode of Shri Radha Rani (Ladli Ji), where her compassion is eternally felt."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbadd",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/BarsanaRadhaJiTemple/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "69e87c34965cc300010bbafa",
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री राधां राधिकां वंदे मंत्र",
+                    "en": "Shri Radhan Radhikan Vande Mantra"
+                },
+                "imageUrl": "Shri Radhan Radhikan Vande Mantra",
+                "iconUrl": null,
+                "description": {
+                    "hi": "श्री राधां राधिकां वंदे मंत्र",
+                    "en": "Shri Radhan Radhikan Vande Mantra"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/ShriradhanRadhikanVande/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-22T07:43:48.474Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695bba4964add594b638d83c",
+            "name": {
+                "hi": "श्री द्वारकाधीश",
+                "en": "Shri Dwarkadhish "
+            },
+            "city": {
+                "hi": "द्वारका",
+                "en": "Dwarka"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "द्वारकाधीश मंदिर",
+                    "en": "Dwarkadhish Temple"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/dwarkadhish_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Dwarkadish/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "द्वारकाधीश मंदिर",
+                    "en": "Dwarkadhish Temple"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_android_v3"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_ios_v3"
+                }
+            ],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "श्री द्वारकाधीश को पुष्प एवं तुलसी अर्पण करने से धर्म, अर्थ, काम और मोक्ष की प्राप्ति होती है। वहीं, भगवान को तुलसी अर्पण करने से पूजा पूर्ण होती है, कृष्ण भक्ति की प्राप्ति होती है , कर्म शुद्ध होते हैं , पापकर्म से मुक्ति प्राप्त होती है , ईश्वर से सीधा जुड़ाव और मानसिक ऊर्जा प्राप्त करने का एक पावन साधन है ।",
+                        "en": "Offering flowers and Tulsi leaves to Shri Dwarkadhish is believed to bring the four aims of life — Dharma (righteousness), Artha (prosperity), Kama (desires), and Moksha (liberation). Offering Tulsi to Lord Krishna completes the worship, strengthens devotion, purifies actions, and helps devotees attain freedom from sinful deeds. It is considered a sacred way to connect directly with the divine and gain mental strength and spiritual energy."
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान श्री द्वारकाधीश को तुलसी चढ़ाने से घर मे सुख-समृद्धि आती है, श्रीकृष्ण को तुलसी चढ़ाने से मनोकामनाए पूर्ण होती हैं। धार्मिक मान्यता है कि भगवान श्रीकृष्ण को तुलसी चढ़ाने से मोक्ष की प्राप्ति होती है।",
+                        "en": "Devotees believe that offering Tulsi to Shri Dwarkadhish brings happiness and prosperity to the home. It is also said that offering Tulsi to Lord Krishna fulfills wishes, and according to religious beliefs, it ultimately leads to the attainment of liberation (Moksha)."
+                    }
+                }
+            ],
+            "youtubeHandle": "shridwarkadhishmandirofficial",
+            "sortOrder": 5,
+            "aartiSchedule": [
+                {
+                    "name": "Mangla Aarti",
+                    "startTime": "06:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Dwarkadish/mangla_aarti/mangla_aarti_2x.webp"
+                },
+                {
+                    "name": "Shringar Aarti",
+                    "startTime": "10:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Dwarkadish/shringar_aarti/shringar_aarti_2x.webp"
+                },
+                {
+                    "name": "Sandhya Aarti",
+                    "startTime": "19:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Dwarkadish/sandhya_aarti/sandhya_aarti_2x.webp"
+                },
+                {
+                    "name": "Shayan Aarti",
+                    "startTime": "20:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Dwarkadish/shayan_aarti/shayan_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_android_v3"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Dwarkadhish/dwarkadhish_ios_v3"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbacd",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/DwarkadhishTemple/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695bbc4b64add594b638d83e",
+            "name": {
+                "hi": "श्री सोमनाथ  ",
+                "en": "Shri Somnath"
+            },
+            "city": {
+                "hi": "सोमनाथ ",
+                "en": "Somnath"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "सोमनाथ",
+                    "en": "Somnath"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/somnath_mandir_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Somnathh/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "सोमनाथ मंदिर ",
+                    "en": "Somnath Temple "
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_android_v4"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_ios_v4"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "MACOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_mac_universal_v1"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/android_v1"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/iOS_v1"
+                }
+            ],
+            "youtubeChannelConfig": {
+                "channelId": "UCXhail7h5FDRbHprlR56nIw",
+                "titlePrefix": "Shree Somnath Temple"
+            },
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "सोमनाथ, जिन्हें चंद्रमा के स्वामी (सोमनाथ)बारह ज्योतिर्लिंगों में सर्वप्रथम होने के कारण इसका विशेष महत्व है। मान्यता है कि यहां पूजा करने से मनोकामनाएं पूरी होती हैं, मानसिक शांति , समृद्धि की प्राप्ति होती है। चंद्र द्वारा स्थापित श्री सोमनाथ के नित्य अभिषेक करने से जन्मकुंडली में चन्द्रदोष , विषदोष का शमन होता है , इनकी आराधना से जिस प्रकार चंद्र देव को पुनः रूप सौंदर्य और कांति की प्राप्ति हुई थी वैसे फल की प्राप्ति इनकी अभिषेक एवं पूजन करने से होती है",
+                        "en": "Somnath, known as the Lord of the Moon (Somnath), holds special significance as it is considered the first among the twelve Jyotirlingas. It is believed that worship performed here fulfills wishes, brings mental peace, and grants prosperity. The sacred Somnath Jyotirlinga, established by Chandra Dev (the Moon God), is worshipped through daily abhishek, which is believed to help reduce Chandra dosh and Vish dosh in one’s birth chart. Devotees believe that just as Chandra Dev regained his beauty, radiance, and brilliance through worship, similar blessings can be attained by performing abhishek and offering prayers to Lord Somnath."
+                    }
+                }
+            ],
+            "youtubeHandle": "SomnathTempleOfficialChannel",
+            "sortOrder": 1,
+            "aartiSchedule": [
+                {
+                    "name": "Mangla Aarti",
+                    "startTime": "07:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Somnathh/_mangla_aarti/_mangla_aarti_2x.webp"
+                },
+                {
+                    "name": "Madhyan Aarti",
+                    "startTime": "12:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Somnathh/madhyan_aarti/madhyan_aarti_2x.webp"
+                },
+                {
+                    "name": "Sandhya Aarti",
+                    "startTime": "19:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Somnathh/sandhya_aarti/sandhya_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_ios_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "MACOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Somnath/somnath_mac_universal_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Somnath/iOS_v1"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbae3",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/SomnathJyotirling/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996fe3364add59a2644f892",
+            "thumbnail": {
+                "title": {
+                    "hi": "शिव ध्यान मंत्र",
+                    "en": "Shiva Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/somnath_/somnath__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सौराष्ट्रदेशे विशदेऽतिरम्ये ज्योतिर्मयं चन्द्रकलावतंसम। भक्तिप्रदानाय कृपावतीर्णं तं सोमनाथं शरणं प्रपद्ये ।।",
+                    "en": "Saurashtra Deshe Vishade’tiramyye Jyotirmayam Chandra-Kalaavatamsam | Bhakti-Pradaanaaya Kripaavatirnam Tam Somanaatham Sharanam Prapadye ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Somnath/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "699715dd64add59a2644f8a9",
+            "thumbnail": {
+                "title": {
+                    "hi": "महामृत्युंजय ध्यानमंथन मंत्र",
+                    "en": "Mahamrityunjaya Meditashan Mantra"
+                },
+                "imageUrl": "https://ih1.redbubble.net/image.712280568.1367/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+                    "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,\nUrvarukamiva Bandhanan Mrityormukshiya Maamritat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/MahamrityunjayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e617084c8de900011484ff",
+            "name": {
+                "hi": "श्री भद्रकाली शक्तिपीठ",
+                "en": "Shri Bhadrakali Shaktipeeth"
+            },
+            "city": {
+                "hi": "कुरुक्षेत्र",
+                "en": "Kurukshetra"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री भद्रकाली शक्तिपीठ",
+                    "en": "Shri Bhadrakali Shaktipeeth"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/bhadrakali_shaktipeeth_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "माँ भद्रकाली का प्राचीन एवं दिव्य शक्तिपीठ, जहाँ माँ की कृपा का वास माना जाता है।",
+                    "en": "An ancient and divine Shaktipeeth of Maa Bhadrakali, believed to be a source of immense spiritual grace."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbaef",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/BhadrakaliShaktipeeth/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "69e883ac4ee2a600010d4afa",
+            "thumbnail": {
+                "title": {
+                    "hi": "ॐ जयन्ती मंगल काल मंत्र",
+                    "en": "Om Jayanti Mangala Kal Mantra "
+                },
+                "imageUrl": "ॐ जयन्ती मंगल काल मंत्र",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ जयन्ती मंगल काल मंत्र",
+                    "en": "Om Jayanti Mangala Kal Mantra "
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/OmJayantiMangalaKal/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-22T08:15:40.551Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695cd37d64add5e2447ad7a9",
+            "name": {
+                "hi": "श्री बांके बिहारी",
+                "en": "Shri Banke Bihari"
+            },
+            "city": {
+                "hi": "वृंदावन",
+                "en": "Vrindavan"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "बांके बिहारी",
+                    "en": "Banke Bihari"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/banke_bihari_v5.webp",
+                "iconUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleImages/BankeBihari.jpg",
+                "description": {
+                    "hi": "बांके बिहारी",
+                    "en": "Banke Bihari"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "बांके बिहारी जी भगवान श्रीकृष्ण का अत्यंत प्रिय रूप हैं। उनकी पूजा और सेवा से भक्तों को अपार आनंद, कृपा और आध्यात्मिक शांति प्राप्त होती है।",
+                        "en": "Banke Bihari Ji is a beloved form of Lord Krishna. Worshipping and serving Banke Bihari Ji is believed to bring divine grace, joy, and spiritual peace."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "भक्ति और आनंद",
+                        "en": "Devotion and Bliss"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "बांके बिहारी जी की भक्ति से जीवन में आनंद, प्रेम और भगवान के प्रति समर्पण की भावना बढ़ती है।",
+                        "en": "Devotion to Banke Bihari Ji fills life with joy, love, and deep devotion toward God."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "कष्टों से मुक्ति",
+                        "en": "Relief from Difficulties"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान की कृपा से जीवन के कष्ट, चिंता और बाधाएं कम होती हैं और मन में शांति आती है।",
+                        "en": "With the blessings of Lord Krishna, devotees believe their troubles, worries, and obstacles are reduced and peace fills their hearts."
+                    }
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbad1",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/BankeBihari/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695ca4b064add50d10069f18",
+            "name": {
+                "hi": "श्री ओंकारेश्वर ज्योतिर्लिंग ",
+                "en": "Shri Omkareshwar"
+            },
+            "city": {
+                "hi": "ओंकारेश्वर",
+                "en": "Omkareshwar"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "ओंकारेश्वर",
+                    "en": "Omkareshwar"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/omkareshnwar_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Omkareshwarr/temple_thumnail_image/temple_thumnail_image_2x.webp",
+                "description": {
+                    "hi": "ओंकारेश्वर ज्योतिर्लिंग ",
+                    "en": "Omkareshwar  Jyotirlinga"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_android_v4"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_ios_v4"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/android_v1"
+                },
+                {
+                    "unityExperienceType": "INTERACTIVE_3D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/iOS_v1"
+                }
+            ],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "ओंकारेश्वर ज्योतिर्लिंग ओंकार पर्वत पर स्थित भगवान का ज्योतिर्मय स्वरूप है एकमात्र ऐसा स्थान है जहाँ भगवान शिव ओंकार स्वरूप में प्रकट हुए थे। इनका अभिषेक करने से जीवन में सकारात्मक ऊर्जा आती है, जीवन में स्थिरता एवं शांति की प्राप्ति होती है , मानसिक कष्ट दूर होते है एवं मनोकामनाएं पूरी होती हैं एवं भक्तों के सभी पाप नष्ट होते हैं और उन्हें सायुज्य मुक्ति की प्राप्ति होती है।",
+                        "en": "The Omkareshwar Jyotirlinga is the radiant divine form of Lord Shiva, located on Omkar Mountain. It is believed to be the only place where Lord Shiva manifested in the sacred Omkar form. Performing abhishek here is said to bring positive energy into life, along with stability and peace. It is believed to relieve mental distress, fulfill wishes, and destroy devotees’ sins, ultimately leading them toward Sayujya Mukti (spiritual union with the divine)."
+                    }
+                }
+            ],
+            "youtubeHandle": "ShriOmkarOfficial",
+            "sortOrder": 3,
+            "aartiSchedule": [
+                {
+                    "name": "Mangla Aarti",
+                    "startTime": "04:30",
+                    "endTime": "05:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Omkareshwarr/mangla_aarti/mangla_aarti_2x.webp"
+                },
+                {
+                    "name": "Bhog Aarti",
+                    "startTime": "12:20",
+                    "endTime": "13:15",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Omkareshwarr/bhog_aarti/bhog_aarti_2x.webp"
+                },
+                {
+                    "name": "Sayamkalin Shringar",
+                    "startTime": "16:00",
+                    "endTime": "16:15",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Omkareshwarr/sayamkalin_shringar/sayamkalin_shringar_2x.webp"
+                },
+                {
+                    "name": "Shayan Aarti",
+                    "startTime": "20:30",
+                    "endTime": "21:00",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/Omkareshwarr/shayan_aarti/shayan_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_android_v4"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/Omkareshwar/omkareshwar_ios_v4"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/android_v1"
+            },
+            {
+                "unityExperienceType": "INTERACTIVE_3D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/VRAbhishek/Omkareshwar/iOS_v1"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b6965cc300010bbae1",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/Omkareshwar/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996e18164add5240484c6ca",
+            "thumbnail": {
+                "title": {
+                    "hi": "शिव ध्यान मंत्र",
+                    "en": "Shiva Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/omkareshwar_/omkareshwar__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "कावेरिकानर्मदयोः पवित्रे समागमे सज्जनतारणाय। सदैव मांधातृपुरे वसंतं ॐकारमीशं शिवमेकमीडे ॥",
+                    "en": "Kaaverikaa Narmadayoḥ Pavitree Samaagame Sajjana Taaranaaya, Sadaiva Maandhaatripure Vasantam Omkaarameesham Shivamekameede ||"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/Omkareshwar/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "699715dd64add59a2644f8a9",
+            "thumbnail": {
+                "title": {
+                    "hi": "महामृत्युंजय ध्यानमंथन मंत्र",
+                    "en": "Mahamrityunjaya Meditashan Mantra"
+                },
+                "imageUrl": "https://ih1.redbubble.net/image.712280568.1367/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्। उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय मामृतात्॥",
+                    "en": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam,\nUrvarukamiva Bandhanan Mrityormukshiya Maamritat."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/MahamrityunjayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "695bbb2964add594b638d83d",
+            "name": {
+                "hi": "श्री सिद्धिविनायक",
+                "en": "Shri Siddhivinayak"
+            },
+            "city": {
+                "hi": "मुंबई",
+                "en": "Mumbai"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "सिद्धिविनायक",
+                    "en": "Siddhivinayak"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/siddhi_vinayak_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SiddhiVinayak/temple_thumbnail_image/temple_thumbnail_image_2x.webp",
+                "description": {
+                    "hi": "मुंबई का सिद्धिविनायक",
+                    "en": "Siddhivinayak's  temple in mumbai "
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "ANDROID",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_AndroidV1"
+                },
+                {
+                    "unityExperienceType": "PASSIVE_2D",
+                    "unityPlatform": "IOS",
+                    "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_iOSV1"
+                }
+            ],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "श्री सिद्धिविनायक, भगवान गणेश का एक अत्यंत जागृत और मंगलकारी स्वरूप हैं, जिन्हें 'विघ्नहर्ता' कहा जाता है। दाईं ओर मुड़ी हुई सूंड (दक्षिणावर्ती) वाले, यह भगवान भक्तों की मन्नतें शीघ्र पूरी करने वाले (नवसाचा गणपति) माने जाते हैं। यह सफलता, सुख-समृद्धि, संतान प्राप्ति और विघ्नों , रुकावटों को दूर करने के लिए विशेष रूप से पूजनीय हैं। यह तेज बुद्धि और पराक्रम के प्रतीक हैं, जिससे घर में सुख-संपन्नता आती है। किसी भी शुभ या नए कार्य की शुरुआत में इनका आशीर्वाद लेना अत्यंत शुभ माना जाता है।",
+                        "en": "Shri Siddhivinayak is a highly awakened and auspicious form of Lord Ganesha, who is known as the “Vighnaharta” (remover of obstacles). With his trunk turned to the right (Dakshinavarti), Lord Ganesha is believed to fulfill devotees’ wishes quickly and is regarded as the “Navsacha Ganpati.” He is especially worshipped for success, happiness, prosperity, blessings of children, and for removing obstacles and difficulties from life. He symbolizes sharp intellect and courage, bringing harmony and abundance to the home."
+                    }
+                }
+            ],
+            "youtubeHandle": "ShreeSiddhivinayakTemple",
+            "sortOrder": 12,
+            "aartiSchedule": [
+                {
+                    "name": "Kakad Aarti",
+                    "startTime": "05:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SiddhiVinayak/kakad_aarti/kakad_aarti_2x.webp"
+                },
+                {
+                    "name": "Madhyan Aarti",
+                    "startTime": "12:15",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SiddhiVinayak/madhyan_aarti/madhyan_aarti_2x.webp"
+                },
+                {
+                    "name": "Evening Aarti",
+                    "startTime": "19:30",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SiddhiVinayak/sandhya_aarti/sandhya_aarti_2x.webp"
+                },
+                {
+                    "name": "Shej Aarti",
+                    "startTime": "21:50",
+                    "icon": "https://ddappcdn.techxr.co/ShubhDarshan/Thumbnails/LiveStreamingImages/SiddhiVinayak/shej_aarti/shej_aarti_2x.webp"
+                }
+            ]
+        },
+        "unityExperiences": [
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "ANDROID",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_AndroidV1"
+            },
+            {
+                "unityExperienceType": "PASSIVE_2D",
+                "unityPlatform": "IOS",
+                "url": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/AssetBundle/TempleAbhishek/SiddhiVinayak/siddhivinayak_iOSV1"
+            }
+        ],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbacf",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/SiddhiVinayak/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996fd7164add59a2644f890",
+            "thumbnail": {
+                "title": {
+                    "hi": "सिद्धिविनायक ध्यान मंत्र",
+                    "en": "Siddhivinayak Dhyan Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/siddhivinayak_/siddhivinayak__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "एकदन्तं शूर्पकर्ण गजवक्त्रं चतुर्भुजम्। पाशान्कुशधरं देवं ध्यायेत् सिद्धिविनायकम्।।",
+                    "en": "Ekadantam Shurpakarna Gajavaktram Chaturbhujam. Pashankushdharam Devam Dhyayet Siddhivinayakam."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/GanpatiMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "6997185764add59a2644f8ab",
+            "thumbnail": {
+                "title": {
+                    "hi": "वक्रतुंड महाकाय ध्यान मंत्र",
+                    "en": "Vakratunda Mahakaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/siddhivinayak_/siddhivinayak__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥",
+                    "en": "Vakratunda Mahakaya Suryakoti Samaprabha,\nNirvighnam Kuru Me Deva Sarvakaryeshu Sarvada."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/VakratundaMahakayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e61e6dd7c724000151a6c2",
+            "name": {
+                "hi": "श्री राधावल्लभ जी मंदिर",
+                "en": "Shri Radhavallabh Ji Mandir"
+            },
+            "city": {
+                "hi": "वृंदावन",
+                "en": "vrindavan"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री राधावल्लभ जी मंदिर",
+                    "en": "Shri Radhavallabh Ji Mandir"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/radhavallabh_ji_temple_vrindavan_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "श्री राधा और कृष्ण के युगल स्वरूप की भक्ति का परम और अलौकिक केंद्र।",
+                    "en": "A sublime center of devotion celebrating the eternal union of Shri Radha and Krishna."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbaf1",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/RadhavallabhJiTemple/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e61e82d7c724000151a6c3",
+            "name": {
+                "hi": "श्री गिरिराज जी मंदिर",
+                "en": "Shri Giriraj Ji Mandir"
+            },
+            "city": {
+                "hi": "जतीपुरा",
+                "en": "Jatipura"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री गिरिराज जी मंदिर",
+                    "en": "Shri Giriraj Ji Mandir"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/giriraj_ji_jatipura_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "स्वयं श्री कृष्ण का स्वरूप माने जाने वाले गोवर्धन पर्वत का अति पूजनीय एवं दिव्य स्थल।",
+                    "en": "The highly sacred and divine site of Govardhan Hill, revered as the manifestation of Lord Shri Krishna Himself."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e839b7965cc300010bbaf3",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/GirirajJi/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "69e87bd0965cc300010bbaf8",
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री गिरिराज मंत्र",
+                    "en": "Shri Giriraj Mantra"
+                },
+                "imageUrl": "Shri Giriraj Mantra",
+                "iconUrl": null,
+                "description": {
+                    "hi": "श्री गिरिराज मंत्र",
+                    "en": "Shri Giriraj Mantra"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/ShriGiriraj/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-22T07:42:08.396Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "69e61e5cd7c724000151a6c1",
+            "name": {
+                "hi": "श्री राधारमण जी मंदिर",
+                "en": "Shri Radharaman Ji Mandir"
+            },
+            "city": {
+                "hi": "वृंदावन",
+                "en": "Vrindavan"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "श्री राधारमण जी मंदिर",
+                    "en": "Shri Radharaman Ji Mandir"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/NewTemples/radharaman_ji_temple_vrindavan_4x.webp",
+                "iconUrl": "",
+                "description": {
+                    "hi": "श्री राधारमण लाल जी का स्वयंभू विग्रह, जो भक्तों की अटूट श्रद्धा का परम केंद्र है।",
+                    "en": "Home to the Swayambhu (self-manifested) deity of Shri Radharaman Lal, a center of unwavering devotion."
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": []
+        },
+        "unityExperiences": [],
+        "darshans": [],
+        "flagshipMantra": {
+            "id": "6996e48364add5240484c6cc",
+            "thumbnail": {
+                "title": {
+                    "hi": "कृष्ण मूल मंत्र",
+                    "en": "Krishna Mool Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "ॐ कृष्णाय वासुदेवाय हरये परमात्मने, प्रणतः क्लेशनाशाय गोविन्दाय नमो नमः",
+                    "en": "Om Krishnaya Vasudevaya Haraye Paramatmane, Pranatah Kleshanashaya Govindaya Namo Namah"
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/KrishnaVasudevMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    },
+    {
+        "templeDto": {
+            "id": "6965f2dd64add5fa0bd149ee",
+            "name": {
+                "hi": "श्री गोविंद देवजी",
+                "en": "Shri GovindDevji"
+            },
+            "city": {
+                "hi": "जयपुर",
+                "en": "Jaipur"
+            },
+            "thumbnail": {
+                "title": {
+                    "hi": "गोविंद देवजी",
+                    "en": "GovindDevji"
+                },
+                "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleIcons/govind_devji_v4.webp",
+                "iconUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/TempleGuide/TempleImages/GovindDevji.jpg",
+                "description": {
+                    "hi": "गोविंद देवजी, जयपुर",
+                    "en": "GovindDevji, Jaipur"
+                },
+                "displayOrientation": "LANDSCAPE"
+            },
+            "unityExperiences": [],
+            "abhishekContent": [
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "अभिषेक का महत्व",
+                        "en": "Importance of Abhishek"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "गोविंद देव जी भगवान श्रीकृष्ण का स्वरूप माने जाते हैं। उनकी पूजा और अभिषेक करने से भक्तों को भगवान की कृपा प्राप्त होती है और जीवन में सुख, समृद्धि और शांति आती है।",
+                        "en": "Govind Dev Ji is considered a divine form of Lord Krishna. Worshipping and performing Abhishek of Govind Dev Ji is believed to bring divine blessings, happiness, prosperity, and peace in the devotee’s life."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "प्रेम और भक्ति",
+                        "en": "Love and Devotion"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "भगवान श्रीकृष्ण की भक्ति से भक्त के हृदय में प्रेम, करुणा और भक्ति की भावना बढ़ती है।",
+                        "en": "Devotion to Lord Krishna increases love, compassion, and devotion in the heart of a devotee."
+                    }
+                },
+                {
+                    "type": "SUB_HEADING",
+                    "text": {
+                        "hi": "सुख और समृद्धि",
+                        "en": "Happiness and Prosperity"
+                    }
+                },
+                {
+                    "type": "PARAGRAPH",
+                    "text": {
+                        "hi": "गोविंद देव जी की पूजा से परिवार में सुख, समृद्धि और सौभाग्य की प्राप्ति होती है।",
+                        "en": "Worship of Govind Dev Ji is believed to bring happiness, prosperity, and good fortune to the family."
+                    }
+                }
+            ]
+        },
+        "unityExperiences": [],
+        "darshans": [
+            {
+                "dateTime": "2026-04-22T00:00:00Z",
+                "episode": {
+                    "id": "69e82ba0965cc300010bbad9",
+                    "thumbnail": {
+                        "title": null,
+                        "imageUrl": "https://storage.googleapis.com/durlabh_darshan/DurlabhDarshanAssets/App/aaj-ke-darshan/GovindDevji/2026-04-22/morning.jpg",
+                        "iconUrl": null,
+                        "description": null,
+                        "displayOrientation": null
+                    },
+                    "streamingOptions": null,
+                    "episodeNumber": "1",
+                    "nextEpisodeId": null,
+                    "locked": false,
+                    "status": "PUBLISHED",
+                    "goLiveDate": "2026-04-22T00:00:00Z",
+                    "contentType": "FLAT_2D",
+                    "sequenceNo": null
+                }
+            }
+        ],
+        "flagshipMantra": {
+            "id": "6997202764add59a2644f8b9",
+            "thumbnail": {
+                "title": {
+                    "hi": "हरे कृष्ण महामंत्र",
+                    "en": "Hare Krishna Mahamantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/govind_devji_/govind_devji__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+                    "en": "Hare Krishna Hare Krishna Krishna Krishna Hare Hare. Hare Rama Hare Rama Rama Rama Hare Hare."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/Mantra/HareKrishna/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        },
+        "meditationMantra": {
+            "id": "69971cf864add59a2644f8b5",
+            "thumbnail": {
+                "title": {
+                    "hi": "सच्चिदानंदरूपाय ध्यान मंत्र",
+                    "en": "Sachchidanandarupaya Meditation Mantra"
+                },
+                "imageUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/TempleGuide/TempleThumbnails/dwarkadhish_/dwarkadhish__2x.webp",
+                "iconUrl": null,
+                "description": {
+                    "hi": "सच्चिदानन्दरूपाय विश्वोत्पत्त्यादिहेतवे। तापत्रयविनाशाय श्रीकृष्णाय वयं नमः॥",
+                    "en": "Satchidanandarupaya Vishwotpattyadihetave,\nTapatrayavinashaya Shrikrishnaya Vayam Namah."
+                },
+                "displayOrientation": "SQUARE"
+            },
+            "streamingOptions": [
+                {
+                    "contentUrl": "https://s3.ap-south-1.amazonaws.com/co.techxr.system.backend.upload.dev/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeditationMantra_E/SachchidanandarupayaMeditationMantra/index.m3u8",
+                    "streamingQuality": "ADAPTIVE",
+                    "awsKey": "",
+                    "sizeInKb": null
+                }
+            ],
+            "episodeNumber": "1",
+            "nextEpisodeId": null,
+            "locked": false,
+            "status": "PUBLISHED",
+            "goLiveDate": "2026-04-07T05:47:06.417Z",
+            "contentType": "AUDIO",
+            "sequenceNo": 0
+        }
+    }
+]
