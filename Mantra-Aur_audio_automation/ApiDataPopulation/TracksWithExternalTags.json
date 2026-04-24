@@ -1,0 +1,1011 @@
+[
+    {
+        "id": "69d3b8ba8fee055e7027c781",
+        "thumbnail": {
+            "title": {
+                "hi": "02 गायत्री मन्त्र",
+                "en": "02 Gayatri Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/gayatrimantra.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "02 गायत्री मन्त्र",
+                "en": "02 Gayatri Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/GayatriMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 1
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c783",
+        "thumbnail": {
+            "title": {
+                "hi": "04 हनुमान मन्त्र",
+                "en": "04 Hanuman Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/hanumanmantra.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "04 हनुमान मन्त्र",
+                "en": "04 Hanuman Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/HanumanMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 3
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c78e",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ माता वैष्णो देवी ध्यान मन्त्र",
+                "en": "108 Mata Vaishno Devi Dhyan Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MataVaishnoDeviDhyanMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ माता वैष्णो देवी ध्यान मन्त्र",
+                "en": "108 Mata Vaishno Devi Dhyan Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MataVaishnoDeviDhyanMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "DeviMataji",
+            "Mantra",
+            "Powerful Mantras"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c795",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ श्री सिद्धिविनायक ध्यान मन्त्र",
+                "en": "108 Shri Sidhivinayak Dhyan Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriSidhivinayakDhyanMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ श्री सिद्धिविनायक ध्यान मन्त्र",
+                "en": "108 Shri Sidhivinayak Dhyan Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriSidhivinayakDhyanMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c79c",
+        "thumbnail": {
+            "title": {
+                "hi": "कराग्रे वास्ते लक्ष्मी",
+                "en": "Karagre Vaste Lakshmi"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KaragreVasteLakshmi/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कराग्रे वास्ते लक्ष्मी",
+                "en": "Karagre Vaste Lakshmi"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KaragreVasteLakshmi_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "DeviMataji",
+            "Mantra"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7a6",
+        "thumbnail": {
+            "title": {
+                "hi": "महिषासुर मर्दिनी",
+                "en": "Mahishasur Mardini"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahishasurMardini/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "महिषासुर मर्दिनी",
+                "en": "Mahishasur Mardini"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MahishasurMardini_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "DeviMataji",
+            "Strotam",
+            "Powerful Strotam"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7ad",
+        "thumbnail": {
+            "title": {
+                "hi": "राम नाम के साबुन से",
+                "en": "Ram Naam Ke Sabun Se"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamNaamKeSabunSe/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "राम नाम के साबुन से",
+                "en": "Ram Naam Ke Sabun Se"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamNaamKeSabunSe_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7b2",
+        "thumbnail": {
+            "title": {
+                "hi": "ये चमक ये दमक",
+                "en": "Ye Chamak Ye Damak"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/YeChamakYeDamak/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "ये चमक ये दमक",
+                "en": "Ye Chamak Ye Damak"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/YeChamakYeDamak_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7b3",
+        "thumbnail": {
+            "title": {
+                "hi": "अम्बे अम्बे",
+                "en": "Ambey Ambey"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/AmbeyAmbey/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "अम्बे अम्बे",
+                "en": "Ambey Ambey"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/AmbeyAmbey_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "DeviMataji"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7b8",
+        "thumbnail": {
+            "title": {
+                "hi": "ठुमक चलत",
+                "en": "Thumak Chalat"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ThumakChalat/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "ठुमक चलत",
+                "en": "Thumak Chalat"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ThumakChalat_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7ba",
+        "thumbnail": {
+            "title": {
+                "hi": "मधुरष्टकम",
+                "en": "Madhurashtakam"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Madhurashtakam/main_v1.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "मधुरष्टकम",
+                "en": "Madhurashtakam"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Madhurashtakam_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "KrishnaJi",
+            "Strotam",
+            "Powerful Strotam"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7bb",
+        "thumbnail": {
+            "title": {
+                "hi": "मंगल भवन अमंगल हरि",
+                "en": "Mangal Bhawan Amangal Hari"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalBhavanAmangalHari/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "मंगल भवन अमंगल हरि",
+                "en": "Mangal Bhawan Amangal Hari"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MangalBhavanAmangalHari_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c78f",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ ओमकारेश्वर ज्योतिर्लिंग स्तुति",
+                "en": "108 Omkareshwar Jyotirling Stuti"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmkareshwarJyotirlingStuti/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ ओमकारेश्वर ज्योतिर्लिंग स्तुति",
+                "en": "108 Omkareshwar Jyotirling Stuti"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/OmkareshwarJyotirlingStuti_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Shivji",
+            "Powerful Mantras"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c790",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ सोमनाथ ज्योतिर्लिंग स्तुति",
+                "en": "108 Somnath Jyotirling Stuti"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/SomnathJyotirlingStuti/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ सोमनाथ ज्योतिर्लिंग स्तुति",
+                "en": "108 Somnath Jyotirling Stuti"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/SomnathJyotirlingStuti_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Shivji",
+            "Powerful Mantras"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c793",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ श्री राम ध्यान मन्त्र",
+                "en": "108 Shri Ram Dhyan Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/ShriRamDhyanMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ श्री राम ध्यान मन्त्र",
+                "en": "108 Shri Ram Dhyan Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/ShriRamDhyanMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "VishnuJi",
+            "Powerful Mantras"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c796",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ हनुमान ध्यान मन्त्र",
+                "en": "108 Hanuman Dhyan Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanDhyanMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ हनुमान ध्यान मन्त्र",
+                "en": "108 Hanuman Dhyan Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HanumanDhyanMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7a0",
+        "thumbnail": {
+            "title": {
+                "hi": "रामजी चले ना हनुमान के बिना",
+                "en": "Ramji Chale Na Hanuman Ke Bina"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamjiChaleNaHanumanKeBina/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "रामजी चले ना हनुमान के बिना",
+                "en": "Ramji Chale Na Hanuman Ke Bina"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamjiChaleNaHanumanKeBina_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7aa",
+        "thumbnail": {
+            "title": {
+                "hi": "हमारे साथ श्री रघुनाथ",
+                "en": "Hamare Sath Shri Ragunath"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HamareSathShriRagunath/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "हमारे साथ श्री रघुनाथ",
+                "en": "Hamare Sath Shri Ragunath"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HamareSathShriRagunath_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7b9",
+        "thumbnail": {
+            "title": {
+                "hi": "कल भैरव अष्टकम",
+                "en": "Kaal Bhairav Ashtkam"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/KalBhairavAshtkam/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "कल भैरव अष्टकम",
+                "en": "Kaal Bhairav Ashtkam"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/KalBhairavAshtkam_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Shivji",
+            "Strotam",
+            "Powerful Strotam"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7bd",
+        "thumbnail": {
+            "title": {
+                "hi": "राम आयेंगे",
+                "en": "Ram Aayenge"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/RamAayenge/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "राम आयेंगे",
+                "en": "Ram Aayenge"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/RamAayenge_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "Ramji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c780",
+        "thumbnail": {
+            "title": {
+                "hi": "01 गणेश मन्त्र",
+                "en": "01 Ganesh Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/ganeshmantra.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "01 गणेश मन्त्र",
+                "en": "01 Ganesh Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/GanpatiMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c782",
+        "thumbnail": {
+            "title": {
+                "hi": "03 महामृत्युंजय मन्त्र",
+                "en": "03 Mahamrityunjaya Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/mahamrityunjayamantra.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "03 महामृत्युंजय मन्त्र",
+                "en": "03 Mahamrityunjaya Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/MahamrityunjayMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 2
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c784",
+        "thumbnail": {
+            "title": {
+                "hi": "05 लक्ष्मी मन्त्र",
+                "en": "05 Laxmi Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/DailyMorning5Mantra/laxmimantra.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "05 लक्ष्मी मन्त्र",
+                "en": "05 Laxmi Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/DailyMorning5Mantra/MahalaxmiMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 4
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c799",
+        "thumbnail": {
+            "title": {
+                "hi": "१०८ महालक्ष्मी मन्त्र",
+                "en": "108 Mahalakshmi Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MahaLakshmiMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "१०८ महालक्ष्मी मन्त्र",
+                "en": "108 Mahalakshmi Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MahaLakshmiMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "DeviMataji",
+            "Mantra"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c79b",
+        "thumbnail": {
+            "title": {
+                "hi": "ॐ जयन्ती मंगला काली",
+                "en": "Om Jayanti Mangla Kali"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/OmJayantiManglaKali/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "ॐ जयन्ती मंगला काली",
+                "en": "Om Jayanti Mangla Kali"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/OmJayantiManglaKali_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "DeviMataji",
+            "Mantra"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7a1",
+        "thumbnail": {
+            "title": {
+                "hi": "मेरी दुर्गा भवानी",
+                "en": "Meri Durga Bhawani"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MeriDurgaBhawani/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "मेरी दुर्गा भवानी",
+                "en": "Meri Durga Bhawani"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MeriDurgaBhawani_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "DeviMataji",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7bf",
+        "thumbnail": {
+            "title": {
+                "hi": "रुद्रष्टकम",
+                "en": "Rudrashtakam"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/Rudrashtakam/main_v1.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "रुद्रष्टकम",
+                "en": "Rudrashtakam"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/Rudrashtakam_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Shivji",
+            "Strotam",
+            "Powerful Strotam"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c79d",
+        "thumbnail": {
+            "title": {
+                "hi": "हे दुःख भंजन",
+                "en": "Hey Dukh Bhanjan"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HeyDukhBhanjan/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "हे दुःख भंजन",
+                "en": "Hey Dukh Bhanjan"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HeyDukhBhanjan_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "HanumanJi",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7a4",
+        "thumbnail": {
+            "title": {
+                "hi": "हनुमान चालिसा",
+                "en": "Hanuman Chalisa"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/HanumanChalisa/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "हनुमान चालिसा",
+                "en": "Hanuman Chalisa"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/HanumanChalisa_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Bhajan",
+            "HanumanJi",
+            "Top Bhajan"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    },
+    {
+        "id": "69d3b8ba8fee055e7027c7bc",
+        "thumbnail": {
+            "title": {
+                "hi": "मंगल मंत्र",
+                "en": "Mangal Mantra"
+            },
+            "imageUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/UIGraphics/DarshanFM/MangalMantra/main.jpg",
+            "iconUrl": null,
+            "description": {
+                "hi": "मंगल मंत्र",
+                "en": "Mangal Mantra"
+            },
+            "displayOrientation": "SQUARE"
+        },
+        "streamingOptions": [
+            {
+                "contentUrl": "https://ddappcdn.techxr.co/DurlabhDarshanAssets/App/DarshanFM_Encrypted/MangalMantra_E/index.m3u8",
+                "streamingQuality": "ADAPTIVE",
+                "awsKey": "",
+                "sizeInKb": null
+            }
+        ],
+        "status": "DRAFT",
+        "tags": [
+            "Mantra",
+            "Other"
+        ],
+        "playCount": 0,
+        "shloks": [],
+        "locked": false,
+        "sequenceNo": 0
+    }
+]
